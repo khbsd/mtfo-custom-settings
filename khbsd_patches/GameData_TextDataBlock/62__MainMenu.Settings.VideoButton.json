@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Video",
+  "Description": "A headline for video related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vidéo",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Video",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Video",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vídeo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Видео",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vídeo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustawienia graficzne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "動画",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비디오",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "視訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "视频",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VideoButton",
+  "internalEnabled": true,
+  "persistentID": 62
+}

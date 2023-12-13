@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..the air is so.. thick.. [coughing]\r\n<size=200%><color=red>>..hurry, let's get these generators back online!</color></size>\r\n>..it should make it easier to breathe.. \r\n",
+  "Description": "Don't translate the text in between the \"<>\" tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... l'air est si... lourd... [toux]\r\n<size=200%><color=red>>... vite, on doit réactiver ces générateurs\u00A0!</color></size>\r\n>... ça devrait nous permettre de mieux respirer... \r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...l'aria è così... densa... [tosse]\r\n<size=200%><color=red>>...presto, rimettiamo in funzione questi generatori!</color></size>\r\n>...dovrebbe rendere più facile respirare... \r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Die Luft ist so … schwer … [Husten]\r\n<size=200%><color=red>>… Beeilt euch, bringen wir die Generatoren wieder online!</color></size>\r\n>… Das sollte das Atmen leichter machen …\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">... El aire es muy espeso... [tos]\r\n<size=200%><color=red>>... ¡Rápido, hay que volver a conectar estos generadores!</color></size>\r\n>Deberíamos respirar mejor... \r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Воздух такой... спертый. [кашель]\r\n<size=200%><color=red>>...Шевелись! Надо скорее запустить генераторы!</color></size>\r\n>...Тогда будет легче дышать.\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">.. o ar está tão.. pesado.. [tossindo]\r\n<size=200%><color=red>>.. rápido, vamos ligar os geradores logo!</color></size>\r\n>.. ficará mais fácil para respirar.. \r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...powietrze jest takie... gęste.. [kaszel\\\r\n<size=200%><color=red>>...prędko, odpalmy te generatory!</color></size>\r\n>...będzie nam łatwiej oddychać.. \r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..空気がすごく.. 濃い.. [ゴホゴホ]\r\n<size=200%><color=red>>..急げ、この発電機をオンラインに戻すんだ！</color></size>\r\n>..そうすれば呼吸が楽になるはずだ.. \r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..공기가 너무... 무거워... [기침]\r\n<size=200%><color=red>>..서둘러, 이 발전기 빨리 돌려야 해!</color></size>\r\n>..그럼 숨쉬기 쉬워질 거야... \r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…空氣太……濃……[咳嗽]\r\n<size=200%><color=red>>…快點，讓發電機重新上線！</color></size>\r\n>…應該會讓呼吸容易些……\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..空气好……浑浊……[咳嗽]\r\n<size=200%><color=red>>..快，咱们把这些发电机重新连上线！</color></size>\r\n>..这样应该会让呼吸轻松一点……\r\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_A2_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1992761049
+}

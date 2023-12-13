@@ -1,0 +1,58 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Temp/prop_generic_barrel_a.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Temp/prop_generic_barrel_c.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Temp/prop_generic_barrel_f.prefab",
+        "function": 0,
+        "Shard": 8
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 0.0,
+    "RotationSnap": 45,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_generic_barrel_60x60x120",
+    "BoundingVolume": 432.0
+  },
+  "name": "mining_generic_submarker_barrel_60x60x120",
+  "internalEnabled": true,
+  "persistentID": 109
+}

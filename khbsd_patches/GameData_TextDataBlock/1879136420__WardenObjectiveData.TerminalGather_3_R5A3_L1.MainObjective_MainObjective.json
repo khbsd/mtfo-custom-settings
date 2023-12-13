@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download local files on all terminals in [ITEM_ZONE] and then proceed to the exit point.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Téléchargez les fichiers locaux sur les terminaux dans la [ITEM_ZONE] et rendez-vous au point d'évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scaricare i file locali su tutti i terminali in [ITEM_ZONE] e raggiungere il punto d'estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Laden Sie die lokalen Dateien auf alle Terminals in [ITEM_ZONE] herunter und begeben Sie sich dann zum Austrittspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga los archivos locales en todas las terminales en [ITEM_ZONE] y continúa al punto de evacuación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузите локальные файлы на всех терминалах в [ITEM_ZONE] и пройдите к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixe arquivos locais em todos os terminais na [ITEM_ZONE] e vá até o ponto de saída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobierz pliki lokalne we wszystkich terminalach w sektorze [ITEM_ZONE], a następnie przejdź do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]の全端末のローカルファイルをダウンロードし、脱出地点へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE]의 모든 터미널에서 로컬 파일을 다운로드한 후 탈출 지점으로 이동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "下載[ITEM_ZONE]內所有終端上的本機檔案，然後前往撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下载[ITEM_ZONE]内所有终端上的本地文件，然后前往出口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_3_R5A3_L1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1879136420
+}

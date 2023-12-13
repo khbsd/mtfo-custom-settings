@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURED 1 {0} at {1}",
+  "Description": "{0} is the localization of ARTIFACT and {1} is the heat level.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SÉCURISÉ\u00A0: 1 {0} à {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ASSICURATO: 1 {0} a {1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "1 {0} auf {1} GESICHERT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ASEGURADO 1 {0} AL {1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СОХРАНЕНО: 1 {0}\u00A0— {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "GARANTIU 1 {0} em {1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZABEZPIECZONO 1 {0} – {1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "1 {0} を {1}で確保",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{1} {0} 1개 확보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在{1}找到1件{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在{1}下获得1个{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.ArtifactPickup.Secured_X_At_Y",
+  "internalEnabled": true,
+  "persistentID": 1071
+}

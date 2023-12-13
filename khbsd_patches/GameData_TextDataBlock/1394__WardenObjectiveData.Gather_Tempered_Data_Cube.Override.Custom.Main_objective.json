@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "::Find the <color=orange>Tampered Data Cube</color> and retu____rn the data to be proc54+essed.",
+  "Description": "Don't localize Tampered Data Cube.\nThe idea here is that the text shoud look corrupted, like something have distorted the message.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "::Trouvez le <color=orange>cube de données altéré</color>\u00A0[TAMPERED_DATA_CUBE] et ramen___ez les données à tra54+ter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "::Trovare il <color=orange>cubo di dati manomesso</color> [TEMPERED_DATA_CUBE] e recu____rare i dati da elab54+re.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "::Finden Sie den <color=orange>Manipulierten Datenwürfel</color> [TAMPERED_DATA_CUBE] und überm____itteln Sie die zu verar54+beitenden Daten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "::Encuentra el <color=orange>cubo de datos corrupto [TAMPERED_DATA_CUBE]</color> y recupe____ra los datos para que se proce54+sen.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "::Найдите <color=orange>испорченный куб данных [TAMPERED_DATA_CUBE]</color> и верни____те данные для 0бра60тки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "::Encontre o <color=orange>cubo de dados adulterado [TAMPERED_DATA_CUBE]</color> e reto____rne os dados para serem proc54+essados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "::Znajdź <color=orange>zmanipulowaną kostkę danych</color> i przek____aż dane w celu prze54+tworzenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ":: <color=orange>改竄データキューブ[TAMPERED_DATA_CUBE]</color> を見つけてデータを返____却し、次へ進54+め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "::[TAMPERED_DATA_CUBE] <color=orange>변조 데이터 큐브</color>를 찾아 처54+리를 위해 데이터를 반____환할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "::尋找<color=orange>遭竄改資料方塊[TAMPERED_DATA_CUBE]</color>並返____回資料進行虍处理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "::找到<color=orange>篡改的数据立方[TAMPERED_DATA_CUBE]</color>并返____回数据进行处54+理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Tempered_Data_Cube.Override.Custom.Main_objective",
+  "internalEnabled": true,
+  "persistentID": 1394
+}

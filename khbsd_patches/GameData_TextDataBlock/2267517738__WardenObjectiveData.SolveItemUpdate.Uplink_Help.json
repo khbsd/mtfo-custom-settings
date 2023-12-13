@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the UPLINK_CONNECT command to establish the connection",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la commande UPLINK_CONNECT pour établir la connexion.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando UPLINK_CONNECT per stabilire la connessione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl UPLINK_CONNECT, um eine Verbindung herzustellen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Utiliza el comando UPLINK_CONNECT para establecer la conexión.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду UPLINK_CONNECT, чтобы установить подключение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando UPLINK_CONNECT para estabelecer a conexão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia UPLINK_CONNECT, aby ustanowić połączenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "UPLINK_CONNECTコマンドを使用して接続を確立しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "UPLINK_CONNECT 명령을 사용해 연결",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用UPLINK_CONNECT指令建立連線",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用UPLINK_CONNECT命令建立连接",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SolveItemUpdate.Uplink_Help",
+  "internalEnabled": true,
+  "persistentID": 2267517738
+}

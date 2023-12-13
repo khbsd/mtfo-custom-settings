@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Advanced Graphics",
+  "Description": "A headline for advanced graphics related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Graphismes (avancé)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grafica avanzata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erweiterte Grafik",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gráficos avanzados",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Расширенные настройки графики",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Elementos gráficos avançados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaawansowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高度なグラフィック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고급 그래픽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進階圖形",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高级图形",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AdvancedGraphicsButton",
+  "internalEnabled": true,
+  "persistentID": 1461
+}

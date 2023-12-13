@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DRAIN THE REACTOR COOLING TANKS",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DRAINEZ LES RÉSERVOIRS DE REFROIDISSEMENT DU RÉACTEUR.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SVUOTARE I SERBATOI DI RAFFREDDAMENTO DEL REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LEEREN SIE DIE REAKTOR-KÜHLTANKS.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DRENA LOS TANQUES DE REFRIGERACIÓN DEL REACTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СЛЕЙТЕ ВОД- ИЗ ЕМКОСТЕЙ ОХЛАЖДЕНИЯ РЕАКТОРА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DRENAR OS TANQUES DE RESFRIAMENTO DO REATOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OPRÓŻNIJ ZBIORNIKI CHŁODZĄCE REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター冷却タンクを排水しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 냉각 탱크 배수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "排空反應器冷卻槽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "排干反应堆冷却罐",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8A2.MainObjective.Drain_Header",
+  "internalEnabled": true,
+  "persistentID": 1158751154
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Command",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commande droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando destro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechte Befehlstaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando derecho",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая клавиша Command",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Command direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy Command",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右Cmd",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 Command",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右Command",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右Command键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.RightCommand",
+  "internalEnabled": true,
+  "persistentID": 202
+}

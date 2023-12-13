@@ -1,0 +1,158 @@
+{
+  "officialForRelease": true,
+  "publicName": "DMR [RR][SP][AT][TP] ",
+  "baseItemID": 11,
+  "weaponPersonalityID": 34,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": true,
+      "archetypeID": 15,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Semi automatic\nMedium to long range",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 159,
+      "partName": "VanAukenArms_SMG_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": false,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight",
+      "macroText": "Hi Power Light"
+    },
+    {
+      "allowed": false,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    },
+    {
+      "allowed": false,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": false,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    },
+    {
+      "allowed": false,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": false,
+      "ID": 52,
+      "partName": "Sight_NavTech_Sight"
+    },
+    {
+      "allowed": true,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    },
+    {
+      "allowed": false,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 160,
+      "partName": "VanAukenArms_SMG_GripFront"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": false,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": false,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": false,
+      "ID": 107,
+      "partName": "muzzle_c"
+    },
+    {
+      "allowed": true,
+      "ID": 109,
+      "partName": "muzzle_d"
+    },
+    {
+      "allowed": false,
+      "ID": 110,
+      "partName": "muzzle_e"
+    },
+    {
+      "allowed": false,
+      "ID": 111,
+      "partName": "muzzle_f"
+    },
+    {
+      "allowed": false,
+      "ID": 112,
+      "partName": "muzzle_silencer_a"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": false,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_DMR",
+  "internalEnabled": true,
+  "persistentID": 121
+}

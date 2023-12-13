@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sneak around the group of enemies",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contournez le groupe ennemi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aggirare il gruppo di nemici",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schleichen Sie um die Gruppe von Feinden herum.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escabúllete del grupo de enemigos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прокрадитесь мимо группы врагов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Evite o grupo de inimigos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekradnij się obok grupy przeciwników",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "こっそりと敵集団の裏へ回れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 무리 주위 은밀 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "悄悄繞過敵群",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "偷偷绕过敌群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone2.SneakAround",
+  "internalEnabled": true,
+  "persistentID": 2397565302
+}

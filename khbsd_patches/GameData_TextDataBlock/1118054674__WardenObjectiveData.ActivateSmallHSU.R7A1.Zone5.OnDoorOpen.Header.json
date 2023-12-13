@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Terminal thing",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando per terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cosa de terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coisa do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Element terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末機",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 물질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Zone5.OnDoorOpen.Header",
+  "internalEnabled": true,
+  "persistentID": 1118054674
+}

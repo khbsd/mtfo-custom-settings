@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nMedium range\nBalanced recoil",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nMoyenne portée\nRecul équilibré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nGittata media\nRinculo equilibrato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nMittlere Reichweite\nAusgewogener Rückstoß",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automático\nMedio alcance\nRetroceso equilibrado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nСредняя дальность\nУмеренная отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automático\nMédio alcance\nRecuo equilibrado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nŚredni dystans\nUmiarkowany odrzut",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n中距離\nバランスの取れたリコイル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n중거리\n안정된 반동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n中程\n平衡後座力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n中程\n后坐力中等",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 726
+}

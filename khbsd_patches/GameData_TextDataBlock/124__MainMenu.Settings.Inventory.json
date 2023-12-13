@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Inventory",
+  "Description": "A headline for game settings related to the HUD inventory list.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inventaire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inventario",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Inventar",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inventario",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инвентарь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inventário",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ekwipunek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "インベントリ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인벤토리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "清單",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "物品栏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Inventory",
+  "internalEnabled": true,
+  "persistentID": 124
+}

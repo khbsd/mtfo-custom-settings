@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Moderate",
+  "Description": "The level of infection the player character has. I.e. \"Infection level: Moderate\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Modéré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Moderato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mäßig",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Moderado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "средний",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "moderado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umiarkowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보통",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "轻度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.InfectionModerate",
+  "internalEnabled": true,
+  "persistentID": 896
+}

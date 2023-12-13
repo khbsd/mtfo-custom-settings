@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigation coordinates require sufficient storage. Prisoners to format Data Cubes from degausser terminals.\u00A0",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Espace nécessaire à l'enregistrement des coordonnées de navigation insuffisant. Les prisonniers doivent formater les cubes de données depuis les terminaux de démagnétisation.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Le coordinate di navigazione richiedono spazio di archiviazione sufficiente. I prigionieri devono formattare i cubi di dati dai terminali di smagnetizzazione.\u00A0",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Navigationskoordinaten erfordern ausreichend Speicherplatz. Gefangene sollen Datenwürfel von Degausser-Terminals formatieren.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las coordenadas de navegación necesitan de una cantidad suficiente de almacenamiento. Los prisioneros deben formatear los cubos de datos de las terminales de desmagnetización.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для хранения координат требуется достаточный объем памяти. Заключенным поручено отформатировать кубы данных [DATA_CUBE] в терминалах стирания.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "As coordenadas de navegação requerem armazenamento suficiente. Prisioneiros devem formatar Cubos de Dados [DATA_CUBE] de terminais de desmagnetização.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Współrzędne nawigacyjne wymagają odpowiedniej pamięci. Więźniowie mają sformatować kostki danych za pomocą terminali rozmagnesowujących.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナビゲーション座標には十分なストレージが必要。囚人は消磁端末からデータキューブをフォーマットせよ。\u00A0",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내비게이션 좌표를 저장할 충분한 공간이 필요합니다. 수감자들은 디가우저 터미널에서 [DATA_CUBE] 데이터 큐브를 포맷해야 합니다.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "導航座標需要足夠的儲存空間。囚犯需從消磁終端格式化資料方塊[DATA_CUBE]。\u00A0",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "导航坐标需要足够的存储空间。囚犯需从消磁器终端格式化数据立方[DATA_CUBE]。\u00A0",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R8B2.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 33686786
+}

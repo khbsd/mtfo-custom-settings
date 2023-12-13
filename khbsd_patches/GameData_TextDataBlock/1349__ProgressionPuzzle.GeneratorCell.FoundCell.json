@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert the cell in [GENERATOR_NAME] to unlock the door",
+  "Description": "Don't localize [GENERATOR_NAME]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Insérez la cellule dans [GENERATOR_NAME] pour déverrouiller la porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire la cella [CELL] in [GENERATOR_NAME] per sbloccare la porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fügen Sie die Zelle in den [GENERATOR_NAME] ein, um die Tür zu entriegeln.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta la célula [CELL] en [GENERATOR_NAME] para desbloquear la puerta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы открыть дверь, вставьте батарею в генератор: [GENERATOR_NAME].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a Cell em [GENERATOR_NAME] para destrancar a porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź ogniwo do [GENERATOR_NAME], aby odblokować drzwi.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セルを [GENERATOR_NAME] に挿入してドアのロックを解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[GENERATOR_NAME]에 [CELL] 셀을 넣어 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將電池插入[GENERATOR_NAME]來解鎖門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将电池[CELL]插入到[GENERATOR_NAME]中把门解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.GeneratorCell.FoundCell",
+  "internalEnabled": true,
+  "persistentID": 1349
+}

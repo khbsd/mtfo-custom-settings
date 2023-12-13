@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Attempting Timed Verification confirmation ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tentative de confirmation de vérification chronométrée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tentativo conferma di verifica a tempo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuche, zeitgesteuerte Verifizierung zu bestätigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Intentando confirmar verificación cronometrada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Попытка подтверждения синхронизированной верификации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tentativa de confirmação de verificação cronometrada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Próba potwierdzenia weryfikacji czasowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証確認を試行中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 승인 확인 시도 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在嘗試限時驗證確認",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在尝试确认定时验证",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_Attempt",
+  "internalEnabled": true,
+  "persistentID": 1726961631
+}

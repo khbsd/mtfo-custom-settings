@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I disagree!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Pas d'accord\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "No!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das sehe ich anders!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡No estoy de acuerdo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я против!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Discordo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie zgadzam się!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "異議あり！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안 돼!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我不同意！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我不同意！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.IDisagree",
+  "internalEnabled": true,
+  "persistentID": 1214
+}

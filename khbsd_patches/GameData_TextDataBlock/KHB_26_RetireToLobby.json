@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Retire to Sloppy",
+  "Description": "A button that is used to return to the lobby.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retourner au salon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torna alla lobby",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zurück zur Lobby",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Regresar a la sala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вернуться в лобби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Voltar ao lobby",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powróć do lobby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーに戻る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비로 후퇴",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退到大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返回大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.RetireToLobbyButton",
+  "internalEnabled": true,
+  "persistentID": 26
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to <color=orange> Zone 81C </color> and locate uplink terminal.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la <color=orange> Zone\u00A081C </color> et localisez le terminal de liaison montante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere alla <color=orange> Zone 81C </color> e trovare il terminale di uplink.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>Zone 81C</color> und lokalisieren Sie das Uplink-Terminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta <color=orange> Zone 81C </color> y localiza el terminal uplink.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в <color=orange>Zone 81C</color> и найдите терминал подключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Continue até a <color=orange> Zone 81C </color> e localize o terminal de uplink.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange> strefy 81C </color> i zlokalizuj terminal łącza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange> Zone 81C </color>へ進みアップリンク端末を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Zone 81C</color>로 이동해 업링크 터미널을 찾을 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>Zone 81C</color>並找到上行終端。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 81C</color>并定位上行链路终端。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjective.SubObjective.DX.ProceedToZone",
+  "internalEnabled": true,
+  "persistentID": 1284465942
+}

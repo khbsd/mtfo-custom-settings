@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ENABLED",
+  "Description": "A text string indicating that a particular game setting is enabled. It could be any game setting or feature, such as \"crouch toggle\", \"full screen mode\" or something entirely different.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ACTIVÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ON",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AKTIVIERT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ACTIVADO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВКЛ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ATIVADO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WŁ.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "有効",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "활성화됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已啟用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Enabled",
+  "internalEnabled": true,
+  "persistentID": 167
+}

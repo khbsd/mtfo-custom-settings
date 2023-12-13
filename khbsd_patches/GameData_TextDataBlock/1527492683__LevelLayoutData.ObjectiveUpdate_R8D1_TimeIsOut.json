@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Immediate evacuation advised. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: évacuation immédiate conseillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: si consiglia l'evacuazione immediata. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Sofortige Evakuierung empfohlen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: se recomienda la evacuación inmediata.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Рекомендуется немедленная эвакуация.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Evacuação imediata aconselhada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: zalecana natychmiastowa ewakuacja. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：即時避難を勧告。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 즉시 대피 권고.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：建議立即撤離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：建议立即撤离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_TimeIsOut",
+  "internalEnabled": true,
+  "persistentID": 1527492683
+}

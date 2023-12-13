@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Not me!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Pas moi\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non io!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nicht ich!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Yo no!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Только не я!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eu não!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie ja!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "勘弁してくれ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "난 싫어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我不要！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "别找我！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.NotMe",
+  "internalEnabled": true,
+  "persistentID": 1228
+}

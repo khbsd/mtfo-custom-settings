@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Joining Session",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Préparation de la session",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso alla sessione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sitzung wird beigetreten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uniéndose a la sesión",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение к сеансу",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entrando na sessão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dołączanie do sesji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セッション参加中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "세션 참여",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加入遊戲階段",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在加入会话",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.JoiningSession",
+  "internalEnabled": true,
+  "persistentID": 254
+}

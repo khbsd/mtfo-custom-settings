@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I agree",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "D'accord",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "D'accordo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einverstanden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estoy de acuerdo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поддерживаю",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Concordo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zgadzam się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同意",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "좋아",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我同意",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我同意",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_agree",
+  "internalEnabled": true,
+  "persistentID": 1323
+}

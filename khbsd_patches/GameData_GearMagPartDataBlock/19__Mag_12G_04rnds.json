@@ -1,0 +1,16 @@
+{
+  "ClipSizeMultiplier": 1.0,
+  "ReloadTimeMultiplier": 1.0,
+  "ReloadLeftHandGripAnim": "",
+  "DropSoundType": 2,
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Mags/Mag_12G_04rnds_A.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 60,
+    "BundleShard": 6
+  },
+  "Aligns": [],
+  "name": "Mag_12G_04rnds",
+  "internalEnabled": true,
+  "persistentID": 19
+}

@@ -1,0 +1,16 @@
+{
+  "range": 15.0,
+  "angle": 35.0,
+  "intensity": 0.5,
+  "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+  "color": {
+    "a": 1.0,
+    "r": 0.813501239,
+    "g": 0.9357695,
+    "b": 0.9528302
+  },
+  "startupShard": 17,
+  "name": "GunLight_B",
+  "internalEnabled": true,
+  "persistentID": 3
+}

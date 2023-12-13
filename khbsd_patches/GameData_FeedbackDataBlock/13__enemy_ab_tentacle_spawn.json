@@ -1,0 +1,18 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupParticleFountain",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_ab_tentacle_spawn",
+  "internalEnabled": true,
+  "persistentID": 13
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Estonian",
+  "Description": "A language spoken in Estonia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Estonien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estone",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Estnisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estonio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эстонский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estoniano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Estoński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エストニア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "에스토니아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "愛沙尼亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "爱沙尼亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Estonian",
+  "internalEnabled": true,
+  "persistentID": 309
+}

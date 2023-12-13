@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Attempting uplink verification ",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Tentative de vérification de la liaison montante ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tentativo verifica uplink ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Uplink-Verifizierung wird durchgeführt ... ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Intentando verificación de uplink. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Попытка верификации подключения ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tentando verificar uplink ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Próba weryfikacji łącza ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク認証を試行中 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 승인 시도 중 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在嘗試驗證上行鏈路 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在尝试验证上行链路 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Attempting_uplink_verification",
+  "internalEnabled": true,
+  "persistentID": 2734004688
+}

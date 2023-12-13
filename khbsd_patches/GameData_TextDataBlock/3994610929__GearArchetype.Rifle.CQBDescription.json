@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nHigh rate of fire\nShort range\nEasy to handle\nHard to control",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCadence de tir élevée\nCourte portée\nFacile à manier\nDifficile à contrôler",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nElevata cadenza di tiro\nGittata breve\nManeggevole\nControllo difficile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nHohe Feuerrate\nKurze Reichweite\nLeicht zu bedienen\nSchwer zu kontrollieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automático\nCadencia de tiro alta\nCorto alcance\nFácil de manejar\nDifícil de controlar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nВысокая скорострельность\nМалая дальность\nПростое обращение\nНеконтролируемая отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automático\nAlta cadência de tiros\nCurto alcance\nFácil de manusear\nDifícil de controlar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nDuża szybkostrzelność\nKrótki zasięg\nŁatwy w obsłudze\nTrudny do opanowania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n高速連射\n近距離\n扱いやすい\n制御が難しい",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n빠른 발사 속도\n단거리\n쉬운 조작\n제어하기 어려움",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n高射速\n短程\n易於操作\n難以控制",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n高射速\n近程\n操作快捷\n难以控制",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "GearArchetype.Rifle.CQBDescription",
+  "internalEnabled": true,
+  "persistentID": 3994610929
+}

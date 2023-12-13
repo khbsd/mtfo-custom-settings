@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Chuvash",
+  "Description": "A language spoken in Russia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tchouvache",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ciuvascio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tschuwaschisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chuvasio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувашский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chuvasho",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czuwaski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チュバシュ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "추바시어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "楚瓦什文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "楚瓦什语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Chuvash",
+  "internalEnabled": true,
+  "persistentID": 297
+}

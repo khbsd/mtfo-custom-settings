@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Additional power needed for translocation operability. Prisoners sent to activate auxiliary generators. Environmental conditions compromising party survivability.   ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Alimentation supplémentaire requise pour assurer l'opérabilité de la translocation. Les prisonniers ont été envoyés pour activer les générateurs auxiliaires. Conditions environnementales susceptibles de compromettre la capacité de survie du groupe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Energia aggiuntiva necessaria per operatività trasferimento. Prigionieri inviati ad attivare generatori ausiliari. Le condizioni ambientali compromettono sopravvivenza gruppo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zusätzliche Energie für Translokation benötigt. Gefangene entsandt, um Hilfsgeneratoren zu aktivieren. Umweltbedingungen gefährden die Überlebenschancen der Gruppe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se necesita más energía para posibilitar la translocación. Prisioneros destinados a activar los generadores auxiliares. Las condiciones ambientales amenazan la supervivencia del grupo.   ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для пространственной связи требуется дополнительный источник питания. Заключенным поручено включить резервные генераторы. Условия среды ставят под угрозу выживаемость группы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Força adicional necessária para operacionalidade da translocação. Prisioneiros enviados para ativar os geradores auxiliares. As condições ambientais comprometem a sobrevivência do grupo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Operacyjność translokacji wymaga dodatkowej mocy. Wysłano więźniów w celu uruchomienia pomocniczych generatorów. Skrajne warunki środowiskowe zagrażają przeżywalności drużyny.   ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "位置変更操作のため、追加電力が必要。予備発電機の起動のため、囚人を派遣した。環境状況のためパーティーの生存可能性が危険にさらされている。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전위 운용에 추가 전력 필요. 보조 발전기 가동을 위해 수감자 파견. 환경 조건이 그룹의 생존 가능성 저해. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "移位操作需要額外電力。派遣囚犯前往啟動輔助發電機。環境狀況影響小隊生存能力。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "传送操作需要额外电力。囚犯派去启动备用发电机。环境状况影响小队生存能力。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_3_2.Description",
+  "internalEnabled": true,
+  "persistentID": 1548
+}

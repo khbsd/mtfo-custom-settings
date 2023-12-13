@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Biosignatures detected, Caution Is advised.</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: biosignatures détectées, soyez prudent.<color=red>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: rilevate tracce biologiche. Si consiglia cautela.  </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Biosignaturen entdeckt. Vorsicht.<color=red>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: Bioseñales detectadas. Cuidado<color=red>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Обнаружены биосигнатуры. Действуйте осторожно.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Bioassinaturas detectadas; Aconselha-se cautela.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: Wykryto biosygnatury, należy zachować ostrożność<color=red>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：生体反応を検知。注意せよ。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 생체 신호 탐지됨. 주의할 것.  </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：偵測到生物標識，建議謹慎處理。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：检测到生物特征，请保持谨慎。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Survival_BiomassWarning",
+  "internalEnabled": true,
+  "persistentID": 1061
+}

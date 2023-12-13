@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the terminals.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez les terminaux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i terminali.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die Terminals.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra las terminales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминалы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre os terminais.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminale.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널을 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找終端。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到终端。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_D3.Override.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 1566
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "GACK",
+  "Description": "A button in a sub-menu, that allows the user to go back to the previous menu.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RETOUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INDIETRO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZURÜCK",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ATRÁS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЗАД",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VOLTAR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WSTECZ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "戻る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "뒤로",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "返回",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返回",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.BackButton",
+  "internalEnabled": true,
+  "persistentID": 266
+}

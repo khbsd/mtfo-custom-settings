@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate ventilation sequence from local terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez la séquence de ventilation depuis le terminal local",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviare sequenza di ventilazione da terminale locale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Belüftungssequenz vom lokalen Terminal aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la secuencia de ventilación del terminal local.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите цикл вентиляции в локальном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar sequência de ventilação a partir do terminal local",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom sekwencję wentylacji za pomocą lokalnego terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカル端末から換気シークエンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내부 터미널에서 환기 절차 실시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從本地終端啟動通風序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从本地终端启动通风序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.MainObjective.ApproachDoor_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2718785193
+}

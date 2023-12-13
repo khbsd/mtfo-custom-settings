@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need to collect resources!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Récoltons des ressources\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dobbiamo raccogliere le risorse!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir müssen Ressourcen sammeln!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Hay que recoger recursos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Надо собрать ресурсы!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos coletar recursos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Musimy zebrać zasoby!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "物資を集めろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원을 모아야 해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要收集資源！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们需要收集资源！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.WeNeedResources",
+  "internalEnabled": true,
+  "persistentID": 1196
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Security bypass failed, BULKHEAD key required to reach additional depth",
+  "Description": "Don't localize BULKHEAD.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0: échec de contrôle de sécurité, clé de cloison\u00A0[BULKHEAD_KEY] requise pour continuer la descente",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: bypass di sicurezza fallito, chiave stagna [BULKHEAD_KEY] necessaria per avanzare ulteriormente",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Sicherheitsumgehung fehlgeschlagen. Bulkhead Key erforderlich, um weiter vorzudringen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Error de derivación de seguridad. Se necesita la llave de contención [BULKHEAD_KEY] para alcanzar una mayor profundidad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Ошибка обхода системы безопасности. Требуется BULKHEAD KEY.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: falha ao evitar segurança, chave de segurança [BULKHEAD_KEY] necessária para atingir a profundidade adicional",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: obejście zabezpieczeń nieudane; w celu osiągnięcia dodatkowej głębokości wymagany jest klucz do grodzi [BULKHEAD_KEY]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：セキュリティバイパス失敗、深部へ進むにはBULKHEADキーが必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 보안 통과 실패, 추가 심도 도달을 위해 BULKHEAD 키 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：安全略過失敗，需要艙門鑰匙[BULKHEAD_KEY]才可更深入",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：安全旁通失败，需要舱壁钥匙[BULKHEAD_KEY]才能到达更深区域",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival.EventsOnActivate.BulkheadKeyRequired",
+  "internalEnabled": true,
+  "persistentID": 1943997805
+}

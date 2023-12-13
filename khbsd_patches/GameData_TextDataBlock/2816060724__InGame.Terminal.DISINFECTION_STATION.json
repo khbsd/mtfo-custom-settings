@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DISINFECTION STATION",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "STATION DE DÉSINFECTION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "STAZIONE DI DISINFEZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DESINFEKTIONSSTATION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PUESTO DE DESINFECCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СТАНЦИЯ ДЕЗИНФЕКЦИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESTAÇÃO DE DESINFECÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STACJA ODKAŻANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消毒ステーション",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오염 제거 스테이션",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "消毒站",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "消毒站",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.DISINFECTION_STATION",
+  "internalEnabled": true,
+  "persistentID": 2816060724
+}

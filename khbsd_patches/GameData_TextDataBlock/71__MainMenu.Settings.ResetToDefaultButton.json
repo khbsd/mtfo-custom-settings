@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reset to default",
+  "Description": "As in \"reset the user altered game settings back to the default game settings\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Paramètres par défaut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ripristina a predefinite",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auf Standard zurücksetzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Restablecer valores predeterminados",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбросить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Redefinir padrões",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przywróć domyślne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "初期値に戻す",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기본 설정 복원",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重設為預設",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "恢复默认",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ResetToDefaultButton",
+  "internalEnabled": true,
+  "persistentID": 71
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Open the door",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Ouvrez la porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aprire la porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnen Sie dir Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abre la puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открыть дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abra a porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwórz drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアを開く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "把门打开",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.BulkheadKey.OnUnlockedDoor",
+  "internalEnabled": true,
+  "persistentID": 1362
+}

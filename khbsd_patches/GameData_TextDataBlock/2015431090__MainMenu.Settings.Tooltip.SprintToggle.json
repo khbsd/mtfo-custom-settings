@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles the sprint mode between holding/releasing the button or pressing to enable/disable the mode.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active le mode sprint en maintenant/relâchant le bouton ou en appuyant pour l'activer/le désactiver.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Imposta se attivare/disattivare la modalità Scatto tenendo premuto/rilasciando il pulsante o premendolo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet um zwischen Halten/Loslassen der Taste oder Drücken, um „Sprinten“ zu aktivieren/deaktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alterna el modo de esprint entre mantener/soltar el botón, o pulsa para activar/desactivar el modo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Способ включения режима бега. Вы можете удерживать/отпускать кнопку или включать/выключать режим нажатием.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna o modo Corrida entre segurar/liberar o botão ou apertar para ativar/desativar o modo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przełącza tryb sprintu między przytrzymaniem/puszczeniem przycisku lub naciśnięciem, aby włączyć/wyłączyć tryb.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダッシュモードへの移行と解除を、ボタンを長押しする/離すことで行うか、押すことで行うか切り替える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "질주 동작을 버튼 길게 누르기/ 떼기 모드 <> 한 번 누르기/다시 누르기 모드로 전환합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇使用按住/釋放按鈕或按一下來啟用/停用衝刺模式。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住/松开该按钮切换冲刺模式，或按下以开启/关闭该模式。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SprintToggle",
+  "internalEnabled": true,
+  "persistentID": 2015431090
+}

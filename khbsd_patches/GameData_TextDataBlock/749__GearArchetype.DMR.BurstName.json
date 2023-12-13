@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Double tap rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil double tap",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a due colpi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Doppelschussgewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de disparo doble",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Винтовка с двойным выстрелом",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil duplo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin typu doubletap",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダブルタップライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "더블탭 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "雙連發步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "双发步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.DMR.BurstName",
+  "internalEnabled": true,
+  "persistentID": 749
+}

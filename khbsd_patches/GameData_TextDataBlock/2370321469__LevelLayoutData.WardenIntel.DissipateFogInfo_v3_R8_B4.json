@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal sequence complete. Respiration protocol #R9TS4F9 activated: Ventilating zone.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Séquence du terminal terminée. Protocole respiratoire #R9TS4F9 activé\u00A0: ventilation de la zone.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sequenza terminale completata. Protocollo di respirazione #R9TS4F9 attivato: ventilazione zona in corso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminalsequenz abgeschlossen. Respirationsprotokoll #R9TS4F9 aktiviert: Belüftungszone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Secuencia del terminal completada. Protoloco respiratorio R9TS4F9 activado: Zona de ventilación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл терминала завершен. Активирован протокол респирации № R9TS4F9. Вентиляция зоны.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sequência de terminal concluída. Protocolo de respiração #R9TS4F9 ativado: Zona de ventilação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sekwencja terminalu zakończona. Protokół respiracji #R9TS4F9 aktywowany: wentylowanie strefy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末シークエンス完了。呼吸プロトコル#R9TS4F9起動：換気ゾーン。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 절차 완료. 호흡 프로토콜 #R9TS4F9 활성화됨: 구역 환기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終端序列完成。呼吸協定#R9TS4F9已啟動：通風區。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端序列完成。呼吸协议#R9TS4F9已激活：通风区。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.WardenIntel.DissipateFogInfo_v3_R8_B4",
+  "internalEnabled": true,
+  "persistentID": 2370321469
+}

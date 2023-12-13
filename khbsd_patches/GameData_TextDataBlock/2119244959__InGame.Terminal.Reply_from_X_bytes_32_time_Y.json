@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reply from {0}: bytes=32 time={1}ms TTL=56",
+  "Description": "{0} is an item name. Example: HSU_123\n{1} is in a random number between 5-300",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Réponse de {0}\u00A0: octets=32 temps={1}\u00A0ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risposta da {0}: byte=32 durata={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Antwort von {0}: Bytes=32 Zeit={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Respuesta de {0}: bytes=32 tiempo={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ответ от предмета {0}: число байт=32, время={1}мс, TTL=56",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resposta de {0}: bytes=32 tempo={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiedź od: {0}: bajty=32 czas={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}からの返答: バイト=32 時間={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}의 응답: 바이트=32 시간={1}ms TTL=56",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}的回覆：位元=32 時間={1}毫秒 TTL=56",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}回复：字节=32 时间={1}毫秒 TTL=56",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Reply_from_X_bytes_32_time_Y",
+  "internalEnabled": true,
+  "persistentID": 2119244959
+}

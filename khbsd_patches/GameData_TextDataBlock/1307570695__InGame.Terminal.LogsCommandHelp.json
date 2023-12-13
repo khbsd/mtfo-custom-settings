@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "List any logs available on this terminal",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche la liste de tous les journaux disponibles sur ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Elenca tutti i registri disponibili su questo terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle an diesem Terminal verfügbaren Protokolle anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra los registros disponibles en este terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает все доступные журналы на данном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liste todos os registros disponíveis neste terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetl wszystkie dzienniki dostępne w terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末で利用可能なログの一覧を表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널의 사용 가능한 로그 목록",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "列出此終端任何可用的日誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "列出本终端上任何可用日志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.LogsCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 1307570695
+}

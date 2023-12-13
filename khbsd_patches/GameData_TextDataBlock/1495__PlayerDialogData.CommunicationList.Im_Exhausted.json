@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'm exhausted!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je suis épuisé\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sono a secco!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich bin völlig erschöpft!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡No me queda más!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я на нуле!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estou exausto!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kiepsko ze mną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "疲れ果てた！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바닥났다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我沒辦法了！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我撑不下去了！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Im_Exhausted",
+  "internalEnabled": true,
+  "persistentID": 1495
+}

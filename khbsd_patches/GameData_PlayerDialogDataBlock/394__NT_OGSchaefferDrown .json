@@ -1,0 +1,108 @@
+{
+  "priority": 200,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1056827037,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 1460309182
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 2
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1056827037,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 2233160717
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 4
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1056827037,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 3594807373
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 8
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1056827037,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 3633961653
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 16
+      }
+    }
+  ],
+  "name": "NT_OGSchaefferDrown ",
+  "internalEnabled": true,
+  "persistentID": 394
+}

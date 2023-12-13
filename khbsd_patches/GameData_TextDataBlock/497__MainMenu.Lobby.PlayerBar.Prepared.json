@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prepared",
+  "Description": "Indicating the status of a booster (a performance enhancing drug). \"Prepared\" means that it has been primed for administration, but hasn't been administered yet.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Préparé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Preparato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Preparado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовлен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preparado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przygotowano",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已備妥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已准备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Prepared",
+  "internalEnabled": true,
+  "persistentID": 497
+}

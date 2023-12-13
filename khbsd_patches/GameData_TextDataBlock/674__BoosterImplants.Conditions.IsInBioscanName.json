@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "In bioscan",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"inside a bioscan\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dans le bioscan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nel bio-scanner",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Im Bioscan",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dentro de bioescáner",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В биосканере",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dentro do bioescâner",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W zasięgu bioskanera",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオスキャン中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오스캔 내부",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生物掃描內",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "位于生物扫描内",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsInBioscanName",
+  "internalEnabled": true,
+  "persistentID": 674
+}

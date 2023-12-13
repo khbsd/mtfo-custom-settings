@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Empty the reservoirs with a terminal command",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Videz les réservoirs depuis le terminal de commande.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Svuotare i serbatoi con un comando da terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leeren Sie die Speicherbecken mit einem Terminalbefehl.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vacía los depósitos con un comando de terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Слейте воду из емкостей, используя команду на терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esvaziar os reservatórios com um comando do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Opróżnij rezerwuary przy pomocy polecenia terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末コマンドで貯水槽を空にしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 명령으로 저장소 비우기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "以終端指令清空水箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "利用终端命令清空水箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.Narrative_Empty_R8D2",
+  "internalEnabled": true,
+  "persistentID": 2604712654
+}

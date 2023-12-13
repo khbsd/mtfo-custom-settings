@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download genome database from <color=orange>Alpha One</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Téléchargez la base de données du génome depuis <color=orange>Alpha Un</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scaricare database genoma da <color=orange>Alfa Uno</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Laden Sie die Gendatenbank von <color=orange>Alpha One</color> herunter.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga la base de datos del genoma de <color=orange>Alfa-1</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузите базу данных геномной информации в <color=orange>Альфа-Один</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixe o banco de dados de genoma do <color=orange>Alfa Um</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobierz bazę danych genomów z baza <color=orange>Alfa 1</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>アルファ1</color>からゲノムデータベースをダウンロードしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>알파 1</color>에서 게놈 데이터베이스 다운로드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<color=orange>Alpha One</color>下載基因組資料庫",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从<color=orange>阿尔法一</color>下载基因组数据库",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1450
+}

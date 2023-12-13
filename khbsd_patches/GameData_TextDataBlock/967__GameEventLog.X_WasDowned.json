@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} was downed",
+  "Description": "\"{0}\" represents a player's nickname. This text string is shown when a player has been downed (health 0%).",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} a été abattu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} è a terra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wurde abgeschossen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} ha caído",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} теряет сознание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} foi abatido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – powalono",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} がダウンした",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}(이)가 쓰러짐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}倒下",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}已倒下",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.X_WasDowned",
+  "internalEnabled": true,
+  "persistentID": 967
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Artifacts Collected",
+  "Description": "A headline for an info box that informs the player of different data regarding their progress in collecting artifacts.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Artefacts collectés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Manufatti raccolti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesammelte Artefakte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Artefactos reunidos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Собранные артефакты",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Artefatos coletados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zebrane artefakty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "収集したアーティファクト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수집한 아티팩트",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集的寶物",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已收集红晶",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.ArtifactsInventoryHeader",
+  "internalEnabled": true,
+  "persistentID": 789
+}

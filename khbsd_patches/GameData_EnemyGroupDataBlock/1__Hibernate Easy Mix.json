@@ -1,0 +1,21 @@
+{
+  "Type": 0,
+  "Difficulty": 0,
+  "SpawnPlacementType": 0,
+  "MaxScore": 5.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 0,
+      "Distribution": 4
+    },
+    {
+      "Role": 1,
+      "Distribution": 2
+    }
+  ],
+  "name": "Hibernate Easy Mix",
+  "internalEnabled": true,
+  "persistentID": 1
+}

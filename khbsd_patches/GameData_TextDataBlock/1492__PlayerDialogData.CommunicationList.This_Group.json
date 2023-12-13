@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...this group.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... ce groupe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...questo gruppo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… diese Gruppe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... de este grupo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...эта группа врагов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... este grupo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tę grupę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...この集団は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...이 그룹.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…這一群。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……这一群。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.This_Group",
+  "internalEnabled": true,
+  "persistentID": 1492
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stand back",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Reculez",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "State indietro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zurückbleiben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Retrocede",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Назад",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Para trás",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odsunąć się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "下がっていろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "물러나",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退後",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退后",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Stand_back",
+  "internalEnabled": true,
+  "persistentID": 1282
+}

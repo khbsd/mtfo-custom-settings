@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.177,
+        "g": 0.177,
+        "b": 0.177
+      },
+      "IntensityMul": 0.25,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.241,
+        "g": 0.241,
+        "b": 0.241
+      },
+      "IntensityMul": 0.25,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.4,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.297999978,
+        "g": 0.297999978,
+        "b": 0.297999978
+      },
+      "IntensityMul": 0.2,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.4,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.277,
+        "g": 0.277,
+        "b": 0.277
+      },
+      "IntensityMul": 0.2,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.4,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.34117648,
+        "g": 0.260258824,
+        "b": 0.21767059
+      },
+      "IntensityMul": 0.3,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 0.2,
+        "b": 0.2
+      },
+      "IntensityMul": 0.25,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.247058824,
+        "g": 0.247058824,
+        "b": 0.247058824
+      },
+      "IntensityMul": 0.25,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.192156866,
+        "g": 0.173415691,
+        "b": 0.1581451
+      },
+      "IntensityMul": 0.25,
+      "Weight": 1.0
+    }
+  ],
+  "name": "DarkGrey_1",
+  "internalEnabled": true,
+  "persistentID": 77
+}

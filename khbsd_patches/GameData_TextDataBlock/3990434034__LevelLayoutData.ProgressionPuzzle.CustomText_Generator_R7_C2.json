@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Power Outage - Central Generator Cluster Offline</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>//ERREUR\u00A0: Panne de courant. Grappe de générateurs centrale hors ligne.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: interruzione di corrente - Gruppo elettrogeno centrale offline</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Stromausfall – Zentraler Generatorcluster offline.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Pérdida de energía - Clúster de generadores central desactivado</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Отключение электропитания. Центральный кластер генераторов неактивен.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Falta de energia - Grupo de geradores centrais offline</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: awaria zasilania – główny zespół generatorów wyłączony</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>//エラー: 停電 - 中央発電機群オフライン</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 전력 공급 중단 - 중앙 발전기 클러스터 오프라인</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：電力中斷 - 中央發電機叢集離線</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：断电 - 中央发电机集群离线</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_Generator_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 3990434034
+}

@@ -1,0 +1,70 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 1,
+  "randomDelay": {
+    "x": 3.0,
+    "y": 5.0,
+    "normalized": {
+      "x": 0.5144958,
+      "y": 0.857493,
+      "normalized": {
+        "x": 0.51449573,
+        "y": 0.857492864,
+        "normalized": {
+          "x": 0.5144958,
+          "y": 0.8574929,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 1.00000012,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 5.83095169,
+    "sqrMagnitude": 34.0
+  },
+  "tensionLimit": 2,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 902312181,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 952644911,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "hear_hunter_group",
+  "internalEnabled": true,
+  "persistentID": 53
+}

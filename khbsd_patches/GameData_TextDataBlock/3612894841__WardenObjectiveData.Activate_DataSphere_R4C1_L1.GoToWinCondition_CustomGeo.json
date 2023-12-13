@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring the Data Sphere to the forward exit in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Apportez la sphère de données à la sortie avant de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare la Sfera dati all'uscita anteriore in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die Datenkugel zum Austrittspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la esfera de datos a la salida delantera en [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Принесите сферу данных к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leve a esfera de dados até a saída à frente na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aby pozyskać dane ze sfery danych, dostarcz ją do: wysuniętego wyjścia w: [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データスフィアを[EXTRACTION_ZONE]の先の出口へ運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 스피어를 [EXTRACTION_ZONE]의 출구로 가져가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "把資料球帶回[EXTRACTION_ZONE]的前方出口",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据球带到[EXTRACTION_ZONE]的前出口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R4C1_L1.GoToWinCondition_CustomGeo",
+  "internalEnabled": true,
+  "persistentID": 3612894841
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I need help over here!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "J'ai besoin d'aide\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mi serve aiuto qui!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich brauche Hilfe hier drüben!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Necesito ayuda!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужна помощь!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preciso de ajuda aqui!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebuję pomocy!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "手を貸してくれ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 좀 도와줘!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我這邊需要幫忙！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我这边需要帮助！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.INeedHelp",
+  "internalEnabled": true,
+  "persistentID": 1198
+}

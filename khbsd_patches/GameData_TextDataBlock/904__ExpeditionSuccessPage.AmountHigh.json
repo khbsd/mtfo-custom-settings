@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "high",
+  "Description": "I.e. \"NRV probe reaction: high\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "élevé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Significativa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "hoch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "высокая",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "alta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "wysoki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "높음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.AmountHigh",
+  "internalEnabled": true,
+  "persistentID": 904
+}

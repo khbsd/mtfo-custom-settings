@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deal more damage with their special weapon.",
+  "Description": "Describes the advantage of having a good \"special damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet inflige plus de dégâts avec son arme spéciale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto infliggerà danni maggiori con la propria arma speciale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verursacht mehr Schaden mit der Spezialwaffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto infligirá más daño con su arma especial.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый особым оружием, повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo causa mais danos com sua arma especial.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zadawał więcej obrażeń bronią specjalną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の特殊武器のダメージが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 특수 무기로 더 많은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的特殊武器會造成較多傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者通过特殊武器造成的伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SpecialWeaponDamageDescription",
+  "internalEnabled": true,
+  "persistentID": 614
+}

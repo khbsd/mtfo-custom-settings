@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Half",
+  "Description": "A text string indicating that a particular game setting is set to \"half\". It could, for example, refer to \"texture resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Moitié",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Metà",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halb",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mitad",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Средн.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Metade",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "1/2",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハーフ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "1:2",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "一半",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一半",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Half",
+  "internalEnabled": true,
+  "persistentID": 174
+}

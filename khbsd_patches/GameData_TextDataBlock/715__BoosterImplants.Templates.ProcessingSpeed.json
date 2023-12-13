@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AXON",
+  "Description": "The name of a category of boosters that affect the computer processing speed of electronic equipment.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AXON",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NEURITE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AXON",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "AXÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СКОРОСТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AXÔNIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "AKSON",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アクソン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전자 제어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "艾克隆",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "核擎",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.ProcessingSpeed",
+  "internalEnabled": true,
+  "persistentID": 715
+}

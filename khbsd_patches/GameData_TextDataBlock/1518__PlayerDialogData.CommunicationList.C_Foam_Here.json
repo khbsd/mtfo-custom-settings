@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "C-Foam Here.",
+  "Description": "",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà de la mousse C.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schiuma C qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist C-Foam.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta espuma-C.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужна пена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espuma aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "C-Foam, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにCフォームを。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 C-폼이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "C-Foam，這裡。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里喷结沫。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.C_Foam_Here",
+  "internalEnabled": true,
+  "persistentID": 1518
+}

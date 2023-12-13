@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Scan",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 20
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single D10 req all x1",
+  "internalEnabled": true,
+  "persistentID": 124
+}

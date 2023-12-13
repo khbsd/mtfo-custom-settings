@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ANALYZING THREAT LEVEL\n[COMMUNICATION ERROR]",
+  "Description": "The text between the square brackets are not code and should also be localized: [COMMUNICATION ERROR]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE DU NIVEAU DE MENACE\n[ERREUR DE COMMUNICATION]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ANALISI LIVELLO MINACCIA\n[ERRORE DI COMUNICAZIONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GEFAHRENSTUFE WIRD ANALYSIERT\n[KOMMUNIKATIONSFEHLER]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANALIZANDO NIVEL DE AMENAZA\n[ERROR DE COMUNICACIÓN]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "АНАЛИЗ УРОВНЯ ОПАСНОСТИ\n[ОШИБКА ПЕРЕДАЧИ]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ANALISANDO NÍVEL DE AMEAÇA\n[ERRO DE COMUNICAÇÃO]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ANALIZA POZIOM ZAGROŻENIA\n[BŁĄD KOMUNIKACJI]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脅威レベルを分析中\n[通信エラー]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "위험도 분석 중\n[통신 오류]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "分析威脅等級\n[通訊錯誤]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在分析威胁级别\n[通讯错误]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.AnalyzingThreatevel",
+  "internalEnabled": true,
+  "persistentID": 1131
+}

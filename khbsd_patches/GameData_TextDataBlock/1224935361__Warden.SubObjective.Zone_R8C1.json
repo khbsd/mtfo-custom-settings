@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Create Uplink from terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Établissez une liaison montante depuis le terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Creare uplink da terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellen Sie einen Uplink am Terminal her.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Crea un uplink con el terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С помощью терминала создайте подключение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Criar uplink a partir do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Utwórz łącze z terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末からアップリンクを作成しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에서 업링크 생성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從終端建立上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从终端创建上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.SubObjective.Zone_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1224935361
+}

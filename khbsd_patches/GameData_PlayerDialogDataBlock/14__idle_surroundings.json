@@ -1,0 +1,271 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 2,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 2345077982,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2361855536,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": -17,
+        "conditions": [
+          0
+        ]
+      },
+      "ActorB": {
+        "charFilter": -1,
+        "conditions": [
+          0
+        ]
+      },
+      "ActorC": {
+        "charFilter": -1
+      },
+      "ActorD": {
+        "charFilter": -1
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 72310415,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 55532857,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1635182760,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 1584850034,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3657382553,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 16
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3093508018,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3110285572,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 831186339,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 814408781,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 797631229,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    },
+    {
+      "structure": {
+        "enabled": false,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 2920496732,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2870163942,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2886941558,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2836608572,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2853386130,
+            "A": false,
+            "B": false,
+            "C": true,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "idle_surroundings",
+  "internalEnabled": true,
+  "persistentID": 14
+}

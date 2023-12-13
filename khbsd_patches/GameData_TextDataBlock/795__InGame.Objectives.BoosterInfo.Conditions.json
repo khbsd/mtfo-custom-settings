@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "> <b>Conditions</b>",
+  "Description": "A headline for the conditions (requirements to be effective) connected to the boosters (performance enhancin drugs) the player currently has injected. Don't alter the RichText tags or the \">\" at the start of the text string.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "> <b>Conditions</b>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> <b>Condizioni</b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "> <b>Bedingungen</b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> <b>Condiciones</b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "> <b>Требования</b>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "> <b>Condições</b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "> <b>Warunki</b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "> <b>条件</b>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "> <b>조건</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "> <b>條件</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "> <b>条件</b>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.BoosterInfo.Conditions",
+  "internalEnabled": true,
+  "persistentID": 795
+}

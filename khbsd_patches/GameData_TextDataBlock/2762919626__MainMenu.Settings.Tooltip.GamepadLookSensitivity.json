@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The gamepad camera look sensitivity",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la sensibilité de la caméra avec la manette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità del controller per la vista",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Kameraempfindlichkeit des Gamepads.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La sensibilidad de cámara con el mando.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность геймпада при перемещении камеры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A sensibilidade de vista na câmera do gamepad.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość przy rozglądaniu się za pomocą kontrolera.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッドでのカメラの視点感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 카메라 시야 감도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器鏡頭觀看靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄镜头视角灵敏度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.GamepadLookSensitivity",
+  "internalEnabled": true,
+  "persistentID": 2762919626
+}

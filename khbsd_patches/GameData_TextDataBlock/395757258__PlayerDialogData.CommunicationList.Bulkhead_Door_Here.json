@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bulkhead door here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte à cloison ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta stagna qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist eine Schotttür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Una puerta de contención aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь ворота.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta protetora [BULKHEAD_DOOR] aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gródź, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隔壁ドアだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 격벽 문이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有艙門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有舱壁门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Bulkhead_Door_Here",
+  "internalEnabled": true,
+  "persistentID": 395757258
+}

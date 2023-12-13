@@ -1,0 +1,53 @@
+{
+  "publicName": "Fog Repeller",
+  "LocalizedName": 522379724,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 6,
+  "inventorySlot": 5,
+  "FPSSettings": 25,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 3,
+  "ConsumableAmmoMax": 5,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/General/ThrowableFirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/FogRepeller/Consumable_FogRepeller.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FogRepeller/Consumable_FogRepeller_third.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FogRepeller/Consumable_FogRepeller_Pickup.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FogRepeller/Consumable_Fogrepeller_Instance.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/FogRepeller/Consumable_FogRepeller_Activated.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "FogRepeller",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "FogRepeller",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_FogRepeller",
+  "internalEnabled": true,
+  "persistentID": 117
+}

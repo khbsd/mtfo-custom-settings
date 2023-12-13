@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV M Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 93,
+  "SurvivalWavePopulation": 35,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 20.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 15
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x5 - Alarm Flyers Spawn Points",
+  "internalEnabled": true,
+  "persistentID": 153
+}

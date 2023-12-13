@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Connection established.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Connexion établie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Connessione stabilita.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbindung hergestellt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Conexión establecida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение установлено",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Conexão estabelecida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nawiązano połączenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "接続確立。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "연결 설정됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連線已建立。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连接已建立。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Connection_established",
+  "internalEnabled": true,
+  "persistentID": 506939148
+}

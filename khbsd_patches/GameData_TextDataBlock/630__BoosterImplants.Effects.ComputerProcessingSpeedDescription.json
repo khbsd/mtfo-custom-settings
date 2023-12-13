@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will find computer terminals more responsive.",
+  "Description": "Describes the advantage of having a good \"terminal use\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet a plus de facilités à utiliser les terminaux informatiques.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto incontrerà terminali più reattivi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson kann Computer-Terminals besser bedienen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las terminales de ordenador responderán más ante el sujeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Более эффективное использование компьютерных терминалов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Os terminais de computador ficam mais responsivos para o indivíduo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obsługa terminali komputerowych stanie się dla biorcy łatwiejsza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象へのコンピュータ端末の反応が向上する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 사용하는 컴퓨터 터미널의 반응이 좋아집니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象會發現電腦終端反應較靈敏。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电脑终端对于使用者的响应性提高。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ComputerProcessingSpeedDescription",
+  "internalEnabled": true,
+  "persistentID": 630
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glow stick power",
+  "Description": "Refers to the power of the glow emitting from glow sticks.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Puissance de bâton lumineux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Potenza starlight",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Knicklicht-Leistung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Potencia de barras luminosas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Яркость светящейся палочки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Força do bastão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efektywność światła chemicznego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グロースティックパワー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "글로우 스틱 출력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "螢光棒強度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发光棒效果",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.GlowstickEffectName",
+  "internalEnabled": true,
+  "persistentID": 649
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SKINITIATE CAGE DROP",
+  "Description": "A button that starts the expedition/mission by dropping the player characters down through a chasm into the underground complex, using a bare-bones elevator contraption called a \"drop cage\". Make sure whatever term you translate \"drop cage\" to is used consistenly throughout all your translated texts.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "LANCER LE LARGAGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIA DISCESA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KÄFIG-ABWURF INITIIERTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ACTIVAR PLATAFORMA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОПУСТИТЬ ПОДЪЕМНИК",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIAR ELEVADOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZAINICJUJ ZRZUT KLATKI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ケージ投下を開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "케이지 드롭 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始降下投放籠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "初始化笼梯投放",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.InitiateCageDrop",
+  "internalEnabled": true,
+  "persistentID": 464
+}

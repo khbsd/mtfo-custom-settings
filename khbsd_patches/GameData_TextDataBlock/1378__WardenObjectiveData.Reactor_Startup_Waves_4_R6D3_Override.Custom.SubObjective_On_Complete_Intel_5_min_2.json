@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! -- Multiple bioreadings approaching, 5 minutes until arrival!",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! -- Plusieurs biosignatures en approche, arrivée dans 5\u00A0minutes\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Diverse tracce biologiche in avvicinamento, 5 minuti all'arrivo!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! -- Mehrere Biosignale nähern sich. 5 Minuten bis zur Ankunft!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! Se aproximan varias bioseñales. 5 minutos para que lleguen.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Приближаются множественные биосигнатуры. До столкновения 5 минут!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! — Diversas bioleituras se aproximando, 5 minutos até a chegada!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – nadchodzą liczne biosygnatury, 5 minut do przybycia!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ -- 複数の生体反応が接近中、到着まで5分！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! -- 생체 신호 다수 접근 중. 접촉까지 5분!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！-- 多個生物質讀數接近，距離抵達還有 5 分鐘！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！ -- 多个生物读数正在接近，还有5分钟到达！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_On_Complete_Intel_5_min_2",
+  "internalEnabled": true,
+  "persistentID": 1378
+}

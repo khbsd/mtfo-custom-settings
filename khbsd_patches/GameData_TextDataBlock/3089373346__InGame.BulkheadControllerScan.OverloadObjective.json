@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OVERLOAD OBJECTIVE",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIF DE SURCHARGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVO SOVRACCARICO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HERAUSFORDERUNGSZIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVO DE SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СПЕЦИАЛЬНАЯ ЦЕЛЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVO DE SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CEL NADMIAROWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーバーロード目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고위험 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "超載目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "附加目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.OverloadObjective",
+  "internalEnabled": true,
+  "persistentID": 3089373346
+}

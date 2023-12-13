@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>ALT://</color>RUNDOWN #5.0\r\nTITLE: REBIRTH",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>ALT://</color>CAMPAGNE #5.0\r\nTITRE\u00A0: RENAISSANCE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>ALT://</color>PERLUSTRAZIONE #5.0\r\nTITOLO: RINASCITA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>ALT://</color>RUNDOWN #5.0\r\nTITEL: WIEDERGEBURT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>ALT://</color>CAMPAÑA #5.0\r\nTÍTULO: RESURGIMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВАРИАНТ://</color>КАМПАНИЯ №\u00A05.0.\r\nНАЗВАНИЕ: ВОЗРОЖДЕНИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>ALT://</color>CAMPANHA #5.0\r\nTÍTULO: RENASCIMENTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>ALT://</color>EKSTRAKCJA #5.0\r\nTYTUŁ: ODRODZENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>別://</color>ランダウン#5.0\r\nタイトル：再生",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>대체://</color>런다운 #5.0\r\n타이틀: 부활",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>ALT://</color>遠征綱要#5.0\r\n標題：重生",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ALT://</color>行动#5.0\r\n标题：重生",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "RundownData.Rundown005.Title",
+  "internalEnabled": true,
+  "persistentID": 927
+}

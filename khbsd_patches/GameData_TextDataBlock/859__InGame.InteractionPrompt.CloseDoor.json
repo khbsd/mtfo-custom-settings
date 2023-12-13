@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Close Door",
+  "Description": "I.e. \"close this door.\" This text string appears on screen when the player is standing close to an open door, to indicate that they can close the door by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fermer la porte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiudi porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür schließen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cerrar puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Закрыть дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fechar porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zamknij drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアを閉じる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문 닫기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.CloseDoor",
+  "internalEnabled": true,
+  "persistentID": 859
+}

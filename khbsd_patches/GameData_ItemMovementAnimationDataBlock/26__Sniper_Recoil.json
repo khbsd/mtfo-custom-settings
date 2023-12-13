@@ -1,0 +1,505 @@
+{
+  "ItemPosition": {
+    "X": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.03131778,
+          "outTangent": 0.03131778,
+          "inWeight": 0.0,
+          "outWeight": 0.06665853,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.113907292,
+          "value": 0.0001725292,
+          "inTangent": -0.03286043,
+          "outTangent": -0.03286043,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0407269225,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.3,
+          "value": 0.0,
+          "inTangent": -0.000927114161,
+          "outTangent": -0.000927114161,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 34
+        }
+      ],
+      "length": 3,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Y": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0207844339,
+          "outTangent": 0.0207844339,
+          "inWeight": 0.0,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 34
+        },
+        {
+          "time": 0.07215377,
+          "value": 0.00149967521,
+          "inTangent": -0.059071023,
+          "outTangent": -0.059071023,
+          "inWeight": 0.333333343,
+          "outWeight": 0.184303924,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.317454726,
+          "value": -0.00127680437,
+          "inTangent": 0.00910258,
+          "outTangent": 0.00910258,
+          "inWeight": 0.09462972,
+          "outWeight": 0.132926,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.549382,
+          "value": 0.0,
+          "inTangent": 0.00102392887,
+          "outTangent": 0.00102392887,
+          "inWeight": 0.108811431,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "length": 4,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Z": {
+      "keys": [
+        {
+          "time": 0.0009918213,
+          "value": 0.03257828,
+          "inTangent": -4.730701,
+          "outTangent": -4.730701,
+          "inWeight": 0.0,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 34
+        },
+        {
+          "time": 0.0276570171,
+          "value": -0.09356679,
+          "inTangent": -0.014140008,
+          "outTangent": -0.014140008,
+          "inWeight": 0.333333343,
+          "outWeight": 0.249428645,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.317487657,
+          "value": 0.007393347,
+          "inTangent": -0.151834652,
+          "outTangent": -0.151834652,
+          "inWeight": 0.333333343,
+          "outWeight": 0.1416663,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.554583549,
+          "value": -0.005727674,
+          "inTangent": 0.04913989,
+          "outTangent": 0.04913989,
+          "inWeight": 0.210260168,
+          "outWeight": 0.125861064,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.8771771,
+          "value": 0.0,
+          "inTangent": 0.0005151885,
+          "outTangent": 0.0005151885,
+          "inWeight": 0.15115203,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "length": 5,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "VarianceX": {
+      "x": 0.8,
+      "y": 1.1,
+      "normalized": {
+        "x": 0.588171661,
+        "y": 0.8087361,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.36014712,
+      "sqrMagnitude": 1.85
+    },
+    "VarianceY": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceZ": {
+      "x": 0.9,
+      "y": 1.1,
+      "normalized": {
+        "x": 0.6332378,
+        "y": 0.7739573,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 1.421267,
+      "sqrMagnitude": 2.02
+    }
+  },
+  "ItemRotation": {
+    "X": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 0.0151725244,
+          "outTangent": 0.0151725244,
+          "inWeight": 0.0,
+          "outWeight": 0.7285583,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.0836586654,
+          "value": -0.144899815,
+          "inTangent": 0.0,
+          "outTangent": 0.0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.548903167,
+          "weightedMode": 3,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.389990479,
+          "value": 0.0420888,
+          "inTangent": -1.62868083,
+          "outTangent": -1.62868083,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0464081578,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.6457922,
+          "value": -0.0242063254,
+          "inTangent": 0.269537151,
+          "outTangent": 0.269537151,
+          "inWeight": 0.07869497,
+          "outWeight": 0.19394201,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.9133674,
+          "value": 0.0,
+          "inTangent": 0.007234025,
+          "outTangent": 0.007234025,
+          "inWeight": 0.100026876,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "length": 5,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Y": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": -0.06841738,
+          "outTangent": -0.06841738,
+          "inWeight": 0.0,
+          "outWeight": 0.1402057,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.35600394,
+          "value": -0.0451983027,
+          "inTangent": 0.131692648,
+          "outTangent": 0.131692648,
+          "inWeight": 0.333333343,
+          "outWeight": 0.1949852,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.521570146,
+          "value": 0.009411506,
+          "inTangent": -0.0105782729,
+          "outTangent": -0.0105782729,
+          "inWeight": 0.333333343,
+          "outWeight": 0.155119717,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.7984113,
+          "value": -0.005071615,
+          "inTangent": -0.0135787008,
+          "outTangent": -0.0135787008,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343,
+          "weightedMode": 0,
+          "tangentMode": 34
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inTangent": 0.00470209,
+          "outTangent": 0.00470209,
+          "inWeight": 0.518324852,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 0
+        }
+      ],
+      "length": 5,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Z": {
+      "keys": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inTangent": 1.45107031,
+          "outTangent": 1.45107031,
+          "inWeight": 0.0,
+          "outWeight": 0.254459053,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.0578045473,
+          "value": -3.964454E-05,
+          "inTangent": -1.8512888,
+          "outTangent": -1.8512888,
+          "inWeight": 0.333333343,
+          "outWeight": 0.1089807,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.140064612,
+          "value": -0.000236026943,
+          "inTangent": -0.1489036,
+          "outTangent": -0.1489036,
+          "inWeight": 0.333333343,
+          "outWeight": 0.02535254,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.5106086,
+          "value": -6.366521E-06,
+          "inTangent": 0.389311075,
+          "outTangent": 0.389311075,
+          "inWeight": 0.333333343,
+          "outWeight": 0.07847557,
+          "weightedMode": 0,
+          "tangentMode": 0
+        },
+        {
+          "time": 0.7,
+          "value": 0.0,
+          "inTangent": 3.36156882E-05,
+          "outTangent": 3.36156882E-05,
+          "inWeight": 0.333333343,
+          "outWeight": 0.0,
+          "weightedMode": 0,
+          "tangentMode": 34
+        }
+      ],
+      "length": 5,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "VarianceX": {
+      "x": 0.8,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.624695063,
+        "y": 0.780868769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.28062487,
+      "sqrMagnitude": 1.64
+    },
+    "VarianceY": {
+      "x": -1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": -0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceZ": {
+      "x": -1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": -0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    }
+  },
+  "CameraPosition": {
+    "X": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Y": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Z": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "VarianceX": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceY": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceZ": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    }
+  },
+  "CameraRotation": {
+    "X": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Y": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "Z": {
+      "keys": [],
+      "length": 0,
+      "preWrapMode": 8,
+      "postWrapMode": 8
+    },
+    "VarianceX": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceY": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    },
+    "VarianceZ": {
+      "x": 1.0,
+      "y": 1.0,
+      "normalized": {
+        "x": 0.707106769,
+        "y": 0.707106769,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 1.41421354,
+      "sqrMagnitude": 2.0
+    }
+  },
+  "name": "Sniper_Recoil",
+  "internalEnabled": true,
+  "persistentID": 26
+}

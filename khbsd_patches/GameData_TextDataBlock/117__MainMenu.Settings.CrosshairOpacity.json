@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Crosshair Opacity",
+  "Description": "A game setting that controls the opacity of the game's center-screen crosshair.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Opacité du réticule",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Opacità mirino",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fadenkreuz-Transparenz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Opacidad de la retícula",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прозрачность прицела",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Opacidade da mira",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przezroczystość celownika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クロスヘア不透明度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조준점 불투명도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "十字準線不透明度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准星不透明度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CrosshairOpacity",
+  "internalEnabled": true,
+  "persistentID": 117
+}

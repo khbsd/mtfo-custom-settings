@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tag 'em.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Marquez-les.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Marcateli.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Markieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Márcalos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поставьте метку.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegue eles.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oznaczyć ich.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "タグ付けしてくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "표시해 둬.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記他們。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记上。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Tag_Them",
+  "internalEnabled": true,
+  "persistentID": 1519
+}

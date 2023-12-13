@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Auto Reload",
+  "Description": "Automatically reloads weapons when possible if the user keeps clicking",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rechargement auto",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricarica automatica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auto-Nachladen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recarga automática",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автоперезарядка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recarga automática",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Automatycznie przeładowanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オートリロード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자동 장전",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "自動裝填",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "自动装弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.AutoReload",
+  "internalEnabled": true,
+  "persistentID": 1389
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Room clear",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "La voie est libre",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stanza libera",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Raum gesichert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Zona despejada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Зачищено",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sala liberada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pomieszczenie czyste",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ルームクリア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "룸 클리어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "房間安全了",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "房间安全",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Room_clear",
+  "internalEnabled": true,
+  "persistentID": 1306
+}

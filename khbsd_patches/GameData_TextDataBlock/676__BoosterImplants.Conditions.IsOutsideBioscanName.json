@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is Outside Bioscan",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"outside a bioscan\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Hors du bioscan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fuori dal bio-scanner",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ist außerhalb des Bioscans",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fuera de bioescáner",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вне биосканера",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está fora do bioescâner",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poza zasięgiem bioskanera",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオスキャン中を除く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오스캔 외부",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在生物掃描外",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "位于生物扫描外",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsOutsideBioscanName",
+  "internalEnabled": true,
+  "persistentID": 676
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Serbian",
+  "Description": "A language spoken in Serbia and throughout the Balkans.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Serbe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Serbo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Serbisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Serbio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сербский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sérvio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Serbski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セルビア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "세르비아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "塞爾維亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "塞尔维亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Serbian",
+  "internalEnabled": true,
+  "persistentID": 406
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use on Ally",
+  "Description": "Control key binding/mapping. This key is for using resource packs on teammates only.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser sur un allié",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa su alleato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bei Verbündetem benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar con aliado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать на союзнике",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar no aliado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj na sojuszniku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "味方に使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원에게 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "對盟友使用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给队友使用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.UseOnAlly",
+  "internalEnabled": true,
+  "persistentID": 2822574375
+}

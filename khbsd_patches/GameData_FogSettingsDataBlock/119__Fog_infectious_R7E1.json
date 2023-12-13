@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.4392157,
+    "g": 0.7529412,
+    "b": 0.5176471
+  },
+  "FogDensity": 0.00015,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 0.65,
+    "y": 0.65,
+    "z": 0.65,
+    "normalized": {
+      "x": 0.577350259,
+      "y": 0.577350259,
+      "z": 0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.125833,
+    "sqrMagnitude": 1.26749992
+  },
+  "DensityNoiseSpeed": 0.02,
+  "DensityNoiseScale": 0.0731,
+  "DensityHeightAltitude": -1.0,
+  "DensityHeightRange": 0.1,
+  "DensityHeightMaxBoost": 0.025,
+  "Infection": 0.03,
+  "name": "Fog_infectious_R7E1",
+  "internalEnabled": true,
+  "persistentID": 119
+}

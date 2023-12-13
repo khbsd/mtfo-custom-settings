@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scan the <color=orange>Project Insight</color> archives for a clean location",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Scannez les archives du <color=orange>Project Insight</color> pour trouver une zone non infectée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansionare gli archivi del <color=orange>Project Insight</color> per ottenere un'ubicazione pulita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scannen Sie die Archive von <color=orange>Project Insight</color> nach einem nicht infizierten Ort.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escanea los archivos del <color=orange>Project Insight</color> para obtener una ubicación precisa.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверьте архивы <color=orange>Project Insight</color> и найдите незараженное место.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escanear arquivos de <color=orange>Project Insight</color> para uma localização limpa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeskanuj archiwa <color=orange>Project Insight</color>, aby namierzyć nieskażoną lokalizację",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>プロジェクトインサイト</color>アーカイブをスキャンして、クリーンな場所を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Project Insight</color> 아카이브를 스캔해 오염되지 않은 위치 탐색",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描<color=orange>Project Insight</color>檔案庫，尋找未汙染的地點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描<color=orange>Project Insight</color>档案，寻找未被感染的位置",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.Main_Subobjective_R8C1",
+  "internalEnabled": true,
+  "persistentID": 3123789488
+}

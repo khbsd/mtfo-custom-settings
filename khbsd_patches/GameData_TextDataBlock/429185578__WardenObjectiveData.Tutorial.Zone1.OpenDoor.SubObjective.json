@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Advance to [ZONE_2] through security door",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Franchissez la porte de sécurité vers la [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avanzare alla [ZONE_2] attraverso la porta di sicurezza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rücken Sie durch die Sicherheitstür vor zu [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza a [ZONE_2] por la puerta de seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Двигайтесь к [ZONE_2] через защитную дверь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Avance para a [ZONE_2] usando a porta de segurança",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 2 [ZONE_2] przez drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティドアを通って[ZONE_2]へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 문을 통과해 [ZONE_2] 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "經由安全門前往[ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过安全门前往[ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Tutorial.Zone1.OpenDoor.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 429185578
+}

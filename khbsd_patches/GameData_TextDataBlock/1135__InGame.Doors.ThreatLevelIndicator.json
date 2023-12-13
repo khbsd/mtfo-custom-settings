@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[SAFETY LOCKDOWN]\nSECTOR PRIORITY",
+  "Description": "The text between the square brackets are not code and should also be localized: [SAFETY LOCKDOWN]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VERROUILLAGE DE SÉCURITÉ]\nSECTEUR PRIORITAIRE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[BLOCCO DI SICUREZZA]\nPRIORITÀ SETTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[SICHERHEITSVERRIEGELUNG]\nSEKTORPRIORITÄT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[CIERRE DE SEGURIDAD]\nPRIORIDAD DEL SECTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[РЕЖИМ ИЗОЛЯЦИИ]\nУРОВЕНЬ СЕКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[CONFINAMENTO DE SEGURANÇA]\nPRIORIDADE DO SETOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[BLOKADA BEZPIECZEŃSTWA]\nPRIORYTET SEKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[セーフティロックダウン]\nセクター優先度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[안전 폐쇄]\n섹터 우선도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[安全封鎖]\n分區優先等級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[安全封锁]\n分区优先级",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.ThreatLevelIndicator",
+  "internalEnabled": true,
+  "persistentID": 1135
+}

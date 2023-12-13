@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Error: No item found with the ID {0}",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Erreur\u00A0: Aucun objet trouvé avec l'ID {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore: nessun oggetto trovato con l'ID {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fehler: Kein Ziel mit ID {0} gefunden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error: No se han encontrado objetos con ID {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка. Предмет с ID {0} не найден.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro: Nenhum item encontrado com ID {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd: nie znaleziono przedmiotu z identyfikatorem {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー: ID {0}のアイテムが見つかりません",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류: {0} ID로 아이템을 찾을 수 없습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤：未找到ID為{0}的物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误：未找到ID为“{0}”的物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ErrorNoItemFoundWithId_X",
+  "internalEnabled": true,
+  "persistentID": 1382557929
+}

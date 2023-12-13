@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Flashlights!",
+  "Description": "As in \"mind your flashlights!\" (i.e. turn them off to not wake up the sleeping monsters, or turn them on to see in the darkness.)",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Activez les torches\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torce!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Cuidado con las linternas!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Свет!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Lanternas!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Latarki!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライト！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "手電筒！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手电筒！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Flashlights",
+  "internalEnabled": true,
+  "persistentID": 1224
+}

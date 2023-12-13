@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject T-XXXX. You have not reported for your Behavioral Assessment procedure.\n\nBehavioral Assessment is not mandatory. However, subjects who do not complete this training have a survival expectancy of 0.004%.\n\n<b><color=red>It is recommended you complete your training.</color></b>",
+  "Description": "The text content for the First Time Player Popup",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Sujet T-XXXX. Vous avez négligé de vous soumettre à la procédure d'évaluation comportementale.\n\nCette procédure n'est pas obligatoire. Cependant, les chances de survie des sujets qui ne terminent pas cet entraînement sont de 0,004\u00A0%.\n\n<b><color=red>Nous vous recommandons de terminer votre entraînement.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Soggetto T-XXXX. Non ti sei presentato per la procedura di valutazione comportamentale.\n\nLa valutazione comportamentale non è obbligatoria. Tuttavia, i soggetti che non completano questo addestramento hanno un'aspettativa di sopravvivenza dello 0,004%.\n\n<b><color=red>Si consiglia di completare l'addestramento.</color></b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson T-XXXX. Sie sind noch nicht zu Ihrer Verhaltensbeurteilung erschienen.\n\nDie Verhaltensbeurteilung ist nicht zwingend erforderlich. Allerdings haben die Versuchspersonen, die dieses Training nicht absolvieren, eine Überlebenswahrscheinlichkeit von 0,004\u00A0%.\n\n<b><color=red>Es wird empfohlen, dass Sie Ihr Training abschließen.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sujeto T-XXXX. No se ha presentado para el procedimiento de análisis conductual.\n\nDicho análisis no es obligatorio, pero los sujetos que no completan este entrenamiento tienen una probabilidad de supervivencia del 0,004\u00A0%.\n\n<b><color=red>Se recomienda llevar a cabo este entrenamiento.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Субъект T-XXXX. Неявка на поведенческую оценку.\n\nПроцедура необязательна, но предполагаемая выживаемость субъектов, не прошедших обучение, составляет 0,004%.\n\n<b><color=red>Рекомендуется пройти обучение.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Indivíduo T-XXXX. Você não se apresentou para seu procedimento de Avaliação Comportamental.\n\nA Avaliação Comportamental é obrigatória. No entanto, indivíduos que não concluírem o treinamento têm expectativa de sobrevivência de 0,004%.\n\n<b><color=red>Recomenda-se concluir o treinamento completo.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorco T-XXXX, nie masz za sobą udziału w procedurze oceny zachowania.\n\nProcedura oceny zachowania nie jest obowiązkowa. Prognozowana przeżywalność biorców nie podejmujących udziału w tym szkoleniu wynosi jednak 0,004%.\n\n<b><color=red>Przejście szkolenia jest zalecane.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象T-XXXX。行動アセスメント手続きが報告されていない。\n\n行動アセスメントは義務ではない。しかし、この訓練を完了しなかった対象の生存率は0.004%である。\n\n<b><color=red>訓練を完了することを推奨する。</color></b>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "피험자 T-XXXX. 행동 평가 절차 보고를 하지 않았습니다.\n\n행동 평가는 필수 사항은 아니지만, 이 교육을 이수하지 않은 피험자의 생존율은 0.004%에 불과합니다.\n\n<b><color=red>교육을 이수할 것을 권장합니다.</color></b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象T-XXXX。你尚未報到參與行為評量程序。\n\n行為評量並非強制性，但未完成此訓練的實驗對象預期生存率僅0.004%。\n\n<b><color=red>建議完成訓練。</color></b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "实验体T-XXXX。你尚未报到参与行为评估程序。\n\n行为评估并非强制，但是，未完成此训练的实验体的预期生存率仅为0.004%。\n\n<b><color=red>推荐完成训练。</color></b>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.NewPlayerPopup.TextContent",
+  "internalEnabled": true,
+  "persistentID": 3799109819
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather OSIP vials",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez des flacons OSIP",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere le fiale OSIP",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie OSIP-Ampullen [OSIP]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne viales OSIP",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите ампулы УОП.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete tubos OSIP",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz fiolki peptydowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "OSIP小瓶を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "OSIP 바이알 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集OSIP藥瓶",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集OSIP药瓶",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_OSIPs_5_R4A3.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 4087478616
+}

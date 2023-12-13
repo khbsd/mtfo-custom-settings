@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make sure that the door behind you is closed",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vérifiez que la porte derrière vous est bien fermée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Assicurarsi che la porta dietro sia chiusa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellen Sie sicher, dass die Tür hinter Ihnen geschlossen ist",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Asegúrate de que la puerta que tienes a tu espalda está cerrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Убедитесь, что дверь позади вас заперта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Garanta que a porta atrás de você está fechada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upewnij się, że drzwi za tobą są zamknięte",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "背後のドアが閉じていることを確認しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "등 뒤 문이 닫혔는지 확인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確保你後方的門已關上",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "确保你背后的门已关上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone2.CloseTheDoor",
+  "internalEnabled": true,
+  "persistentID": 1826649297
+}

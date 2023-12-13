@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Eliminate the enemy",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Éliminez l'ennemi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Eliminare il nemico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eliminieren Sie den Feind.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Elimina al enemigo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Уничтожьте врага.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Elimine o inimigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyeliminuj przeciwnika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵を排除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 제거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "消滅敵人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "消灭敌人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Tutorial.Zone2.OpenDoor.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 2583616845
+}

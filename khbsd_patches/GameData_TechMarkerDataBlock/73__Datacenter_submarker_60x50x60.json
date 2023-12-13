@@ -1,0 +1,107 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        4
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V04.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V05.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V06.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V07.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V08.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V09.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Datacenter_submarker_60x50x60/Datacenter_submarker_60x50x60_V10.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 2.0,
+        "function": 0,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_storage_cartonboxes_60x60x60",
+    "BoundingVolume": 180.0
+  },
+  "name": "Datacenter_submarker_60x50x60",
+  "internalEnabled": true,
+  "persistentID": 73
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DoubleTap Rifle Damage",
+  "Description": "I.e. how much damage you can deal with a double tap rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil double tap",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. a due colpi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Doppelschussgewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil controlado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (винтовка с двойным выстрелом)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil duplo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu typu doubletap",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダブルタップライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "더블탭 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "雙連發步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "双发步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.DoubleTapRifleName",
+  "internalEnabled": true,
+  "persistentID": 573
+}

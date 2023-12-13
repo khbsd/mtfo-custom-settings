@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Complete the Zone scan! Do not Leave the Area!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminez d'analyser la zone\u00A0! Ne quittez pas la zone\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completare la scansione della zona! Non lasciare l'area!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schließen Sie den Scan der Zone ab! Verlassen Sie nicht das Gebiet!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Completa el escaneo de la zona! ¡No abandones la zona!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершите сканирование зоны! Не покидайте область!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Conclua o escaneamento da zona! Não saia da área!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ukończ skanowanie strefy! Nie opuszczaj obszaru!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゾーンスキャンを完了しろ！エリアを離れるな！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "구역 스캔 완료할 것! 지역을 떠나지 말 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成區域掃描！不要離開區段！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成区域扫描！不要离开区域！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S3_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 3454683546
+}

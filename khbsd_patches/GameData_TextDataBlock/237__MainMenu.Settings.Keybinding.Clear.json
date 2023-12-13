@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Clear",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Effacer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Borrar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Clear",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Clear键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Clear",
+  "internalEnabled": true,
+  "persistentID": 237
+}

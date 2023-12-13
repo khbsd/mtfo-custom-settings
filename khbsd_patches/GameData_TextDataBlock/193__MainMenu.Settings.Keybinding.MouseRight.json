@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Right",
+  "Description": "The right mouse button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clic droit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tasto destro mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus rechts",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón derecho del ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая кнопка мыши",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direito do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy przycisk myszy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス右ボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 오른쪽 버튼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠右鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标右键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.MouseRight",
+  "internalEnabled": true,
+  "persistentID": 193
+}

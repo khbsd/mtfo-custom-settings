@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return the fog repeller turbine to the extraction point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramenez la turbine de répulsif à brouillard au point d'évacuation dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare la turbina anti-nebbia al punto di estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die Nebelverdrängungsturbine zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la turbina antiniebla al punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите антидымовую турбину к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Devolva a turbina do repulsor de névoa ao ponto de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś turbinę przeciwmgielną do punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フォグリペラータービンを[EXTRACTION_ZONE]の脱出地点に戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 제거기 터빈을 [EXTRACTION_ZONE]의 탈출 지점으로 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將驅霧器渦輪帶回[EXTRACTION_ZONE]的撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将驱雾器涡轮送回[EXTRACTION_ZONE]的撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Retrieve_Essential_Items_1_Defogger_R2B4.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 3823655844
+}

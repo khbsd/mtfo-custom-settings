@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SQUAIN WEAPON",
+  "Description": "An invitation for the player to select their preferred main firearm.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ARME PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ARMA PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PRIMÄRWAFFE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ARMA PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОСНОВНОЕ ОРУЖИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARMA PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BROŃ GŁÓWNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メイン武器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 무기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.PlayerBar.SelectMainWeapon",
+  "internalEnabled": true,
+  "persistentID": 487
+}

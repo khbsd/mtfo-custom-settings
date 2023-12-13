@@ -1,0 +1,43 @@
+{
+  "officialForRelease": true,
+  "publicName": "Trip Mine",
+  "baseItemID": 37,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 16.67,
+  "PublicGearInfo": "Laser triggered explosion\nPlace on walls and floors",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 166,
+      "partName": "tripmine"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [],
+  "sightsAllowed": [],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 167,
+      "partName": "tripmine_LeftHand"
+    }
+  ],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": false,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": false,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_StickyMine",
+  "internalEnabled": true,
+  "persistentID": 113
+}

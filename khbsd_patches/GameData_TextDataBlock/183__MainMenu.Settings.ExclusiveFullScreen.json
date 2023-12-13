@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exclusive FullScreen",
+  "Description": "The graphic setting \"full screen mode\", controls the behavior of the game application window, can have this setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Plein écran exclusif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tutto schermo esclusivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Exklusiver Vollbildmodus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla completa (exclusivamente)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полноэкранный режим",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tela cheia exclusiva",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pełny ekran",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "排他フルスクリーン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전체 화면",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "僅限全螢幕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "独占全屏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ExclusiveFullScreen",
+  "internalEnabled": true,
+  "persistentID": 183
+}

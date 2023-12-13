@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Throw some glow sticks here",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Lancez des bâtons lumineux par ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lanciate degli starlight qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Knicklichter hierher werfen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lanza unas barras luminosas aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бросьте светящиеся палочки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Jogue uns bastões fluorescentes aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rzucić światło chemiczne, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにグロースティックを投げてくれ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 글로우 스틱 좀 던져봐.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在這裡扔一些螢光棒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扔几个发光棒这里",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Throw_Some_Glow_Sticks_Here",
+  "internalEnabled": true,
+  "persistentID": 1502
+}

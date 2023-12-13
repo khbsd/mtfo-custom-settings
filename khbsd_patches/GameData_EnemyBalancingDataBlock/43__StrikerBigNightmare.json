@@ -1,0 +1,46 @@
+{
+  "Health": {
+    "HealthMax": 640.0,
+    "DamageUntilHitreact": 640.0,
+    "BodypartHealth": 640.0,
+    "WeakspotDamageMulti": 1.1,
+    "ArmorDamageMulti": 0.3,
+    "HitreactOnLimbDestruction": 4,
+    "TryForceHitreactOnLimbDestruction": true
+  },
+  "GlueTolerance": 19.0,
+  "GlueFadeOutTime": 9.0,
+  "CanBePushed": false,
+  "ForbidTwitchHit": false,
+  "AllowDamgeBonusFromBehind": true,
+  "UseTentacleTunnelCheck": true,
+  "UseVisibilityRaycastDuringTentacleAttack": false,
+  "TentacleAttackDamageRadiusIfNoTunnelCheck": 0.0,
+  "TentacleAttackDamage": 6.0,
+  "MeleeAttackDamage": 10.0,
+  "MeleeAttackDamageCheckRadius": 1.3,
+  "TagTime": 60.0,
+  "EnemyCollisionRadius": 0.8,
+  "EnemyCollisionPlayerMovementReduction": 0.5,
+  "EnemyCollisionMinimumMoveSpeedModifier": 0.3,
+  "ScoutTentaclesMoveOutMultiplier": 4.0,
+  "ScoutTentaclesMoveInTime": 3.0,
+  "ScoutTentaclesMoveInDetectedTime": 1.0,
+  "ScoutTentacleSourceExpansionOffset": 0.4,
+  "ScoutTentacleAngleMinMax": {
+    "x": -0.4,
+    "y": 0.0,
+    "normalized": {
+      "x": -1.0,
+      "y": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.4,
+    "sqrMagnitude": 0.160000011
+  },
+  "ScoutTentacleCount": 50,
+  "name": "StrikerBigNightmare",
+  "internalEnabled": true,
+  "persistentID": 43
+}

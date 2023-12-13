@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[LOCKED]",
+  "Description": "A text string indicating that a specific set of expeditions (missions/maps) is locked and inaccessible to the player.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "[VERROUILLÉ]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[BLOCCATE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[GESPERRT]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[BLOQUEADO]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ЗАКРЫТО]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[BLOQUEADA]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[ZABLOKOWANE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ロック中]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[잠김]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[鎖定]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[锁定]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.TierMarkerLocked",
+  "internalEnabled": true,
+  "persistentID": 20
+}

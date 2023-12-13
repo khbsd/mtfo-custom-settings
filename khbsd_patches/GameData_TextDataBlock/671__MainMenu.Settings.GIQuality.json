@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "GI Quality",
+  "Description": "Only translate the word \"quality\".\n\"GI\" stands for \"global illumination\" and should not be translated, unless there is an official term for it.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Qualité d'illumination globale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualità IG",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GI-Qualität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Calidad de GI (iluminación global)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество GI",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade de GI",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość GI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "GIクオリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "GI 품질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "GI品質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "GI质量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GIQuality",
+  "internalEnabled": true,
+  "persistentID": 671
+}

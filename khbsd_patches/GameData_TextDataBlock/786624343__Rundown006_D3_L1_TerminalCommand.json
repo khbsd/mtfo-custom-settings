@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Turns off all active alarms",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactive toutes les alarmes enclenchées",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattiva tutti gli allarmi attivi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet alle aktiven Alarme aus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Apaga todas las alarmas activas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выключает все активные системы сигнализации.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desliga todos os alarmes ativos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyłącza wszystkie aktywne alarmy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発動中の全警報オフ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 경보 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉所有啟用的警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭所有开启的警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown006_D3_L1_TerminalCommand",
+  "internalEnabled": true,
+  "persistentID": 786624343
+}

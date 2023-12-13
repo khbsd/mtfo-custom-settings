@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables subtitles on your HUD",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active les sous-titres sur l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra i sottotitoli sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert Untertitel auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa los subtítulos de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает субтитры в HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa a legenda na interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza napisy w interfejsie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD上に字幕を表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD에 자막을 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在抬頭顯示器上啟用字幕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在平视显示上开启字幕。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SubtitlesVisible",
+  "internalEnabled": true,
+  "persistentID": 2969292836
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..No, not that thing- not again!\r\n<size=200%><color=red>>..INCOMING!!</color></size>\r\n[gunfire, commotion]",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... Non... c'est encore ce truc\u00A0!\r\n<size=200%><color=red>>... ATTENTION\u00A0!</color></size>\r\n[coups de feu, vacarme]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...No, non quella cosa... non di nuovo!\r\n<size=200%><color=red>>...ARRIVA!!</color></size>\r\n[spari, trambusto]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Nein, nicht dieses Ding – nicht schon wieder!\r\n<size=200%><color=red>>… KONTAKT!!</color></size>\r\n[Schüsse, Aufruhr]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">¡No! ¡Otra vez esa cosa!\r\n<size=200%><color=red>>¡SE ACERCA!</color></size>\r\n[disparos, ruido]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Только не это! Опять эта мерзость!\r\n<size=200%><color=red>>...В УКРЫТИЕ!</color></size>\r\n[выстрелы, шум]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">..Ah, não, aquela coisa de novo não!\r\n<size=200%><color=red>>..SE APROXIMANDO!!</color></size>\r\n[tiros, tumulto]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...Tylko nie znowu to coś!\r\n<size=200%><color=red>>...Nadchodzi!</color></size>\r\n[strzały, zamieszanie]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..おい、またアレ...勘弁してくれ！\r\n<size=200%><color=red>>..来るぞ！！</color></size>\r\n[銃声、騒音]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..안 돼, 저건... 이번엔 안 돼!\r\n<size=200%><color=red>>..온다!!</color></size>\r\n[총격, 소란]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…不會吧，又是那東西！\r\n<size=200%><color=red>>…敵人來襲！！</color></size>\r\n[槍聲、騷動]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..不，别又来那玩意儿，有完没完了！\r\n<size=200%><color=red>>..来了！！</color></size>\r\n[炮火声、喧闹声]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown004_C2_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1356439615
+}

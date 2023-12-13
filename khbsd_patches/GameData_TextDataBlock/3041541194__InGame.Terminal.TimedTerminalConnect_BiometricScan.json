@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Biometric security clearance required, enter biometric scan to proceed..",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Habilitation biométrique requise, entrez dans le bioscan pour continuer...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta autorizzazione di sicurezza biometrica. Inserire scansione biometrica per procedere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Biometrische Sicherheitsfreigabe erforderlich. Geben Sie einen biometrischen Scan ein, um fortzufahren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se requiere autorización de seguridad biométrica, accede al escáner biométrico para proseguir.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется биометрическая проверка безопасности. Встаньте в биометрический сканер...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberação de segurança biométrica necessária; insira o escâner biométrico para continuar..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagane biometryczne poświadczenie bezpieczeństwa – wprowadź skan biometryczny, aby kontynuować…",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオメトリックセキュリティクリアランスが必要、バイオメトリックスキャンを開始して続行。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "생체 인식 보안 허가 필요. 생체 인식 스캔으로 진행...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要生物識別安全許可，進入生物識別掃描區以繼續。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要生物识别安全许可，进入生物识别扫描区以继续。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalConnect_BiometricScan",
+  "internalEnabled": true,
+  "persistentID": 3041541194
+}

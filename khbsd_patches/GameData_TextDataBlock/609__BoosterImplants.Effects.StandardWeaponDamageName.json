@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Main damage",
+  "Description": "Refers to how much damage the player's main weapon can deal.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts principaux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primärschaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (основное оружие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano da principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od broni głównej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メインダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기본 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.StandardWeaponDamageName",
+  "internalEnabled": true,
+  "persistentID": 609
+}

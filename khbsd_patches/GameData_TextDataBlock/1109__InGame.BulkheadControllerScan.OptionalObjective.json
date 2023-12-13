@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OPTIONAL OBJECTIVE",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIF SECONDAIRE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVO OPZIONALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "OPTIONALES ZIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVO OPCIONAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ДОПОЛНИТЕЛЬНАЯ ЦЕЛЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVO OPCIONAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CEL DODATKOWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任意目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부가 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可選目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可选目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.OptionalObjective",
+  "internalEnabled": true,
+  "persistentID": 1109
+}

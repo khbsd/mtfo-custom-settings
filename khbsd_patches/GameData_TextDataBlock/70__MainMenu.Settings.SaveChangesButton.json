@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Save Changes",
+  "Description": "As in \"save changes made to game settings\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sauvegarder les changements",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Salva modifiche",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Änderungen speichern",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Guardar cambios",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сохранить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Salvar mudanças",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zapisz zmiany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "変更を保存",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "변경 사항 저장",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "儲存變更",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "保存更改",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SaveChangesButton",
+  "internalEnabled": true,
+  "persistentID": 70
+}

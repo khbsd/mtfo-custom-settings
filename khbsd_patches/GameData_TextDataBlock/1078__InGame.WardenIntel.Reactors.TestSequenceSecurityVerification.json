@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR TEST SEQUENCE: SECURITY VERIFICATION!",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SÉQUENCE DE TEST DU RÉACTEUR\u00A0: VÉRIFICATION DE SÉCURITÉ\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEQUENZA TEST REATTORE: VERIFICA SICUREZZA!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORTESTSEQUENZ: SICHERHEITSVERIFIZIERUNG!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECUENCIA DE PRUEBA DEL REACTOR: ¡VERIFICACIÓN DE SEGURIDAD!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦИКЛ ПРОВЕРКИ РЕАКТОРА: ПРОВЕРКА БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SEQUÊNCIA DE TESTE DE REATOR: VERIFICAÇÃO DE SEGURANÇA!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKWENCJA TESTU REAKTORA: WERYFIKACJA ZABEZPIECZEŃ!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターテストシークエンス：セキュリティ認証！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시험 절차: 보안 인증!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器測試序列：安全驗證！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆测试序列：安全验证！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.TestSequenceSecurityVerification",
+  "internalEnabled": true,
+  "persistentID": 1078
+}

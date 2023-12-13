@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Computer Sperminal",
+  "Description": "Part of the map \"legend\" (icon explanations.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminal informatique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminale computer",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Computerterminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Компьютерный терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Terminal de computador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Terminal komputerowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "컴퓨터 터미널",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電腦終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电脑终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.ComputerTerminal",
+  "internalEnabled": true,
+  "persistentID": 812
+}

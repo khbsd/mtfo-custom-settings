@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for the backup Hard Drive",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le disque dur de secours",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare il disco rigido [HARD_DRIVE] di backup",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie die Backup-Festplatte [HARD_DRIVE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca la copia de seguridad del [HARD DRIVE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поищите резервный жесткий диск.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure o disco rígido de backup",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź zapasowy dysk twardy [HARD_DRIVE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックアップのハードドライブを探せ[HARD_DRIVE]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 하드 드라이브[HARD_DRIVE] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找備份硬碟[HARD_DRIVE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "寻找备份硬盘[HARD_DRIVE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Harddrive_R5A2_L3.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 2391547805
+}

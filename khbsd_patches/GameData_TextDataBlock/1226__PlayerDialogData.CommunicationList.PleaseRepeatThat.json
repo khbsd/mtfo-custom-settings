@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Please repeat that!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Répétez\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ripetete!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bitte wiederholen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Repite eso!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Повторите!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Repita, por favor!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powtórz!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "繰り返してくれ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다시 말해줘!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "請重複一遍！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "请重复！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.PleaseRepeatThat",
+  "internalEnabled": true,
+  "persistentID": 1226
+}

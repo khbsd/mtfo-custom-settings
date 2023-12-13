@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "End of file, Exiting ReadLog v1.12",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Fin du fichier, fermeture de ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fine del file, uscita da ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ende der Datei, ReadLog v1.12 wird geschlossen ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fin del archivo, saliendo de ReadLog v1.12.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Конец файла. Выход из ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fim do arquivo; saindo do ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Koniec pliku, zamykanie ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ファイル終了、ReadLog v1.12を終了中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "파일 끝, 기존 ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "到達文件末尾，正在退出ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "到达文件末尾，正在退出ReadLog v1.12",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.End_of_file_Exiting_ReadLog",
+  "internalEnabled": true,
+  "persistentID": 2282041133
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=green>FORMATTING...</color=green>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=green>FORMATAGE EN COURS...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=green>FORMATTAZIONE...</color=green>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=green>WIRD FORMATIERT\u00A0…</color=green>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=green>FORMATEANDO...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=green>ФОРМАТИРОВАНИЕ...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=green>FORMATANDO...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=green>FORMATOWANIE...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=green>フォーマット中...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=green>포맷 중...</color=green>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=green>正在格式化……</color=green>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=green>正在格式化……</color=green>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8B2.Dimension2.CommandOutput",
+  "internalEnabled": true,
+  "persistentID": 3243491948
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Stick Down",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick gauche (bas)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Levetta sinistra giù",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linker Stick nach unten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Stick izquierdo abajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левый мини-джойстик вниз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direcional esquerdo para baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy drążek w dół",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左スティック下",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "L 스틱 아래",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左搖桿下",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左摇杆向下",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.LeftStickDown",
+  "internalEnabled": true,
+  "persistentID": 974
+}

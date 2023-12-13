@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must be within the light radius of a glowstick for booster to be active.",
+  "Description": "A description of a condition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit être dans le rayon d'un bâton lumineux pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve trovarsi nel campo luminoso di uno starlight per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss sich im Licht eines Knicklichts befinden, damit der Booster aktiv sein kann.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe estar iluminado por una barra luminosa para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, находясь в радиусе действия светящейся палочки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve estar próximo de um bastão fluorescente para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi się znajdować w zasięgu łuny światła chemicznego, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象はグロースティックが照らす範囲内でのみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터가 활성화되려면 대상이 글로우 스틱의 빛이 닿는 범위에 있어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須在螢光棒的發光半徑內才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者必须位于发光棒照明范围内，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsNextToGlowstickDescription",
+  "internalEnabled": true,
+  "persistentID": 786
+}

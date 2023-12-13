@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Almost there",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "On y est presque",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ci siamo quasi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fast geschafft",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ya casi estamos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Почти справились",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Quase lá",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Już prawie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "あと少しだ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다 왔어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "差不多了",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "快到了",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Almost_there",
+  "internalEnabled": true,
+  "persistentID": 1316
+}

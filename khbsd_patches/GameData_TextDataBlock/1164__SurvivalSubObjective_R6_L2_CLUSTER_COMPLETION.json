@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR ONLINE.. WARNING: POWEROVERLOAD.. SYSTEMS INSTABILITY DETECTED..",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "RÉACTEUR EN LIGNE... AVERTISSEMENT\u00A0: SURCHARGE DE PUISSANCE... INSTABILITÉ DES SYSTÈMES DÉTECTÉE...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "REATTORE ONLINE. ATTENZIONE: SOVRACCARICO ENERGIA. RILEVATA INSTABILITÀ SISTEMI.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTOR ONLINE … WARNUNG: STROMÜBERLASTUNG … SYSTEMINSTABILITÄT ERKANNT …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "REACTOR ACTIVADO. ADVERTENCIA: SOBRECARGA DE ENERGÍA. INESTABILIDAD DE SISTEMAS DETECTADA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РЕАКТОР ЗАПУЩЕН. ВНИМАНИЕ! ИЗБЫТОЧНОЕ НАПРЯЖЕНИЕ. ОБНАРУЖЕНА НЕСТАБИЛЬНОСТЬ СИСТЕМ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REATOR ONLINE.. AVISO: SOBRECARGA DE ENERGIA.. INSTABILIDADE DE SISTEMA DETECTADA..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "REAKTOR WŁĄCZONY.. OSTRZEŻENIE: PRZECIĄŻENIE SIECI.. WYKRYTO NIESTABILNOŚĆ SYSTEMÓW..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターオフライン.. 警告：電力オーバーロード.. システムの不安定挙動を検出..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 가동.. 경고: 과부하.. 시스템 불안정 감지..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器上線……警告：電源超載……偵測到系統不穩定……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆在线……警告：能量过载……检测到系统不稳定……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalSubObjective_R6_L2_CLUSTER_COMPLETION",
+  "internalEnabled": true,
+  "persistentID": 1164
+}

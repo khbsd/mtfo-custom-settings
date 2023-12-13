@@ -1,0 +1,25 @@
+{
+  "PublicAlarmName": "Class II Diminished Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 126,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 7.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single x2 - Alarm Even More Diminished",
+  "internalEnabled": true,
+  "persistentID": 179
+}

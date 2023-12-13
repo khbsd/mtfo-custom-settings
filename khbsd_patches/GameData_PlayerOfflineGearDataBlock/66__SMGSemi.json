@@ -1,0 +1,7 @@
+{
+  "Type": 1,
+  "GearJSON": "{\"Ver\":1,\"Name\":\"Drekker CLR\",\"Packet\":{\"Comps\":{\"Length\":17,\"a\":{\"c\":2,\"v\":24},\"b\":{\"c\":3,\"v\":109},\"c\":{\"c\":4,\"v\":49},\"d\":{\"c\":5,\"v\":2},\"e\":{\"c\":6,\"v\":2},\"f\":{\"c\":7,\"v\":1},\"g\":{\"c\":8,\"v\":15},\"h\":{\"c\":9,\"v\":5},\"i\":{\"c\":10,\"v\":17},\"j\":{\"c\":11,\"v\":17},\"k\":{\"c\":12,\"v\":25},\"l\":{\"c\":16,\"v\":7},\"m\":{\"c\":19,\"v\":8},\"n\":{\"c\":21,\"v\":50},\"o\":{\"c\":23,\"v\":5},\"p\":{\"c\":25,\"v\":3}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.07,\"normalized\":{\"x\":1.0,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.07,\"sqrMagnitude\":0.0049},\"angle\":45.0,\"scale\":0.1},\"tDecalB\":{\"position\":{\"x\":0.075,\"y\":0.003,\"normalized\":{\"x\":0.99920094,\"y\":0.0399680361,\"magnitude\":1.0,\"sqrMagnitude\":0.99999994},\"magnitude\":0.07505998,\"sqrMagnitude\":0.00563400052},\"angle\":45.0,\"scale\":0.1},\"tPattern\":{\"position\":{\"x\":0.02,\"normalized\":{\"x\":1.0,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.02,\"sqrMagnitude\":0.0004},\"angle\":200.0,\"scale\":0.5}},\"publicName\":{\"data\":\"SMG Semi\"}}}\n",
+  "name": "SMGSemi",
+  "internalEnabled": true,
+  "persistentID": 66
+}

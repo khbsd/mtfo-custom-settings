@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Playing SFX::one_time_discovery_ping on {0}",
+  "Description": "{0} is an item name. Example: HSU_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Lecture d'effet sonore\u00A0: one_time_discovery_ping sur {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riproduzione SFX::one_time_discovery_ping su {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SFX::one_time_discovery_ping wird an {0} abgespielt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reproduciendo efecto::one_time_discovery_ping en {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Звуковой эффект one_time_discovery_ping\u00A0— {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REPRODUZINDO SFX::one_time_discovery_ping em {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odtwarzanie efektu::one_time_discovery_ping przy: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "SFXを再生中::{0}にone_time_discovery_ping",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "SFX 재생::{0} one_time_discovery_ping",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在{0}執行SFX::one_time_discovery_ping",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在{0}上运行SFX::one_time_discovery_ping",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Playing_SFX_one_time_discovery_ping_on_X",
+  "internalEnabled": true,
+  "persistentID": 2808619867
+}

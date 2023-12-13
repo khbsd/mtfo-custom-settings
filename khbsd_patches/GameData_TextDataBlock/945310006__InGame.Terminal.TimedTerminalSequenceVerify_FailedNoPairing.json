@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification failed! There was no Timed Verification pairing!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échec de la vérification\u00A0! Absence d’appairage de la vérification chronométrée\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica fallita! Non c'è stato alcun abbinamento della verifica a tempo!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung fehlgeschlagen! Es gab keine zeitgesteuerte Verifizierungspaarung!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación fallida! ¡No se ha vinculado ninguna verificación cronometrada!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верификация не пройдена! Не обнаружена синхронизированная верификация!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na verificação! Não houve pareamento de verificação cronometrada!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja nieudana! Brak parowania weryfikacji czasowej!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証失敗！同期認証ペアリングが見つからない！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 실패! 시한 승인 페어링이 없습니다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證失敗！找不到與終端的限時驗證配對！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证失败！无定时验证配对！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_FailedNoPairing",
+  "internalEnabled": true,
+  "persistentID": 945310006
+}

@@ -1,0 +1,17 @@
+{
+  "Type": 1,
+  "Difficulty": 2,
+  "SpawnPlacementType": 2,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Sneak Hard Birther Align_1",
+  "internalEnabled": true,
+  "persistentID": 22
+}

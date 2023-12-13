@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SCAN AT",
+  "Description": "Intermediate message of a Bioscan HUD message. Following this is a percentage number between 0 and 100.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE EN COURS\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCAN BEI",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESCANEAR EN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO EM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POZIOM SKANOWANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャン：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔 진행:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描数值",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.ScanAt",
+  "internalEnabled": true,
+  "persistentID": 1084
+}

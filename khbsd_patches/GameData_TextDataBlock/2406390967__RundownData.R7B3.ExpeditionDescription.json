@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners to retrieve DNA samples from HSU storage annex. Environmental protection equipment will increase survival chances.",
+  "Description": "Explaining the objective of the expedition",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les prisonniers doivent récupérer des échantillons d’ADN dans l’annexe de dépôt des HSU. Un équipement de protection environnemental permettra d’augmenter les chances de survie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati a recuperare campioni di DNA dall'annesso magazzino HSU. L'equipaggiamento per la protezione dell'ambiente aumenterà le probabilità di sopravvivenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gefangene entsenden, um DNA-Proben aus dem HSU-Lagerhaus zu holen. Umweltschutzausrüstung erhöht die Überlebenschancen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Los prisioneros deben obtener muestras de ADN del almacén de HSU. El equipo de protección ambiental aumentará la probabilidad de supervivencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным приказано извлечь образцы ДНК из хранилища HSU. Средства защиты от внешних воздействий существенно повысят вероятность выживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros a caminho de recuperar amostras de DNA no anexo de armazenamento de HSU. Equipamentos de proteção ambiental aumentarão as chances de sobrevivência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Więźniowie mają odzyskać próbki DNA z aneksu magazynowego HSU. Wyposażenie ochrony środowiskowej zwiększy szanse przeżycia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人たちはHSU倉庫別館からDNAサンプルを回収。環境保護装備があると生存の可能性が高まる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 HSU 저장소에서 DNA 샘플 회수. 환경 보호 장비가 생존률을 상승시킵니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯必須從HSU附屬儲存空間取得DNA樣本。環境保護裝備可提高生存機率。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯去取回HSU附属存储器中的DNA样本。环境保护装备将提高生存几率。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "RundownData.R7B3.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2406390967
+}

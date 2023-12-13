@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to Zone 2",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la zone\u00A02",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere ZONE 2",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu ZONE 2.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta la ZONE 2.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в ZONE 2.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prosseguir para a Zone 2",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 2 [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 2へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 2로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往ZONE 2",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往ZONE 2",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8_C1_1",
+  "internalEnabled": true,
+  "persistentID": 86662620
+}

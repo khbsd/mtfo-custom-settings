@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Contact Shadows",
+  "Description": "The term \"contact shadows\" could also be translated to \"sharper shadows\" or \"increased shadow sharpness\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ombres plus nettes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nitidezza ombre",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kontaktschatten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Nitidez de sombras",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Четкость теней",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sombras mais nítidas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrość cieni",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "影のシャープネス増加",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "선명한 그림자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "銳利陰影",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "接触阴影",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ContactShadows",
+  "internalEnabled": true,
+  "persistentID": 95
+}

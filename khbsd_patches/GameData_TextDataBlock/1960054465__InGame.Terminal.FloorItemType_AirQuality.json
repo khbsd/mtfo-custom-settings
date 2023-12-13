@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AirQuality",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Qualitédel’air",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualità aria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Luftqualität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CalidadAire",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вентиляция",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade do ar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość powietrza",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "大気クオリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공기품질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空氣品質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空气质量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemType_AirQuality",
+  "internalEnabled": true,
+  "persistentID": 1960054465
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for Plant Samples in the Complex",
+  "Description": "Don't localize Plant Samples. Plant Samples is because they are important mission objectives. They are searchable in the terminals using the same name. The terminals are in English and is not localized in any way.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Cherchez des échantillons végétaux [PLANT] dans le complexe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare campioni di piante [PLANT] nel Complesso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach Pflanzenproben [PLANT].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca muestras de plantas [PLANT] en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите образцы растений в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure amostras de plantas [PLANT] no complexo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź próbki roślin w kompleksie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内で植物サンプル[PLANT]を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 [PLANT] 식물 샘플 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施中尋找植物樣本[PLANT]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找植物样本[PLANT]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Gather_plant.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 953
+}

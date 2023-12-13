@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gamepad Max Speed",
+  "Description": "A headline for the game setting where you choose the max speed for the gamepad.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vitesse max de la manette",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità massima controller",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gamepad-Höchstgeschwindigkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad máxima (mando)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Макс. скорость геймпада",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade máx. do gamepad",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Limit szybkości – kontroler",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッド最大速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 최고 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器最大速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄最大速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GamepadMaxSpeed",
+  "internalEnabled": true,
+  "persistentID": 84
+}

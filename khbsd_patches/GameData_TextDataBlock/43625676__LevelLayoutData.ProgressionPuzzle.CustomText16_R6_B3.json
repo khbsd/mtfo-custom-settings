@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power instability detected at 993 meters. Multiple events suggest premeditation. Prisoners sent to activate emergency power supply units.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Instabilité du courant détectée à 993\u00A0mètres. De multiples événements semblent indiquer une préméditation. Les prisonniers ont été envoyés pour démarrer les unités d'alimentation de secours.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilevata alimentazione instabile a 993 metri. Eventi multipli suggeriscono premeditazione. Prigionieri inviati ad attivare alimentatori di emergenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Instabilität der Stromversorgung bei 993 Metern entdeckt. Mehrere Ereignisse deuten auf Vorsatz hin. Gefangene entsandt, um die Notstromversorgungseinheiten zu aktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inestabilidad energética detectada a 993 metros. Varios hechos apuntan a un origen premeditado. Prisioneros destinados a activar las unidades eléctricas de apoyo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В 993\u00A0метрах обнаружено нестабильное электроснабжение. События указывают на преднамеренный замысел. Заключенным поручено запустить аварийные источники питания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Instabilidade elétrica detectada a 993 metros. Diversos eventos sugerem algo premeditado. Prisioneiros enviados para ativar unidades de fornecimento elétrico de emergência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykryto niestabilność zasilania na 993 metrach. Wielokrotność zdarzeń wskazuje na umyślne działanie. Wysłano więźniów w celu włączenia zasilaczy awaryjnych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "993メートル先に不安定な電力を検出。複数の事象から事前準備を推奨。非常電力供給ユニットの起動のため囚人を派遣。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "993m에서 전력 불안정이 탐지됐습니다. 사전 계획의 징후가 여럿 있습니다. 비상 파워 서플라이 유닛 가동을 위해 수감자들이 투입됐습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在993公尺處偵測到電源不穩定。多個事件顯示為預謀。派遣囚犯前往啟動緊急電源裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "检测到993米处电源不稳定。多起事件表明需要预先行动。囚犯派去启动应急电源装置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText16_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 43625676
+}

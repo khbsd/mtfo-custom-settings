@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the [ALL_ITEMS]",
+  "Description": "Don't localize [ALL_ITEMS] it will be replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez l'objet\u00A0: [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1047
+}

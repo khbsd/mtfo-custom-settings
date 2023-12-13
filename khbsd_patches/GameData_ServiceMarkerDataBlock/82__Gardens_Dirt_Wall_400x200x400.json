@@ -1,0 +1,149 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        4,
+        7
+      ],
+      [],
+      [],
+      [
+        0,
+        4,
+        7
+      ],
+      [
+        0,
+        4,
+        7,
+        1,
+        5,
+        2
+      ],
+      [
+        0,
+        4,
+        7,
+        1,
+        5,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        4,
+        7,
+        1,
+        5,
+        3,
+        2
+      ],
+      [
+        0,
+        4,
+        7,
+        1,
+        5,
+        3,
+        2
+      ],
+      [
+        0,
+        4,
+        7,
+        1,
+        5,
+        3,
+        2
+      ],
+      [],
+      [
+        3
+      ],
+      [
+        0,
+        4,
+        7
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        3
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V01.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V02.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V03.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V04.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V05.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V06.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V07.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V08.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Wall_400x200x400/Gardens_Dirt_Wall_400x200x400_V09.prefab",
+        "function": 0,
+        "Shard": 7
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_wall_4x2x4",
+    "BoundingVolume": 32000.0
+  },
+  "name": "Gardens_Dirt_Wall_400x200x400",
+  "internalEnabled": true,
+  "persistentID": 82
+}

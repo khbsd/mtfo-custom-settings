@@ -1,0 +1,25 @@
+{
+  "PublicName": "",
+  "Category": 9,
+  "Weight": 1,
+  "LootCollection": [
+    {
+      "m_amountAbs": 0,
+      "m_type": 2,
+      "m_amountRel": 0.1
+    },
+    {
+      "m_amountAbs": 0,
+      "m_type": 0,
+      "m_amountRel": 0.1
+    },
+    {
+      "m_amountAbs": 0,
+      "m_type": 1,
+      "m_amountRel": 0.1
+    }
+  ],
+  "name": "LootSmall_1",
+  "internalEnabled": true,
+  "persistentID": 6
+}

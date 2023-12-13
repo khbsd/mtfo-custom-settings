@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sentry CPU speed",
+  "Description": "I.e. how fast the computer processor in a sentry gun works.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tourelle overclockée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità CPU torretta autom.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-CPU-Geschwindigkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad de CPU centinela",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость ЦП турели",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade da CPU sentinela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość CPU działka wartowniczego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セントリーCPU速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "센트리 CPU 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "自動砲台CPU速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "哨戒炮CPU速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunSpeedName",
+  "internalEnabled": true,
+  "persistentID": 593
+}

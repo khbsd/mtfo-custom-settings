@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Stick Down",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick droit (bas)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Levetta destra giù",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechter Stick nach unten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Stick derecho abajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правый мини-джойстик вниз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direcional direito para baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy drążek w dół",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右スティック下",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "R 스틱 아래",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右搖桿下",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右摇杆向下",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.RightStickDown",
+  "internalEnabled": true,
+  "persistentID": 979
+}

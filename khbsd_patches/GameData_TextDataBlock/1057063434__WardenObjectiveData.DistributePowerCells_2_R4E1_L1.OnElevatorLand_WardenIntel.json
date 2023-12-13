@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency Lockdown in effect - Purification system malfunctioning.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage d'urgence activé - Dysfonctionnement du système de purification.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento d'emergenza attivo: malfunzionamento sistema di purificazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notverriegelung in Kraft – Reinigungssystem defekt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia activo. El sistema de purificación no funciona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действует режим изоляции. Сбой системы очистки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento de emergência ativo - Defeito no sistema de purificação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wdrożono blokadę awaryjną – awaria systemu oczyszczania powietrza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急封鎖中。正常システムに異常発生中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 폐쇄 중 - 정화 시스템 고장.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緊急封鎖生效中 - 淨化系統故障。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "紧急封锁生效 - 净化系统发生故障。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.DistributePowerCells_2_R4E1_L1.OnElevatorLand_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1057063434
+}

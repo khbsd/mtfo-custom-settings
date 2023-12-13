@@ -1,0 +1,24 @@
+{
+  "General": {
+    "PublicName": "Gun Stock 3",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Rifle_2.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Precision_2_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 1,
+    "RightHandGripAnim": "DefaultGrip",
+    "AssetBundle": 40,
+    "BundleShard": 12
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_Rifle_2",
+  "internalEnabled": true,
+  "persistentID": 3
+}

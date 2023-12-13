@@ -1,0 +1,710 @@
+{
+  "Type": 1,
+  "Header": 0,
+  "MainObjective": 2146429013,
+  "WardenObjectiveSpecialUpdateType": 0,
+  "GenericItemFromStart": 0,
+  "DoNotMarkPickupItemsAsWardenObjectives": false,
+  "OverrideNoRequiredItemsForExit": false,
+  "FindLocationInfo": 287116525,
+  "FindLocationInfoHelp": 0,
+  "GoToZone": 0,
+  "GoToZoneHelp": 0,
+  "InZoneFindItem": 638799006,
+  "InZoneFindItemHelp": 0,
+  "SolveItem": 2094704068,
+  "SolveItemHelp": 0,
+  "GoToWinCondition_Elevator": 1717693252,
+  "GoToWinConditionHelp_Elevator": 0,
+  "GoToWinCondition_CustomGeo": 0,
+  "GoToWinConditionHelp_CustomGeo": 0,
+  "GoToWinCondition_ToMainLayer": 0,
+  "GoToWinConditionHelp_ToMainLayer": 0,
+  "ShowHelpDelay": 180.0,
+  "WavesOnElevatorLand": [],
+  "EventsOnElevatorLand": [],
+  "WaveOnElevatorWardenIntel": 0,
+  "FogTransitionDataOnElevatorLand": 0,
+  "FogTransitionDurationOnElevatorLand": 0.0,
+  "OnActivateOnSolveItem": false,
+  "WavesOnActivate": [],
+  "EventsOnActivate": [],
+  "StopAllWavesBeforeGotoWin": false,
+  "WavesOnGotoWin": [
+    {
+      "WaveSettings": 11,
+      "WavePopulation": 6,
+      "AreaDistance": 2,
+      "SpawnDelay": 35.0,
+      "TriggerAlarm": false,
+      "IntelMessage": 0
+    }
+  ],
+  "WaveOnGotoWinTrigger": 0,
+  "EventsOnGotoWin": [
+    {
+      "Type": 2,
+      "Condition": {
+        "ConditionIndex": -1,
+        "IsTrue": false
+      },
+      "Trigger": 0,
+      "ChainPuzzle": 0,
+      "UseStaticBioscanPoints": false,
+      "Layer": 0,
+      "DimensionIndex": 0,
+      "LocalIndex": 17,
+      "Delay": 0.0,
+      "Duration": 0.0,
+      "ClearDimension": false,
+      "WardenIntel": 0,
+      "CustomSubObjectiveHeader": 0,
+      "CustomSubObjective": 0,
+      "SoundID": 0,
+      "SoundSubtitle": 0,
+      "DialogueID": 0,
+      "FogSetting": 0,
+      "FogTransitionDuration": 0.0,
+      "EnemyWaveData": {
+        "WaveSettings": 0,
+        "WavePopulation": 0,
+        "AreaDistance": 2,
+        "SpawnDelay": 0.0,
+        "TriggerAlarm": false,
+        "IntelMessage": 0
+      },
+      "EnemyID": 0,
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "Count": 0,
+      "Enabled": false,
+      "TerminalCommand": 0,
+      "TerminalCommandRule": 0,
+      "SustainedEventSlotIndex": 0,
+      "SustainedEventStateCount": 0,
+      "SustainedEventStateDuration": 0.0,
+      "SustainedEventDelay": 0.0
+    },
+    {
+      "Type": 9,
+      "Condition": {
+        "ConditionIndex": -1,
+        "IsTrue": false
+      },
+      "Trigger": 0,
+      "ChainPuzzle": 0,
+      "UseStaticBioscanPoints": false,
+      "Layer": 0,
+      "DimensionIndex": 0,
+      "LocalIndex": 0,
+      "Delay": 0.0,
+      "Duration": 0.0,
+      "ClearDimension": false,
+      "WardenIntel": 0,
+      "CustomSubObjectiveHeader": 0,
+      "CustomSubObjective": 0,
+      "SoundID": 0,
+      "SoundSubtitle": 0,
+      "DialogueID": 0,
+      "FogSetting": 0,
+      "FogTransitionDuration": 0.0,
+      "EnemyWaveData": {
+        "WaveSettings": 11,
+        "WavePopulation": 1,
+        "AreaDistance": 2,
+        "SpawnDelay": 0.0,
+        "TriggerAlarm": false,
+        "IntelMessage": 0
+      },
+      "EnemyID": 0,
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "Count": 0,
+      "Enabled": false,
+      "TerminalCommand": 0,
+      "TerminalCommandRule": 0,
+      "SustainedEventSlotIndex": 0,
+      "SustainedEventStateCount": 0,
+      "SustainedEventStateDuration": 0.0,
+      "SustainedEventDelay": 0.0
+    }
+  ],
+  "EventsOnGotoWinTrigger": 0,
+  "FogTransitionDataOnGotoWin": 0,
+  "FogTransitionDurationOnGotoWin": 0.0,
+  "ChainedPuzzleToActive": 10,
+  "ChainedPuzzleMidObjective": 0,
+  "ChainedPuzzleAtExit": 11,
+  "ChainedPuzzleAtExitScanSpeedMultiplier": 2.0,
+  "Gather_RequiredCount": -1,
+  "Gather_ItemId": 0,
+  "Gather_SpawnCount": 0,
+  "Gather_MaxPerZone": 0,
+  "Retrieve_Items": [],
+  "ReactorWaves": [
+    {
+      "Warmup": 30.0,
+      "WarmupFail": 20.0,
+      "Wave": 80.0,
+      "Verify": 80.0,
+      "VerifyFail": 40.0,
+      "VerifyInOtherZone": true,
+      "ZoneForVerification": 16,
+      "EnemyWaves": [
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 10,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.0,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 199,
+          "WavePopulation": 8,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.25,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 196,
+          "WavePopulation": 10,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.45,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 129,
+          "WavePopulation": 8,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.65,
+          "SpawnType": 0
+        }
+      ],
+      "Events": [
+        {
+          "Type": 1,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 1,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 19,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "993__<xXX%||<<12",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        },
+        {
+          "Type": 1,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 1,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 20,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": 0,
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        },
+        {
+          "Type": 2,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 2,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 16,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "207__<xssX%||<//´<",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        }
+      ]
+    },
+    {
+      "Warmup": 30.0,
+      "WarmupFail": 20.0,
+      "Wave": 100.0,
+      "Verify": 120.0,
+      "VerifyFail": 40.0,
+      "VerifyInOtherZone": true,
+      "ZoneForVerification": 13,
+      "EnemyWaves": [
+        {
+          "WaveSettings": 197,
+          "WavePopulation": 35,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.0,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 37,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.25,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 37,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.25,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 35,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.65,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 37,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.65,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 196,
+          "WavePopulation": 35,
+          "AreaDistance": 10,
+          "SpawnTimeRel": 0.8,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 37,
+          "AreaDistance": 10,
+          "SpawnTimeRel": 0.8,
+          "SpawnType": 0
+        }
+      ],
+      "Events": [
+        {
+          "Type": 2,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 2,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 13,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        }
+      ]
+    },
+    {
+      "Warmup": 30.0,
+      "WarmupFail": 20.0,
+      "Wave": 110.0,
+      "Verify": 185.0,
+      "VerifyFail": 50.0,
+      "VerifyInOtherZone": true,
+      "ZoneForVerification": 14,
+      "EnemyWaves": [
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 6,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.0,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 199,
+          "WavePopulation": 10,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.1,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 129,
+          "WavePopulation": 35,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.35,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 10,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.4,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 35,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.75,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 16,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.85,
+          "SpawnType": 0
+        }
+      ],
+      "Events": [
+        {
+          "Type": 2,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 2,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 14,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        }
+      ]
+    },
+    {
+      "Warmup": 30.0,
+      "WarmupFail": 20.0,
+      "Wave": 105.0,
+      "Verify": 420.0,
+      "VerifyFail": 60.0,
+      "VerifyInOtherZone": true,
+      "ZoneForVerification": 15,
+      "EnemyWaves": [
+        {
+          "WaveSettings": 128,
+          "WavePopulation": 5,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.0,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 199,
+          "WavePopulation": 15,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.0,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 196,
+          "WavePopulation": 36,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.35,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 198,
+          "WavePopulation": 15,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.7,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 129,
+          "WavePopulation": 5,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.7,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 200,
+          "WavePopulation": 16,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.8,
+          "SpawnType": 0
+        },
+        {
+          "WaveSettings": 7,
+          "WavePopulation": 1,
+          "AreaDistance": 2,
+          "SpawnTimeRel": 0.95,
+          "SpawnType": 0
+        }
+      ],
+      "Events": [
+        {
+          "Type": 2,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 2,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 15,
+          "Delay": 0.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "%%gIPIO>x<a>>%Xgj[ZONE_15]",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0,
+          "SustainedEventSlotIndex": 0,
+          "SustainedEventStateCount": 0,
+          "SustainedEventStateDuration": 0.0,
+          "SustainedEventDelay": 0.0
+        }
+      ]
+    }
+  ],
+  "LightsOnFromBeginning": false,
+  "LightsOnDuringIntro": false,
+  "LightsOnWhenStartupComplete": false,
+  "DoNotSolveObjectiveOnReactorComplete": false,
+  "SpecialTerminalCommand": "",
+  "SpecialTerminalCommandDesc": "",
+  "PostCommandOutput": [],
+  "SpecialCommandRule": 0,
+  "PowerCellsToDistribute": 0,
+  "Uplink_NumberOfVerificationRounds": 0,
+  "Uplink_NumberOfTerminals": 1,
+  "Uplink_WaveSpawnType": 1,
+  "CentralPowerGenClustser_NumberOfGenerators": 0,
+  "CentralPowerGenClustser_NumberOfPowerCells": 4,
+  "CentralPowerGenClustser_FogDataSteps": [],
+  "ActivateHSU_ItemFromStart": 0,
+  "ActivateHSU_ItemAfterActivation": 0,
+  "ActivateHSU_BringItemInElevator": true,
+  "ActivateHSU_MarkItemInElevatorAsWardenObjective": false,
+  "ActivateHSU_StopEnemyWavesOnActivation": false,
+  "ActivateHSU_ObjectiveCompleteAfterInsertion": false,
+  "ActivateHSU_RequireItemAfterActivationInExitScan": false,
+  "ActivateHSU_Events": [],
+  "Survival_TimeToActivate": 0.0,
+  "Survival_TimeToSurvive": 0.0,
+  "Survival_TimerTitle": 0,
+  "Survival_TimerToActivateTitle": 0,
+  "GatherTerminal_SpawnCount": 0,
+  "GatherTerminal_RequiredCount": 0,
+  "GatherTerminal_Command": "",
+  "GatherTerminal_CommandHelp": "",
+  "GatherTerminal_DownloadingText": "",
+  "GatherTerminal_DownloadCompleteText": "",
+  "GatherTerminal_DownloadTime": -1.0,
+  "TimedTerminalSequence_NumberOfRounds": 3,
+  "TimedTerminalSequence_NumberOfTerminals": 1,
+  "TimedTerminalSequence_TimePerRound": 90.0,
+  "TimedTerminalSequence_TimeForConfirmation": 10.0,
+  "TimedTerminalSequence_UseFilterForSourceTerminalPicking": false,
+  "TimedTerminalSequence_SourceTerminalWorldEventObjectFilter": "",
+  "TimedTerminalSequence_EventsOnSequenceStart": [],
+  "TimedTerminalSequence_EventsOnSequenceDone": [],
+  "TimedTerminalSequence_EventsOnSequenceFail": [],
+  "name": "Reactor_Startup_Waves_4_R7E1",
+  "internalEnabled": true,
+  "persistentID": 137
+}

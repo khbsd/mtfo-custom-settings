@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//:Decoded warden transmission",
+  "Description": "The header of a message from the Warden. This is displayed in the HUD.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "//:Transmission du gardien décodée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//:Trasmissione del guardiano decodificata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//:Dekodierte Übertragung des Aufsehers",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//:Transmisión del guardián descifrada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//:Расшифрованная передача смотрителя",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//:Transmissão da guarda decodificada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//:Zdekodowano transmisję strażnika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//:ウォーデンの通信を検出",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//:해독된 교도관 통신 메시지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//:已解碼典獄長傳輸",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//:已解码督察传输",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.DecodedWardenTransmission",
+  "internalEnabled": true,
+  "persistentID": 1063
+}

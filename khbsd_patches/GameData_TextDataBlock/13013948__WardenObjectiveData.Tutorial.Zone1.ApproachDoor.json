@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate <color=orange>bioscan</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activez le <color=orange>bioscan</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare <color=orange>bio-scanner</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktivieren Sie den <color=orange>Bioscan</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el <color=orange>bioescáner</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте <color=orange>биосканер</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativar <color=orange>bioescâner</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom <color=orange>bioskaner</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>バイオスキャン</color>を実行",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>바이오스캔</color> 활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動<color=orange>生物掃描</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激活<color=orange>生物扫描</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Tutorial.Zone1.ApproachDoor",
+  "internalEnabled": true,
+  "persistentID": 13013948
+}

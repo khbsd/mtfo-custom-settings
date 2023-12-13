@@ -1,0 +1,97 @@
+{
+  "officialForRelease": true,
+  "publicName": "Shotgun [TP][AT]",
+  "baseItemID": 98,
+  "weaponPersonalityID": 4,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": true,
+      "archetypeID": 9,
+      "macroText": "Pump"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 0,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 11,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 13,
+      "macroText": "Special Burst"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Semi automatic\r\nShort range\r\nBlast fire with spread\r\r\n",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 157,
+      "partName": "ShotgunKoning_righthand_grip"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": false,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight"
+    },
+    {
+      "allowed": false,
+      "ID": 16,
+      "partName": "flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "flashlight_small_halogen"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 118,
+      "partName": "Grip_shotgun_grip_for_barrels"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": true,
+      "ID": 111,
+      "partName": "muzzle_f"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": false,
+  "allowEmptyMuzzleSlot": false,
+  "allowEmptyMagazineSlot": true,
+  "name": "Special_Shotgun",
+  "internalEnabled": true,
+  "persistentID": 118
+}

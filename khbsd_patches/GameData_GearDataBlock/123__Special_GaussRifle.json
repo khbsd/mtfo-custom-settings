@@ -1,0 +1,252 @@
+{
+  "officialForRelease": true,
+  "publicName": "Gauss Rifle Advanced [AT][TP][SP][RR]",
+  "baseItemID": 104,
+  "weaponPersonalityID": 36,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": true,
+      "archetypeID": 16,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Very high damage\r\nLong range\r\nLow ammo reserves\r",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 2,
+      "partName": "Rifle_AKM_Grip"
+    },
+    {
+      "allowed": true,
+      "ID": 72,
+      "partName": "Rifle_FNC_Grip"
+    },
+    {
+      "allowed": false,
+      "ID": 7,
+      "partName": "Rifle_AR15_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [
+    {
+      "allowed": false,
+      "ID": 4,
+      "partName": "Rifle_AKM_Stock"
+    },
+    {
+      "allowed": true,
+      "ID": 9,
+      "partName": "Rifle_AR15_Stock"
+    },
+    {
+      "allowed": false,
+      "ID": 74,
+      "partName": "Rifle_FNC_Stock"
+    }
+  ],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 1,
+      "partName": "Rifle_AKM_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 71,
+      "partName": "Rifle_FNC_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 84,
+      "partName": "Rifle_AKM_Mod_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 5,
+      "partName": "Rifle_AR15_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 3,
+      "partName": "Rifle_AKM_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 20,
+      "partName": "Rifle_GasParts_Receiver_a"
+    },
+    {
+      "allowed": false,
+      "ID": 73,
+      "partName": "Rifle_FNC_Receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 83,
+      "partName": "Rifle_AKM_Mod_Receiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": false,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight",
+      "macroText": "Hi Power Light"
+    },
+    {
+      "allowed": false,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    },
+    {
+      "allowed": false,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": false,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    },
+    {
+      "allowed": false,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    },
+    {
+      "allowed": false,
+      "ID": 137,
+      "partName": "Tool_FlashlightSmall_b"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": false,
+      "ID": 52,
+      "partName": "Sight_NavTech_Sight"
+    },
+    {
+      "allowed": false,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    },
+    {
+      "allowed": false,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    },
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    },
+    {
+      "allowed": false,
+      "ID": 81,
+      "partName": "Sight_Rear_Makeshift_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 5,
+      "partName": "Rifle_AR15_Barrel"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": false,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": true,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": false,
+      "ID": 107,
+      "partName": "muzzle_c"
+    }
+  ],
+  "magazinesAllowed": [
+    {
+      "allowed": false,
+      "ID": 141,
+      "partName": "magazine_rifle_bent_medium_quick"
+    },
+    {
+      "allowed": false,
+      "ID": 139,
+      "partName": "magazine_rifle_angled_medium"
+    },
+    {
+      "allowed": false,
+      "ID": 140,
+      "partName": "magazine_rifle_bent_medium"
+    },
+    {
+      "allowed": true,
+      "ID": 142,
+      "partName": "magazine_rifle_curved_large"
+    },
+    {
+      "allowed": false,
+      "ID": 143,
+      "partName": "magazine_rifle_curved_medium"
+    },
+    {
+      "allowed": false,
+      "ID": 144,
+      "partName": "magazine_rifle_drum_large"
+    }
+  ],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": false,
+  "allowEmptyMuzzleSlot": false,
+  "allowEmptyMagazineSlot": false,
+  "name": "Special_GaussRifle",
+  "internalEnabled": true,
+  "persistentID": 123
+}

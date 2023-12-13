@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "This door",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cette porte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Questa porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Diese Tür",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Por esta puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эта дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esta porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Te drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このドアだ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 문이다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這道門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这扇门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.This_door",
+  "internalEnabled": true,
+  "persistentID": 1336
+}

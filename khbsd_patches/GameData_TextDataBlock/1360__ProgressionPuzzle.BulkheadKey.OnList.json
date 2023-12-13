@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find a <color=orange>BULKHEAD_KEY</color>. Found IDs: [DYNAMIC_ZONES]. Use the <color=orange>LIST</color> and <color=orange>QUERY</color> commands on a terminal to access more information.",
+  "Description": "Don't localize QUERY, LIST, [DYNAMIC_ZONES] and BULKHEAD_KEY.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez une clé de cloison [<color=orange>BULKHEAD_KEY</color>]. IDs trouvés\u00A0: [DYNAMIC_ZONES]. Utilisez les commandes <color=orange>LIST</color> et <color=orange>QUERY</color> sur un terminal pour plus d'informations.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare una <color=orange>BULKHEAD_KEY</color>. ID trovati: [DYNAMIC_ZONES]. Usare i comandi <color=orange>LIST</color> e <color=orange>QUERY</color> su un terminale per accedere a ulteriori informazioni.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie einen <color=orange>BULKHEAD_KEY</color>. Gefundene IDs: [DYNAMIC_ZONES]. Nutzen Sie die Befehle <color=orange>LIST</color> und <color=orange>QUERY</color> an einem Terminal, um mehr Informationen abzurufen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca una <color=orange>llave de contención [BULKHEAD_KEY]</color>. ID. encontrados: [DYNAMIC_ZONES]. Usa los comandos <color=orange>LIST</color> y <color=orange>QUERY</color> en una terminal para acceder a más información.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>BULKHEAD_KEY</color>. Найденные идентификаторы: [DYNAMIC_ZONES]. Используйте команды <color=orange>LIST</color> и <color=orange>QUERY</color> на терминале, чтобы получить сведения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre uma <color=orange>BULKHEAD_KEY</color>. IDs encontradas: [DYNAMIC_ZONES]. Use os comandos <color=orange>LIST</color> e <color=orange>QUERY</color> em um terminal para acessar mais informações.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>klucz grodzi [BULKHEAD_KEY]</color>. Znalezione identyfikatory: [DYNAMIC_ZONES]. Użyj poleceń <color=orange>LIST</color> i <color=orange>QUERY</color> w terminalu, aby uzyskać więcej informacji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>BULKHEAD_KEY</color>を見つけろ。発見したID：[DYNAMIC_ZONES]。端末に<color=orange>LIST</color>コマンドと<color=orange>QUERY</color>コマンドを使用して更なる情報にアクセスしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[BULKHEAD_KEY] <color=orange>격벽 키</color>를 찾으십시오. 발견 ID: [DYNAMIC_ZONES]. 터미널에서 <color=orange>LIST</color> 및 <color=orange>QUERY</color> 명령을 사용해 더 많은 정보를 확인하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找<color=orange>BULKHEAD_KEY</color>。已找到ID：[DYNAMIC_ZONES]。在終端使用<color=orange>LIST</color>與<color=orange>QUERY</color>指令來存取更多資訊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到一个<color=orange>BULKHEAD_KEY</color>。找到ID：[DYNAMIC_ZONES]。在终端上使用<color=orange>LIST</color>和<color=orange>QUERY</color>命令访问更多信息。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "ProgressionPuzzle.BulkheadKey.OnList",
+  "internalEnabled": true,
+  "persistentID": 1360
+}

@@ -1,0 +1,178 @@
+{
+  "officialForRelease": false,
+  "publicName": "Buckland [AT] [TP]",
+  "baseItemID": 21,
+  "weaponPersonalityID": 4,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 2,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 9,
+      "macroText": "Pump Omneco"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 11,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 13,
+      "macroText": "Special Burst"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 41,
+      "partName": "590A_grip"
+    },
+    {
+      "allowed": true,
+      "ID": 44,
+      "partName": "benelli_grip"
+    },
+    {
+      "allowed": true,
+      "ID": 70,
+      "partName": "shotgun_grip_sawed_off"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": true,
+      "ID": 40,
+      "partName": "590A_barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 43,
+      "partName": "benelli_barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 67,
+      "partName": "shotgun_barrel_a"
+    },
+    {
+      "allowed": false,
+      "ID": 69,
+      "partName": "shotgun_barrel_shorty"
+    },
+    {
+      "allowed": true,
+      "ID": 82,
+      "partName": "Shotgun_Mod_Barrel_a"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 42,
+      "partName": "590A_receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 45,
+      "partName": "benelli_receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 25,
+      "partName": "Hydraulic_ShotgunReceiver_a"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": false,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "flashlight_small_halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    },
+    {
+      "allowed": true,
+      "ID": 137,
+      "partName": "Tool_FlashlightSmall_b"
+    },
+    {
+      "allowed": true,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 68,
+      "partName": "WPN_590_sights"
+    },
+    {
+      "allowed": true,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    },
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    },
+    {
+      "allowed": true,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": false,
+      "ID": 117,
+      "partName": "Grip_Shotgun_Barrel_Shorty"
+    },
+    {
+      "allowed": true,
+      "ID": 118,
+      "partName": "Grip_shotgun_grip_for_barrels"
+    }
+  ],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": false,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Special_Mossberg",
+  "internalEnabled": true,
+  "persistentID": 108
+}

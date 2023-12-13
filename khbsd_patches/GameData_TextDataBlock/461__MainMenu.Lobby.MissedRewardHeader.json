@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Missed Boosters!",
+  "Description": "A headline for a text box that informs the player that they would have received boosters as a reward, but didn't meet the conditions required to do so.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Boosters manqués\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Potenziamento perso!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verpasste Booster!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Potenciadores perdidos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Упущенные усилители!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Perdeu impulsos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pominięto wzmacniacze!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースターを入手できなかった！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터를 놓쳤습니다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯失強化劑！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错过强化剂！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.MissedRewardHeader",
+  "internalEnabled": true,
+  "persistentID": 461
+}

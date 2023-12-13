@@ -1,0 +1,162 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkRubber"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkRubber_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMud"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkMud_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkGravel"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkGravel_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkWood"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkWood_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSand"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerWalkSand_3rd"
+    }
+  ],
+  "effectData": [],
+  "name": "player_footstep_walk",
+  "internalEnabled": true,
+  "persistentID": 20
+}

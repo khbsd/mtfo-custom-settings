@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gamepad Look Sensitivity",
+  "Description": "A headline for the game setting where you choose how sensitive the gamepad is when you look around.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sensibilité de la manette (vision)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità controller per vista",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gamepad-Blickempfindlichkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sensibilidad al mirar (mando)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность геймпада при управлении взглядом",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sensibilidade de vista do gamepad",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość przy rozglądaniu się – kontroler",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッド視点感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 시야 감도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器視覺靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄视角灵敏度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GamepadLookSensitivity",
+  "internalEnabled": true,
+  "persistentID": 82
+}

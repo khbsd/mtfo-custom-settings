@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nSigns on walls establish current location.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nLes inscriptions affichées au mur vous renseignent sur votre emplacement actuel.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nI segni sui muri indicano la posizione attuale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDie Schilder an den Wänden zeigen den aktuellen Standort an.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nLas señales de las paredes indican la ubicación actual.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nМетки на стенах позволяют определить текущее положение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nA sinalização nas paredes estabelece a localização atual.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nOznaczenia na ścianach pozwalają określić bieżące położenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n壁の記号が現在地を確定する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n벽 표지판이 현재 위치를 설정합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n可經由牆壁上的記號判別目前位置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n墙壁上的标志表明当前位置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_04",
+  "internalEnabled": true,
+  "persistentID": 4189385694
+}

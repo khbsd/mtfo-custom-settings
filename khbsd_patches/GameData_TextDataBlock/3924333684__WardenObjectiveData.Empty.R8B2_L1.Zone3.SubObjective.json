@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in <color=orange>ZONE 191</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal de la <color=orange>ZONE\u00A0191</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare terminale in <color=orange>ZONE 191</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in <color=orange>ZONE 191</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el terminal en la <color=orange>ZONA 191</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в <color=orange>ZONE 191</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar o terminal na <color=orange>ZONE 191</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w <color=orange>strefie 191 [ZONE_191]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 191</color>で端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 191</color>에서 터미널 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位<color=orange>ZONE 191</color>中的終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<color=orange>ZONE 191</color>中的终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone3.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 3924333684
+}

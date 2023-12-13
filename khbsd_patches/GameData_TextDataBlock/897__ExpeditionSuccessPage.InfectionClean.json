@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Clean",
+  "Description": "The level of infection the player character has. I.e. \"Infection level: Clean\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Sain",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Incontaminato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sauber",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Limpio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "средний",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Limpo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Brak",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クリーン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無感染",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "ExpeditionSuccessPage.InfectionClean",
+  "internalEnabled": true,
+  "persistentID": 897
+}

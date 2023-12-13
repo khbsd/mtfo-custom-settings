@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING - Hisec Cargo misplaced - ENGAGING SECURITY PROTOCOLS",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AVERTISSEMENT - CARGO HISEC ÉGARÉ - ACTIVATION DES PROTOCOLES DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE - Carico HISEC fuori posto - ATTIVAZIONE PROTOCOLLI DI SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG – [HISEC]-Kiste wurde bewegt – SICHERHEITSPROTOKOLLE WERDEN AKTIVIERT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Cargamento de HISEC mal colocado. Activando protocolos de seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Груз HISEC перемещен. АКТИВАЦИЯ ПРОТОКОЛОВ БЕЗОПАСНОСТИ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO - Carga HISEC mal posicionada — INICIANDO PROTOCOLOS DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: nieprawidłowe umieszczenie ładunku podwyższonego bezpieczeństwa – URUCHAMIANIE PROTOKOŁU BEZPIECZEŃSTWA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告 - HISEC CARGOの位置不正 - セキュリティプロトコル開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고 - 하이섹 화물 배치 오류 - 보안 프로토콜 가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告 - HISEC貨物放置錯誤 - 執行安全協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告 - HISEC货物错位 - 正在启用安全协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_1_Cargo_R5A2_L1.OnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 1047136325
+}

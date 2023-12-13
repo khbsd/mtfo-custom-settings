@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Warning:</color> Secondary scan required for security release.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Avertissement\u00A0:</color> analyse secondaire nécessaire pour désactiver le système de sécurité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Attenzione:</color> scansione secondaria richiesta per il lasciapassare di sicurezza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Warnung:</color> Sekundärscan für Sicherheitsfreigabe erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Advertencia</color>: Se requiere escáner secundario para anular la seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание:</color> для снятия защиты требуется вторичное сканирование.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Aviso:</color> Escaneamento secundário necessário para liberação de segurança.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Ostrzeżenie:</color> wymagane wtórne skanowanie w celu zwolnienia zabezpieczeń.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：</color>セキュリティリリースのためセカンダリスキャンが必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color> 보안 해제에 2차 스캔 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color>需進行二次掃描才能給予安全通行。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color>需要二级扫描才能解除安全措施。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Intel.ZoneScanWarning_R7D1",
+  "internalEnabled": true,
+  "persistentID": 1723126056
+}

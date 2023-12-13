@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...the one right in front of me.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... celui devant moi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...quello di fronte a me.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… den direkt vor mir.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... del que tengo delante.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...враг передо мной.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... o que está bem na minha frente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tego na wprost ode mnie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...目の前の奴は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...내 바로 앞에 있는 거.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…我面前那個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……我正前方的那个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.The_One_Right_In_Front_Of_Me",
+  "internalEnabled": true,
+  "persistentID": 1484
+}

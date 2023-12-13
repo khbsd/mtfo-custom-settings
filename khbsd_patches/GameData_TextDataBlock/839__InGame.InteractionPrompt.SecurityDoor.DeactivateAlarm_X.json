@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": " Deactivate alarm on <color=orange>{0}</color> ",
+  "Description": "Update: Added a space in the beginning.\nA text that proposes to the player that they deactivate the alarm by accessing (interacting with) a specific computer terminal. \"{0}\" will be replaced by the name of the computer terminal, do not alter those characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": " Désactiver l'alarme de <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": " Disattivare l'allarme su <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Den Alarm bei <color=orange>{0}</color> deaktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactivar alarma de <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключите тревогу на терминале {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": " Desative o alarme em <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": " Dezaktywuj alarm: <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>{0}</color>の警報を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": " <color=orange>{0}</color>에서 경보 끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解除<color=orange>{0}</color>的警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": " 在<color=orange>{0}</color>上关闭警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 9,
+  "ImportVersion": 9,
+  "name": "InGame.InteractionPrompt.SecurityDoor.DeactivateAlarm_X",
+  "internalEnabled": true,
+  "persistentID": 839
+}

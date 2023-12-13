@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone 168 Access status: <color=orange>Granted</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État d'accès de la zone\u00A0168\u00A0: <color=orange>autorisé</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato accesso Zone 168: <color=orange>autorizzato</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugangsstatus Zone 168: <color=orange>Gewährt</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado de acceso a Zone 168: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус доступа зоны 168: <color=orange>открыт</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status do acesso à Zone 168: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strefa 168 [ZONE_168] – stan dostępu: <color=orange>przyznany</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 168のアクセス状況: <color=orange>許可済み</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 168 접근 상태: <color=orange>허가됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ZONE 168進入狀態：<color=orange>允許</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 168权限状态：<color=orange>允许</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenIntel.PhaseUnlock.Hendricks_2_R7C3",
+  "internalEnabled": true,
+  "persistentID": 2920564050
+}

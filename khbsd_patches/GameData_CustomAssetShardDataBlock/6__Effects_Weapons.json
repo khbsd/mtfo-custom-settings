@@ -1,0 +1,24 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/FX_Effects/FX_Tracer.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/FX_Effects/FX_Tripmine.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Effects/Weapon/MuzzleFlash/Sentrygun_MuzzleFlash_3RD.prefab",
+      "Shard": 11
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/FX_Effects/FX_TripmineGlue.prefab",
+      "Shard": 6
+    }
+  ],
+  "name": "Effects_Weapons",
+  "internalEnabled": true,
+  "persistentID": 6
+}

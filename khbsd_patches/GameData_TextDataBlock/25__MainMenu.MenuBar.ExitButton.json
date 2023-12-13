@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "EXIT EXPEDITION",
+  "Description": "\"Expedition\" is GTFO's word for \"mission\" or \"map\". The \"exit expedition\" button is used to return to the main menu.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "QUITTER L'EXPÉDITION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABBANDONA SPEDIZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXPEDITION VERLASSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SALIR DE EXPEDICIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАВЕРШИТЬ ЭКСПЕДИЦИЮ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SAIR DA EXPEDIÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OPUŚĆ EKSPEDYCJĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションを離脱",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사 종료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出遠征",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出任务",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.ExitButton",
+  "internalEnabled": true,
+  "persistentID": 25
+}

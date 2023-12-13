@@ -1,0 +1,17 @@
+{
+  "Type": 4,
+  "Difficulty": 0,
+  "SpawnPlacementType": 0,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 6,
+      "Distribution": 5
+    }
+  ],
+  "name": "PatrolTest",
+  "internalEnabled": true,
+  "persistentID": 29
+}

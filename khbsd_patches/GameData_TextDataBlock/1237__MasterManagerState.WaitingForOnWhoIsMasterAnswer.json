@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WaitingForOnWhoIsMasterAnswer",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "EnAttenteDeLhôte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa di risposta chi è master",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WartenAufAntwortWerMasterIst",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando respuesta de quién es el maestro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Узнать, кто организатор",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EsperandoRespostaDoMestre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OczekiwanieNaOkreśleniePołączeniaGłównego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マスターアンサー決定待機中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마스터답변대기중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待誰是主機的答案",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待主机回答",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.WaitingForOnWhoIsMasterAnswer",
+  "internalEnabled": true,
+  "persistentID": 1237
+}

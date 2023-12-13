@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Walloon",
+  "Description": "A language spoken in Belgium and France.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Wallon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Vallone",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wallonisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Valón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Валлонский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Valão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Waloński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ワロン語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왈론어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "華隆文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "瓦隆语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Walloon",
+  "internalEnabled": true,
+  "persistentID": 441
+}

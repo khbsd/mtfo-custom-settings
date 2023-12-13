@@ -1,0 +1,158 @@
+{
+  "officialForRelease": false,
+  "publicName": "[SP] Accrat [AT] [TP]",
+  "baseItemID": 80,
+  "weaponPersonalityID": 1,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": true,
+      "archetypeID": 1,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 11,
+      "partName": "Eder22_Grip"
+    },
+    {
+      "allowed": true,
+      "ID": 76,
+      "partName": "Eder22_Mod_Grip"
+    },
+    {
+      "allowed": false,
+      "ID": 29,
+      "partName": "Pistol_P350_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": true,
+      "ID": 31,
+      "partName": "PistolBarrelExtension_a"
+    },
+    {
+      "allowed": true,
+      "ID": 13,
+      "partName": "EmptyPart"
+    },
+    {
+      "allowed": true,
+      "ID": 32,
+      "partName": "PistolBarrelExtension_b"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": true,
+      "ID": 30,
+      "partName": "P350_Receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 12,
+      "partName": "Eder22_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 21,
+      "partName": "GaussParts_PistolReceiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": false,
+      "ID": 36,
+      "partName": "pistol_rear_sight_1"
+    },
+    {
+      "allowed": false,
+      "ID": 37,
+      "partName": "pistol_rear_sight_2"
+    },
+    {
+      "allowed": false,
+      "ID": 38,
+      "partName": "pistol_rear_sight_3"
+    },
+    {
+      "allowed": false,
+      "ID": 39,
+      "partName": "pistol_rear_sight_4"
+    },
+    {
+      "allowed": true,
+      "ID": 49,
+      "partName": "FlipUpSight_c_rear"
+    },
+    {
+      "allowed": true,
+      "ID": 48,
+      "partName": "FlipUpSight_b_rear"
+    },
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    },
+    {
+      "allowed": true,
+      "ID": 81,
+      "partName": "Sight_Rear_Makeshift_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 155,
+      "partName": "Pistol_BarrelGrip"
+    }
+  ],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Mod_P350",
+  "internalEnabled": true,
+  "persistentID": 104
+}

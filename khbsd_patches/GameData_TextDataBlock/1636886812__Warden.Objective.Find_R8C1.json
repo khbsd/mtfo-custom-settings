@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate and establish <color=orange>Uplinks</color> from [ALL_ITEMS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez et établissez les <color=orange>liaisons montantes</color> de [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare e stabilire <color=orange>uplink</color> da [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren und stellen Sie <color=orange>Uplinks</color> von [ALL_ITEMS] her.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra y establece <color=orange>uplinks</color> en [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите и установите <color=orange>подключение</color> через [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar e estabelecer <color=orange>Uplinks</color> a partir de [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj i ustanów <color=orange>łącza</color> z: [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS]から<color=orange>アップリンク</color>を見つけて確立しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS]에서 <color=orange>업링크</color>를 찾아 설치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位並建立來自[ALL_ITEMS]的<color=orange>上行鏈路</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位并建立来自[ALL_ITEMS]的<color=orange>上行链路</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Warden.Objective.Find_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1636886812
+}

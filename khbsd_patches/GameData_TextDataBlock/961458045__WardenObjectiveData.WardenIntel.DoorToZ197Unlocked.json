@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to Zone 197 unlocked by startup sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de la zone 197 déverrouillée par la séquence de démarrage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per ZONE 197 sbloccata da sequenza avvio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu ZONE 197 durch Startsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la ZONE 197 se ha desbloqueado con una secuencia de arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска разблокировал дверь в зоне 197.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a Zone 197 destrancada pela sequência de inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 197 [ZONE_197] odblokowane przez sekwencję rozruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone197へのドアがリアクター始動シークエンスによりロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시동 절차에 따라 ZONE 197 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往ZONE 197的門已由啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 197的门已由启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.WardenIntel.DoorToZ197Unlocked",
+  "internalEnabled": true,
+  "persistentID": 961458045
+}

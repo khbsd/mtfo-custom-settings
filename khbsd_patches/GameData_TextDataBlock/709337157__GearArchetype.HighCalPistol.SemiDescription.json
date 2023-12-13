@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "High Damage\nMedium Range\nHard to Control",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts élevés\nMoyenne portée\nDifficile à contrôler",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danni elevati\nGittata media\nControllo difficile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hoher Schaden\nMittlere Reichweite\nSchwer zu kontrollieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mucho daño\nMedio alcance\nDifícil de controlar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Высокий урон\nСредняя дальность\nНеконтролируемая отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alto dano\nMédio alcance\nDifícil de controlar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Duże obrażenia\nŚredni dystans\nTrudny do opanowania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高ダメージ\n中距離\n制御が難しい",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "높은 대미지\n중거리\n제어하기 어려움",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "高傷害\n中程\n難以控制",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高伤害\n中程\n难以控制",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.HighCalPistol.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 709337157
+}

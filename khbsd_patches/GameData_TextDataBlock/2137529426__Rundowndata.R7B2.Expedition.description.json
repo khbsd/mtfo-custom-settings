@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Establish uplinks from selected terminals to locate Neonate HSU Preparation site.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Établissez une liaison montante sur les terminaux désignés pour localiser le site de préparation des HSU infantiles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stabilire uplink da terminali selezionati per trovare il sito di preparazione dell'HSU Neonato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stelle Uplinks von bestimmten Terminals her, um die Vorbereitungsstätte für neugeborene HSU-Einheiten zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Establece uplinks en los terminales marcados para localizar las instalaciones de preparación de HSU neonatales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите подключение с указанных терминалов, чтобы найти площадку подготовки HSU с новорожденным.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estabeleça uplinks dos terminais selecionados para localizar a área de preparo dos HSUs neonatos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustanów łącza za pośrednictwem wybranych terminali w celu zlokalizowania punktu przygotowawczego noworodka HSU.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "選択した端末からアップリンクを確立し、新生児HSU準備地点を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "지정된 터미널에서 업링크를 설정하고 신생아 HSU 준비 현장 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從所選取的終端建立上行鏈路，定位新生兒HSU準備地點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从选定终端建立上行链路，定位新生儿HSU准备场地。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Rundowndata.R7B2.Expedition.description",
+  "internalEnabled": true,
+  "persistentID": 2137529426
+}

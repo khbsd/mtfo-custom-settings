@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bioscan speed",
+  "Description": "Refers to the speed at which a bioscan performs the action of scanning.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vitesse de bioscan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità bio-scanner",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bioscan-Tempo",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad de bioescáner",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость биосканирования",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade do bioescâner",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość bioskanera",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオスキャン速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오스캔 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生物掃描速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生物扫描速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BioscanSpeedName",
+  "internalEnabled": true,
+  "persistentID": 653
+}

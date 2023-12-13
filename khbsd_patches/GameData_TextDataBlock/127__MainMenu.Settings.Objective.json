@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Objective",
+  "Description": "A headline for game settings related to the HUD objective description.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Missionsziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Objetivo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Objetivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Objective",
+  "internalEnabled": true,
+  "persistentID": 127
+}

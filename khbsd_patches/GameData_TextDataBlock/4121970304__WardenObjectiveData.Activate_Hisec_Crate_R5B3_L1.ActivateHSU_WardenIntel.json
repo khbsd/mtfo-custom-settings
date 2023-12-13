@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlocking Security door to [ZONE 51]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillage de la porte de sécurité vers la [ZONE\u00A051]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sblocco porta di sicurezza per zona 51 [ZONE_51]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitstür zu [ZONE 51] wird entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloqueando la puerta de seguridad a la [ZONE 51].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разблокировка защитной двери в [ZONE 51].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Destravando a porta de segurança para [ZONE 51]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwieranie drzwi do strefy 51 [ZONE 51]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE 51]へのセキュリティドアをロック解除中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE 51] 보안문 해제 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解鎖通往51區[ZONE_51]的安全門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解锁51区[ZONE_51]安全门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.ActivateHSU_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 4121970304
+}

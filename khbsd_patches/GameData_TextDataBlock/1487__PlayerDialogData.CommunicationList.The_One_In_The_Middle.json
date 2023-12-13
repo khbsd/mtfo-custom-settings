@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...the one in the middle.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... celui au milieu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...quello in mezzo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… den in der Mitte.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... del que está en el centro.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...враг по центру.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... o que está no meio.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tego pośrodku.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...中央の奴は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...중간에 있는 거.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…中間那個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……中间的那个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.The_One_In_The_Middle",
+  "internalEnabled": true,
+  "persistentID": 1487
+}

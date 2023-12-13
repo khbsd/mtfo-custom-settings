@@ -1,0 +1,86 @@
+{
+  "eventOnSemiFire2D": [
+    "PistolBodyB",
+    "PistolNoiseB",
+    "PistolMechB",
+    "PistolReverb",
+    "pistol_kick_semi_a"
+  ],
+  "eventOnBurstFire2D": [
+    "PistolBodyA",
+    "PistolNoiseA",
+    "PistolMechA",
+    "PistolReverb",
+    "pistol_kick_semi_a"
+  ],
+  "eventOnAutoFireStart2D": [
+    "PistolBodyBAuto",
+    "PistolMechBAuto",
+    "PistolNoiseBAuto",
+    "PistolAutoWet",
+    "pistol_kick_auto_a"
+  ],
+  "eventOnAutoFireEnd2D": [
+    "PistolAutoEnd "
+  ],
+  "eventOnBurstFireOneShot2D": [],
+  "eventOnChargeup2D": [
+    "GaussPistolChargeUp"
+  ],
+  "eventOnCooldown2D": [
+    "GaussPistolCooldown"
+  ],
+  "eventOnChargeupEnd2D": "GaussPistolChargeUpEnd",
+  "eventOnCooldownEnd2D": "GaussPistolCooldownEnd",
+  "eventOnSemiFire3D": [
+    "PistolBodyB3D",
+    "PistolNoiseB3D",
+    "PistolMechB3D ",
+    "PistolReverb3D"
+  ],
+  "eventOnBurstFire3D": [
+    "PistolBodyA3D",
+    "PistolNoiseA3D",
+    "PistolMechA3D ",
+    "PistolReverb3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "PistolBodyBAuto3D",
+    "PistolMechBAuto3D",
+    "PistolNoiseBAuto3D",
+    "PistolAutoWet3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "PistolAutoEnd3D"
+  ],
+  "eventOnChargeup3D": [
+    "GaussPistolChargeUp"
+  ],
+  "eventOnCooldown3D": [
+    "GaussPistolCooldown"
+  ],
+  "eventOnChargeupEnd3D": "GaussPistolChargeUpEnd",
+  "eventOnCooldownEnd3D": "GaussPistolCooldownEnd",
+  "eventOnSyncedBurstFirePerShot3D": [
+    "PistolBodyB3D",
+    "PistolMechB3D",
+    "PistolNoiseB3D",
+    "PistolReverb3D"
+  ],
+  "eventOnSyncedAutoFirePerShot3D": [
+    "PistolBodyB3D",
+    "PistolMechB3D",
+    "PistolNoiseB3D",
+    "PistolReverb3D"
+  ],
+  "eventClick": "PistolDryFire",
+  "eventReload": "PistolReload",
+  "TriggerBurstAudioForEachShot": true,
+  "TriggerAutoAudioForEachShot": false,
+  "eventEquip": "PistolEquip",
+  "eventZoomIn": "PistolIronsightIn",
+  "eventZoomOut": "PistolIronsightOut",
+  "name": "Handgun",
+  "internalEnabled": true,
+  "persistentID": 1
+}

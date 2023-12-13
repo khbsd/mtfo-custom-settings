@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables a depth-based blur near the camera under certain circumstances, like when aiming a weapon.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active un flou de profondeur près de la caméra dans certaines circonstances, comme en visant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente una sfocatura basata sulla profondità vicino alla telecamera in determinati casi, come quando si mira.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert unter bestimmten Umständen eine tiefenbasierte Unschärfe in der Nähe der Kamera, z.B. beim Zielen mit einer Waffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa una difuminación cerca de la cámara (basada en la profundidad) en circunstancias concretas. Por ejemplo, cuando se apunta con un arma.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает размытие вблизи камеры при определенных условиях, например во время прицеливания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa desfoque com base na profundidade perto da câmera sob determinadas circunstâncias, como ao mirar com uma arma.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza rozmycie w oparciu o głębokość w pobliżu kamery w określonych warunkach, takich jak przy celowaniu z broni.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器照準時など、特定の状況下でのカメラ付近の深度ベースのブラーを有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기를 조준하는 등 특정 상황에서 카메라 근처의 심도 기반 흐려짐 효과를 켭니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在某些情況下（例如瞄準武器時），在鏡頭附近啟用景深模糊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在瞄准武器等特定情况下，在镜头附近启用基于深度的模糊效果。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.DepthOfField",
+  "internalEnabled": true,
+  "persistentID": 475456251
+}

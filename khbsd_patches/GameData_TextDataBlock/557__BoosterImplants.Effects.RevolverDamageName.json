@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Revolver Damage",
+  "Description": "I.e. how much damage you can deal with a revolver.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de revolver",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da revolver",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Revolver-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de revólver",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (револьвер)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de revólver",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od rewolweru",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リボルバーダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "리볼버 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左輪手槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左轮手枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RevolverDamageName",
+  "internalEnabled": true,
+  "persistentID": 557
+}

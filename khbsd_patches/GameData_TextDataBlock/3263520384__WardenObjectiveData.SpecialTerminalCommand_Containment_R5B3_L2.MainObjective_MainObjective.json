@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Computer terminal [ITEM_SERIAL] and find a way to destroy contained biomass readings.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez au terminal informatique [ITEM_SERIAL] et trouvez un moyen de détruire les relevés de biomasse.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale computer [ITEM_SERIAL] e trovare un modo per distruggere le tracce di biomassa contenute.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Computerterminal [ITEM_SERIAL] und einen Weg, die enthaltenen Biomasse-Werte zu zerstören.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la terminal [ITEM_SERIAL] y averigua cómo destruir las mediciones de biomasa contenidas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите компьютерный терминал [ITEM_SERIAL] и придумайте, как уничтожить сдерживаемые биосигнатуры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de computador [ITEM_SERIAL] e descubra uma maneira de destruir as leituras de biomassa em contenção.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal komputerowy [ITEM_SERIAL] i spróbuj zniszczyć izolowaną biomasę z odczytów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末[ITEM_SERIAL]を見つけ、封鎖された生体反応を破壊する方法を探せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL] 컴퓨터 터미널을 찾아 그 안의 바이오매스 신호를 파기할 방법을 찾으세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到電腦終端[ITEM_SERIAL]並想辦法摧毀被控制的生物質讀數。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到电脑终端[ITEM_SERIAL]并想办法摧毁被控制的生物质读数。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Containment_R5B3_L2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3263520384
+}

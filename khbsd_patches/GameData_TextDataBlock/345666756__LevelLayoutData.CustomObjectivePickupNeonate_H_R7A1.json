@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search the Elevator Cargo Container",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fouillez le conteneur de l’ascenseur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare il container ascensore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie den Aufzugscontainer.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Registra el contenedor de carga del ascensor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите грузовой отсек подъемника.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure o contêiner de carga do elevador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeszukaj pojemnik ładunkowy windy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エレベータの荷物コンテナ内を捜索せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "엘리베이터 화물 컨테이너 수색",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "搜尋電梯貨櫃",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "搜索电梯货物集装箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.CustomObjectivePickupNeonate_H_R7A1",
+  "internalEnabled": true,
+  "persistentID": 345666756
+}

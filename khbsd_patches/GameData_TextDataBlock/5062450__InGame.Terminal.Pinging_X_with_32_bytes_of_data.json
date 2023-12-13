@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pinging {0} with 32 bytes of data:",
+  "Description": "{0} is an item name. Example: HSU_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Requête ping envoyée à {0} avec 32\u00A0octets de données\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esecuzione di Ping {0} con 32 byte di dati:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wird mit 32 Byte Daten gepingt:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Realizando ping a {0} con 32 bytes de datos:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пингуем предмет {0} 32 байтами данных:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marcando {0} com 32 bytes de dados:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – oznaczanie z 32 bajtami danych:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "32バイトのデータで{0}をPING中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "32바이트 테이터로 {0} 핑 진행:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在標記{0}的32位元資料：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在标记{0}（32字节数据）：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Pinging_X_with_32_bytes_of_data",
+  "internalEnabled": true,
+  "persistentID": 5062450
+}

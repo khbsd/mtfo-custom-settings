@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the size of the intel",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la taille des renseignements.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla le dimensioni delle informazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Größe von Intel.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el tamaño de la información.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует размер данных.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o tamanho das informações.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za rozmiar danych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "情報のサイズを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정보 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制情報大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制情报界面的大小。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.IntelScale",
+  "internalEnabled": true,
+  "persistentID": 1301037565
+}

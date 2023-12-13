@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The original text is in {0}",
+  "Description": "{0} is one of the supported languages of the game.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Texte source en {0}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il testo originale è in {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Der Originaltext ist auf {0}.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El texto original está en {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Оригинальный текст: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O texto original está em {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tekst źródłowy to {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オリジナルテキストの言語は{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "원본 텍스트는 {0}입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "原始文字為{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "原始文本为{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Original_Text_In_X",
+  "internalEnabled": true,
+  "persistentID": 1778901562
+}

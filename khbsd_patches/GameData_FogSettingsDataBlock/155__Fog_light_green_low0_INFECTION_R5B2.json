@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.03137255,
+    "r": 0.183561787,
+    "g": 0.7075472,
+    "b": 0.545715153
+  },
+  "FogDensity": 0.0007,
+  "FogAmbience": 0.0001,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": -1.0,
+    "z": 0.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.074,
+  "DensityNoiseScale": 0.131,
+  "DensityHeightAltitude": -1.0,
+  "DensityHeightRange": 1.2,
+  "DensityHeightMaxBoost": 0.09,
+  "Infection": 0.03,
+  "name": "Fog_light_green_low0_INFECTION_R5B2",
+  "internalEnabled": true,
+  "persistentID": 155
+}

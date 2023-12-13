@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING! Ventilation sequence started - Fog Levels rising!</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0! Séquence de ventilation initialisée. Niveaux de brouillard en hausse\u00A0!</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE! Sequenza di ventilazione iniziata - Livelli di nebbia in aumento!</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG! Belüftungssequenz aktiviert – Nebelwerte steigen!</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡ADVERTENCIA! Secuencia de ventilación iniciada. ¡Niveles de niebla en ascenso!</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Запущен цикл вентиляции. Уровень задымления растет!</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO! Sequência de ventilação iniciada — Níveis de névoa aumentando!</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE! Sekwencja wentylacji rozpoczęta – wzrastające poziomy mgły!</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告！換気シークエンス開始 - 霧レベル上昇中！</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고! 환기 절차 시작됨. 안개 수준 상승!</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告！通風序列已開始 - 煙霧濃度上升！</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告！通风序列已启动 - 雾度上升！</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_H2_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 2354976675
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security override avalible in zone 199",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Forçage de sécurité disponible dans la zone\u00A0199",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Override di sicurezza disponibile nella ZONE 199.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Override des Sicherheitsprotokolls in Zone 199 verfügbar",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Anulación de seguridad disponible en la Zone 199",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обход системы защиты доступен в зоне 199",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Substituição de segurança na Zone 199",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obejście zabezpieczeń dostępne w strefie 199 [ZONE_199].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 199でセキュリティオーバーライド可能",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 중단 ZONE 199에서 가능",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可於Zone 199進行安全覆寫。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 199中安全覆盖可用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.TimedTerminal_LowerSecurity_Right_R7D1",
+  "internalEnabled": true,
+  "persistentID": 3616270226
+}

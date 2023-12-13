@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find computer terminal in [ZONE_6]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le terminal informatique dans la [ZONE_6].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale computer in [ZONE_6]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Computerterminal in [ZONE_6].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra un terminal en [ZONE_6]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите компьютерный терминал в [ZONE_6].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de computador na [ZONE_6]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal komputerowy w strefie 6 [ZONE_6]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_6]でコンピュータ端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_6]에서 컴퓨터 터미널을 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ZONE_6]尋找電腦終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ZONE_6]找到电脑终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 370352693
+}

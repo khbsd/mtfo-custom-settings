@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Statusbar",
+  "Description": "A headline for game settings related to the HUD's status bar.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Barre d'état",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Barra di stato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Statusleiste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Barra de estado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Панель состояния",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Barra de status",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pasek statusu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ステータスバー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "상태 바",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "狀態列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "状态栏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Statusbar",
+  "internalEnabled": true,
+  "persistentID": 126
+}

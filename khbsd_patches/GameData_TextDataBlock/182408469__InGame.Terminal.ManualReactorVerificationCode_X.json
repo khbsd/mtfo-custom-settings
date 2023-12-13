@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MANUAL REACTOR VERIFICATION CODE: {0}",
+  "Description": "A text log content showing the verification code needed to activate the reactor. {0} is the code.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "CODE DE VÉRIFICATION MANUEL DU RÉACTEUR\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CODICE DI VERIFICA MANUALE REATTORE: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "CODE FÜR MANUELLE REAKTORVERIFIZIERUNG: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CÓDIGO DE VERIFICACIÓN MANUAL DEL REACTOR: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОД ВЕРИФИКАЦИИ РУЧНОГО УПРАВЛЕНИЯ РЕАКТОРОМ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CÓDIGO DE VERIFICAÇÃO DE REATOR MANUAL: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KOD RĘCZNEJ WERYFIKACJI REAKTORA: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "手動リアクター認証コード: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수동 반응로 승인 코드: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "手動反應器驗證碼：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手动反应堆验证码：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ManualReactorVerificationCode_X",
+  "internalEnabled": true,
+  "persistentID": 182408469
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door offline. Reroute power using terminal in</color> <color=orange>ZONE 184.</color>\n",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Porte hors ligne. Réacheminez le courant à l'aide du terminal dans la</color> <color=orange>ZONE\u00A0184.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: Porta offline. Devia l'alimentazione utilizzando il terminale nella</color> <color=orange>ZONE 184.</color>\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür offline. Storm wird über Terminal in</color> <color=orange>ZONE 184</color> umgeleitet.\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta desactivada. Vuelve a alimentarla usando la terminal de la</color> <color=orange>ZONE 184.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Дверь отключена. Перенаправление питания через терминал в</color> <color=orange>ZONE 184</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ERRO: Porta offline. Redirecione a eletricidade usando o terminal na</color> <color=orange>ZONE 184.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>BŁĄD: Drzwi wyłączone. Przekieruj zasilanie za pomocą terminalu w</color> <color=orange>STREFIE 184.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアがオフライン。</color> <color=orange>ZONE 184</color>のターミナルを使用して電力を切り替えよ。\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 출입문 오프라인. </color> <color=orange>ZONE 184.</color> 터미널을 사용해 전력 우회 중\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門離線。使用<color=orange>ZONE 184</color>的終端重新路由電源。</color>\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门已离线。使用以下区域的终端重定向电源：</color><color=orange>ZONE 184</color>。\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText3_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 907499889
+}

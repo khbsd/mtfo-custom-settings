@@ -1,0 +1,74 @@
+{
+  "officialForRelease": true,
+  "publicName": "Mapping device",
+  "baseItemID": 74,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": false,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Geometry scan\r\nLoads data to the map\r\n",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 126,
+      "partName": "MapperDisplay_a"
+    },
+    {
+      "allowed": false,
+      "ID": 127,
+      "partName": "MapperDisplay_b"
+    },
+    {
+      "allowed": true,
+      "ID": 158,
+      "partName": "MapperBattery_c"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 124,
+      "partName": "MapperBattery_a"
+    },
+    {
+      "allowed": false,
+      "ID": 125,
+      "partName": "MapperBattery_b"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 123,
+      "partName": "MapperBase_a"
+    },
+    {
+      "allowed": false,
+      "ID": 122,
+      "partName": "MapperBase_b"
+    },
+    {
+      "allowed": true,
+      "ID": 156,
+      "partName": "MapperBase_c"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [],
+  "sightsAllowed": [],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": false,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_Mapper",
+  "internalEnabled": true,
+  "persistentID": 23
+}

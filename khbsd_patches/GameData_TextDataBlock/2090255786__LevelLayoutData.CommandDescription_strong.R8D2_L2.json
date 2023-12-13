@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Depollution of contaminated air - 67%. <color=red>WARNING: Requires Class VII bio-scan. Alarm: 100 dB</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Purification de l'air contaminé - 67\u00A0%. <color=red>AVERTISSEMENT\u00A0: bioscan de classe\u00A0VII requis. Alarme\u00A0: 100\u00A0dB.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bonifica aria contaminata - 67%. <color=red>ATTENZIONE: richiede bio-scansione di Classe VII. Allarme: 100 dB</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Entgiftung der kontaminierten Luft\u00A0– 67\u00A0%. <color=red>WARNUNG: Erfordert Bioscan der Klasse\u00A0VII. Alarm: 100\u00A0dB</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descontaminación de aire nocivo: 67\u00A0%. <color=red>ADVERTENCIA: Necesita un bioescáner de clase VII. Alarma: 100 dB</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очистка загрязненного воздуха: 67%. <color=red>ВНИМАНИЕ! Требуется биосканирование класса VII. Сигнал тревоги: 100 дБ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Despoluição do ar contaminado - 67%. <color=red>AVISO: Requer bioescâner de Classe II. Alarme: 100 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poziom oczyszczenia skażonego powietrza – 67%. <color=red>OSTRZEŻENIE: wymaga bioskanowania klasy VII. Alarm: 100 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "汚染空気の除去 ― 67%。<color=red>警告：クラスVIIのバイオスキャンが必要。警報：100 デシベル</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오염 공기 정화 - 67%. <color=red>경고: 클래스 VII 바이오스캔 필요. 경보: 100dB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "淨化汙染空氣 - 67%。<color=red>警告：需要VII級生物掃描。警報：100 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "净化污染空气 - 67%。<color=red>警告：需要VII级生物扫描。警报：100 dB</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.CommandDescription_strong.R8D2_L2",
+  "internalEnabled": true,
+  "persistentID": 2090255786
+}

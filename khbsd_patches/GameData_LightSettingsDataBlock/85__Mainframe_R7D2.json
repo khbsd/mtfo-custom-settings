@@ -1,0 +1,105 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.592337132,
+        "g": 0.730730951,
+        "b": 0.8207547
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.268556416,
+        "g": 0.608667731,
+        "b": 0.6698113
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.9978299,
+        "g": 1.0,
+        "b": 0.0
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.933333337,
+        "g": 0.9137255,
+        "b": 0.933333337
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.110740423,
+        "g": 1.0,
+        "b": 0.0
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.9339623,
+        "g": 0.911934853,
+        "b": 0.932321
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.4720202,
+        "b": 0.0
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Mainframe_R7D2",
+  "internalEnabled": true,
+  "persistentID": 85
+}

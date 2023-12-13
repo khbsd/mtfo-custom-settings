@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the command <color=orange>QUERY [ALL_ITEMS]</color> at a terminal to locate the objective",
+  "Description": "Don't localize QUERY. It's a command used in terminals in the game.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>QUERY [ALL_ITEMS]</color> dans un terminal pour localiser l'objectif.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando <color=orange>QUERY [ALL_ITEMS]</color> su un terminale per trovare l'obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=orange>QUERY [ALL_ITEMS]</color> an einem Terminal, um das Ziel zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando <color=orange>QUERY [ALL_ITEMS]</color> en una terminal para localizar el objetivo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>QUERY [ALL_ITEMS]</color> на терминале, чтобы найти цель.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando <color=orange>QUERY [ALL_ITEMS]</color> em um terminal para localizar o objetivo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>QUERY[ALL_ITEMS]</color> w terminalu, żeby zlokalizować cel.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末でコマンド <color=orange>QUERY [ALL_ITEMS]</color> を使用して目標の位置を特定しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에서 <color=orange>QUERY [ALL_ITEMS]</color> 명령을 사용해 목표 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端使用指令<color=orange>QUERY[ALL_ITEMS]</color>來定位目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端上使用命令<color=orange>QUERY [ALL_ITEMS]</color>以定位目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1048
+}

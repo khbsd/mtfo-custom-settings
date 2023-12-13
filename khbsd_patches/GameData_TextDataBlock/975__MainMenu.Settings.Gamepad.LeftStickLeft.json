@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Stick Left",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick gauche (gauche)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Levetta sinistra a sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linker Stick nach links",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Stick izquierdo izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левый мини-джойстик влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direcional esquerdo para a esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy drążek w lewo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左スティック左",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "L 스틱 왼쪽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左搖桿左",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左摇杆向左",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.LeftStickLeft",
+  "internalEnabled": true,
+  "persistentID": 975
+}

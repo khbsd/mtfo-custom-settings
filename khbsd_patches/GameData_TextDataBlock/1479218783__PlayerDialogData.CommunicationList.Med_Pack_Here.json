@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Med pack here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trousse de secours ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Kit medico qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein MediPack.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Un botiquín aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь аптечка.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pacote médico aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Apteczka, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "医療パックだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 구급팩이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有醫藥包。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有医药包。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Med_Pack_Here",
+  "internalEnabled": true,
+  "persistentID": 1479218783
+}

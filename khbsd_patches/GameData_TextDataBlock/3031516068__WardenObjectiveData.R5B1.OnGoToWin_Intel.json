@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Air filtration system damaged. Evacuate or re-route power from bordering Sector",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: Système de filtration d'air endommagé. Évacuez ou réacheminez le courant du secteur limitrophe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: sistema di filtrazione dell'aria danneggiato. Evacuare o reindirizzare l'energia dal Settore confinante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Luftfiltersystem beschädigt. Evakuieren Sie oder leiten Sie den Strom aus dem angrenzenden Sektor um.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Sistema de filtración de aire dañado. Evacuar o desviar la energía del sector adyacente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Система фильтрации воздуха повреждена. Эвакуируйтесь или перенаправьте питание из соседнего сектора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: sistema de filtragem de ar danificado. Evacuar ou redirecionar energia do setor fronteiriço",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: uszkodzenie systemu filtracji powietrza. Wymagana ewakuacja lub przekierowanie zasilania z sektora graniczącego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：換気システム損傷。避難または、境界セクターからの電力リルートを行え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 공기 여과 시스템 손상. 전원 대피시키거나 경계 섹터에서 경로를 변경할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：空氣過濾系統損壞。撤離或從相鄰分區重新路由電力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：空气过滤系统损坏。撤离或从相邻分区重定向电力",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.R5B1.OnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 3031516068
+}

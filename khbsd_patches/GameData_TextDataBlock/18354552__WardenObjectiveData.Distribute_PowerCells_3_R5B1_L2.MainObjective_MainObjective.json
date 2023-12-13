@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Air filtration system offline. Find Power Cells in the zone and bring them to [ALL_ITEMS] to re-route power.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Système de filtration d'air hors ligne. Trouvez des piles à combustible dans la zone et apportez-les à [ALL_ITEMS] pour réacheminer le courant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistema di filtrazione dell'aria offline. Trovare le celle di energia nella zona e portarle a [ALL_ITEMS] per reindirizzare l'energia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Luftfiltersystem offline. Finden Sie die Energiezellen in der Zone und bringen Sie sie zu [ALL_ITEMS], um die Energie umzuleiten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sistema de filtración de aire se ha desactivado. Encuentra células de energía en la zona y llévalas a [ALL_ITEMS] para redistribuir la energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система фильтрации воздуха отключилась. Найдите батареи в зоне и отнесите их к точке назначения ([ALL_ITEMS]), чтобы перенаправить питание.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema de filtragem de ar offline. Encontre Power Cells na Zone para levá-las para [ALL_ITEMS] para redirecionar a energia.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "System filtracji powietrza wyłączony. Znajdź ogniwa zasilające w strefie i dostarcz je w celu przekierowania zasilania do: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "換気システム、オフライン。ZONE内のパワーセルを見つけ、[ALL_ITEMS]まで運んで電力をリルートしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공기 여과 시스템 오프라인. 지역 안에서 파워 셀을 찾아 [ALL_ITEMS]로 가져가 전력 공급 경로를 바꾸세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空氣過濾系統離線。在本區內找到電池[CELL]，並帶到[ALL_ITEMS]以重新路由電力。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空气过滤系统离线。在本区内找到电池[CELL]，并将其带到[ALL_ITEMS]以重定向电力。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Distribute_PowerCells_3_R5B1_L2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 18354552
+}

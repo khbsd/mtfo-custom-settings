@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECTOR PRIORITY: {0}",
+  "Description": "\"Sector Priority refers to how difficult the objective will be. {0} is one of the difficulties, Main, Secondary or Overload.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PRIORITÉ DU SECTEUR\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRIORITÀ SETTORE: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SEKTORPRIORITÄT: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRIORIDAD DEL SECTOR: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УРОВЕНЬ СЕКТОРА: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRIORIDADE DO SETOR: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRIORYTET SEKTORA: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セクター優先度： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터 우선도: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "分區優先等級：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "分区优先级：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.ThreatLevel_X",
+  "internalEnabled": true,
+  "persistentID": 1114
+}

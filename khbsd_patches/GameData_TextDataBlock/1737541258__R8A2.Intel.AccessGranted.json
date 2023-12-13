@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal settings successfully overriden. Access granted to <color=orange>EXT_DECR_KEY</color> command",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Neutralisation des paramètres du terminal réussie. Accès à la commande <color=orange>EXT_DECR_KEY</color> autorisé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impostazioni terminale bypassate. Accesso autorizzato al comando <color=orange>EXT_DECR_KEY</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminaleinstellungen erfolgreich überschrieben. Zugang gewährt zu Befehl <color=orange>EXT_DECR_KEY</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La configuración del terminal se ha anulado correctamente. Acceso otorgado al comando <color=orange>EXT_DECR_KEY</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Настройки терминала принудительно изменены. Открыт доступ к команде <color=orange>EXT_DECR_KEY</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Configurações de terminal substituídas com sucesso. Acesso concedido para o comando <color=orange>EXT_DECR_KEY</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obejście ustawień terminalu udane. Uzyskano dostęp do polecenia <color=orange>EXT_DECR_KEY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末設定の上書き成功。<color=orange>EXT_DECR_KEY</color>コマンドへのアクセスが許可された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 설정 중단 성공. <color=orange>EXT_DECR_KEY</color> 명령 접근 권한 부여됩",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已成功覆蓋終端設定。將存取權限授予<color=orange>EXT_DECR_KEY</color>指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端设置已成功覆盖。访问权限已授予<color=orange>EXT_DECR_KEY</color>命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8A2.Intel.AccessGranted",
+  "internalEnabled": true,
+  "persistentID": 1737541258
+}

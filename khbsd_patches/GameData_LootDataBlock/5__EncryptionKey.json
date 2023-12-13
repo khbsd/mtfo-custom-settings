@@ -1,0 +1,15 @@
+{
+  "PublicName": "Data Encryption Key",
+  "Category": 8,
+  "Weight": 1,
+  "LootCollection": [
+    {
+      "m_amountAbs": 0,
+      "m_type": 8,
+      "m_amountRel": 0.0
+    }
+  ],
+  "name": "EncryptionKey",
+  "internalEnabled": true,
+  "persistentID": 5
+}

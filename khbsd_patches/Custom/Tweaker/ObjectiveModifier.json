@@ -1,0 +1,17 @@
+[
+  {
+    "DataBlockId": 34,
+    "TimeLimit": 10,
+    "Infection": {
+      "Amount": 0.0,
+      "Rate": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Enabled": false
+    },
+    "ExplodePlayer": false,
+    "name": "Default",
+    "internalEnabled": true
+  }
+]

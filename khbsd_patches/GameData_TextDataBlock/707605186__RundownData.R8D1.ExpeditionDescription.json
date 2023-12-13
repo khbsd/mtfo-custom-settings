@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Interaction scheduled in Gardens sector. Erratic performance exhibited in isolated scans. Unit stack updated with location data.  ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Interaction programmée dans le secteur des jardins. Comportement erratique détecté lors des analyses isolées. Chargement des données d'emplacement dans la liste de l'unité.  ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Interazione prevista nel settore Giardini. Prestazioni irregolari evidenziate in scansioni isolate. Coda delle unità aggiornata con i dati sull'ubicazione.  ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Interaktion im Sektor Gärten geplant. Unbeständige Ergebnisse bei einzelnen Scans. Geräte-Stacks mit Standortdaten aktualisiert.  ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Interacción programada en el sector de los jardines. Se ha presentado un comportamiento errático en escáneres aislados. Conjunto de unidad actualizado con los datos de ubicación.  ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Взаимодействие запланировано в садах. Нарушение работы изолированных сканеров. В перечень внесены данные о местоположении.  ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Interação agendada no setor dos jardins. Desempenho errático exibido em escâners isolados. Conjunto de unidades atualizado com dados de localização.  ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaplanowano interakcję w sektorze ogrodów. Pojedyncze skany wykazały nieregularną aktywność. Jednostka stosu została zaktualizowana o dane lokalizacji.  ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ガーデンズセクターで予定されているインタラクション。隔離スキャンで不安定なパフォーマンスが観察された。ユニットスタックをロケーションデータで更新。  ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정원 섹터에서 접촉이 예정되어 있습니다. 격리 스캔에서 불규칙한 성능이 감지됐습니다. 유닛 목표에 위치 데이터가 업데이트되었습니다.  ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已在花園分區安排互動。獨立掃描中出現異常。單位堆疊已更新地點資料。  ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已在花园分区安排互动。独立扫描中出现异常表现。单位堆栈已更新位置数据。  ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R8D1.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 707605186
+}

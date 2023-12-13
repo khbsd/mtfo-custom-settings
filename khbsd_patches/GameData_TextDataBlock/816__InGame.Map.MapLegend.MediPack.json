@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "MediPack",
+  "Description": "Part of the map \"legend\" (icon explanations.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trousse de secours",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Kit medico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MediPack",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botiquín",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аптечка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pacote médico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Apteczka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メディパック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "구급팩",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "醫藥包",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "医药包",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.MediPack",
+  "internalEnabled": true,
+  "persistentID": 816
+}

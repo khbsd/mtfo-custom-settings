@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return the <b>hisec crate</b> to the extraction point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramenez la <b>caisse HISEC</b> au point d'évacuation dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare la <b>cassa HISEC</b> al punto di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die <b>[HISEC]-Kiste</b> zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la <b>caja de HISEC</b> al punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите <b>контейнер HISEC</b> к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Devolva a <b>caixa HISEC</b> ao ponto de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostarcz <b>skrzynię podwyższonego bezpieczeństwa</b> do punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>HISECクレート</b>を[EXTRACTION_ZONE]の脱出地点に戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<b>하이섹 상자</b>를 [EXTRACTION_ZONE]의 탈출 지점으로 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<b>HISEC箱</b>送回[EXTRACTION_ZONE]的撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<b>HISEC箱</b>送回[EXTRACTION_ZONE]的撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_1_Cargo_R5A2_L1.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 3125184013
+}

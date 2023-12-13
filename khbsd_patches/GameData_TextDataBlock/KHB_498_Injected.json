@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Skinjected",
+  "Description": "A text indicating that a booster (a performance enhancing drug) has been administered.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Injecté",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Iniettato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gespritzt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inyectado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Injetado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wstrzyknięto",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "注射済み",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주입함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已注射",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已注射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Injected",
+  "internalEnabled": true,
+  "persistentID": 498
+}

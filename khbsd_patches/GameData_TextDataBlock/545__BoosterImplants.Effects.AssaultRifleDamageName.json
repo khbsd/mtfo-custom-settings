@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Assault Rifle Damage",
+  "Description": "I.e. how much damage you can deal with an assault rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil d'assaut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da fucile d'assalto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sturmgewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil de asalto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (штурмовая винтовка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil de assalto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu szturmowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アサルトライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "돌격 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "突擊步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "突击步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.AssaultRifleDamageName",
+  "internalEnabled": true,
+  "persistentID": 545
+}

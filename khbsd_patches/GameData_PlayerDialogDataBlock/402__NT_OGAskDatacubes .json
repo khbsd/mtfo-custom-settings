@@ -1,0 +1,108 @@
+{
+  "priority": 200,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 811095731,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 896706785
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 2
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 811095731,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 3640254019
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 4
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 811095731,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 3416647239
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 8
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 811095731,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 1764081812
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 16
+      }
+    }
+  ],
+  "name": "NT_OGAskDatacubes ",
+  "internalEnabled": true,
+  "persistentID": 402
+}

@@ -1,0 +1,194 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        4,
+        6,
+        16,
+        17,
+        11
+      ],
+      [],
+      [],
+      [],
+      [
+        4,
+        6,
+        16,
+        17,
+        11
+      ],
+      [
+        11,
+        4,
+        6,
+        16,
+        17,
+        5,
+        10
+      ],
+      [],
+      [
+        4,
+        6,
+        16,
+        17,
+        14,
+        11
+      ],
+      [
+        4,
+        6,
+        16,
+        17,
+        15,
+        11
+      ],
+      [
+        4,
+        6,
+        16,
+        17,
+        11
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_01.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_02.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_03.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_04.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_05.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_06.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_07.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_08.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_09.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_10.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_11.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_12.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_13.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_14.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_15.prefab",
+        "function": 10,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_16.prefab",
+        "function": 11,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_17.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_18.prefab",
+        "function": 0,
+        "Shard": 13
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_deco_wall_floor_4x4/refinery_deco_wall_floor_4x4_SV_19.prefab",
+        "function": 0,
+        "Shard": 13
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_deco_wall_floor_4x4",
+    "BoundingVolume": 0.0
+  },
+  "name": "mining_refinery_deco_wall_floor_400x400",
+  "internalEnabled": true,
+  "persistentID": 106
+}

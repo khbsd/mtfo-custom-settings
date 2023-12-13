@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather Hard drives",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez des disques durs.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere i dischi rigidi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Festplatten [HARD_DRIVE]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne discos duros",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите жесткие диски.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete discos rígidos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz dyski twarde",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハードドライブを集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하드 드라이브 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集硬碟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集硬盘",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Harddriver_6_R4A1.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 4129156688
+}

@@ -1,0 +1,127 @@
+{
+  "localPosHip": {
+    "x": 0.05,
+    "y": -0.38,
+    "z": 0.36,
+    "normalized": {
+      "x": 0.09508729,
+      "y": -0.722663343,
+      "z": 0.6846285,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 0.525832653,
+    "sqrMagnitude": 0.276500016
+  },
+  "localRotHip": {
+    "x": 0.55,
+    "y": -0.5,
+    "z": -20.98,
+    "normalized": {
+      "x": 0.0261990074,
+      "y": -0.0238172784,
+      "z": -0.999373,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 20.9931622,
+    "sqrMagnitude": 440.7129
+  },
+  "SwayAmount": 0.2,
+  "crouchTiltAngle": 0.0,
+  "localPosRelaxed": {
+    "x": 0.05,
+    "y": -0.38,
+    "z": 0.36,
+    "normalized": {
+      "x": 0.09508729,
+      "y": -0.722663343,
+      "z": 0.6846285,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 0.525832653,
+    "sqrMagnitude": 0.276500016
+  },
+  "localRotRelaxed": {
+    "x": 0.55,
+    "y": -0.5,
+    "z": -20.98,
+    "normalized": {
+      "x": 0.0261990074,
+      "y": -0.0238172784,
+      "z": -0.999373,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 20.9931622,
+    "sqrMagnitude": 440.7129
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.06,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.06,
+    "sqrMagnitude": 0.0036
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 45,
+  "ItemCameraFOVZoom": 20,
+  "LookCameraFOVZoom": 45,
+  "canAim": false,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 14,
+  "WalkAnimation": 9,
+  "RunAnimation": 11,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 0.98
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "MeleeWeapon",
+  "internalEnabled": true,
+  "persistentID": 13
+}

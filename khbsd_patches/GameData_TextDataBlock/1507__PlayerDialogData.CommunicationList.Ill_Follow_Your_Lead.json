@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'll follow your lead",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je suis vos ordres.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ti seguirò",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich schließe mich an",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Yo te sigo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я иду за тобой",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sigo você",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podążam za tobą.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ついて行くよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "널 따라가겠다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我跟隨你",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我会听你的",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Ill_Follow_Your_Lead",
+  "internalEnabled": true,
+  "persistentID": 1507
+}

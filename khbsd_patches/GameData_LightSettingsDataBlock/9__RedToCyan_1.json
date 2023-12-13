@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.2723309,
+        "b": 0.2352941
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.538560033,
+        "g": 0.72,
+        "b": 0.64315486
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.2422813,
+        "b": 0.2352941
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.5,
+      "ChanceBroken": 0.1,
+      "Color": {
+        "a": 0.0,
+        "r": 0.666,
+        "g": 1.0,
+        "b": 0.8572313
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.5,
+      "ChanceBroken": 0.1,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.396078438,
+        "b": 0.235294119
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.895,
+        "g": 1.0,
+        "b": 0.9555294
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    }
+  ],
+  "name": "RedToCyan_1",
+  "internalEnabled": true,
+  "persistentID": 9
+}

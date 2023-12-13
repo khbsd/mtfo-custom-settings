@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COPY PLAYER ID TO CLIPBOARD",
+  "Description": "\"Player ID\" as in \"Steam ID\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COPIER L'ID DE JOUEUR DANS LE PRESSE-PAPIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COPIA ID GIOCATORE NEGLI APPUNTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PLAYER-ID IN ZWISCHENABLAGE KOPIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COPIAR ID. DE JUGADOR AL PORTAPAPELES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОПИРОВАТЬ ID ИГРОКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "COPIAR ID DE JOGADOR PARA ÁREA DE TRANSFERÊNCIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKOPIUJ ID GRACZA do schowka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーIDをクリップボードにコピー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "클립보드에 플레이어 ID 복사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將玩家ID複製到剪貼簿",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将玩家ID复制到剪贴板",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.CopySteamIDButton",
+  "internalEnabled": true,
+  "persistentID": 58
+}

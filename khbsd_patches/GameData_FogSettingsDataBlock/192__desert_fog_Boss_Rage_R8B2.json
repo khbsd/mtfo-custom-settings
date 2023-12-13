@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.7372549,
+    "g": 0.58431375,
+    "b": 0.384313732
+  },
+  "FogDensity": 0.003,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.8,
+  "DensityNoiseScale": 0.02,
+  "DensityHeightAltitude": 20.0,
+  "DensityHeightRange": 10.0,
+  "DensityHeightMaxBoost": 0.01,
+  "Infection": 0.0,
+  "name": "desert_fog_Boss_Rage_R8B2",
+  "internalEnabled": true,
+  "persistentID": 192
+}

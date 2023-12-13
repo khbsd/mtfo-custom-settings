@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Opening!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "On ouvre\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apertura!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Abriendo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открываю!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrindo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwieram!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "開けるぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "연다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在打開！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备开门！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Opening",
+  "internalEnabled": true,
+  "persistentID": 1200
+}

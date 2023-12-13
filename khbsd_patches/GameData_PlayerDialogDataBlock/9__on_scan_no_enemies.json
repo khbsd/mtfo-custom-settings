@@ -1,0 +1,48 @@
+{
+  "priority": 100,
+  "probabilityToTrigger": 50,
+  "triggerInterval": 2,
+  "randomDelay": {
+    "x": 0.1,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.196116149,
+      "y": 0.9805807,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.509901941,
+    "sqrMagnitude": 0.26
+  },
+  "tensionLimit": 1,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1247454033,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "on_scan_no_enemies",
+  "internalEnabled": true,
+  "persistentID": 9
+}

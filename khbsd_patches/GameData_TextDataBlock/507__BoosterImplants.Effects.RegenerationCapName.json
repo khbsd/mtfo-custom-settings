@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Regen. cap",
+  "Description": "Regen. is short for \"health regeneration\", and \"cap\" represents the maximum level (%) the regeneration can reach.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Plafond de régénération",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rigenerazione max",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Regen.-Kapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Límite de regeneración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Макс. реген.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Limite de regen.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Limit regeneracji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リジェネ上限",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "재생 한도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "恢復上限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "恢复上限",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RegenerationCapName",
+  "internalEnabled": true,
+  "persistentID": 507
+}

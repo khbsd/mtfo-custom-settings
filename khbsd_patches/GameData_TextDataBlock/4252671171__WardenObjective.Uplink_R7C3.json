@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <u>Uplink Terminal</u> [ALL_ITEMS] and establish an external uplink to local storage facility",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le <u>terminal de liaison montante</u> [ALL_ITEMS] et établissez une liaison montante externe vers l'entrepôt local.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il <u>terminale di uplink</u> [ALL_ITEMS] e stabilire un uplink esterno con struttura di archiviazione locale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das <u>Uplink-Terminal</u> [ALL_ITEMS] und erstellen Sie einen externen Uplink zum lokalen Lager.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el <u>terminal de uplink</u> [ALL_ITEMS] y establece un uplink externo a cada instalación de almacenamiento local.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <b>терминал подключения</b> ([ALL_ITEMS]) и установите внешнее подключение к локальному хранилищу.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o <u>terminal de uplink</u> [ALL_ITEMS] e estabeleça um uplink externo para a instalação de armazenamento local",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <u>terminal łącza</u> [ALL_ITEMS] i ustanów łącze zewnętrzne z miejscowym magazynem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>アップリンク端末</b> [ALL_ITEMS] を見つけ、ローカルストレージ施設への外部アップリンクを確立しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS] <b>업링크 터미널</b>을 찾아 내부 저장 시설에 외부 업링크 형성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找<b>上行終端</b>[ALL_ITEMS]並建立一條連接本地儲存設施的外部上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<b>上行链路终端</b>[ALL_ITEMS]并建立一条连接本地储存设施的外部上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.Uplink_R7C3",
+  "internalEnabled": true,
+  "persistentID": 4252671171
+}

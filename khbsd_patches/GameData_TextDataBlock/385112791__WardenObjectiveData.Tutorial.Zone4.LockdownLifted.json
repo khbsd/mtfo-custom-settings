@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "LOCKDOWN FOR SECURITY DOOR TO [ZONE_4] HAS BEEN LIFTED.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PORTE DE SÉCURITÉ VERS LA [ZONE_4] DÉVERROUILLÉE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "BLOCCO REVOCATO PORTA DI SICUREZZA PER [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DIE VERRIEGELUNG DER SICHERHEITSTÜR ZU [ZONE_4] WURDE AUFGEHOBEN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EL CIERRE DE EMERGENCIA DE LA PUERTA DE SEGURIDAD HACIA [ZONE_4] SE HA ELIMINADO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БЛОКИРОВКА ЗАЩИТНОЙ ДВЕРИ В [ZONE_4] СНЯТА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFINAMENTO DA PORTA DE SEGURANÇA PARA [ZONE_4] REMOVIDO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BLOKADA DRZWI DO STREFY 4 [ZONE_4] ZNIESIONA.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_4]へのセキュリティドアの封鎖が解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_4] 보안 문 폐쇄가 해제되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_4]的安全門已解除封鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_4]的安全门已解除封锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone4.LockdownLifted",
+  "internalEnabled": true,
+  "persistentID": 385112791
+}

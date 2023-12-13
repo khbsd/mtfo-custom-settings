@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Secondary sector operational. Door to <color=orange>[ZONE 415]</color> unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Secteur secondaire opérationnel. Porte vers la <color=orange>[ZONE\u00A0415]</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Settore secondario operativo. Porta per <color=orange>zona 415 [ZONE_415]</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sekundärsektor bereit. Tür zu <color=orange>[ZONE 415]</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sector secundario está operativo. La puerta a la\u00A0<color=orange>[ZONE 415]</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Второстепенный сектор функционирует. Дверь в <color=orange>[ZONE 415]</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Setor secundário operante. Porta para <color=orange>[Zone 415]</color> destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sektor poboczny funkcjonalny. Drzwi do <color=orange>strefy 415 [ZONE 415]</color> odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副セクター稼働。<color=orange>[Zone 415]</color>へのドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 섹터 운영 가능. <color=orange>[ZONE 415]</color> 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級分區正常運作。通往<color=orange>415區[ZONE_415]</color>的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要分区正常运行。<color=orange>415区[ZONE_415]</color>门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.CorruptedUplink_Two_Terminals_R5C3_L1.EventsOnGoTOWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 1220938593
+}

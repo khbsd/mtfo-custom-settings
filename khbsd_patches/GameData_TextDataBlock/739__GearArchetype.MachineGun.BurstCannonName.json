@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Cannon",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Canon-rafale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cannone a raffica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoß-Kanone",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cañón de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автоматическая пушка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Canhão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działo salwowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストキャノン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버스트 캐논",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發砲",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.BurstCannonName",
+  "internalEnabled": true,
+  "persistentID": 739
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SIGNAL LOST",
+  "Description": "I.e. \"you survived the expedition.\" A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is the equivalent of the phrase \"mission clear\" or \"mission successful\" in GTFO.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SIGNAL PERDU",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEGNALE PERSO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SIGNAL VERLOREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SEÑAL PERDIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СИГНАЛ ПОТЕРЯН",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SINAL PERDIDO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SYGNAŁ UTRACONY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "信号喪失",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "신호 끊어짐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "失去訊號",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "信号丢失",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "ExpeditionSuccessPage.Header_SignalLost",
+  "internalEnabled": true,
+  "persistentID": 1842195698
+}

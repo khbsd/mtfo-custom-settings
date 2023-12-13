@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Choke Mod Shotgun",
+  "Description": "A firearm category. A \"choke\" is a modification to the muzzle of the shotgun, which concentrates the pellets being shot so that the weapon is more accurate/precise.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à chokes améliorés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a pompa a canna strozzata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Choke-Mod-Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta con estrangulador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дробовик с дульным сужением",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda com estrangulador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzelba typu chokemod",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チョークモッドショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초크 장착형 산탄총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收束式霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收束器霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.ChokeModName",
+  "internalEnabled": true,
+  "persistentID": 755
+}

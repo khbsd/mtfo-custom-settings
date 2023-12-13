@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Computer terminal [ITEM_SERIAL] and find a way to lift the lockdown.",
+  "Description": "A short summary of a mission objective. Don't alter the \"[ITEM_SERIAL]\" part, just put it in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Accédez au terminal informatique [ITEM_SERIAL] et trouvez un moyen de déverrouiller l'accès.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trova il terminale computer [ITEM_SERIAL] e trova un modo per rimuovere l'isolamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Computerterminal [ITEM_SERIAL] und einen Weg, die Abriegelung aufzuheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la terminal [ITEM_SERIAL] y averigua cómo anular el cierre de emergencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите компьютерный терминал [ITEM_SERIAL] и отключите режим изоляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de computador [ITEM_SERIAL] e descubra uma maneira de desativar o confinamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal komputerowy [ITEM_SERIAL] i spróbuj znieść blokadę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末 [ITEM_SERIAL] を見つけて緊急封鎖を解く方法を探せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL] 컴퓨터 터미널을 찾아 폐쇄를 해제할 방법 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到電腦終端[ITEM_SERIAL]並找出解除封鎖的方法。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到电脑终端[ITEM_SERIAL]并想办法解除封锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 938
+}

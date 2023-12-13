@@ -1,0 +1,93 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        6
+      ],
+      [],
+      [],
+      [],
+      [
+        2
+      ],
+      [
+        4
+      ],
+      [],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_200x300x50_security_01.prefab",
+        "function": 11,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_200x300x50_weak_01.prefab",
+        "function": 10,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_terminal_wall_200x300x50_01.prefab",
+        "function": 7,
+        "Shard": 19
+      },
+      {
+        "weight": 50.0,
+        "function": 0,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_Pickup_200x300x50_01.prefab",
+        "function": 0,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_Big_Pickup_200x300x50_01.prefab",
+        "function": 12,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_120x120x240/submarker_mining_cover_disinfection_120x120x240_v.prefab",
+        "function": 3,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 6,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_container_locker_200x300x50",
+    "BoundingVolume": 3000.0
+  },
+  "name": "mining_container_locker_200x300x50",
+  "internalEnabled": true,
+  "persistentID": 123
+}

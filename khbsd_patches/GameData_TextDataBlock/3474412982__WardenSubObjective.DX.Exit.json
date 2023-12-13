@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Status of Unit 27 confirmed. Proceed to elevator. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État de l'unité\u00A027 confirmé. Rendez-vous à l'ascenseur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato dell'Unità 27 confermato. Procedere verso l'ascensore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Status von Einheit 27 bestätigt. Begeben Sie sich zum Aufzug.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado de unidad 27 confirmado. Continúa hasta el ascensor. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус объекта 27 подтвержден. Направляйтесь к подъемнику.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status da Unidade 27 confirmado. Vá até o elevador.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdzono stan jednostki nr 27. Przejdź do windy. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ユニット27の状況を確認。エレベーターへ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유닛 27 상태 확인됨. 엘리베이터로 이동할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "27號單位狀態已確認。前往電梯。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "单位27状态已确认。前往电梯。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenSubObjective.DX.Exit",
+  "internalEnabled": true,
+  "persistentID": 3474412982
+}

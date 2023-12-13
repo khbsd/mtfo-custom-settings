@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power restored: Zone 90 Access avalible..",
+  "Description": "Don't localize Zone 90",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Courant rétabli\u00A0: accès à la Zone\u00A090 disponible...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Energia ripristinata: disp. accesso ZONE 90.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Strom wiederhergestellt: Zugang zu Zone 90 verfügbar …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Energía restaurada: Acceso a la ZONE 90 disponible.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подача питания восстановлена. Возобновлен доступ к ZONE 90.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energia restaurada: Acesso à ZONE 90 disponível..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasilanie przywrócone: dostęp do strefy 90 [ZONE_90] uzyskany..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電力回復：Zone 90アクセス可能..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 복구됨: ZONE 90 접근 가능..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電力恢復：ZONE 90可存取……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电力已恢复：ZONE 90访问权限可用……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenInfo_D1_ZoneUnlock",
+  "internalEnabled": true,
+  "persistentID": 1166
+}

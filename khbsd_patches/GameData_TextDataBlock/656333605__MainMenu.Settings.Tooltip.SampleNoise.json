@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Adds noise to certain effects to make them appear smoother.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ajoute un effet de bruit pour rendre certains effets plus fluides.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aggiunge rumore a determinati effetti per farli apparire più uniformi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fügt bestimmten Effekten Rauschen hinzu, um sie glatter erscheinen zu lassen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Añade ruido a efectos determinados para que parezcan más suaves.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Добавляет шум определенным эффектам, чтобы они выглядели более плавными.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Adiciona ruído a determinados efeitos para deixá-los mais suaves.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dodaje szum do niektórych efektów, wygładzając je.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特定の効果をよりなめらかにするためにノイズを加える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "특정 효과에 노이즈를 추가해 더 부드럽게 나타나도록 처리합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "為特定效果增加雜訊，讓效果看起來更平滑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给特定效果增加噪点，使其看起来更加流畅。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SampleNoise",
+  "internalEnabled": true,
+  "persistentID": 656333605
+}

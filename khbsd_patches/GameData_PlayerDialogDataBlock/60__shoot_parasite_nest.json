@@ -1,0 +1,48 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 25,
+  "triggerInterval": 3,
+  "randomDelay": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": true,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 436894526,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "shoot_parasite_nest",
+  "internalEnabled": true,
+  "persistentID": 60
+}

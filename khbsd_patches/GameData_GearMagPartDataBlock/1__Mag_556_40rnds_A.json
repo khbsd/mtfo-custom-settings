@@ -1,0 +1,17 @@
+{
+  "ClipSizeMultiplier": 1.0,
+  "ReloadTimeMultiplier": 1.0,
+  "ReloadLeftHandGripAnim": "",
+  "DropSoundType": 2,
+  "General": {
+    "PublicName": "Mag 556 40 Rounds A",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Mags/Mag_556_40rnds_A.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 60,
+    "BundleShard": 9
+  },
+  "Aligns": [],
+  "name": "Mag_556_40rnds_A",
+  "internalEnabled": true,
+  "persistentID": 1
+}

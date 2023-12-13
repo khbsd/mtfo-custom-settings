@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Arrow",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flèche gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Freccia sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pfeiltaste nach links",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Flecha izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seta esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzałka w lewo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "方向キー左",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 화살표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左箭頭",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左箭头键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.LeftArrow",
+  "internalEnabled": true,
+  "persistentID": 226
+}

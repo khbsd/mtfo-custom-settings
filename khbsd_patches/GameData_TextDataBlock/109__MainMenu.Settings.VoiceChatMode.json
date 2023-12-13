@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Chat Mode",
+  "Description": "A game setting that controls what voice chat mode the user prefers: \"Push to talk\", \"always on\" or \"disabled\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mode de chat vocal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Modalità chat vocale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachchat-Modus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Modo del chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим голосового чата",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Modo Chat de voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tryb czatu głosowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャットモード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅 모드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天模式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天模式",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceChatMode",
+  "internalEnabled": true,
+  "persistentID": 109
+}

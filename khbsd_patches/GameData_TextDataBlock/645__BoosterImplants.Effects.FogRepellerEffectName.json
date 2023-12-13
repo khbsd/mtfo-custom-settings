@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog rep. power",
+  "Description": "Refers to the power/efficiency of fog repellers.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Puissance de répulsif de brouillard",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Efficacia anti-nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nebelverdränger-Leistung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Energía de repelente de niebla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффективность антидыма",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Força do rep. de névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efektywność środka przeciwmgielnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フォグリペラーパワー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 제거기 출력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驅霧強度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "驱雾器效果",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.FogRepellerEffectName",
+  "internalEnabled": true,
+  "persistentID": 645
+}

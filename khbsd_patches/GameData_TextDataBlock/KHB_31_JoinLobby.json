@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "JOIN SLOPPY",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "REJOINDRE LE SALON",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ACCEDI A LOBBY",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LOBBY BEITRETEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "UNIRSE A SALA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОЙТИ В ЛОББИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENTRAR NO LOBBY",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DOŁĄCZ DO LOBBY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーに参加",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 참가",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加入大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加入大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.JoinLobbyHeader",
+  "internalEnabled": true,
+  "persistentID": 31
+}

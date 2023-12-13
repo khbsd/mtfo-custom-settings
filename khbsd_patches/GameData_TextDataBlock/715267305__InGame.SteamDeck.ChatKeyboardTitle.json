@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enter text to send",
+  "Description": "The title of the on-screen keyboard window on SteamDeck platform when writing an online chat message.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrez un texte à envoyer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserisci testo da inviare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zu sendenden Text eingeben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el texto que quieres enviar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите текст для отправки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira texto para enviar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź tekst do wysłania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "送信する文章を入力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전송할 텍스트 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輸入要傳送的文字",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "输入要发送的文本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.SteamDeck.ChatKeyboardTitle",
+  "internalEnabled": true,
+  "persistentID": 715267305
+}

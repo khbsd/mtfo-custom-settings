@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resource Container",
+  "Description": "Part of the map \"legend\" (icon explanations.) A resource container can be a small box or a big locker, where resources (medpacks, ammunition, etc.) can be found.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Conteneur de ressources",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Contenitore risorse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ressourcencontainer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Contenedor de recursos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Контейнер с ресурсами",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Contêiner de recursos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pojemnik z zasobami",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースコンテナ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 컨테이너",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源容器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源容器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.ResourceContainer",
+  "internalEnabled": true,
+  "persistentID": 814
+}

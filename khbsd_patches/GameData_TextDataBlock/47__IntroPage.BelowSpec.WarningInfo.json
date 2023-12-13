@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Your system is below minSpec, this will lead to sub-par performance and/or crashes!",
+  "Description": "A comment on the user's PC specifications.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Votre configuration est inférieure à la configuration minimum requise. Cela peut entraîner des performances insuffisantes et/ou des plantages\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il tuo sistema non raggiunge i requisiti minimi, e potrebbe causare scarse prestazioni e/o interruzioni!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ihr System erfüllt die min. Anforderungen nicht, dies führt zu geringer Leistung und/oder Abstürzen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tu sistema no cuenta con los requisitos mínimos, por lo que el rendimiento será inferior o puede que el juego se bloquee.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Не соблюдены минимальные системные требования. Возможны ошибки и некорректная работа.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seu sistema está abaixo da especificação mín., isso pode gerar desempenho ruim e/ou travamentos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Twój system nie spełnia wymagań minimalnych, doprowadzi to do gorszej wydajności i/lub awarii!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "あなたのシステムは最小スペック未満です。パフォーマンス低下やクラッシュの可能性があります！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시스템이 최소 사양 미만입니다. 게임 성능이 극도로 저하되거나 충돌이 발생할 수 있습니다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "系統低於最低規格，將導致低標效能與/或當機！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你的系统未达到最低规格，将导致性能不足和/或崩溃！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.BelowSpec.WarningInfo",
+  "internalEnabled": true,
+  "persistentID": 47
+}

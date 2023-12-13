@@ -1,0 +1,46 @@
+{
+  "priority": 300,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 1,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 2,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 1230744221,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 29,
+        "conditions": []
+      }
+    }
+  ],
+  "name": "on_char_G_is_downed",
+  "internalEnabled": true,
+  "persistentID": 20
+}

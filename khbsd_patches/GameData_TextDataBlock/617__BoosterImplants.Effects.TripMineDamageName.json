@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Trip Mine Damage",
+  "Description": "Refers to how much damage the player's trip mines can deal.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de mine à déclencheur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da mina adesiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolperminen-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de mina de detección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (мина с лазерным датчиком)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de minas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od miny z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トリップマインダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "絆雷傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "绊雷伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.TripMineDamageName",
+  "internalEnabled": true,
+  "persistentID": 617
+}

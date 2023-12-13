@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Very High",
+  "Description": "A text string indicating that a particular game setting is set to \"very high\". It could, for example, refer to \"shadow resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Très élevé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Molto alto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sehr hoch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muy alto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очень высок.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Muito alto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "B. wys.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "超高",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매우 높음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "極高",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "极高",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VeryHigh",
+  "internalEnabled": true,
+  "persistentID": 172
+}

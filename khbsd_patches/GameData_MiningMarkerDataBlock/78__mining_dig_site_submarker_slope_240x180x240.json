@@ -1,0 +1,107 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        10
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_04.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_05.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_06.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_07.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_08.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_09.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 6.0,
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_slope_240x180x240/dig_site_submarker_slope_240x180x240_HA_10.prefab",
+        "function": 0,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_slope_240x180x240",
+    "BoundingVolume": 10368.0
+  },
+  "name": "mining_dig_site_submarker_slope_240x180x240",
+  "internalEnabled": true,
+  "persistentID": 78
+}

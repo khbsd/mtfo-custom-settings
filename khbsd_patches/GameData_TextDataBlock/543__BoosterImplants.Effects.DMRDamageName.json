@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DMR Damage",
+  "Description": "I.e. how much damage you can deal with a DMR (designated marksman rifle.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de DMR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. da battaglia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DMR-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil de tirador designado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (марксманская винтовка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de DMR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu wyborowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "DMRダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "DMR 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "精準步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "精确步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.DMRDamageName",
+  "internalEnabled": true,
+  "persistentID": 543
+}

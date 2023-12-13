@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to Zone 209 and Pick up the memory stick from its Shuttlebox",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la Zone\u00A0209 pour prendre la carte mémoire dans la boîte à navette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere la ZONE 209 e raccogliere la scheda di memoria dalla scatola di trasferimento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu Zone 209 und nehmen Sie den Memorystick aus der Transferbox.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta la ZONE 209 y extrae el pendrive de la caja de ida y vuelta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в зону 209 и заберите карту памяти из подъемника.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para a Zone 209 e pegue o cartão de memória da caixa de vaivém",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 209 [ZONE_209] i pobierz nośnik pamięci ze skrzynki transportowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 209へ進み、シャトルボックスからメモリースティックを手に入れろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 209로 이동해 셔틀 박스의 메모리 스틱 획득할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續前進到Zone 209，從該處的穿梭箱取得記憶卡。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往ZONE 209并从穿梭箱中拾取记忆棒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.SubObjective.Shuttlebox_R7d2",
+  "internalEnabled": true,
+  "persistentID": 270339762
+}

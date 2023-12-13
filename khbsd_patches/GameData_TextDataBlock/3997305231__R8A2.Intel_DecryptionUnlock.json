@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Cipher decrypted. Door to <color=orange>ZONE 68</color> unlocked. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Code décrypté. Porte vers la <color=orange>ZONE\u00A068</color> déverrouillée. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cifratura decrittata. Porta per <color=orange>ZONE 68</color> sbloccata. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Chiffre entschlüsselt. Tür zu <color=orange>ZONE\u00A068</color> entriegelt. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Código descifrado. La puerta a la <color=orange>ZONE 68</color> está desbloqueada. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Код расшифрован. Дверь в <color=orange>ZONE 68</color> разблокирована. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cifra decodificada. Porta para a <color=orange>ZONE 68</color> destravada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odszyfrowano. Drzwi do <color=orange>strefy 68 [ZONE_68]</color> odblokowane ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "暗号解読完了。<color=orange>ZONE 68</color>へのドアのロック解除。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "암호가 해독됐습니다. <color=orange>ZONE 68</color> 문이 개방됐습니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "密碼已破解。通往<color=orange>ZONE 68</color>的門已解鎖。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "密码已破解。通往<color=orange>ZONE 68</color>的门已解锁。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8A2.Intel_DecryptionUnlock",
+  "internalEnabled": true,
+  "persistentID": 3997305231
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <u>Uplink Terminals</u> [ALL_ITEMS] and establish an external uplink from each terminal",
+  "Description": "Don't localize [ALL_ITEMS]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez les <u>terminaux de liaison montante</u> [ALL_ITEMS] et établissez une liaison montante externe depuis chaque terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i <u>terminali di uplink</u> [ALL_ITEMS] e stabilire un uplink esterno da ciascun terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die <u>Uplink-Terminals</u> [ALL_ITEMS] und erstellen Sie an jedem Terminal einen externen Uplink.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra las <u>terminales de uplink</u> de [ALL_ITEMS] y establece un uplink en cada terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <b>терминалы подключения</b> ([ALL_ITEMS]) и установите внешнее подключение с каждого терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre os <u>terminais de uplink</u> [ALL_ITEMS] e estabeleça um uplink externo em cada terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <u>terminale łącza</u> [ALL_ITEMS] i ustanów zewnętrzne łącze z każdego z terminali",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>アップリンク端末</b> [ALL_ITEMS] を見つけ、各端末からの外部アップリンクを確立しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS] <b>업링크 터미널</b>을 찾아 각 터미널의 외부 업링크 형성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找「上行終端」[ALL_ITEMS]並從每個終端建立外部上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<b>上行链路终端</b>[ALL_ITEMS]并从每个终端建立一条外部上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CorruptedUplink_D2_L2.Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1577
+}

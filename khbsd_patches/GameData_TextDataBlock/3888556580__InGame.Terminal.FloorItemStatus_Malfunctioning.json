@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Malfunctioning",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dysfonctionnement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Malfunzionamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Defekt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Averiado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбой",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Com defeito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Awaria",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "故障中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오작동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "故障",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "故障",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemStatus_Malfunctioning",
+  "internalEnabled": true,
+  "persistentID": 3888556580
+}

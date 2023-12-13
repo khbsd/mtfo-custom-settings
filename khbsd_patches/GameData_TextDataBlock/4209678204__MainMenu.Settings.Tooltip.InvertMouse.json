@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Inverts the vertical mouse movement. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inverse le mouvement vertical de la souris.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inverte il movimento verticale del mouse.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Invertiert die vertikale Mausbewegung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Invierte el movimiento del ratón vertical.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инвертирует перемещение мыши по вертикальной оси.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inverte o movimento vertical do mouse.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odwraca ruch myszy w pionie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "垂直方向のマウスの動きを反転させる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 상하 이동을 반전시킵니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反轉滑鼠的垂直移動。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反转鼠标纵向移动。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.InvertMouse",
+  "internalEnabled": true,
+  "persistentID": 4209678204
+}

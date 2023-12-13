@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown. Complete main objective to enter. </color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. Accomplissez l'objectif principal pour entrer.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. Completare l'obiettivo principale per entrare. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Zum Betreten Primärziel abschließen.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Cierre de emergencia en puerta. Completa el objetivo principal para entrar. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Чтобы войти, достигните главной цели.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em modo de confinamento de emergência. Conclua o objetivo principal para entrar. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Ukończ cel główny, aby wejść. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー: ドアは緊急封鎖中。主目標を完了して進入。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문 비상 폐쇄. 주요 목표를 완료하여 진입</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態。完成主要目標以進入。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁中。完成主要目标以进入。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1",
+  "internalEnabled": true,
+  "persistentID": 2532265839
+}

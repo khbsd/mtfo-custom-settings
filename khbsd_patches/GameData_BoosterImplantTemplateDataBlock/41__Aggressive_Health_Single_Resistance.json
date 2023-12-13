@@ -1,0 +1,49 @@
+{
+  "Deprecated": false,
+  "PublicName": 709,
+  "Description": 0,
+  "DurationRange": {
+    "x": 2.0,
+    "y": 3.0,
+    "normalized": {
+      "x": 0.5547002,
+      "y": 0.8320503,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.60555124,
+    "sqrMagnitude": 13.0
+  },
+  "DropWeight": 4.0,
+  "Conditions": [],
+  "RandomConditions": [
+    5
+  ],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 10,
+        "MinValue": 1.3,
+        "MaxValue": 1.4
+      },
+      {
+        "BoosterImplantEffect": 11,
+        "MinValue": 1.3,
+        "MaxValue": 1.4
+      }
+    ],
+    [
+      {
+        "BoosterImplantEffect": 54,
+        "MinValue": 0.91,
+        "MaxValue": 0.95
+      }
+    ]
+  ],
+  "ImplantCategory": 2,
+  "MainEffectType": 2,
+  "name": "Aggressive_Health_Single_Resistance",
+  "internalEnabled": true,
+  "persistentID": 41
+}

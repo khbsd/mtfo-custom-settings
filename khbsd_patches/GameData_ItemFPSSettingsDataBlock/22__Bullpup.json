@@ -1,0 +1,141 @@
+{
+  "localPosHip": {
+    "x": 0.09,
+    "y": -0.1,
+    "z": 0.43,
+    "normalized": {
+      "x": 0.199753538,
+      "y": -0.22194837,
+      "z": 0.954378,
+      "normalized": {
+        "x": 0.199753553,
+        "y": -0.221948385,
+        "z": 0.954378068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.450555235,
+    "sqrMagnitude": 0.203000009
+  },
+  "localRotHip": {
+    "x": -2.36,
+    "y": -0.61,
+    "z": -1.53,
+    "normalized": {
+      "x": -0.820027947,
+      "y": -0.211956382,
+      "z": -0.5316283,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.87795067,
+    "sqrMagnitude": 8.282599
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 10.0,
+  "localPosRelaxed": {
+    "x": 0.09,
+    "y": -0.18,
+    "z": 0.32,
+    "normalized": {
+      "x": 0.238081932,
+      "y": -0.476163864,
+      "z": 0.84651345,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.378021151,
+    "sqrMagnitude": 0.1429
+  },
+  "localRotRelaxed": {
+    "x": 5.0,
+    "y": -12.0,
+    "z": -25.0,
+    "normalized": {
+      "x": 0.177443355,
+      "y": -0.425864071,
+      "z": -0.8872168,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 28.1780052,
+    "sqrMagnitude": 794.0
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": -0.154,
+    "z": 0.25,
+    "normalized": {
+      "x": 0.0,
+      "y": -0.524477363,
+      "z": 0.851424336,
+      "normalized": {
+        "x": 0.0,
+        "y": -0.5244774,
+        "z": 0.8514244,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 0.293625623,
+    "sqrMagnitude": 0.086216
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 36,
+  "ItemCameraFOVZoom": 20,
+  "LookCameraFOVZoom": 53,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 25,
+  "IdleAnimation": 21,
+  "WalkAnimation": 9,
+  "RunAnimation": 15,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 6.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 4.5
+  },
+  "name": "Bullpup",
+  "internalEnabled": true,
+  "persistentID": 22
+}

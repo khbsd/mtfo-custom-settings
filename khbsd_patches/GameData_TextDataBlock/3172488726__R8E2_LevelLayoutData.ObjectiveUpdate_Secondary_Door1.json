@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=#3299a8>ZONE 619</color> unlocked",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la <color=#3299a8>ZONE\u00A0619</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=#3299a8>ZONE 619</color> sbloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=#3299a8>ZONE\u00A0619</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la <color=#3299a8>ZONE 619</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в <color=#3299a8>ZONE 619</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=#3299a8>ZONE 619</color> destravada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=#3299a8>strefy 619 [ZONE_619]</color> odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>ZONE 619</color>へのドアがロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>ZONE 619</color>문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=#3299a8>ZONE 619</color>的門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往<color=#3299a8>ZONE 619</color>的门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8E2_LevelLayoutData.ObjectiveUpdate_Secondary_Door1",
+  "internalEnabled": true,
+  "persistentID": 3172488726
+}

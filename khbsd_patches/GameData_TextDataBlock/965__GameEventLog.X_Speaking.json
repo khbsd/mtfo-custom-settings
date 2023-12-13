@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[{0} speaking]",
+  "Description": "A text string that indicates who is currently speaking in voice chat. \"{0}\" represents the nickname of the player speaking.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[Voix\u00A0: {0}]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[{0} sta parlando]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[{0} spricht]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[{0} está hablando]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[{0} говорит]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[{0} falando]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[Mówi {0}]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[{0} が発話中]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[{0} 말하는 중]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[{0}發言中]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[{0}在说话]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.X_Speaking",
+  "internalEnabled": true,
+  "persistentID": 965
+}

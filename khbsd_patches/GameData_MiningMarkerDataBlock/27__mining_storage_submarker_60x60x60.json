@@ -1,0 +1,119 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        7
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_a.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_b.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_woodencrates_60x60x60/submarker_mining_storage_woodencrates_60x60x60_a.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.75,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_woodencrates_60x60x60/submarker_mining_storage_woodencrates_60x60x60_c.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_woodencrates_60x60x60/submarker_mining_storage_woodencrates_60x60x60_e.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.75,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_cartonboxes_60x60x60/submarker_mining_storage_cartonboxes_60x60x60_b.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 3.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_gen_01.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_gen_02.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_c.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_d.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_e.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x60x60/submarker_mining_storage_mixed_60x60x60_f.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 2.0,
+        "function": 0,
+        "Shard": 3
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 5,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_storage_mixed_60x60x60",
+    "BoundingVolume": 216.0
+  },
+  "name": "mining_storage_submarker_60x60x60",
+  "internalEnabled": true,
+  "persistentID": 27
+}

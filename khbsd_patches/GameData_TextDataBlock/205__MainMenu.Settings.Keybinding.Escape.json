@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Escape",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échap.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Escape",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Escape",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Escape",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Esc",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Escape键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Escape",
+  "internalEnabled": true,
+  "persistentID": 205
+}

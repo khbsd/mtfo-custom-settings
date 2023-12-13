@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 13,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 5
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Big x3 - Alarm Reduced Bullrush Mix",
+  "internalEnabled": true,
+  "persistentID": 58
+}

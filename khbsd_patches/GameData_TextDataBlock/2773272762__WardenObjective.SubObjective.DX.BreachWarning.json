@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": " <color=red> Warning. </color> Alpha Three facility compromised.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red> Alerte. </color> Installation Alpha Trois compromise.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> Attenzione. </color> Struttura Alfa Tre compromessa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Warnung.</color> Alpha-Three-Anlage kompromittiert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> Advertencia. </color> Instalaciones de Alfa tres en peligro.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание!</color> Альфа-Три под угрозой.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> Aviso. </color> Instalação da Árvore Alfa comprometida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> Ostrzeżenie. </color> Obiekt Alfa 3 zagrożony.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告。</color>アルファ3施設に不正進入。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red> 경고. </color> 알파 3 시설에 위험 발생.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。</color>Alpha Three設施遭破壞。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告。</color>阿尔法三设施受损。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjective.SubObjective.DX.BreachWarning",
+  "internalEnabled": true,
+  "persistentID": 2773272762
+}

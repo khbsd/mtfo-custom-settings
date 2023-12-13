@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exploring the armory",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exploration de l'arsenal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esplorazione dell'armeria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erkundung der Waffenkammer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la armería.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Осмотр оружейной",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exploração do arsenal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Eksploracja zbrojowni",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器庫を探索中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기고 탐색",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "探索軍械庫",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "探索军械库",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone3.OpenDoor.Header",
+  "internalEnabled": true,
+  "persistentID": 2484545171
+}

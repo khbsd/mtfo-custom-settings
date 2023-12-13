@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Menu Cursor Move Left",
+  "Description": "Control key binding/mapping. This is a way for the user to move the mouse pointer with buttons, if they don't have a mouse.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Curseur du menu (gauche)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento cursore menu a sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Menü-Cursor nach links bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover a la izquierda el cursor del menú",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Курсор меню влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover cursor para a esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kursor w lewo – menu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニューカーソル左",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴 커서 왼쪽으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選單游標向左移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "菜单光标左移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MenuCursorMoveLeft",
+  "internalEnabled": true,
+  "persistentID": 135
+}

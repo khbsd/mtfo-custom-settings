@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must have 50% health or more for booster to be active.",
+  "Description": "A description of a condition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit avoir 50\u00A0% de santé ou plus pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve avere la salute pari o superiore al 50% per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss mindestens 50\u00A0% Gesundheit haben, damit der Booster aktiv wird.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe tener un 50\u00A0% de salud o más para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, имея не менее 80% здоровья.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve ter 50% de vida ou mais para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi mieć więcej niż 50% poziomu zdrowia, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象は体力が50%以上の時のみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터를 활성화하려면 대상의 체력이 50% 이상이어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須具有50%以上的生命值才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生命值不得低于50%，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.HasHighHealthDescription",
+  "internalEnabled": true,
+  "persistentID": 704
+}

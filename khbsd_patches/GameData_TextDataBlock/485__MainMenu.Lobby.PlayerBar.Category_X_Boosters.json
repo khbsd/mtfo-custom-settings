@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} BOOSTERS",
+  "Description": "Boosters are performance enhancing drugs that the players can choose to inject into their PC to gain various advantages/perks in the game. The drugs \"boost\" the PC's abilities, hence the name \"boosters\".\n{0} is one of the category names: BoosterImplants.Categories.Muted, BoosterImplants.Categories.Bold, BoosterImplants.Categories.Aggressive",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "BOOSTERS {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "POTENZIAMENTI DI TIPO {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0}-BOOSTER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "POTENCIADORES DE TIPO {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСИЛИТЕЛИ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "IMPULSOS: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} WZMACNIACZ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} ブースター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 부스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Category_X_Boosters",
+  "internalEnabled": true,
+  "persistentID": 485
+}

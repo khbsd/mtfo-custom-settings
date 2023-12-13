@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\n5.5:This door has an alarm. Prepare for combat before pulling the lever.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\n5.5\u00A0: Cette porte est équipée d’une alarme. Préparez-vous au combat avant d’activer la manette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\n5.5:Questa porta ha un allarme. Prepararsi al combattimento prima di tirare la leva.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\n5.5:Diese Tür ist mit einem Alarm ausgestattet. Bereiten Sie sich auf den Kampf vor, bevor Sie den Hebel betätigen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\n5.5:Esta puerta tiene una alarma. Prepárate para el enfrentamiento antes de tirar de la palanca.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\n5.5: Дверь оснащена сигнализацией. Подготовьтесь к бою и лишь потом тяните рычаг.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\n5.5:Esta porta tem um alarme. Prepare-se para o combate antes de puxar a alavanca.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\n5.5:Te drzwi są zabezpieczone alarmem. Przygotuj się do walki przed pociągnięciem dźwigni.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n5.5:このドアには警報がある。レバーを引く前に戦闘に備えよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n5.5:이 문은 경보가 설정되어 있습니다. 전투에 대비하고 레버를 당기십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n5.5：這道門設有警鈴。拉下手柄前請做好戰鬥準備。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n5.5:此门设有警报。在拉动控制杆前做好战斗准备。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Play_tutorial_19",
+  "internalEnabled": true,
+  "persistentID": 3944823551
+}

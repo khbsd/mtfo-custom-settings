@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "There's a yellow syringe here.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà une seringue jaune.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "C'è una siringa gialla qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist eine gelbe Injektionsnadel.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta una jeringuilla amarilla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь желтый шприц.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tem uma seringa amarela aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Żółta strzykawka, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここに黄色い注射器がある。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 황색 주사기가 있다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有一個黃色注射器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里有个黄色注射器。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.There_Is_A_Yellow_Syringe_Here",
+  "internalEnabled": true,
+  "persistentID": 1516
+}

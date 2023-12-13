@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Security protocol active, terminal locked.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Protocole de sécurité actif, terminal verrouillé.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Protocollo di sicurezza attivo, terminale bloccato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Sicherheitsprotokoll aktiv, Terminal gesperrt.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Protocolo de seguridad activo, terminal bloqueado.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Действует протокол безопасности. Терминал заблокирован.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Protocolo de segurança ativo; terminal bloqueado.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Protokół bezpieczeństwa włączony, terminal zablokowany.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>セキュリティプロトコル有効、端末ロック中。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>보안 프로토콜 활성화됨. 터미널 잠김</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>已啟用安全協定，終端已鎖。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>安全协议激活，终端已锁定。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.SecurityProtocolActive",
+  "internalEnabled": true,
+  "persistentID": 213520952
+}

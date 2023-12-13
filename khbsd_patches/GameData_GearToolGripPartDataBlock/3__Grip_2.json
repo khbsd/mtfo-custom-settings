@@ -1,0 +1,24 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Grip/Grip_2.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Tool_Grip_2",
+    "RightHandGripAnim": "Tool_Grip_2",
+    "AssetBundle": 90,
+    "BundleShard": 5
+  },
+  "Aligns": [
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "name": "Grip_2",
+  "internalEnabled": true,
+  "persistentID": 3
+}

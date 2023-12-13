@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PING FAILURE: Out of range. {0} is not in the same security zone as this terminal",
+  "Description": "{0} is an item name. Example: HSU_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ÉCHEC DE LA REQUÊTE PING\u00A0: hors de portée. {0} est dans une autre zone de sécurité que celle de ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ERRORE PING: Fuori portata. {0} non si trova nella stessa zona di sicurezza di questo terminale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PING FEHLGESCHLAGEN: außer Reichweite. {0} befindet sich nicht in der gleichen Sicherheitszone wie dieses Terminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FALLO DE PING: Fuera del alcance. {0} no está en la misma zona de seguridad que este terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА ПИНГА: вне зоны доступа. {0} и терминал находятся в разных охраняемых зонах.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALHA NO PING: Fora de alcance. {0} não está na mesma zona de segurança que este terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BŁĄD OZNACZANIA: brak zasięgu. {0} nie znajduje się w strefie bezpieczeństwa terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PING失敗: 範囲外。{0}は、この端末と同じセキュリティゾーン内にありません",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑 실패: 범위를 벗어났습니다. {0}이(가) 이 터미널과 동일한 보안 구역에 있지 않습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記失敗：超出範圍。{0}與此終端不在同一個安全區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记失败：超出范围。{0}与此终端不在同一个安全区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.PING_FAILURE_Out_of_range_X",
+  "internalEnabled": true,
+  "persistentID": 64873805
+}

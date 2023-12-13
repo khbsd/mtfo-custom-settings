@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will revive others at decreased speed.",
+  "Description": "Describes the disadvantage of having a poor \"revive speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet réanime les autres prisonniers à vitesse réduite.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto rianimerà i compagni più lentamente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson belebt andere langsamer wieder.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto resucitará a otros más lento.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость возрождения напарников понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo revive os outros com menor velocidade.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie reanimować innych więźniów wolniej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の他者復活速度が下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 다른 사람들을 더 늦게 소생시킵니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象復活他人的速度較慢。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者复活他人的速度减慢。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ReviveSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 521
+}

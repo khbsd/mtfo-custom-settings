@@ -1,0 +1,35 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_MotionTracker_Antenna_c.prefab",
+    "GearCategoryFilter": 9,
+    "AssetBundle": 20,
+    "BundleShard": 19
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "MotionTracker_1",
+  "internalEnabled": true,
+  "persistentID": 9
+}

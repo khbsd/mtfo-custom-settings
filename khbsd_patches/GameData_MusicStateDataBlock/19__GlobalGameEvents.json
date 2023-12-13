@@ -1,0 +1,64 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [
+    {
+      "GameEvent": 30,
+      "SoundEvent": "scary_swell_130_level_001",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 35,
+      "SoundEvent": "scary_swell_130_level_002",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 40,
+      "SoundEvent": "exploration_eerie_roll",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 44,
+      "SoundEvent": "exploration_eerie_roll",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 42,
+      "SoundEvent": "stinger_low_boom",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 38,
+      "SoundEvent": "stinger_low_rumble",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 11,
+      "SoundEvent": "combat_cooldown_up_20",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 23,
+      "Cooldown": 0.0
+    }
+  ],
+  "m_EventsOnEnter": [],
+  "m_SwitchesOnEnter": [],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "GlobalGameEvents",
+  "internalEnabled": true,
+  "persistentID": 19
+}

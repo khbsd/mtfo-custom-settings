@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog repeller here",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà un répulsif à brouillard.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Anti-nebbia qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Nebelzerstreuer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta un repelente de niebla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь антидым",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Repulsor de névoa aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Środek przeciwmgielny, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにフォグリペラーがある",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 안개 제거기다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有驅霧器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有驱雾器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.There_Is_A_Fog_Repeller_Here",
+  "internalEnabled": true,
+  "persistentID": 1510
+}

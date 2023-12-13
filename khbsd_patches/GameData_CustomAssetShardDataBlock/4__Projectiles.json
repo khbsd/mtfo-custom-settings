@@ -1,0 +1,68 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingTiny.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingSmall.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingMedium.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingLarge.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Tools/GlueGun/GlueGunProjectile.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjSemiTargetingQuick.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjInfectionBomb.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingSmallFast.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjNotTargetingSmallFast.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjSemiTargetingBoss.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjSemiTargetingBossArtillery.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjRagingBoss.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjNotTargetingBigFast.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjNotTargetingSmallPellet.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Enemies/Abilities/ProjTargetingSpread.prefab",
+      "Shard": 4
+    }
+  ],
+  "name": "Projectiles",
+  "internalEnabled": true,
+  "persistentID": 4
+}

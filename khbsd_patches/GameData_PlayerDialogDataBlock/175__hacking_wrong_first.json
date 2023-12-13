@@ -1,0 +1,42 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 25,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": true,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 2963301153,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "hacking_wrong_first",
+  "internalEnabled": true,
+  "persistentID": 175
+}

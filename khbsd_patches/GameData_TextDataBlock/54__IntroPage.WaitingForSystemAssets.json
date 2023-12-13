@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting for system assets to initialize..",
+  "Description": "Avoid translating the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Initialisation des données du système...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa dell'inizializzazione delle risorse di sistema...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warten auf Systemressourcen-Initialisierung\u00A0...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando a que se inicien los recursos del sistema...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инициализация системных сервисов...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando inicialização dos recursos do sistema...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na inicjalizację zasobów systemowych...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "システムアセットの初期化を待機中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시스템 에셋 시작 대기 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待系統資產初始化……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待系统资源初始化……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.WaitingForSystemAssets",
+  "internalEnabled": true,
+  "persistentID": 54
+}

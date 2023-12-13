@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Check the map!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Regardez la carte\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controllate la mappa!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karte überprüfen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Comprueba el mapa!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверим карту!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confira o mapa!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sprawdzić mapę!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップを見ろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맵 확인해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "查看地圖！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "看地图！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.CheckTheMap",
+  "internalEnabled": true,
+  "persistentID": 1186
+}

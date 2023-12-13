@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">… Where am I?”\n>… This is your behavioral assessment.”\n>… I am being <size=200%><color=red>assessed?</color></size>\n>… Yes. Prepare yourself subject.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">… Où suis-je\u00A0?\"\n>… Vous débutez votre évaluation comportementale.\n>… Je... Une <size=200%><color=red>évaluation\u00A0?</color></size>\n>… Oui. Préparez-vous, sujet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> Dove sono?\n> Questa è la tua valutazione comportamentale.\n> Sono in fase di <size=200%><color=red>valutazione?</color></size>\n> Sì. Preparati, soggetto.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Wo bin ich?\n>… Das ist deine Verhaltensbeurteilung.\n>… Ich werde <size=200%><color=red>beurteilt?</color></size>\n>… Ja. Bereite dich vor, Versuchsperson.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">... ¿Dónde estoy?\n>... En tu análisis conductual.\n>... ¿Me van a <size=200%><color=red>evaluar?</color></size>\n>... Sí. Prepárate, sujeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">... Где я?\n>... Это процедура поведенческой оценки.\n>... Меня будут <size=200%><color=red>оценивать?</color></size>\n>... Верно, субъект. Приготовься.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">… Onde estou?”\n>… Esta é sua avaliação de comportamento.”\n>… Estão me <size=200%><color=red>avaliando?</color></size>\n>… Sim. Prepare-se, indivíduo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">… Gdzie jestem”\n>… Jesteś w toku procedury oceny zachowania.”\n>… Ktoś mnie <size=200%><color=red>ocenia?</color></size>\n>… Tak. Przygotuj się, biorco.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">… ここはどこだ？”\n>… これは君の行動アセスメントだ。”\n>… <size=200%><color=red>査定される？</color></size>\n>… ああ。対象、準備しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">… 여기가 어디야?”\n>… 네 행동 평가다.”\n>… 내가 <size=200%><color=red>평가받고</color></size> 있다고?\n>… 그래. 준비해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…我在哪裡？\n>…這是你的行為評量。\n>…有人在<size=200%><color=red>評量</color></size>\n我的行為？>…對，實驗對象，請做好準備。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">… 我在哪儿？\n>… 你在接受行为评估。\n>… 我在被<size=200%><color=red>评估</color></size>？\n>… 是。做好准备，实验体。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Rundowndata.R7A2.Expedition.WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3242757535
+}

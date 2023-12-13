@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Opens all security doors to zone 100",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvre toutes les portes de sécurité vers la zone\u00A0100",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apre tutte le porte di sicurezza per zona 100 [ZONE_100]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnet alle Sicherheitstüren zu Zone 100.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abre todas las puertas de seguridad a la ZONE 100.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открывает все защитные двери в зону 100.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abra todas as portas de segurança para a Zone 100",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwiera wszystkie drzwi do strefy 100",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ZONE 100への全セキュリティドアを開く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 100으로 가는 모든 보안문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開啟通往100區[ZONE_100]的所有安全門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "打开通往100区[ZONE_100]的所有安全门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_ZoneScan_R5C2_L3.SpecialTerminalCommandDesc",
+  "internalEnabled": true,
+  "persistentID": 283963768
+}

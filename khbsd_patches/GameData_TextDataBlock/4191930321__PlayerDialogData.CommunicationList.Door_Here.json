@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Una puerta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドア。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Door_Here",
+  "internalEnabled": true,
+  "persistentID": 4191930321
+}

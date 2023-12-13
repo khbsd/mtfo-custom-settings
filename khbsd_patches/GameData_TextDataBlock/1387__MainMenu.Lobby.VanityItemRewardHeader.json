@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "New Vanity Item!",
+  "Description": "A headline for the text box that informs the players about new vanity items.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Nouvel objet décoratif\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nuovo oggetto decorativo!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neuer Vanity-Gegenstand",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Nuevo objeto decorativo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Новый предмет кастомизации!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Novo item cosmético!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nowy przedmiot kosmetyczny!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "新たな装飾アイテム！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "새로운 치장 아이템!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "新裝飾物品！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "新形象物品！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.VanityItemRewardHeader",
+  "internalEnabled": true,
+  "persistentID": 1387
+}

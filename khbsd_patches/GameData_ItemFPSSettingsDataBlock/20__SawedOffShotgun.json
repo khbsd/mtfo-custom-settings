@@ -1,0 +1,134 @@
+{
+  "localPosHip": {
+    "x": 0.055,
+    "y": -0.08,
+    "z": 0.38,
+    "normalized": {
+      "x": 0.140232682,
+      "y": -0.2039748,
+      "z": 0.9688803,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.3922053,
+    "sqrMagnitude": 0.153825
+  },
+  "localRotHip": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 3.03,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.03,
+    "sqrMagnitude": 9.1809
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 10.0,
+  "localPosRelaxed": {
+    "x": 0.064,
+    "y": -0.11,
+    "z": 0.4,
+    "normalized": {
+      "x": 0.152469143,
+      "y": -0.262056351,
+      "z": 0.9529322,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 0.419757068,
+    "sqrMagnitude": 0.176196009
+  },
+  "localRotRelaxed": {
+    "x": 7.98,
+    "y": -13.55,
+    "z": -20.87,
+    "normalized": {
+      "x": 0.305382,
+      "y": -0.518537164,
+      "z": -0.798662,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 26.1312046,
+    "sqrMagnitude": 682.839844
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": -0.154,
+    "z": 0.4,
+    "normalized": {
+      "x": 0.0,
+      "y": -0.359291732,
+      "z": 0.9332253,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.428621054,
+    "sqrMagnitude": 0.183716
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": -0.1,
+    "z": 0.0,
+    "normalized": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.1,
+    "sqrMagnitude": 0.0100000007
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 34,
+  "ItemCameraFOVZoom": 33,
+  "LookCameraFOVZoom": 54,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 14,
+  "WalkAnimation": 9,
+  "RunAnimation": 10,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 0.15,
+    "focalLength": 2.3
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 0.1,
+    "focalLength": 2.5
+  },
+  "name": "SawedOffShotgun",
+  "internalEnabled": true,
+  "persistentID": 20
+}

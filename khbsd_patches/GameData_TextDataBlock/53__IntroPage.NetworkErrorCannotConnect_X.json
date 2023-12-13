@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Network Error, cannot connect to online services.\nError code: {0}",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Erreur réseau, échec de connexion aux services en ligne.\nCode d'erreur\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore di rete, impossibile stabilire una connessione ai servizi online.\nCodice errore: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Netzwerkfehler, keine Verbindung zu Online-Services.\nFehlercode: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error de red. No se puede conectar a los servicios en línea.\nCódigo de error: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка сети. Невозможно подключиться к онлайн-сервисам.\nКод ошибки: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro de rede; incapaz de se conectar aos serviços online.\nCódigo do erro: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd sieci, nie można połączyć z usługami sieciowymi.\nKod błędu: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ネットワークエラー。オンラインサービスに接続できません。\nエラーコード: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "네트워크 오류입니다. 온라인 서비스에 연결할 수 없습니다.\n오류 코드: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "網路錯誤，無法連到線上服務。\n錯誤代碼：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "网络错误，无法连接到在线服务。\n错误代码：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.NetworkErrorCannotConnect_X",
+  "internalEnabled": true,
+  "persistentID": 53
+}

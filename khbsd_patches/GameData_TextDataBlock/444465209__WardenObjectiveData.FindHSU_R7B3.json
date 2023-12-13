@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find <color=orange>[ITEM_SERIAL]</color> somewhere inside HSU Storage Zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez <color=orange>[ITEM_SERIAL]</color> quelque part à l'intérieur de la zone de stockage des HSU.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare <color=orange>[ITEM_SERIAL]</color> da qualche parte nella zona del magazzino HSU.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie <color=orange>[ITEM_SERIAL]</color> irgendwo in der HSU-Lagerzone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el objeto <color=orange>[ITEM_SERIAL]</color> en algún lugar del almacén de HSU.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет <color=orange>[ITEM_SERIAL]</color> в зоне хранилища HSU.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre <color=orange>[ITEM_SERIAL]</color> em algum lugar dentro da zona de armazenamento de HSU",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>[ITEM_SERIAL]</color> gdzieś wewnątrz strefy zawierającej jednostkę hydrostazy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ITEM_SERIAL]</color>をHSUストレージZoneのどこかで見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HSU 저장 구역 내부에서 <color=orange>[ITEM_SERIAL]</color> 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在HSU儲存區內部某處找到<color=orange>[ITEM_SERIAL]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在HSU储存区内某处找到<color=orange>[ITEM_SERIAL]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindHSU_R7B3",
+  "internalEnabled": true,
+  "persistentID": 444465209
+}

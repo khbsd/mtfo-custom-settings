@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate purge of connecting drainage areas.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez la purge des zones de drainage connectées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia lo spurgo delle aree di drenaggio adiacenti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Reinigung der verbindenden Entwässerungsgebiete.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la purga de las zonas de drenaje conectadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите очистку связанных сливных систем.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie a expurgação das áreas de drenagem conectadas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij oczyszczanie powiązanych tuneli kanalizacyjnych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隣接排水エリアの一掃を開始しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "연결된 배수 구역의 배수를 시작합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動相連排水區域淨化。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启动相连排水区域净化。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown006_C3_L3_SpecialTerminalCommand",
+  "internalEnabled": true,
+  "persistentID": 251032734
+}

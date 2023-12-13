@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security for <color=orange>Zone 194</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sécurité de la <color=orange>zone\u00A0194</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sicurezza per la <color=orange>ZONE 194</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheit für <color=orange>Zone 194</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seguridad de la <color=orange>Zone 194</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система безопасности <color=orange>зоны 194</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segurança da <color=orange>Zone 194</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabezpieczenie <color=orange>strefy 194 [ZONE_194]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 194</color>のセキュリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 194</color> 보안",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>Zone 194</color>安全系統",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 194</color>的安全措施",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "Warden.Intel.DoorlockdownInformation.Second_Zone_R7D1_OnEnter",
+  "internalEnabled": true,
+  "persistentID": 922562518
+}

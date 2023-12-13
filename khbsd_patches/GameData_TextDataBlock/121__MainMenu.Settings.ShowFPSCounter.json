@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Show FPS Counter",
+  "Description": "A game setting that allows the user to enable/disable an FPS (frames per second, i.e. framerate) counter on screen.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Afficher le compteur d'IPS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra contatore FPS",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FPS-Anzeige",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ver contador de FPS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывать FPS",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mostrar contador de QPS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pokazuj licznik klatek na sekundę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "FPSカウンターを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "FPS 카운터 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示FPS計數器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示帧率计数器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ShowFPSCounter",
+  "internalEnabled": true,
+  "persistentID": 121
+}

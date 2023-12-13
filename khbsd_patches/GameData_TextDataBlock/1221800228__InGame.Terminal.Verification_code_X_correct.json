@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification code {0} correct",
+  "Description": "{0} is a number out of a maximum. Example: 1/4",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Code de vérification\u00A0{0} correct",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Codice di verifica {0} corretto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierungscode {0} korrekt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Código de verificación {0} correcto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Код верификации {0} принят",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Código de verificação {0} correto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kod weryfikacji {0} prawidłowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証コード{0}正解",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "올바른 승인 코드 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證碼{0}正確",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证码{0}正确",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Verification_code_X_correct",
+  "internalEnabled": true,
+  "persistentID": 1221800228
+}

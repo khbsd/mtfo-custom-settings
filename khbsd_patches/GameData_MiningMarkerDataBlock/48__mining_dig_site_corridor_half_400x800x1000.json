@@ -1,0 +1,169 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5,
+        1,
+        2
+      ],
+      [],
+      [
+        4,
+        6,
+        0,
+        3,
+        5
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5
+      ],
+      [
+        4,
+        6,
+        0,
+        1,
+        3,
+        2,
+        5
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5,
+        2,
+        1
+      ],
+      [],
+      [
+        0,
+        1,
+        3,
+        4,
+        6,
+        5,
+        2
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5,
+        1,
+        2
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5,
+        1,
+        2
+      ],
+      [
+        5
+      ],
+      [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        2
+      ],
+      [
+        4,
+        6,
+        0,
+        3,
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        2
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_a.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_01var.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_02.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_03.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_04.prefab",
+        "function": 13,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corridor_half_400x800x1000/digsite_corridor_half_400x800x1000_HA_05.prefab",
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 3,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_dig_site_corridor_half_400x800x1000",
+    "BoundingVolume": 320000.0
+  },
+  "name": "mining_dig_site_corridor_half_400x800x1000",
+  "internalEnabled": true,
+  "persistentID": 48
+}

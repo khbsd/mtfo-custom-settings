@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminate all active alarms",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivez toutes les alarmes actives.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminare tutti gli allarmi attivi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schalten Sie alle aktiven Alarme ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Apagar todas las alarmas activas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выключить все активные системы сигнализации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desligar todos os alarmes ativos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywuj wszystkie aktywne alarmy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発動中の全警報を停止しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "활성화된 모든 경보 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終止所有啟動的警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终止所有开启的警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.SpecialTerminalCommandSealSector.R8D2",
+  "internalEnabled": true,
+  "persistentID": 2401606423
+}

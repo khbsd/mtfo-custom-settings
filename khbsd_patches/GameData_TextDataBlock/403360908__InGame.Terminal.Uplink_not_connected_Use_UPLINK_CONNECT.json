@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Uplink not connected! Use UPLINK_CONNECT to initialize a connection.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Liaison montante non connectée\u00A0! Utilisez UPLINK_CONNECT pour initialiser la connexion.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Uplink non connesso! Usare UPLINK_CONNECT per inizializzare una connessione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Uplink nicht verbunden! Nutzen Sie UPLINK_CONNECT, um eine Verbindung herzustellen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Uplink no conectado! Usa UPLINK_CONNECT para inicializar una conexión.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение не установлено! Используйте команду UPLINK_CONNECT, чтобы инициализировать соединение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uplink não conectado! Use UPLINK_CONNECT para inicializar uma conexão.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Łącze nieaktywne. Użyj polecenia UPLINK_CONNECT, aby nawiązać połączenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク未接続！UPLINK_CONNECTを使用して接続を初期化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 연결되지 않음. UPLINK_CONNECT를 사용해 연결을 시작하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "上行鏈路未連線！使用UPLINK_CONNECT初始化連線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "上行链路未连接！使用UPLINK_CONNECT初始化连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Uplink_not_connected_Use_UPLINK_CONNECT",
+  "internalEnabled": true,
+  "persistentID": 403360908
+}

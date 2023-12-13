@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": " Locate [COUNT_REQUIRED] Data Cubes.",
+  "Description": "Don't localize [COUNT_REQUIRED] and Data Cubes.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez [COUNT_REQUIRED]\u00A0cubes de données [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [COUNT_REQUIRED] cubi di dati [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie [COUNT_REQUIRED] Datenwürfel [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra [COUNT_REQUIRED]\u00A0cubos de datos [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите кубы данных [DATA_CUBE] ([COUNT_REQUIRED]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": " Localize [COUNT_REQUIRED] cubos de dados [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": " Zlokalizuj [COUNT_REQUIRED] kostki danych [DATA_CUBES].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED] データキューブ[DATA_CUBE]を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 [COUNT_REQUIRED]개 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位[COUNT_REQUIRED]資料方塊[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": " 找到[COUNT_REQUIRED]个数据立方[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_3_Data_Cubes_Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1116
+}

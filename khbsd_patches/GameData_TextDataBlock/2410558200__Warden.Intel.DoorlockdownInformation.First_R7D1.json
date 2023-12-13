@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>//OPTIONAL:</color> Disable security for <color=orange>Zone 193</color> in <color=orange>Zone 199</color>\n",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>//OPTIONNEL\u00A0:</color> Désactivez la sécurité de la <color=orange>zone\u00A0193</color> dans la <color=orange>zone\u00A0199</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>//OPZIONALE:</color> disattivare la sicurezza per la <color=orange>ZONE 193</color> nella <color=orange>ZONE 199</color>\n.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>//OPTIONAL:</color> Deaktivieren Sie die Sicherheit für <color=orange>Zone 193</color> in <color=orange>Zone 199</color>\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>//OPCIONAL:</color> Desactiva la seguridad de la <color=orange>Zone 193</color> en la <color=orange>Zone 199</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>//ДОПОЛНИТЕЛЬНО:</color> отключите систему безопасности <color=orange>зоны 193</color> в <color=orange>зоне 199</color>\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>//OPCIONAL:</color> Desativar segurança da <color=orange>Zone 193</color> na <color=orange>Zone 199</color>\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>//OPCJONALNE:</color> Wyłącz zabezpieczenia <color=orange>strefy 193 [ZONE_193]</color> w <color=orange>strefie 199 [ZONE_199]</color>\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>//任意：</color><color=orange>Zone 199</color>内の<color=orange>Zone 193</color>のセキュリティ無効化\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>//선택 사항:</color> <color=orange>ZONE 199</color>에서 <color=orange>ZONE 193</color> 보안 비활성화\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>//可選：</color>在<color=orange>Zone 199</color>停用<color=orange>Zone 193</color>安全系統。\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>//可选：</color>在<color=orange>ZONE 199</color>禁用<color=orange>ZONE 193</color>的安全措施\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 12,
+  "ImportVersion": 12,
+  "name": "Warden.Intel.DoorlockdownInformation.First_R7D1",
+  "internalEnabled": true,
+  "persistentID": 2410558200
+}

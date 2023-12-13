@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to <color=orange>Zone 173</color> and await phase unlock.",
+  "Description": "Don't localize [Zone 173], it will be replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous dans la <color=orange>Zone\u00A0173</color> et attendez le déverrouillage de la phase.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>ZONE 173</color> e attendere sblocco fase.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>ZONE 173</color> und warten Sie auf die Freigabe der Phase.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta la <color=orange>ZONE 173</color> y espera a que se desbloquee la fase.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в <color=orange>ZONE 173</color> и ожидайте фазу разблокировки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para a <color=orange>ZONE 173</color> e aguarde o desbloqueio de fase.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange>strefy 173 [ZONE_173]</color> i oczekuj odblokowania fazy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 173</color> へ進みフェーズアンロックを待て。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 173</color>으로 이동해 페이즈 개방 대기할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 173</color>並等待階段解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 173</color>等待阶段解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalSubObjective_PhaseLock_1",
+  "internalEnabled": true,
+  "persistentID": 1137
+}

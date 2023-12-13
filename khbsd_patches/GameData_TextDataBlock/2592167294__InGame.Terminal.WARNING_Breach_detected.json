@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! Breach detected!",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ALERTE\u00A0! Violation détectée\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Rilevata violazione!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! Sicherheitsverstoß erkannt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! ¡Filtración detectada!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Зафиксировано нарушение!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! Violação detectada!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE! Wykryto naruszenie!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！侵害を検知！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! 침입 감지됨!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！偵測到入侵！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！检测到入侵！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.WARNING_Breach_detected",
+  "internalEnabled": true,
+  "persistentID": 2592167294
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Back",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retour",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Visualizza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zurück",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Atrás",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Назад",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Voltar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wróć",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "뒤로",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "返回",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返回",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Back",
+  "internalEnabled": true,
+  "persistentID": 992
+}

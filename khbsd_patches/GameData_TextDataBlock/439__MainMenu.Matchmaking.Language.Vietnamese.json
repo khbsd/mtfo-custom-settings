@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Vietnamese",
+  "Description": "A language spoken in Vietnam.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vietnamien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Vietnamita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vietnamesisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vietnamita",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вьетнамский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vietnamita",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wietnamski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ベトナム語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "베트남어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "越南文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "越南语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Vietnamese",
+  "internalEnabled": true,
+  "persistentID": 439
+}

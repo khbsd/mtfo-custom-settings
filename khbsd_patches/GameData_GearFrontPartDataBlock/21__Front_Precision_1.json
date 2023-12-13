@@ -1,0 +1,130 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Precision_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Precision_1",
+    "AssetBundle": 20,
+    "BundleShard": 9
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Precision_1_fire"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.1,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_Precision_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Precision_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_Precision_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 0.52,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.6,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_out"
+    },
+    {
+      "TriggerTime": 0.75,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick_soft"
+    },
+    {
+      "TriggerTime": 0.8,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.04,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 1.95,
+      "Type": 5,
+      "StringData": "carbine_mag_bump"
+    },
+    {
+      "TriggerTime": 2.4,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_in"
+    },
+    {
+      "TriggerTime": 2.4,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 2.6,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 2.7,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.9,
+      "Type": 7
+    }
+  ],
+  "name": "Front_Precision_1",
+  "internalEnabled": true,
+  "persistentID": 21
+}

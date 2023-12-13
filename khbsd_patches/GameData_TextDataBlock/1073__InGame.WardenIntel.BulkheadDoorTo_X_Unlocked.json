@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BULKHEAD DOOR TO {0} UNLOCKED",
+  "Description": "Don't localize BULKHEAD DOOR",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PORTE À CLOISON [BULKHEAD_DOOR] VERS {0} DÉVERROUILLÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PORTA STAGNA [BULKHEAD_DOOR] SBLOCCATA PER {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHOTTTÜR [BULKHEAD_DOOR] ZU {0} ENTRIEGELT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PUERTA DE CONTENCIÓN [BULKHEAD_DOOR] A {0} DESBLOQUEADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОРОТА В ЗОНУ {0} ОТКРЫТЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PORTA PROTETORA [BULKHEAD_DOOR] PARA {0} DESTRANCADA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GRÓDŹ [BULKHEAD_DOOR] DO {0} ODBLOKOWANA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} へのBULKHEAD DOORのロック解除",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} [BULKHEAD_DOOR] 격벽 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往{0}的艙門[BULKHEAD_DOOR]已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}舱壁门[BULKHEAD_DOOR]已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.BulkheadDoorTo_X_Unlocked",
+  "internalEnabled": true,
+  "persistentID": 1073
+}

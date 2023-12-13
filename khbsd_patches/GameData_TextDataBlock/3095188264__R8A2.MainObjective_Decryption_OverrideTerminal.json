@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal in zone protected. <color=orange>Override</color> settings to access decryption key. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le terminal de la zone est protégé. <color=orange>Neutralisez</color> les paramètres pour accéder à la clé de décryptage. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminale in zona protetta. <color=orange>Bypassare</color> impostazioni per accedere a chiave di decrittazione. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal in Zone geschützt. <color=orange>Terminal</color>-Einstellungen überschreiben, um Zugang auf den Dechiffrierschlüssel zu erhalten. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminal de zona protegido. <color=orange>Anula</color> la configuración para acceder a la clave de descifrado. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На терминале в зоне установлена защита. <color=orange>Принудительно измените</color> настройки, чтобы получить ключ шифрования. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Terminal na zone protegida. <color=orange>Substitua</color> as configurações para acessar a chave de decodificação. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Terminal w strefie chronionej. <color=orange>Obejdź</color> ustawienia, aby uzyskać dostęp do klucza deszyfrującego. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゾーン内の端末は保護されている。設定を<color=orange>上書き</color>して、解読キーにアクセスせよ。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "지역 터미널 보호 중. 설정을 <color=orange>중단</color>시켜 암호 키를 얻으십시오. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "區域中的終端受保護。<color=orange>覆蓋</color>設定以存取解碼密鑰。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "区域中的终端受保护。<color=orange>覆盖</color>设置以访问解密密钥。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "R8A2.MainObjective_Decryption_OverrideTerminal",
+  "internalEnabled": true,
+  "persistentID": 3095188264
+}

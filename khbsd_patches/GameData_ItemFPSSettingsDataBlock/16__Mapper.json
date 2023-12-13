@@ -1,0 +1,155 @@
+{
+  "localPosHip": {
+    "x": 0.11,
+    "y": -0.08,
+    "z": 0.42,
+    "normalized": {
+      "x": 0.24916485,
+      "y": -0.1812108,
+      "z": 0.951356649,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.4414748,
+    "sqrMagnitude": 0.194899991
+  },
+  "localRotHip": {
+    "x": -2.81,
+    "y": -1.53,
+    "z": -3.32,
+    "normalized": {
+      "x": -0.6094398,
+      "y": -0.3318302,
+      "z": -0.720049858,
+      "normalized": {
+        "x": -0.60943985,
+        "y": -0.331830233,
+        "z": -0.7200499,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 4.61079168,
+    "sqrMagnitude": 21.2594
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.05,
+    "y": -0.3,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.09205746,
+      "y": -0.5523448,
+      "z": 0.828517139,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.54313904,
+    "sqrMagnitude": 0.295
+  },
+  "localRotRelaxed": {
+    "x": 0.0,
+    "y": 4.24,
+    "z": -13.74,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.294867635,
+      "z": -0.9555381,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 14.3793325,
+    "sqrMagnitude": 206.7652
+  },
+  "localPosZoom": {
+    "x": 0.05,
+    "y": -0.08,
+    "z": 0.42,
+    "normalized": {
+      "x": 0.1161535,
+      "y": -0.1858456,
+      "z": 0.975689352,
+      "normalized": {
+        "x": 0.116153508,
+        "y": -0.185845613,
+        "z": 0.9756894,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.430464864,
+    "sqrMagnitude": 0.1853
+  },
+  "localRotZoom": {
+    "x": -13.41,
+    "y": 2.23,
+    "z": -1.36,
+    "normalized": {
+      "x": -0.981553733,
+      "y": 0.1632263,
+      "z": -0.09954609,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 13.6620131,
+    "sqrMagnitude": 186.650589
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": -0.05,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.89442724,
+      "z": -0.44721362,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 0.1118034,
+    "sqrMagnitude": 0.0125
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 38,
+  "ItemCameraFOVZoom": 32,
+  "LookCameraFOVZoom": 70,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 20,
+  "WalkAnimation": 18,
+  "RunAnimation": 19,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "Mapper",
+  "internalEnabled": true,
+  "persistentID": 16
+}

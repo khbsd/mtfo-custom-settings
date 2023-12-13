@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>ER%+r :: C</color>ore circuit <color=red>OFFLINE.</color> Security failure. <color=yellow>KDS Deep</color> unlocked.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>ER%+r\u00A0:: </color>Circuit principal <color=red>HORS LIGNE</color>. Défaillance de sécurité. <color=yellow>Profondeurs du KDS</color> débloquées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ER%+r :: c</color>ircuito centrale <color=red>OFFLINE.</color> Errore della sicurezza. <color=yellow>Profondità KDS</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>FE%+r :: K</color>ernschaltkreis <color=red>OFFLINE.</color> Sicherheitsausfall. <color=yellow>KDS</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ER%+r :: C</color>ircuito principal <color=red>DESACTIVADO.</color> Fallo de seguridad. <color=yellow>Profundidades de KDS</color> desbloqueadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОШ%+ка :: О</color>сновной контур <color=red>ОТКЛЮЧЕН</color>. Сбой системы безопасности. <color=yellow>СЗК</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ER%+r :: C</color>ircuito principal <color=red>OFFLINE.</color> Falha de segurança. <color=yellow>Fundo KDS</color> desbloqueado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>BŁ%+d :: Ob</color>wód główny <color=red>WYŁĄCZONY.</color> Awaria zabezpieczeń. <color=yellow>Jądro KDS</color> odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラ%+ー：：コ</color>アサーキットが<color=red>オフライン。</color>セキュリティ障害。<color=yellow>KDS深部</color>のロック解除。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>ER%+r :: 코</color>어 서킷 <color=red>오프라인.</color> 보안 시스템 작동 불능. <color=yellow>KDS 딥</color> 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯%+吳：：核</color>心電路<color=red>離線。</color>安全故障。<color=yellow>KDS深處</color>已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错%+r :：核</color>心电路<color=red>离线。</color>安全故障。<color=yellow>KDS深处</color>已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveSurvival_MainObjective_R8E1_ChainedObj",
+  "internalEnabled": true,
+  "persistentID": 3813287660
+}

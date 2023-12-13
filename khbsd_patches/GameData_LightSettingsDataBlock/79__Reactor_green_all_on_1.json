@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.160784319,
+        "g": 0.376470625,
+        "b": 0.254901975
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.07058824,
+        "g": 0.184313729,
+        "b": 0.10980393
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.454902,
+        "g": 0.7372549,
+        "b": 0.572549045
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.470588267,
+        "g": 0.82745105,
+        "b": 0.647058845
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.427451,
+        "g": 0.80392164,
+        "b": 0.6117647
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.1764706,
+        "g": 0.384313762,
+        "b": 0.270588249
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.7137255,
+        "g": 0.2784314,
+        "b": 0.305882365
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.882353,
+        "g": 0.9607844,
+        "b": 0.9490197
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Reactor_green_all_on_1",
+  "internalEnabled": true,
+  "persistentID": 79
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <color=orange>Backup Reactor</color> and shut it down",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le <color=orange>réacteur de secours [BACKUP_REACTOR]</color> et éteignez-le.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il <color=orange>reattore di backup [BACKUP_REACTOR]</color> e spegnerlo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den <color=orange>Backup-Reaktor</color> und schalten Sie ihn ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el <color=orange>reactor de seguridad [Backup_Reactor]</color> y apágalo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>резервный реактор</color> [BACKUP_REACTOR] и выключите его.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o <color=orange>Reator de Backup [Backup Reactor]</color> e desligue-o",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>reaktor rezerwowy [Backup_Reactor]</color>, a następnie go wyłącz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>バックアップリアクター</color>[Backup Reactor]を見つけ、シャットダウンしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>백업 반응로[BACKUP_REACTOR]</color> 를 찾아 가동 정지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到並關閉<color=orange>備用反應器[Backup_Reactor]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<color=orange>备用反应堆[BACKUP_REACTOR]</color>并将其关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown006_D3_L3_MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2632706444
+}

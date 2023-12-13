@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Checkpoint usage: {0}",
+  "Description": "A text string that appears in the result screen (when you have failed or succeeded at an expedition).\nA checkpoint is a location in the level where the players will respawn if they all die and fail the mission.\n{0} is the number of times a checkpoint have been used.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Point de contrôles utilisés\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzo checkpoint: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Checkpoint-Nutzung: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uso del punto de control: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использованные чекпойнты: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uso de ponto de controle: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użycie punktów kontrolnych: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チェックポイント使用: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체크포인트 사용: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重生點使用：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重生点使用次数：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.CheckpointUsage_X",
+  "internalEnabled": true,
+  "persistentID": 887
+}

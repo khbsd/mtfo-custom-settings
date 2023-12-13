@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hacking tool eq.",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have their \"hacking tool equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Outil de piratage équipé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Strumento da hacker equip.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hacking-Werkzeug ausgerüstet",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Herramienta de hackeo equipada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С хакерским устройством",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ferramenta para hackear eq.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyposażone narzędzie hakerskie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハッキングツール装備中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해킹 도구 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配備破解工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已装备侵入工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingHackingToolName",
+  "internalEnabled": true,
+  "persistentID": 697
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will revive others at increased speed.",
+  "Description": "Describes the advantage of having a good \"revive speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet réanime les autres prisonniers à une vitesse accrue.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto rianimerà i compagni più velocemente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson belebt andere schneller wieder.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto resucitará a otros más rápido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость возрождения напарников повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo revive os outros com maior velocidade.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie reanimować innych więźniów szybciej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の他者復活速度が上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 다른 사람들을 더 빨리 소생시킵니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象復活他人的速度較快。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者复活他人的速度加快。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ReviveSpeedDescription",
+  "internalEnabled": true,
+  "persistentID": 520
+}

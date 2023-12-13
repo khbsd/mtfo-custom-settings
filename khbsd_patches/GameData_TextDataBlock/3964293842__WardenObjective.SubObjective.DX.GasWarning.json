@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red> WARNING. </color> Hazardous substance levels rising. Evacuate premises <color=red> Immediately</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red> ALERTE. </color> Niveaux de substances dangereuses en hausse. Évacuez les lieux <color=red> immédiatement.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> ATTENZIONE. </color> Livelli sostanze pericolose in aumento. Evacuare i locali <color=red> immediatamente</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG.</color> Konzentration von Gefahrstoffen steigt. Evakuieren Sie <color=red>unverzüglich</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> ADVERTENCIA. </color> Aumento de niveles de sustancias peligrosas. Evacuad las instalaciones <color=red> inmediatamente</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> Растет содержание опасных веществ. <color=red>Немедленно</color> эвакуируйтесь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> AVISO. </color> Níveis de substância perigosa aumentando. Evacue o local <color=red> imediatamente</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> OSTRZEŻENIE. </color> Wzrasta poziom substancji niebezpiecznych. Należy ewakuować obiekt <color=red> bezzwłocznie</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告。</color>危険物質レベル上昇中。<color=red>即座に</color>この場を離れろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red> 경고. </color> 위험 물질 레벨 상승. <color=red>즉시</color> 이탈 요망",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。</color>有害物質濃度上升。<color=red>立即</color>撤離現場",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告</color>。有害物质水平上升。<color=red>立即</color>撤离现场",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjective.SubObjective.DX.GasWarning",
+  "internalEnabled": true,
+  "persistentID": 3964293842
+}

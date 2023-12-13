@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UnPowered",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non alimentato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ohne Strom",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desconectado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нет питания",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sem energia",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasilanie odcięte",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "未通電",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동력 없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無接電",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未通电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemStatus_UnPowered",
+  "internalEnabled": true,
+  "persistentID": 3954603786
+}

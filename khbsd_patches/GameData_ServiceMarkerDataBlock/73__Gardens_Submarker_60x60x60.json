@@ -1,0 +1,126 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [
+        1
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item.prefab",
+        "function": 8,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Big_Pickup_Item.prefab",
+        "function": 12,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V01.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V02.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V03.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V04.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V05.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V06.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V07.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V08.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V09.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_60x60x60/Gardens_Submarker_60x60x60_V10.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 0
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_submarker_60x60x60",
+    "BoundingVolume": 216.0
+  },
+  "name": "Gardens_Submarker_60x60x60",
+  "internalEnabled": true,
+  "persistentID": 73
+}

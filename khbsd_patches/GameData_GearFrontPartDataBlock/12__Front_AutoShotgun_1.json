@@ -1,0 +1,111 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_AutoShotgun_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_AutoShotgun_1",
+    "AssetBundle": 20,
+    "BundleShard": 1
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_AutoShotgun_1_animation_reload_weaponmovement"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_AutoShotgun_1_animation_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_AutoShotgun_1_animation_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 5,
+      "StringData": "generic_reload_pat_soft"
+    },
+    {
+      "TriggerTime": 0.4,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_out"
+    },
+    {
+      "TriggerTime": 0.9,
+      "Type": 5,
+      "StringData": "cannon_reload_grab_mag"
+    },
+    {
+      "TriggerTime": 1.2,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 1.5,
+      "Type": 5,
+      "StringData": "shotgun_reload_cock_back"
+    },
+    {
+      "TriggerTime": 1.9,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_in"
+    },
+    {
+      "TriggerTime": 1.95,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 2.2,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.2,
+      "Type": 7,
+      "StringData": ""
+    },
+    {
+      "TriggerTime": 2.9,
+      "Type": 7
+    }
+  ],
+  "name": "Front_AutoShotgun_1",
+  "internalEnabled": true,
+  "persistentID": 12
+}

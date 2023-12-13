@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "C-foam efficiency",
+  "Description": "I.e. how efficiently a person can utilize C-foam launcher.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Efficacité de mousse C",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Competenza schiuma C",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "C-Foam-Effizienz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Eficacia de espuma-C",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффективность пены",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eficiência da espuma de carbono",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efektywność pianki konstrukcyjnej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Cフォーム効果",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "C-폼 효율",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "C-Foam效率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "结沫效率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.GlueStrengthName",
+  "internalEnabled": true,
+  "persistentID": 585
+}

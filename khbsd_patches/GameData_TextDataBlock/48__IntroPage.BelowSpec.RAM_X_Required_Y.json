@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "System RAM: {0} MB, Required: {1} MB",
+  "Description": "A comment on the user's PC specifications. Avoid translating the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mémoire système\u00A0: {0}\u00A0Mo, requis\u00A0: {1}\u00A0Mo",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RAM sistema: {0} MB, necessari: {1} MB",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "System-RAM: {0} MB, Erforderlich: {1} MB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistema RAM: {0} MB, necesita: {1} MB",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Оперативная память: {0} МБ. Требуется: {1} МБ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RAM do sistema: {0} MB, necessário: {1} MB",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Systemowa pamięć RAM: {0} MB, wymagane: {1} MB",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "システムRAM:{0} MB、必要:{1} MB",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시스템 RAM: {0}MB, 필요: {1}MB",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "系統RAM：{0}MB，需要：{1}MB",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "系统内存：{0} MB，要求：{1} MB",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.BelowSpec.RAM_X_Required_Y",
+  "internalEnabled": true,
+  "persistentID": 48
+}

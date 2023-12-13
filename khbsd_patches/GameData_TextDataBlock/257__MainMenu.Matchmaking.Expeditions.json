@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "EXPEDITIONS",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "EXPÉDITIONS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SPEDIZIONI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXPEDITIONEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EXPEDICIONES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКСПЕДИЦИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EXPEDIÇÕES",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "EKSPEDYCJE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディション",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "任务",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Expeditions",
+  "internalEnabled": true,
+  "persistentID": 257
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Crouch Toggle",
+  "Description": "A setting that allows players to make it so that they crouch in the game by toggling crouching on/off by tapping a button, rather than holding the button down continuously.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rester accroupi",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbassamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ducken umschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Agacharse (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удержание скрытности",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alternância de agachar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. kucanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しゃがみ切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "앉기 켜기/끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "蹲伏切換",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蹲伏开关",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CrouchToggle",
+  "internalEnabled": true,
+  "persistentID": 75
+}

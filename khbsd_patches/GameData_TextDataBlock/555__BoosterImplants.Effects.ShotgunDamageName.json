@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shotgun Damage",
+  "Description": "I.e. how much damage you can deal with a shotgun.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil à pompe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da fucile a pompa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schrotflinten-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de escopeta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (дробовик)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de espingarda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od strzelby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ショットガンダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "산탄총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "霰彈槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "霰弹枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ShotgunDamageName",
+  "internalEnabled": true,
+  "persistentID": 555
+}

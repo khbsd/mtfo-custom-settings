@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Human proximity",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"in the proximity of a human\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Humain proche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prossimità di umani",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Menschliche Nähe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Proximidad humana",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вблизи человека",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Proximidade humana",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bliskość człowieka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "人間の近く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사람 근처",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "接近人體",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "靠近他人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsNextToTeammateName",
+  "internalEnabled": true,
+  "persistentID": 783
+}

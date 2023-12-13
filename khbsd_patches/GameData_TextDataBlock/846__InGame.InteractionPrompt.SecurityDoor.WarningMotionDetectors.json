@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[WARNING: MOTION DETECTORS TRIGGERED!]",
+  "Description": "A text that appears on screen to inform the player that motion detecors have been triggered which has set off an alarm.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[ALERTE\u00A0: DÉTECTEURS DE MOUVEMENT DÉCLENCHÉS\u00A0!]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[ATTENZIONE: RILEVATORI DI MOVIMENTO ATTIVATI!]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[WARNUNG: BEWEGUNGSMELDER AUSGELÖST!]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[ADVERTENCIA: ¡DETECTORES DE MOVIMIENTO ACTIVADOS!]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ВНИМАНИЕ! ВКЛЮЧЕНЫ ДЕТЕКТОРЫ ДВИЖЕНИЯ!]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[AVISO: SENSORES DE MOVIMENTO ACIONADOS!]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[OSTRZEŻENIE: WYKRYWACZE RUCHU ZOSTAŁY URUCHOMIONE!]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[警告:動作感知装置起動！]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[경고: 동작 감지기가 작동했습니다!]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[警告：移動偵測器已觸發！]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[警告：已触发移动探测器！]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.WarningMotionDetectors",
+  "internalEnabled": true,
+  "persistentID": 846
+}

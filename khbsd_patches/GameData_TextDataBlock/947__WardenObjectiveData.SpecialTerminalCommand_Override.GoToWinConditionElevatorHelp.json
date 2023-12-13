@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the navigational beacon and the floor map ([KEY_MAP]) to find the way back",
+  "Description": "A short summary of a mission objective. Don't alter the \"[KEY_MAP]\" part, just put it in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la balise de navigation et la carte ([KEY_MAP]) pour trouver le chemin du retour.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizza il segnale di navigazione e la mappa del piano ([KEY_MAP]) per tornare indietro.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie die Navigationsbake und den Etagenplan ([KEY_MAP]), um den Rückweg zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa la baliza de navegación y el mapa del suelo ([KEY_MAP]) para encontrar el camino de vuelta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте метку и карту уровня ([KEY_MAP]), чтобы найти путь назад.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o sinalizador de navegação e o mapa do andar ([KEY_MAP]) para encontrar o caminho de volta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj nadajnika lokalizacyjnego oraz mapy poziomu ([KEY_MAP]), aby znaleźć drogę powrotną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "案内ビーコンとフロアマップ ([KEY_MAP]) を使って帰り道を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐색 신호기와 층별 맵([KEY_MAP])을 사용해 복귀하는 길 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用導航信標和樓層地圖（[KEY_MAP]）找到返回的路。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用导航标记和楼层图（[KEY_MAP]）找到回去的路。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.GoToWinConditionElevatorHelp",
+  "internalEnabled": true,
+  "persistentID": 947
+}

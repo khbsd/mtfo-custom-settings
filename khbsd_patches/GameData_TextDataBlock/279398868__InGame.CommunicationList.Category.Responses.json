@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Responses",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réponses",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risposte",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Antworten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Respuestas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ответы",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Respostas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiedzi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "応答",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "응답",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "回應",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "回应",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.CommunicationList.Category.Responses",
+  "internalEnabled": true,
+  "persistentID": 279398868
+}

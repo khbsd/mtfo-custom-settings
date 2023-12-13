@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MATCHMAKE INIT",
+  "Description": "Init is short for initialization.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RECHERCHE DE MATCH...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIO ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE-INIT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIAR EMPAREJAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ ПОДБОР КОМАНДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "BUSCA-PARTIDA INIC",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MATCHMAKING ZAINICJOWANY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイク開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치메이크 초기화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配對初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匹配初始化",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.MatchmakeInit",
+  "internalEnabled": true,
+  "persistentID": 245
+}

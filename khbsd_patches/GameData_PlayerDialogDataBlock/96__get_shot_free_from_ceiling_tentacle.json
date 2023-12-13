@@ -1,0 +1,58 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 2.0,
+    "y": 4.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 4.472136,
+    "sqrMagnitude": 20.0
+  },
+  "tensionLimit": 1,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3426489203,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3409711389,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "get_shot_free_from_ceiling_tentacle",
+  "internalEnabled": true,
+  "persistentID": 96
+}

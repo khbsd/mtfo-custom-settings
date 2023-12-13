@@ -1,0 +1,48 @@
+{
+  "officialForRelease": true,
+  "publicName": "Sentry Gun",
+  "baseItemID": 97,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 0.285,
+  "PublicGearInfo": "Deployable\r\nAutomatic enemy detection\r\nHigh ammo reserves",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 165,
+      "partName": "SentryGunModelFirst"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [],
+  "sightsAllowed": [],
+  "gripsAllowed": [
+    {
+      "allowed": false,
+      "ID": 116,
+      "partName": "Grip_Default_Right"
+    },
+    {
+      "allowed": true,
+      "ID": 164,
+      "partName": "SentryGunModel_LeftHand"
+    }
+  ],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_SentryGun",
+  "internalEnabled": true,
+  "persistentID": 117
+}

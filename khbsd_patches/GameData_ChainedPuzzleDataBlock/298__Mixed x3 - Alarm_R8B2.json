@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x3 - Alarm_R8B2",
+  "internalEnabled": true,
+  "persistentID": 298
+}

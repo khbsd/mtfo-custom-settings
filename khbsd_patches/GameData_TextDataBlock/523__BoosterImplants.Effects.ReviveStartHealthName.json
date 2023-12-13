@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Revive Start Health",
+  "Description": "A term that means \"when you revive a teammate, what is the amount of healt that teammate will have once they're revived?\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Santé de réanimation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Salute alla rianimazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wiederbelebung-Anfangsgesundheit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salud inicial de resurrección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здоровье при возрожд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vida inicial ao reviver",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Początkowe zdrowie reanimacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "復活時体力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소생 시작 체력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "復活起始生命值",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "复活初始生命值",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ReviveStartHealthName",
+  "internalEnabled": true,
+  "persistentID": 523
+}

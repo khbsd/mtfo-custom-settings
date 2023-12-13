@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": true,
+  "English": "PCS alert: *unauthorized access logged* \r\nDate: 06182063 \r\nAccessID#: 29$525GVTHR2%456FS \r\nWRDN: override \r\nready:_ \r\nfetching GLM database... \r\ncompiling database... \r\n29,488,102 entries found \r\nvalidating files... \r\nsequencing (1/29483612)... \r\nsequence 349YY2d4R67Vz complete \r\nuploading files... \r\n... \r\nWRDN: override \r\nready:_ \r\nconduit_assimilate(349YY2d4R67Vz) \r\nfetching sequence \r\nlearning...",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alerte PCS : *accès non autorisé enregistré*\r\nData : 06182063\r\nID d'accès: 29$525GVTHR2%456FS\r\nWRDN : remplacement\r\nprêt:_\r\nrécupération de la base de données GLM...\r\ncompilation de la base de données...\r\n29 488 102 entrées trouvées\r\nvalidation des fichiers...\r\nséquençage (1/29483612)...\r\nséquence 349YY2d4R67Vz complète\r\ntéléchargement de fichiers...\r\n...\r\nWRDN : remplacement\r\nprêt:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nséquence de récupération\r\napprentissage...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviso PCS: *accesso non autorizzato registrato*\r\nData: 06182063\r\nID di accesso#: 29$525GVTHR2%456FS\r\nWRDN: sovrascrivere\r\npronto:_\r\nrecupero database GLM...\r\ncompilazione banca dati...\r\n29.488.102 voci trovate\r\nconvalida dei file...\r\nsequenza (1/29483612)...\r\nsequenza 349YY2d4R67Vz completata\r\ncaricamento file...\r\n...\r\nWRDN: sovrascrivere\r\npronto:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nsequenza di recupero\r\napprendimento...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PCS-Warnung: *unberechtigter Zugriff protokolliert*\r\nDatum: 06182063\r\nZugriffs-ID#: 29$525GVTHR2%456FS\r\nWRDN: überschreiben\r\nbereit:_\r\nGLM-Datenbank wird abgerufen...\r\nDatenbank zusammenstellen...\r\n29.488.102 Einträge gefunden\r\nDateien validieren...\r\nSequenzierung (1/29483612)...\r\nSequenz 349YY2d4R67Vz abgeschlossen\r\nDateien werden hochgeladen...\r\n...\r\nWRDN: überschreiben\r\nbereit:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nAbrufsequenz\r\nLernen...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alerta PCS: *acceso no autorizado registrado*\r\nFecha: 06182063\r\nNúmero de ID de acceso: 29$525GVTHR2%456FS\r\nWRDN: anular\r\nlisto:_\r\nrecuperando la base de datos GLM...\r\ncompilando base de datos...\r\n29,488,102 entradas encontradas\r\nvalidando archivos...\r\nsecuenciación (1/29483612)...\r\nsecuencia 349YY2d4R67Vz completa\r\nsubiendo archivos...\r\n...\r\nWRDN: anular\r\nlisto:_\r\nconducto_asimilado(349YY2d4R67Vz)\r\nsecuencia de búsqueda\r\naprendiendo...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Предупреждение PCS: *зарегистрирован несанкционированный доступ*\r\nДата: 06182063\r\nAccessID#: 29$525GVTHR2%456FS\r\nWRDN: переопределить\r\nготовый:_\r\nполучение базы данных GLM...\r\nсоставление базы...\r\nНайдено 29 488 102 записи\r\nпроверка файлов...\r\nсеквенирование (1/29483612)...\r\nпоследовательность 349YY2d4R67Vz полная\r\nзагружаю файлы...\r\n...\r\nWRDN: переопределить\r\nготовый:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nвыборка последовательности\r\nобучение...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alerta de PCS: *acesso não autorizado registrado*\r\nData: 06182063\r\nID de acesso: 29$525GVTHR2%456FS\r\nWRDN: substituir\r\npreparar:_\r\nbuscando banco de dados GLM...\r\ncompilando banco de dados...\r\n29.488.102 entradas encontradas\r\nvalidando arquivos...\r\nsequenciamento (1/29483612)...\r\nsequência 349YY2d4R67Vz completa\r\ncarregando arquivos...\r\n...\r\nWRDN: substituir\r\npreparar:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nsequência de busca\r\naprendizado...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Alert PCS: *zarejestrowano nieautoryzowany dostęp*\r\nData: 06182063\r\nAccessID#: 29$525GVTHR2%456FS\r\nWRDN: nadpisanie\r\ngotowy:_\r\npobieranie bazy danych GLM...\r\nkompilacja bazy danych...\r\nZnaleziono 29 488 102 wpisów\r\nsprawdzanie poprawności plików...\r\nsekwencjonowanie (1/29483612)...\r\nsekwencja 349YY2d4R67Vz zakończona\r\nprzesyłanie plików...\r\n...\r\nWRDN: nadpisanie\r\ngotowy:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\nsekwencja pobierania\r\nuczenie się...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PCS アラート: *不正アクセスが記録されました*\r\n日付: 06182063\r\nアクセスID番号: 29$525GVTHR2%456FS\r\nWRDN: オーバーライド\r\n準備ができて：_\r\nGLM データベースを取得しています...\r\nデータベースをコンパイルしています...\r\n29,488,102 件のエントリが見つかりました\r\nファイルを検証しています...\r\nシーケンス (1/29483612)...\r\nシーケンス 349YY2d4R67Vz が完了しました\r\nファイルをアップロードしています...\r\n...\r\nWRDN: オーバーライド\r\n準備ができて：_\r\n導管_同化(349YY2d4R67Vz)\r\nシーケンスのフェッチ\r\n学ぶ...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "PCS 알림: *무단 액세스 기록됨*\r\n날짜: 06182063\r\n액세스 ID 번호: 29$525GVTHR2%456FS\r\nWRDN: 재정의\r\n준비가 된:_\r\nGLM 데이터베이스를 가져오는 중...\r\n데이터베이스 컴파일 중...\r\n29,488,102개의 항목이 검색됨\r\n파일 확인 중...\r\n시퀀싱(1/29483612)...\r\n시퀀스 349YY2d4R67Vz 완료\r\n파일 업로드 중...\r\n...\r\nWRDN: 재정의\r\n준비가 된:_\r\nconduit_assimilate(349YY2d4R67Vz)\r\n가져오기 시퀀스\r\n학습...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "PCS 警报：*记录未经授权的访问*\r\n日期：06182063\r\n访问 ID#：29$525GVTHR2%456FS\r\nWRDN：覆盖\r\n准备好：_\r\n正在获取 GLM 数据库...\r\n正在编译数据库...\r\n找到 29,488,102 个条目\r\n正在验证文件...\r\n测序 (1/29483612)...\r\n序列 349YY2d4R67Vz 完整\r\n正在上传文件...\r\n...\r\nWRDN：覆盖\r\n准备好：_\r\n导管同化（349YY2d4R67Vz）\r\n获取序列\r\n学习...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "PCS 警報：*記錄未經授權的訪問*\r\n日期：06182063\r\n訪問 ID#：29$525GVTHR2%456FS\r\nWRDN：覆蓋\r\n準備好：_\r\n正在獲取 GLM 數據庫...\r\n正在編譯數據庫...\r\n找到 29,488,102 個條目\r\n正在驗證文件...\r\n測序 (1/29483612)...\r\n序列 349YY2d4R67Vz 完整\r\n正在上傳文件...\r\n...\r\nWRDN：覆蓋\r\n準備好：_\r\n導管同化（349YY2d4R67Vz）\r\n獲取序列\r\n學習...",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LOG_06ALT_630618_02_T_ACH",
+  "internalEnabled": true,
+  "persistentID": 1735273668
+}

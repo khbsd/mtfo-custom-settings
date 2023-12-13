@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Long Range Flashlight here",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà une torche à longue portée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torcia a gittata lunga qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist eine Taschenlampe mit großer Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta una linterna de largo alcance.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь мощный фонарик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Lanterna de longo alcance aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Latarka dalekiego zasięgu, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここに長距離フラッシュライトがある",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 장거리 플래시다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有長程手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有远程手电筒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.There_Is_A_Long_Range_Flashlight_Here",
+  "internalEnabled": true,
+  "persistentID": 1509
+}

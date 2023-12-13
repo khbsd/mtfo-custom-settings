@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Welcome to <b>{0}</b>",
+  "Description": "{0} is the name of the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Bienvenue sur le <b>{0}</b>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ti diamo il benvenuto in <b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Willkommen an <b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bienvenido/a <b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Добро пожаловать на терминал <b>{0}</b>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Boas-vindas ao <b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Witaj w <b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>{0}</b>へようこそ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<b>{0}</b>에 오신 것을 환영합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "歡迎來到<b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "欢迎来到<b>{0}</b>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.WelcomeTo_X",
+  "internalEnabled": true,
+  "persistentID": 2198173463
+}

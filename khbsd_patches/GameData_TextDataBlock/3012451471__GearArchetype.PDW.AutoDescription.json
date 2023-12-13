@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nHigh rate of fire\nShort range\nHard to control\nThermal sight",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCadence de tir élevée\nCourte portée\nDifficile à contrôler\nViseur thermique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nElevata cadenza di tiro\nGittata breve\nControllo difficile\nMirino termico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nHohe Feuerrate\nKurze Reichweite\nSchwer zu kontrollieren\nThermisches Visier",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nCadencia de tiro alta\nCorto alcance\nDifícil de controlar\nMira termal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nВысокая скорострельность\nМалая дальность\nНеконтролируемая отдача\nТепловизионный прицел",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nAlta cadência de tiros\nCurto alcance\nDifícil de controlar\nBinóculo térmico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nDuża szybkostrzelność\nKrótki zasięg\nTrudny do opanowania\nCelownik termowizyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n高速連射\n近距離\n制御が難しい\nサーマルサイト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n빠른 발사 속도\n단거리\n제어하기 어려움\n열 영상",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n高射速\n短程\n難以控制\n熱像儀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n高射速\n近程\n难以控制\n热成像瞄具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.PDW.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 3012451471
+}

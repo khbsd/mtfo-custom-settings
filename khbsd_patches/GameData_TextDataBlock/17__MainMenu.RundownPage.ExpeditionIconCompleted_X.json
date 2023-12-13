@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Completed:{0}",
+  "Description": "A text string indicating that the player has cleared/beaten/completed a specific expedition (mission/map).",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Terminés\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completata: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Abgeschlossen:{0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Completado: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершено: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Concluiu:{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ukończone:{0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了済み:{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완료:{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已完成：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已完成：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionIconCompleted_X",
+  "internalEnabled": true,
+  "persistentID": 17
+}

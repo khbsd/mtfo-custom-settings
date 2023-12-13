@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "A Booster Progress value exceeding {0} will be rewarded with a random Booster from the corresponding category.",
+  "Description": "A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This text explains the rules regarding how players are rewarded with boosters. The \"corresponding category\" bit refers to the fact that \"muted\" artifacts are rewarded with \"muted\" boosters, \"bold\" artifacts are rewarded with \"bold\" boosters and \"aggressive\" artifacts are rewarded with \"aggressive\" boosters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Si votre valeur de progression de booster est supérieure à {0}, vous recevrez un booster aléatoire de la catégorie correspondante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un valore di avanzamento potenziamento superiore a {0} verrà ricompensato con un potenziamento casuale della categoria corrispondente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ein Booster-Fortschrittswert über {0} wird mit einem zufälligen Booster aus der entsprechenden Kategorie belohnt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Un valor de progreso del potenciador superior a {0} recibirá un potenciador aleatorio de la categoría correspondiente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "За прогресс с усилителями {0} вы получите случайный усилитель из соответствующей категории.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Um valor de progresso do impulso excedendo {0} será recompensado com um impulso aleatório da categoria correspondente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Współczynnik postępów wzmacniaczy powyżej {0} zostanie nagrodzony losowym wzmacniaczem odpowiedniej kategorii.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} を超えたブースター換算値には、対応するカテゴリーのランダムなブースターが与えられる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}을(를) 초과하는 부스터 진행도는 해당 카테고리의 무작위 부스터로 보상됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "超過{0}的強化劑進度值將獲得相應的隨機強化劑獎勵。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强化剂进度值超过{0}后，将奖励相应类别的随机强化剂。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.ArtifactInfo_X",
+  "internalEnabled": true,
+  "persistentID": 886
+}

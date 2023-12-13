@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Nominal temperature gradient restored",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gradient de température nominal restauré.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gradiente di temperatura nominale ripristinato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nominaler Temperaturgradient wiederhergestellt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gradiente de temperatura funcional restaurado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Штатный температурный градиент восстановлен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Gradiente de temperatura nominal restaurado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przywrócono nominalny gradient temperatury",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "名目上の温度勾配を回復",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공칭 온도 경사 복구됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已恢復額定溫度梯度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "名义温度梯度已恢复",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.WardenIntel.TempInversionReturn_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1921692696
+}

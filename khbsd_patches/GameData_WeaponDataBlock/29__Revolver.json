@@ -1,0 +1,113 @@
+{
+  "muzzleFlashFPS": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_FPS",
+  "muzzleFlash3RD": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_3RD",
+  "muzzleFlashFPSSpecial": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_FPS",
+  "muzzleFlash3RDSpecial": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_3RD",
+  "muzzleFeedback": "",
+  "shellType": 0,
+  "shellEjectFeedback": "wpn_pistol_shell",
+  "clipSize": 6,
+  "hasRotatingCylinder": true,
+  "reloadDuration": 1.4,
+  "EffectiveDamagePerSecond": "",
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -5.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 5.0,
+    "sqrMagnitude": 25.0
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.2,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.2,
+    "sqrMagnitude": 0.0400000028
+  },
+  "recoilPosShiftWeight": 0.15,
+  "recoilPosStiffness": 150.0,
+  "recoilPosDamping": 15.0,
+  "recoilPosImpulseWeight": 1.25,
+  "recoilCameraPosWeight": 1.0,
+  "recoilRotImpulse": {
+    "x": -1.0,
+    "y": 1.0,
+    "z": 1.0,
+    "normalized": {
+      "x": -0.577350259,
+      "y": 0.577350259,
+      "z": 0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.73205078,
+    "sqrMagnitude": 3.0
+  },
+  "recoilRotStiffness": 150.0,
+  "recoilRotDamping": 8.0,
+  "recoilRotImpulseWeight": 400.0,
+  "recoilCameraRotWeight": 2.0,
+  "recoilAimingWeight": 1.2,
+  "eventOnSemiFire2D": [
+    "RevolverBodyC, RevolverBodyA, RevolverBodyB",
+    "RevolverMechC, RevolverMechB, RevolverMechA",
+    "RevolverNoiseC, RevolverNoiseB, RevolverNoiseA ",
+    "RevolverReverb"
+  ],
+  "eventOnBurstFire2D": [],
+  "eventOnAutoFireStart2D": [],
+  "eventOnAutoFireEnd2D": [],
+  "eventOnSpecialSemiFire2D": [],
+  "eventOnSpecialBurstFire2D": [],
+  "eventOnSpecialAutoFireStart2D": [],
+  "eventOnSpecialAutoFireEnd2D": [],
+  "eventOnSpecialChargeup2D": [
+    "WeaponChargeUpAlt1"
+  ],
+  "eventOnSpecialCooldown2D": [
+    "WeaponCooldownMedium1"
+  ],
+  "eventOnSpecialChargeupEnd2D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd2D": "WeaponCooldownEnd",
+  "eventOnSemiFire3D": [
+    "RevolverBodyB3D, RevolverBodyC3D, RevolverBodyA3D",
+    "RevolverMechA3D, RevolverMechC3D, RevolverMechB3D",
+    "RevolverNoiseA3D, RevolverNoiseC3D, RevolverNoiseB3D",
+    "RevolverReverb3D"
+  ],
+  "eventOnBurstFire3D": [],
+  "eventOnAutoFireStart3D": [],
+  "eventOnAutoFireEnd3D": [],
+  "eventOnSpecialSemiFire3D": [],
+  "eventOnSpecialBurstFire3D": [],
+  "eventOnSpecialAutoFireStart3D": [],
+  "eventOnSpecialAutoFireEnd3D": [],
+  "eventOnSpecialChargeup3D": [
+    "WeaponChargeUpAlt1"
+  ],
+  "eventOnSpecialCooldown3D": [
+    "WeaponCooldownMedium1"
+  ],
+  "eventOnSpecialChargeupEnd3D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd3D": "WeaponCooldownEnd",
+  "eventClick": "PistolDryFire",
+  "eventReload": "PistolReload",
+  "useSemiAudioForBurstShots": false,
+  "name": "Revolver",
+  "internalEnabled": true,
+  "persistentID": 29
+}

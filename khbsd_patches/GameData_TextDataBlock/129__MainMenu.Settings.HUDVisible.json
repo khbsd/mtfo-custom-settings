@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Visible",
+  "Description": "A game setting determining whether a HUD element is visible or not.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Visible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Visibile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sichtbar",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Visible",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Visível",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Widoczność",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보이기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可見",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可见",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDVisible",
+  "internalEnabled": true,
+  "persistentID": 129
+}

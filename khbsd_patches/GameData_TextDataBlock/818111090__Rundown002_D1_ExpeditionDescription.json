@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Cold storage bulkhead filtration system offline. Prisoners dispatched to reactivate central power cluster. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: systèmes de filtration de la cloison de l'entrepôt frigorifique hors ligne. Les prisonniers ont été envoyés pour réactiver le générateur central.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: sistema di filtrazione della paratia stagna della cella frigorifera offline. Prigionieri inviati per riattivare gruppo elettrogeno centrale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Filtersystem des Kühlhausschotts offline. Gefangene entsandt, um den zentralen Energiecluster zu reaktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Sistema de filtración de contención de almacenamiento en frío desactivado. Prisioneros empleados para reactivar los clústeres de energía central.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Система фильтрации ворот холодильного хранилища неактивна. Заключенным приказано перезапустить центральный кластер генераторов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Sistema de filtragem do protetor de armazenamento frio offline. Prisioneiros enviados para reativar o grupo de energia central.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: układ filtracji grodzi chłodni wyłączony. Więźniowie wysłani w celu ponownego reaktywacji głównego zespołu generatorów. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：冷蔵貯蔵庫隔壁換気システムオフライン。中央発電機群を再アクティブ化するため、囚人が派遣された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 냉장실 격벽 여과 시스템 오프라인. 중앙 전력 클러스터 재활성에 수감자 배치됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：冷藏庫艙門過濾系統離線。已派遣囚犯重新啟動中央發電機叢集。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：冷藏库舱壁门过滤系统离线。囚犯派去重新激活中央发电机集群。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown002_D1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 818111090
+}

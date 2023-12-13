@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Has More Than 70% Ammo In Clip",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have \"more than 70% ammo in the clip of their weapon\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Plus de 70\u00A0% de munitions restantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Più del 70% di munizioni nel caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hat mehr als 70\u00A0% Munition im Magazin",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Más del 70\u00A0% de munición en el clip",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Более 70% боеприпасов в обойме",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tem mais de 70% de munição no pente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Więcej niż 70% stanu amunicji w magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "弾倉内の弾薬が70%超",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탄창에 탄약 70% 초과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "彈夾中的彈藥超過70%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "弹匣中弹药多于70%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasMoreThanAmmoLargeName",
+  "internalEnabled": true,
+  "persistentID": 685
+}

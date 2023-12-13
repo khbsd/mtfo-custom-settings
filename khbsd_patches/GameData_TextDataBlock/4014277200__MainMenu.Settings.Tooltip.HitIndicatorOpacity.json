@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the transparency of the hit indicator.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la transparence de l'indicateur d'impact.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la trasparenza dell'indicatore di colpo a segno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Transparenz der Trefferanzeige.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la transparencia del indicador de impacto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует прозрачность индикаторов удара.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a transparência do indicador de acerto.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za przezroczystość wskaźnika trafień.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヒットマークの透明度を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명중 표시의 투명도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制命中指標透明度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制击中标记的透明度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HitIndicatorOpacity",
+  "internalEnabled": true,
+  "persistentID": 4014277200
+}

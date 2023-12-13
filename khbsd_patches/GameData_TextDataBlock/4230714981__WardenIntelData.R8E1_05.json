@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING:</color> Rapidly approaching biomass.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0:</color> biomasse en approche.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE:</color> avvicinamento rapido alla biomassa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG:</color>: Biomasse nähert sich schnell.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA:</color> Biomasa acercándose rápidamente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> Быстро приближающаяся биосигнатура.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO:</color> Biomassa aproximando-se rapidamente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE:</color> Szybko zbliżająca się biomasa.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：</color>生体反応が急接近。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color> 빠르게 다가오는 바이오매스.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color>有生物質迅速接近。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color>生物质正在迅速接近。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenIntelData.R8E1_05",
+  "internalEnabled": true,
+  "persistentID": 4230714981
+}

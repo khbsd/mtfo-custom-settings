@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Short Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil court",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile corto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kurzes Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil corto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Короткоствольная винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil curto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Krótki karabin",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ショートライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "쇼트 라이플",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "短步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "短管步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.SemiName",
+  "internalEnabled": true,
+  "persistentID": 730
+}

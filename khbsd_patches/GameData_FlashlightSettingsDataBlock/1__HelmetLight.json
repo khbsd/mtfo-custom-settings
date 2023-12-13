@@ -1,0 +1,16 @@
+{
+  "range": 11.0,
+  "angle": 40.0,
+  "intensity": 0.35,
+  "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookieSquareLantern.tif",
+  "color": {
+    "a": 1.0,
+    "r": 1.0,
+    "g": 0.963096559,
+    "b": 0.7311321
+  },
+  "startupShard": 19,
+  "name": "HelmetLight",
+  "internalEnabled": true,
+  "persistentID": 1
+}

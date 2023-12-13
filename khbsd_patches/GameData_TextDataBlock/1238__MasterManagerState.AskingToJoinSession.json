@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AskingToJoinSession",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "DemandeRejoindreSession",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta partecipazione a sessione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SitzungsbeitrittWirdAngefragt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pidiendo unirse a sesión",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрос на подключение к сеансу",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PedindoParaEntrarNaSessão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ProśbaoDołączenieDoSesji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セッション参加要請中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "세션참가요청",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "請求加入遊戲階段",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "申请加入会话",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.AskingToJoinSession",
+  "internalEnabled": true,
+  "persistentID": 1238
+}

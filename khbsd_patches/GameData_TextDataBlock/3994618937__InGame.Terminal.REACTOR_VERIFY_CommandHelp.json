@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UNSTUCK THE REACTOR STARTUP SEQUENCE",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "SÉQUENCE DE DÉMARRAGE DU RÉACTEUR DÉBLOQUÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SBLOCCA SEQUENZA AVVIO REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORSTARTSEQUENZ FREIGEBEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESBLOQUEA LA SECUENCIA DE ARRANQUE DEL REACTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РАЗБЛОКИРУЕТ ЦИКЛ ЗАПУСКА РЕАКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DESPRENDA A SEQUÊNCIA DE INICIALIZAÇÃO DE REATOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZRESTARTUJ SEKWENCJĘ ROZRUCHU REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター始動シークエンスの停止解除",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시동 절차 풀기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解開反應器啟動序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "脱出反应堆启动序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.REACTOR_VERIFY_CommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3994618937
+}

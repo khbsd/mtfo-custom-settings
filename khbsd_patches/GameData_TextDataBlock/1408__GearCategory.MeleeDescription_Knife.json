@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Precision damage bonus</color>\nShort Range\nQuick\nMedium damage",
+  "Description": "A short description of what advantages melee weapons have, and how they're used. I.e. they can be used to kill enemies silently (as opposed to firearms which are loud), it requires you to be close to the target, and you can charge up the attack to make it more powerful.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Bonus de dégâts de précision</color>\nCourte portée\nRapide\nDégâts modérés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Bonus danno di precisione</color>\nGittata breve\nVeloce\nDanno medio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Bonusschaden für Präzision</color>\nKurze Reichweite\nSchnell\nMittlerer Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Bonificación de daño de precisión</color>\nCorto alcance\nRápido\nMedio daño",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Бонус за точный удар</color>\nМалая дальность\nВысокая скорость\nСредний урон",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Bônus de precisão de danos</color>\nCurto alcance\nRápida\nMédio dano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Premia do obrażeń precyzyjnych</color>\nKrótki zasięg\nSzybki\nŚrednie obrażenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>精密ダメージボーナス</color>\n近距離\n素早い\n中ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>정밀 대미지 보너스</color>\n단거리\n빠름\n중간 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>精準傷害加成</color>\n短程\n速度快\n中等傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>精准伤害加成</color>\n近程\n快速\n中等伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearCategory.MeleeDescription_Knife",
+  "internalEnabled": true,
+  "persistentID": 1408
+}

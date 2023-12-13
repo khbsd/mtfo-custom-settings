@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security status restored. <color=yellow>Alarm deactivated</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État de sécurité restauré. <color=yellow>Alarme désenclenchée</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato di sicurezza ripristinato. <color=yellow>Allarme disattivato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsstatus wiederhergestellt. <color=yellow>Alarm deaktiviert.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado de seguridad restaurado. <color=yellow>Alarma desactivada</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус безопасности восстановлен. <color=yellow>Сигнал тревоги отключен.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status de segurança restaurado. <color=yellow>Alarme desativado</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bezpieczeństwo przywrócone. <color=yellow>Alarm dezaktywowany</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティステータスが回復。<color=yellow>警報が解除された</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 상태 복구됨. <color=yellow>경보 비활성화됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全狀態已恢復。<color=yellow>警報已關閉</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全状态已恢复。<color=yellow>警报已关闭</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.Intel.AlarmDeactivated",
+  "internalEnabled": true,
+  "persistentID": 3171255808
+}

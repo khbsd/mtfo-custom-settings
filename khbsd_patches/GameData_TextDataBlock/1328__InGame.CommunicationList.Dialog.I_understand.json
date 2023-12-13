@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I understand",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Compris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Capito",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verstanden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entendido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Понимаю",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entendido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przyjąłem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "了解",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알았다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我明白",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "明白",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_understand",
+  "internalEnabled": true,
+  "persistentID": 1328
+}

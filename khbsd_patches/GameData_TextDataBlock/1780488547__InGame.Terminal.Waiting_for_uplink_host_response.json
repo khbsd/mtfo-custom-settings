@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting for uplink host response..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Réponse de l'hôte de la liaison montante en attente...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa di risposta da host uplink.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warte auf Antwort des Uplink-Hosts ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando respuesta del anfitrión del uplink.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание ответа хоста подключения...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando resposta do host de uplink..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na odpowiedź hosta łącza..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンクホスト反応を待機中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 호스트 응답 대기 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在等待上行鏈路主機回應……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待上行链路主机回应……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Waiting_for_uplink_host_response",
+  "internalEnabled": true,
+  "persistentID": 1780488547
+}

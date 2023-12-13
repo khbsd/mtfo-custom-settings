@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Weapon Relax Pose",
+  "Description": "Enables first person relax pos",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pose d'arme détendue",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Posizione arma a riposo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Waffe im Ruhezustand",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pose de arma relajada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поза ожидания",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Arma ao lado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Postawa swobodna z bronią",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "休憩時に武器を構えない",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기 대기 자세",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "稍微放下武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "武器放松姿势",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.WeaponRelaxPose",
+  "internalEnabled": true,
+  "persistentID": 970
+}

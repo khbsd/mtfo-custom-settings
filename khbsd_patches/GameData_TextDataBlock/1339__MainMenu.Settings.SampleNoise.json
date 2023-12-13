@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sample Noise",
+  "Description": "A game setting that controls if noise should be added to certain shader effects too make them more smooth.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Effet sonore",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rumore campione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Shader-Rauschen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ruido de muestra",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Шум",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ruído de amostra",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Próbka szumu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サンプルノイズ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "노이즈 샘플링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "樣本雜訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "样本噪点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.SampleNoise",
+  "internalEnabled": true,
+  "persistentID": 1339
+}

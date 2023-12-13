@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door Locked",
+  "Description": "I.e. \"this door is locked.\" A text that simply informs the player that the door they are standing in front of is locked.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte verrouillée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta bloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür verriegelt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta cerrada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь закрыта",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta trancada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi zamknięte",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックされたドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문 잠김",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "門已上鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "门已锁上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.DoorLocked",
+  "internalEnabled": true,
+  "persistentID": 848
+}

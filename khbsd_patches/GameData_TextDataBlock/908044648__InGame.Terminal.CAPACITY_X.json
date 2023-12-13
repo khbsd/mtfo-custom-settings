@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CAPACITY: {0}",
+  "Description": "{0} is a percentage number between 0-100",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "CAPACITÉ\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CAPACITÀ: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KAPAZITÄT: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAPACIDAD: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЕМКОСТЬ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CAPACIDADE: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYDAJNOŚĆ: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キャパシティ: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "용량: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "容量：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "容量：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.CAPACITY_X",
+  "internalEnabled": true,
+  "persistentID": 908044648
+}

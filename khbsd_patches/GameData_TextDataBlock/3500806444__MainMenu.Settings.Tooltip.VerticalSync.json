@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "If enabled, will lock the game's refresh rate to that of the monitor's. This prevents screen tearing, but might introduce some latency.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Une fois activée, cette option définit un taux de rafraîchissement correspondant à celui de votre moniteur. Cela élimine les déchirures, mais peut entraîner une latence plus élevée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Se abilitato, bloccherà il refresh rate del gioco su quello del monitor. Questo impedisce il tearing dello schermo, ma potrebbe introdurre una certa latenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wenn diese Option aktiviert ist, wird die Bildwiederholrate des Spiels an die des Monitors angepasst. Dies verhindert das Tearing des Bildschirms, kann aber zu einer gewissen Latenz führen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Si se activa, se ajustará la frecuencia de refresco con la del monitor. Esto impedirá que haya screen tearing, pero puede producir inactividad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Если параметр включен, частота обновления игры будет привязана к частоте обновления монитора. Устраняет эффект «рывков», но может вызвать задержки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Se ativada, travará a taxa de atualização do jogo para que fique de acordo com o monitor. Isso evita que a tela falhe, mas pode gerar latência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Po włączeniu dostosowuje liczbę wyświetlanych klatek do częstotliwości odświeżania ekranu. Eliminuje to zjawisko rozdarcia obrazu, ale może skutkować opóźnieniami.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "有効にするとゲームのリフレッシュレートをモニターのリフレッシュレートに固定する。これによりティアリングを防ぐが、レイテンシが発生することがある。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "설정을 켜면 게임 주사율을 모니터 주사율과 동일하게 고정시킵니다. 이렇게 하면 갈라짐 현상을 방지하지만, 다소 지연이 발생할 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "如果啟用，會將遊戲的更新率鎖定為顯示器的更新率。這可以防止畫面撕裂，但可能會造成延遲。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，将游戏的刷新率固定为显示器的刷新率，这样可以防止画面撕裂，但可能会导致一定的延迟。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VerticalSync",
+  "internalEnabled": true,
+  "persistentID": 3500806444
+}

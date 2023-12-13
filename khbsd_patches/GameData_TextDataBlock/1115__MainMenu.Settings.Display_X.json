@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Display {0}",
+  "Description": "A screen that is part of a computer system or other piece of equipment. {0} should not be altered and represents a whole number value between 0 and 9.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Écran {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schermo {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Anzeige {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Экран {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tela {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ekran {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ディスプレイ {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Display_X",
+  "internalEnabled": true,
+  "persistentID": 1115
+}

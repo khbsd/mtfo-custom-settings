@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">... I'm out of ammo.\n>... That was the last of it.\n<size=200%><color=red>>... [rustle, unsheathing knife]</color></size>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... Je suis à court de munitions.\n>... C'était le dernier.\n<size=200%><color=red>>... [bruissement, couteau dégainé]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">… Ho finito le munizioni.\n>… Quello era l'ultimo.\n<size=200%><color=red>>… [fruscio, coltello sguainato]</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Ich habe keine Munition mehr.\n>… Das war die letzte.\n<size=200%><color=red>>… [Rascheln, Messer aus der Scheide ziehen]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">Me he quedado sin munición.\n>Ese era el último.\n<size=200%><color=red>>... [crujido, cuchillo desenfundado]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">... У меня кончились боеприпасы.\n>... Совсем ничего не осталось.\n<size=200%><color=red>>... [шуршание, звуки извлечения ножа из чехла]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">... Estou sem munição.\n>... Essa foi a última.\n<size=200%><color=red>>... [ruído, empunhando faca]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">... Skończyła mi się amunicja.\n>... Więcej nie mamy.\n<size=200%><color=red>>... [szelest, wyciąganie noża]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">... 弾がなくなった。\n>... あれで最後だ。\n<size=200%><color=red>>... [装備が当たる音、ナイフを抜く音]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">... 탄약이 떨어졌어.\n>... 방금 그게 마지막이야.\n<size=200%><color=red>>... [바스락거림, 칼집 푸는 소리]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…我沒有彈藥了。\n>…剛剛都用完了。\n<size=200%><color=red>>…[沙沙聲，拔刀出鞘]</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">... 我没有弹药了。\n>... 就只有这么多了。\n<size=200%><color=red>>... [沙沙声，拔刀出鞘]</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_C3_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1161461099
+}

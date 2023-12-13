@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Genomedata download <color=orange>started.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Téléchargement des données du génome <color=orange>démarré.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Download dati del genoma <color=orange>iniziato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Download der Gendaten <color=orange>initiiert</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga de datos del genoma <color=orange>iniciada.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузка геномной информации <color=orange>началась</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Download dos dados de genoma <color=orange>iniciado.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobieranie danych genomowych <color=orange>rozpoczęte.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲノムデータダウンロード<color=orange>開始。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게놈 데이터 다운로드 <color=orange>시작됨. </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "基因組資料下載<color=orange>開始。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "基因组数据下载<color=orange>已开始</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjective.WardenIntel.DX.GenomdeDownloadStarted",
+  "internalEnabled": true,
+  "persistentID": 2621292804
+}

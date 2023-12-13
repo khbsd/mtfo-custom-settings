@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to the extraction point in [EXTRACTION_ZONE]",
+  "Description": "Don't localize [EXTRACTION_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere il punto di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa al punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá até o ponto de extração na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do punktu ewakuacyjnego w [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の脱出地点へ移動しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE]의 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[EXTRACTION_ZONE]的撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[EXTRACTION_ZONE]撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_3_D2.GoToExit",
+  "internalEnabled": true,
+  "persistentID": 1569
+}

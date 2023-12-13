@@ -1,0 +1,255 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        4,
+        5,
+        6
+      ],
+      [
+        0,
+        1,
+        2,
+        7,
+        9,
+        4,
+        6,
+        5,
+        3,
+        8,
+        10,
+        11,
+        12
+      ],
+      [],
+      [
+        9,
+        0,
+        1,
+        2,
+        7,
+        4,
+        6,
+        5,
+        3,
+        8
+      ],
+      [
+        0,
+        1,
+        2,
+        7,
+        9,
+        4,
+        6,
+        5,
+        3,
+        8
+      ],
+      [
+        4,
+        6,
+        5,
+        7,
+        0,
+        3,
+        8,
+        1,
+        10,
+        11,
+        12
+      ],
+      [
+        9,
+        0,
+        1,
+        2,
+        7,
+        4,
+        6,
+        5,
+        3,
+        8,
+        10,
+        11,
+        12
+      ],
+      [],
+      [
+        0,
+        1,
+        10,
+        11,
+        12,
+        4,
+        5,
+        6,
+        7,
+        9,
+        2,
+        3,
+        8
+      ],
+      [
+        0,
+        1,
+        2,
+        7,
+        9,
+        4,
+        6,
+        5,
+        3,
+        8,
+        10,
+        11,
+        12
+      ],
+      [
+        0,
+        1,
+        2,
+        7,
+        9,
+        4,
+        6,
+        5,
+        3,
+        8,
+        10,
+        11,
+        12
+      ],
+      [],
+      [
+        0,
+        8,
+        9,
+        4,
+        6,
+        5,
+        7,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        7,
+        9,
+        4,
+        6,
+        5,
+        3,
+        8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        8,
+        9,
+        4,
+        6,
+        5,
+        7,
+        3
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/digsite_open_1000x1000x1200_a.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_SV_a_x3.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_a.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_b.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_c.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1000_gen_HA_01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1000_gen_HA_02.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1000_gen_HA_03.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1000_gen_HA_04.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1000_building_HA_01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 3.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_d.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 3.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_e.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 3.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_open_1000x1000x1000/dig_site_open_1000x1000x1200_HA_f.prefab",
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 3,
+    "FunctionPotential": 6.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_dig_site_open_1000x1000x1000",
+    "BoundingVolume": 1000000.0
+  },
+  "name": "mining_dig_site_open_1000x1000x1000",
+  "internalEnabled": true,
+  "persistentID": 43
+}

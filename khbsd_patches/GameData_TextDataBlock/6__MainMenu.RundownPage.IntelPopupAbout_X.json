@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "About {0}",
+  "Description": "This is the headline for an info box about the current Rundown (game campaign.) The \"{0}\" will be replaced by the name of the current Rundown.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "À propos de {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Info su {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Über {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Información de {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0}. СВЕДЕНИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sobre\u00A0{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – informacje",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}について",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 정보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關於「{0}」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关于{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.IntelPopupAbout_X",
+  "internalEnabled": true,
+  "persistentID": 6
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_2]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta a la [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 2 [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_2]へのドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_2] 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_2]的門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_2]的门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone1.OpenDoor.Header",
+  "internalEnabled": true,
+  "persistentID": 2225972306
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will take more damage from projectiles.",
+  "Description": "Describes the advantage of having a poor \"projectile reistance\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet subit plus de dégâts de projectiles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto subirà danni maggiori dai proiettili.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson erleidet mehr Schaden durch Projektile.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto sufre más daño con los proyectiles.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, получаемый от снарядов, увеличивается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo recebe mais danos de ataques com projéteis.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca otrzyma więcej obrażeń wskutek trafienia pociskiem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象への射出物によるダメージが増える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 발사체 대미지를 더 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象受到投擲物的傷害較多。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者受到的炮弹伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ProjectileResistanceDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 533
+}

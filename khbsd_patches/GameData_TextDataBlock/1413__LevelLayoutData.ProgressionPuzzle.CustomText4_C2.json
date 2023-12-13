@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Ventilation system malfunction detected. Requires a manual restart at a terminal in</color> <color=orange>ZONE 120</color>",
+  "Description": "Don't localize ZONE 120.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: dysfonctionnement du système de ventilation détecté. Redémarrage manuel requis sur un terminal dans la<color=red> <color=orange>ZONE\u00A0120</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: rilevata anomalia sistema di ventilazione. Richiesto riavvio manuale su terminale nella</color> <color=orange>ZONE 120</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Fehlfunktion im Belüftungssystem erkannt. Manueller Neustart an einem Terminal in<color=red> <color=orange>ZONE 120</color> erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: Fallo en el sistema de ventilación detectado. Debe reiniciarse manualmente en una terminal de la <color=red><color=orange>ZONE 120</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Обнаружена неполадка в системе вентиляции. Требуется ручная перезагрузка на терминале в</color> <color=orange>ZONE 120</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Falha no sistema de ventilação detectada. Um reinício manual é necessário em um terminal da</color> <color=orange>ZONE 120</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: wykryto awarię systemu wentylacyjnego. Wymagane ponowne ręczne uruchomienie w terminalu w\u00A0<color=red><color=orange>strefie 120 [ZONE_120]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：換気システムの異常を検知。</color> <color=orange>ZONE 120</color>の端末で手動再起動が必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 환기 시스템 고장 탐지. </color><color=orange>ZONE 120</color> 터미널에서 수동 재시작이 필요합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：偵測到通風系統故障。需要在</color><color=orange>ZONE 120</color>的終端手動重啟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：检测到通风系统故障，需要在</color><color=orange>ZONE 120</color>的终端上手动重启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText4_C2",
+  "internalEnabled": true,
+  "persistentID": 1413
+}

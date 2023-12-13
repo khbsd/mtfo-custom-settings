@@ -1,0 +1,16 @@
+{
+  "SpawnsPerZone": 2,
+  "SpawnData": [
+    {
+      "ItemID": 131,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 131,
+      "Weight": 1.0
+    }
+  ],
+  "name": "PowerCell_2",
+  "internalEnabled": true,
+  "persistentID": 6
+}

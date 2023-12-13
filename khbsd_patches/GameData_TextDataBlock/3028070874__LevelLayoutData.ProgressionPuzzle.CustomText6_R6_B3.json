@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Light management system offline. Manually start an emergency power supply unit from a terminal in: </color> <color=orange>ZONE 183.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: système de gestion d'éclairage hors ligne. Démarrez manuellement une unité d'alimentation de secours depuis un terminal dans la </color> <color=orange>ZONE\u00A0183.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: sistema di gestione della luce offline. Avvia manualmente un alimentatore di emergenza da un terminale in: </color> <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Lichtverwaltungssystem offline. Starten Sie eine Notstromversorgungseinheit manuell an einem Terminal in</color> <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: sistema de gestión de luz desactivado. Debe activarse una unidad eléctrica de apoyo manualmente en una terminal de la </color> <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Система управления освещением отключена. Вручную запустите аварийный источник питания на терминале в</color> <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Sistema de gerenciamento de luz offline. Inicie manualmente a unidade de fornecimento elétrico de emergência em um terminal na: </color> <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: system zarządzania oświetleniem wyłączony. Uruchom zasilacz awaryjny ręcznie z terminalu w </color> <color=orange>STREFIE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：照明管理システムがオフライン。次のゾーンの端末で非常電力供給ユニットを手動で起動せよ：</color> <color=orange>ZONE 183</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 조명 관리 시스템 오프라인. </color> <color=orange>ZONE 183</color> 터미널 비상 파워 서플라이 유닛에서 수동으로 시작할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：照明管理系統離線。從以下終端手動啟動緊急電源裝置：</color><color=orange>ZONE 183。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：灯光管理系统离线。在以下区域的终端上手动启用应急电源装置：</color><color=orange>ZONE 183</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText6_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 3028070874
+}

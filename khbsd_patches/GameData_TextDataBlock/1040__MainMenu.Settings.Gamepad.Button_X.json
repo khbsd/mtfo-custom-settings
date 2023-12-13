@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Button {0}",
+  "Description": "A gamepad input. {0} is a number between 0 and 19",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouton {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pulsante {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taste {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кнопка {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Botão {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボタン {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버튼 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按鈕{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按钮{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Button_X",
+  "internalEnabled": true,
+  "persistentID": 1040
+}

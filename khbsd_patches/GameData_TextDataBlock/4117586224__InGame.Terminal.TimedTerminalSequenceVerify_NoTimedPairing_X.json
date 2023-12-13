@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification failed! There was no Timed Verification pairing with terminal of ID/Name \"<color=orange>{0}</color>\"",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échec de la vérification\u00A0! Absence de vérification chronométrée correspondante sur le terminal d’ID/Nom «\u00A0<color=orange>{0}</color>\u00A0»",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica fallita! Non c'è stato alcun abbinamento della verifica a tempo con il terminale di ID/nome \"<color=orange>{0}</color>\".",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung fehlgeschlagen! Es gab keine zeitgesteuerte Verifizierungspaarung mit dem Terminal mit der ID/dem Namen „<color=orange>{0}</color>“.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación fallida! No se ha vinculado ninguna verificación cronometrada al terminal con el ID/nombre «<color=orange>{0}</color>».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верификация не пройдена! Не обнаружена синхронизированная верификация, соответствующая терминалу с ID/именем <color=orange>{0}</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na verificação! Não houve pareamento de verificação cronometrada com o terminal de ID/Nome \"<color=orange>{0}</color>\"",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja nieudana! Brak parowania weryfikacji czasowej z terminalem o identyfikatorze/nazwie „<color=orange>{0}</color>”",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証失敗！\"<color=orange>{0}</color>\" のIDまたは名前を持つ端末との同期認証ペアリングはありませんでした",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 실패! \"<color=orange>{0}</color>\" ID/이름의 터미널과 페어링되는 시한 승인이 없습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證失敗！找不到與終端（ID/名稱<color=orange>{0}</color>）的限時驗證配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证失败！无定时验证与ID/名称为“<color=orange>{0}</color>”的终端配对",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_NoTimedPairing_X",
+  "internalEnabled": true,
+  "persistentID": 4117586224
+}

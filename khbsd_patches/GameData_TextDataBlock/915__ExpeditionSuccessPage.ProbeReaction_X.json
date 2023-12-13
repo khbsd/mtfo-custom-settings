@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NRV probe reaction: {0}",
+  "Description": "Medical evaluation of the prisoners health statis. \"NRV probe\" is a made-up sci fi word. \"{0}\" will be replaced by a word that sums up the status, don't alter these characters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Réaction à la sonde NRV\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Reazione sonda NRV: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NRV-Sondenreaktion: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reacción a sonda NRV: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Реакция НРВ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reação da sonda NRV: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Diagnoza sondy NRV: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "NRV精査反応: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "NRV 프로브 반응: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "NRV探針反應：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "NRV探测反应：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.ProbeReaction_X",
+  "internalEnabled": true,
+  "persistentID": 915
+}

@@ -1,0 +1,164 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        1,
+        2,
+        5,
+        0,
+        3,
+        4
+      ],
+      [
+        2,
+        1,
+        5,
+        3,
+        4,
+        0
+      ],
+      [],
+      [],
+      [
+        1,
+        5,
+        2,
+        4,
+        0,
+        3
+      ],
+      [
+        1,
+        5,
+        0,
+        4,
+        2,
+        3
+      ],
+      [
+        4,
+        1,
+        5,
+        2,
+        0,
+        3
+      ],
+      [],
+      [
+        4,
+        1,
+        5,
+        2,
+        0,
+        3
+      ],
+      [
+        1,
+        5,
+        0,
+        4,
+        2,
+        3
+      ],
+      [
+        4,
+        1,
+        5,
+        2,
+        0,
+        3
+      ],
+      [
+        1,
+        5,
+        0,
+        2,
+        3,
+        4
+      ],
+      [
+        1,
+        5,
+        0,
+        2,
+        3,
+        4
+      ],
+      [
+        1,
+        5,
+        2,
+        4,
+        0,
+        3
+      ],
+      [
+        1,
+        2,
+        5
+      ],
+      [],
+      [],
+      [],
+      [
+        1,
+        5,
+        0,
+        2,
+        3,
+        4
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_01.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_02.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_05.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_04.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_06.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_large_2600x4400x800/DataCenter_large_2600x4400x800_HA_03.prefab",
+        "function": 0,
+        "Shard": 3
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 10.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_DataCenter_large_2600x4400x800",
+    "BoundingVolume": 9152000.0
+  },
+  "name": "DataCenter_large_2600x4400x800",
+  "internalEnabled": true,
+  "persistentID": 17
+}

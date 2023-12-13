@@ -1,0 +1,25 @@
+{
+  "SpawnsPerZone": 7,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 10.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 115,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 114,
+      "Weight": 0.25
+    }
+  ],
+  "name": "ExplorationFog",
+  "internalEnabled": true,
+  "persistentID": 5
+}

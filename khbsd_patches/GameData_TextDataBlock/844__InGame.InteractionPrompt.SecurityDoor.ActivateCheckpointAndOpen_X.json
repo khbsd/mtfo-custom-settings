@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate Checkpoint Scan and Open {0}",
+  "Description": "A text that suggests to the player that they activate a bioscan connected to a checkpoint, in order to open up that checkpoint so that the team can move forward.\n{0} is a door type. For example Bulkhead Door or Security Door.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer l'analyse de point de contrôle et ouvrir {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare scansione checkpoint e aprire {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Checkpoint-Scan aktivieren und {0} öffnen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activar el escáner del punto de control y abrir {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте сканер чекпойнта и откройте: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ative o escâner de ponto de controle e abra {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aktywuj skaner punktu kontrolnego i otwórz {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チェックポイントスキャンを起動して {0}を開け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체크포인트 스캔을 활성화하고 {0} 열기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用重生點掃描並開啟{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激活重生点扫描并打开{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.SecurityDoor.ActivateCheckpointAndOpen_X",
+  "internalEnabled": true,
+  "persistentID": 844
+}

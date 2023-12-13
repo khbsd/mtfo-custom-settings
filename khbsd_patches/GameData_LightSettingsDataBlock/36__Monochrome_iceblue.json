@@ -1,0 +1,105 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.670588255,
+        "g": 0.8078432,
+        "b": 1.0
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.5,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.3066038,
+        "g": 0.595518947,
+        "b": 1.0
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.5,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.670588255,
+        "g": 0.807843149,
+        "b": 1.0
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.305882365,
+        "g": 0.596078455,
+        "b": 1.0
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.1,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.86,
+        "g": 0.93905884,
+        "b": 1.0
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.3,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.867,
+        "g": 0.9421059,
+        "b": 1.0
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Monochrome_iceblue",
+  "internalEnabled": true,
+  "persistentID": 36
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pump action\nHigh damage\nSlug rounds\nShort to medium range\nLow ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à pompe\nDégâts élevés\nBalles perforantes\nCourte à moyenne portée\nCapacité de munitions faible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Azione a pompa\nDanni elevati\nProiettili Slug\nGittata da breve a media\nScarsa capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pumpbetrieb\nHoher Schaden\nGeschosse\nKurze bis mittlere Reichweite\nGeringe Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acción de bomba\nMucho daño\nBalas de slugs\nCorto a medio alcance\nCapacidad de munición baja",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Помповое оружие\nВысокий урон\nПули «жакан»\nМалая или средняя дальность\nМаленькая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ação de bombeamento\nAlto dano\nMunição tipo balote\nCurto a médio alcance\nBaixa capacidade de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powtarzalna\nDuże obrażenia\nAmunicja breneka\nŚredni i krótki dystans\nMała pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ポンプアクション\n高ダメージ\nスラッグ弾\n近距離から中距離\n装弾数が少ない",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "펌프 액션\n높은 대미지\n슬러그탄\n단 - 중거리\n낮은 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "泵動式槍機\n高傷害\n獨頭彈\n中短程\n彈藥容量小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "泵动式\n高伤害\n独头弹\n近到中程\n弹药容量小",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.SlugDescription",
+  "internalEnabled": true,
+  "persistentID": 922859417
+}

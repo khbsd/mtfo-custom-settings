@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<pos=0>FILE NAME</pos><pos=50%>FILE SIZE</pos>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<pos=0>NOM DE FICHIER</pos><pos=50%>TAILLE DE FICHIER</pos>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<pos=0>NOME FILE</pos><pos=50%>DIMENSIONE FILE</pos>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<pos=0>DATEINAME</pos><pos=50%>DATEIGRÖSSE</pos>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<pos=0>NOMBRE DEL ARCHIVO</pos><pos=50%>TAMAÑO DEL ARCHIVO</pos>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<pos=0>ИМЯ ФАЙЛА</pos><pos=50%>РАЗМЕР ФАЙЛА</pos>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<pos=0>NOME DO ARQUIVO</pos><pos=50%>TAMANHO DO ARQUIVO</pos>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<pos=0>NAZWA PLIKU</pos><pos=50%>ROZMIAR PLIKU</pos>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<pos=0>ファイル名</pos><pos=50%>ファイルサイズ</pos>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<pos=0>파일명</pos><pos=50%>파일 크기</pos>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<pos=0>檔案名稱</pos><pos=50%>檔案大小</pos>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<pos=0>文件名</pos><pos=50%>文件大小</pos>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ReadLogCommandOutputHeader",
+  "internalEnabled": true,
+  "persistentID": 2244926910
+}

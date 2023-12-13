@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency extraction requested. Extraction point activated.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Demande d'évacuation d'urgence. Point d'évacuation activé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta estrazione d'emergenza. Punto di estrazione attivato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notextraktion angefordert. Extraktionspunkt aktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extracción de emergencia solicitada. Punto de extracción activado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрошена экстренная эвакуация. Активирована точка выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extração de emergência solicitada. Ponto de extração ativado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Żądanie awaryjnej ewakuacji. Uruchomiono punkt ewakuacyjny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急脱出が要請された。脱出地点を起動。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 탈출 요청됨. 탈출 지점 활성화됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已要求緊急撤離。撤離點已啟動。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已请求紧急撤离。撤离点已激活。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenIntel.PhaseUnlock.Hendricks_4_R7C3_Extract",
+  "internalEnabled": true,
+  "persistentID": 2157501829
+}

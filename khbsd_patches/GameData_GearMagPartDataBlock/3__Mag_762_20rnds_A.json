@@ -1,0 +1,17 @@
+{
+  "ClipSizeMultiplier": 0.7,
+  "ReloadTimeMultiplier": 0.6,
+  "ReloadLeftHandGripAnim": "",
+  "DropSoundType": 2,
+  "General": {
+    "PublicName": "Mag 762 20 Rounds A",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Mags/Mag_762_20rnds_A.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 60,
+    "BundleShard": 11
+  },
+  "Aligns": [],
+  "name": "Mag_762_20rnds_A",
+  "internalEnabled": true,
+  "persistentID": 3
+}

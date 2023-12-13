@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use terminal to lift lockdown for security gate to [ZONE_5]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez le terminal pour lever le verrouillage de la porte de sécurité vers la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il terminale per revocare il blocco della porta di sicurezza verso [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie das Terminal, um die Sperre des Sicherheitstors zu [ZONE_5] aufzuheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el terminal para cancelar el cierre de emergencia de la puerta de seguridad que lleva a la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте терминал, чтобы отменить режим изоляции для входа в [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o terminal para remover o confinamento do portão de segurança para a [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj terminala, aby znieść blokadę bramy do strefy 5 [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を使い、[ZONE_5]へのセキュリティゲートの封鎖を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널을 사용해 [ZONE_5] 보안 게이트 폐쇄 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用終端解除對[ZONE_5]安全門的封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用终端解除[ZONE_5]的安全门封锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone3_OpenDoor",
+  "internalEnabled": true,
+  "persistentID": 3054732567
+}

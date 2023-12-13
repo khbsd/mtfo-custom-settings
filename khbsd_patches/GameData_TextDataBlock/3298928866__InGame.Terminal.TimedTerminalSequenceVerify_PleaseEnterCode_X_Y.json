@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Please enter the <color=orange>{0}</color> command on <color=orange>{1}</color> within the allotted time.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Veuillez saisir la commande <color=orange>{0}</color> sur <color=orange>{1}</color> dans le temps imparti.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire il comando <color=orange>{0}</color> su <color=orange>{1}</color> entro il tempo disponibile.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bitte geben Sie den Befehl <color=orange>{0}</color> innerhalb des vorgegebenen Zeitrahmens am <color=orange>{1}</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el comando <color=orange>{0}</color> en el terminal <color=orange>{1}</color> dentro del límite de tiempo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите команду <color=orange>{0}</color> (<color=orange>{1}</color>) в отведенное время.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira o <color=orange>{0}</color> comando em <color=orange>{1}</color> dentro do tempo estipulado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź polecenie <color=orange>{0}</color> na <color=orange>{1}</color> w wyznaczonym czasie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "割り当てられた時間内に<color=orange>{1}</color>に<color=orange>{0}</color>コマンドを入力してください。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "할당된 시간 내에 <color=orange>{1}</color>에 <color=orange>{0}</color> 명령을 입력하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "請於時限內在<color=orange>{1}</color>上輸入<color=orange>{0}</color>指令。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "请于分配的时间内在<color=orange>{1}</color>上输入<color=orange>{0}</color>命令。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_PleaseEnterCode_X_Y",
+  "internalEnabled": true,
+  "persistentID": 3298928866
+}

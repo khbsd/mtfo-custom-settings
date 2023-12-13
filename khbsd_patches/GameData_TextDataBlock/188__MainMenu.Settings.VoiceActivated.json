@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Activated",
+  "Description": "Refers to a setting for the \"voice chat\" functionality. \"Voice activated\" makes it so that the microphone registers whenever the user speaks.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activation vocale auto",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Microfono attivato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachaktivierung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activado por voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активация голосом",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Voz ativada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głos aktywny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "音声起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音已啟用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音激活",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceActivated",
+  "internalEnabled": true,
+  "persistentID": 188
+}

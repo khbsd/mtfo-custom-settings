@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I have read and agree to the updated EULA ({0}). ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "J’ai lu et j’accepte le CLUF mis à jour ({0}).",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dichiaro di aver letto e di accettare l’EULA modificato ({0}).",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "I habe die aktualisierte EULA ({0}) gelesen und erkläre mich damit einverstanden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "He leído y acepto el EULA actualizado ({0}).",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я прочитал(-а) и согласен(-на) с обновленным ЛСКП ({0}).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Li e concordo com o contrato de licença de usuário final atualizado ({0}).",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdzam przeczytanie i przyjęcie postanowień zaktualizowanej umowy EULA. ({0}).",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "私は、更新されたEULA({0})を読み、これに同意しました。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "본인은 개정된 EULA({0})를 읽었으며 이에 동의합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我已閱讀並同意經更新的 EULA（{0}）。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "I have read and agree to the updated EULA ({0}). ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.EULA.EULALink_X",
+  "internalEnabled": true,
+  "persistentID": 1036263095
+}

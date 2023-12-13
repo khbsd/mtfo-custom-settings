@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the amount of movement on first-person items as a result of walking, running, jumping etc.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le mouvement des objets en mode première personne en marchant, courant, sautant, etc.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la quantità di movimento degli oggetti in prima persona quando si cammina, corre, salta, ecc.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert das Ausmaß der Bewegung von Gegenständen in der Ego-Perspektive durch Gehen, Laufen, Springen usw.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la cantidad de movimiento con objetos en primera persona cuando caminas, corres, saltas, etc.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует степень инерции предметов во время ходьбы, бега, прыжков и т.\u00A0д.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a quantidade de movimento nos itens de primeira pessoa ao caminhar, correr, saltar, etc.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za stopień poruszania przedmiotami w trybie pierwszoosobowym wskutek ruchu, biegu, skoku itd.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "歩く、走る、ジャンプするなどした時、一人称視点対象物が動く量を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "걷거나 달리거나 점프할 때 1인칭 시점 아이템의 움직임 정도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制由於步行、跑步、跳躍等導致的第一人稱物品移動量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制第一视角下物品在行走、跑动、跳跃等过程中的移动量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.FirstPersonInertiaAmount",
+  "internalEnabled": true,
+  "persistentID": 484347182
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Hydrostasis Unit and retrieve a DNA core sample",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouver l'unité d'hydrostase et récupérer un échantillon de noyau d'ADN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare Unità idrostatica e recuperare un campione di nucleo di DNA.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die Hydrostasis-Einheit und besorgen Sie eine DNA-Kernprobe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la unidad de hidroletargo y recupera una muestra de núcleo de ADN.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите стазис-модуль и извлеките образец стержня ДНК.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre a unidade de hidroestase e recupere uma amostra de núcleo de DNA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź jednostkę hydrostazy i zdobądź próbkę z rdzeniem DNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイドロスタシスユニットを見つけ、DNA核サンプルを回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수분식 생체 정지 유닛을 찾아 DNA 코어 샘플 회수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到靜液裝置並取回DNA核心樣本",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到流体静力舱并取回DNA核心样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.MainObjective_R7B3",
+  "internalEnabled": true,
+  "persistentID": 1719482688
+}

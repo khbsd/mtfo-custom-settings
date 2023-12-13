@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Room clear!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "La voie est libre\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stanza libera!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Raum gesichert!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Zona despejada!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Зачищено!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sala liberada!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pomieszczenie czyste!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ルームクリア！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "룸 클리어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "房間安全了！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "房间安全！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.RoomClear",
+  "internalEnabled": true,
+  "persistentID": 1223
+}

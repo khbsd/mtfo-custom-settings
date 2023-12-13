@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Squit",
+  "Description": "A button used to quit the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quitter",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esci",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verlassen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выйти",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sair",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyjdź",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "離開",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.QuitButton",
+  "internalEnabled": true,
+  "persistentID": 27
+}

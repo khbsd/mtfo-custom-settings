@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prepare a defence for the upcoming <color=orange>ALARM</color>",
+  "Description": "ALARM is not a terminal command and should be localized.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Préparez vos défenses pour la prochaine <color=orange>ALARME</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Preparare una difesa per l'imminente <color=orange>ALLARME</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bereiten Sie eine Verteidigung für den bevorstehenden <color=orange>ALARM</color> vor.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prepara una defensa para la próxima <color=orange>ALARMA</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовьтесь к защите после включения <color=orange>СИГНАЛА ТРЕВОГИ</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prepare uma defesa para o <color=orange>ALARME</color> futuro.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przygotuj się do obrony przed uruchomieniem <color=orange>ALARMU</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "迫り来る <color=orange>警報</color>に備えろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "예정된 <color=orange>경보</color>에 대비해 방어 준비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "為預定<color=orange>警報</color>準備防禦",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "为即将到来的<color=orange>警报</color>准备好防御",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.Custom.SubObjective2",
+  "internalEnabled": true,
+  "persistentID": 1236
+}

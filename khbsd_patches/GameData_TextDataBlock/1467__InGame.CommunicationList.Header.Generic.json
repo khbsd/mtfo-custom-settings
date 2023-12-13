@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Talk about..",
+  "Description": "Used as a header over a list of communications options that the player can choose from to trigger communication lines.\n\"Comms\" is used as a short for \"Communication\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Catégorie...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Parla di...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Reden über …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hablar de...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тема:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falar sobre...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mów o..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発言内容..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발언 주제...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "討論……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "谈论……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Header.Generic",
+  "internalEnabled": true,
+  "persistentID": 1467
+}

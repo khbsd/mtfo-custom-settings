@@ -1,0 +1,151 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        2,
+        4,
+        0,
+        1,
+        3,
+        5
+      ],
+      [],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        2,
+        5,
+        0,
+        4
+      ],
+      [
+        2,
+        4,
+        3,
+        1,
+        5,
+        0
+      ],
+      [
+        1,
+        2,
+        5,
+        0,
+        4,
+        3
+      ],
+      [],
+      [
+        1,
+        2,
+        5,
+        0,
+        4,
+        3
+      ],
+      [
+        3,
+        1,
+        4,
+        5,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        5,
+        0,
+        4,
+        3
+      ],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        5,
+        0,
+        4
+      ],
+      [
+        4
+      ],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V04.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V05.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 0.1,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V06.prefab",
+        "function": 19,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 6.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_Lab_large_open_2600x2000x800",
+    "BoundingVolume": 4160000.0
+  },
+  "name": "Lab_large_open_2600x2000x800",
+  "internalEnabled": true,
+  "persistentID": 59
+}

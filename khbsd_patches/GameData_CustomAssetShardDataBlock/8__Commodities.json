@@ -1,0 +1,32 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Physical/pickup_Small_Physical_a.prefab",
+      "Shard": 13
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Physical/pickup_Small_Physical_b.prefab",
+      "Shard": 18
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Physical/pickup_Small_Physical_x6_a.prefab",
+      "Shard": 11
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Physical/pickup_Small_Physical_x12_a.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_Small_Artifact_a.prefab",
+      "Shard": 17
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_Medium_Artifact_a.prefab",
+      "Shard": 17
+    }
+  ],
+  "name": "Commodities",
+  "internalEnabled": true,
+  "persistentID": 8
+}

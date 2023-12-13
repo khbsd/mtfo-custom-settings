@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WAITING FOR MATCH",
+  "Description": "A text string seen while the game is looking for other players to match the user with, i.e., while the game is \"matchmaking\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "EN ATTENTE D'UN MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN ATTESA DI ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AUF SPIEL WARTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESPERANDO PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИДЕТ ПОДБОР КОМАНДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AGUARDANDO PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZEKIWANIE NA GRĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチ待機中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치를 기다리는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.WaitingForMatch",
+  "internalEnabled": true,
+  "persistentID": 247
+}

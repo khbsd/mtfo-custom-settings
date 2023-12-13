@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Following {0}",
+  "Description": "Extra info displayed in the UI when you look directly at a bot.\n{0} is the nickname of the player the bot is following, or the text \"You\" used in InGame.NavMarkerExtraInfo.You",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Suit\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stai seguendo: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Folgt {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Siguiendo a {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Следует за: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seguindo {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podąża za: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フォロー中： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "따라가는 중: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在追蹤{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跟着{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.NavMarkerExtraInfo.Following_X",
+  "internalEnabled": true,
+  "persistentID": 3500418839
+}

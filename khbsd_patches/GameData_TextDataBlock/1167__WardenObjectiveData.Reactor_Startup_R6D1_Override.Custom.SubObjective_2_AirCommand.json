@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Input Command: <color=orange>Air_Filtration_Startup</color> in terminal...",
+  "Description": "Don't localize Air_Filtration_Startup",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Commande d'entrée\u00A0: <color=orange>Air_Filtration_Startup</color> dans le terminal...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire comando: <color=orange>Air_Filtration_Startup</color> nel terminale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Geben Sie den Befehl <color=orange>Air_Filtration_Startup</color> im Terminal ein …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el comando <color=orange>Air_Filtration_Startup</color> en la terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите команду <color=orange>Air_Filtration_Startup</color> на терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira o comando: <color=orange>Air_Filtration_Startup</color> no terminal...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź polecenie: <color=orange>Air_Filtration_Startup</color> w terminalu...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末にコマンド： <color=orange>Air_Filtration_Startup</color> を入力...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에 <color=orange>Air_Filtration_Startup</color> 명령 입력...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端輸入指令：<color=orange>Air_Filtration_Startup</color>……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端上输入命令：<color=orange>Air_Filtration_Startup</color>……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_2_AirCommand",
+  "internalEnabled": true,
+  "persistentID": 1167
+}

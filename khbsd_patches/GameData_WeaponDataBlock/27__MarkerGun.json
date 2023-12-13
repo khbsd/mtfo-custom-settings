@@ -1,0 +1,92 @@
+{
+  "muzzleFlashFPS": "",
+  "muzzleFlash3RD": "",
+  "muzzleFlashFPSSpecial": "",
+  "muzzleFlash3RDSpecial": "",
+  "muzzleFeedback": "",
+  "shellType": 0,
+  "shellEjectFeedback": "",
+  "clipSize": 0,
+  "hasRotatingCylinder": false,
+  "reloadDuration": 0.0,
+  "EffectiveDamagePerSecond": "",
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -3.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.0,
+    "sqrMagnitude": 9.0
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "recoilPosShiftWeight": 1.0,
+  "recoilPosStiffness": 300.0,
+  "recoilPosDamping": 20.0,
+  "recoilPosImpulseWeight": 0.5,
+  "recoilCameraPosWeight": 0.0,
+  "recoilRotImpulse": {
+    "x": -190.0,
+    "y": 0.0,
+    "z": 0.0,
+    "normalized": {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 190.0,
+    "sqrMagnitude": 36100.0
+  },
+  "recoilRotStiffness": 500.0,
+  "recoilRotDamping": 15.0,
+  "recoilRotImpulseWeight": 0.0,
+  "recoilCameraRotWeight": 0.0,
+  "recoilAimingWeight": 0.7,
+  "eventOnSemiFire2D": [],
+  "eventOnBurstFire2D": [],
+  "eventOnAutoFireStart2D": [],
+  "eventOnAutoFireEnd2D": [],
+  "eventOnSpecialSemiFire2D": [],
+  "eventOnSpecialBurstFire2D": [],
+  "eventOnSpecialAutoFireStart2D": [],
+  "eventOnSpecialAutoFireEnd2D": [],
+  "eventOnSpecialChargeup2D": [
+    "ImplantSmallJumpBoostChargeUp"
+  ],
+  "eventOnSpecialCooldown2D": [
+    "ImplantSmallJumpBoostChargeUp"
+  ],
+  "eventOnSpecialChargeupEnd2D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd2D": "WeaponCooldownEnd",
+  "eventOnSemiFire3D": [],
+  "eventOnBurstFire3D": [],
+  "eventOnAutoFireStart3D": [],
+  "eventOnAutoFireEnd3D": [],
+  "eventOnSpecialSemiFire3D": [],
+  "eventOnSpecialBurstFire3D": [],
+  "eventOnSpecialAutoFireStart3D": [],
+  "eventOnSpecialAutoFireEnd3D": [],
+  "eventOnSpecialChargeup3D": [],
+  "eventOnSpecialCooldown3D": [],
+  "eventOnSpecialChargeupEnd3D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd3D": "WeaponCooldownEnd",
+  "eventClick": "",
+  "eventReload": "",
+  "useSemiAudioForBurstShots": false,
+  "name": "MarkerGun",
+  "internalEnabled": true,
+  "persistentID": 27
+}

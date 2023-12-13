@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nSubject is recommended to take ammunition \r\nout of the ammunition pack and reload firearms.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nIl est recommandé au sujet de prendre des munitions dans \r\nla boîte correspondante et de recharger ses armes.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nSi raccomanda al soggetto di estrarre le munizioni \r\ndal pacco munizioni e di ricaricare le armi da fuoco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDer Versuchsperson wird empfohlen, die Munition \r\naus dem Munitionspaket zu nehmen und die Schusswaffen nachzuladen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nSe recomienda al sujeto que extraiga munición \r\ndel paquete y recargue sus armas de fuego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nСубъекту рекомендуется воспользоваться боеприпасами\r\nиз соответствующего набора и перезарядить оружие.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nRecomendado que o indivíduo retire munição \r\ndo pacote de munições e recarregue as armas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nZaleca się pobranie amunicji \r\nz pakietu amunicji i przeładowanie broni palnej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n対象は、弾薬パックから弾薬を取り\r\n武器への装填を行うことが推奨される。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n대상은 탄약 팩에서 탄약을 충전하거나 \r\n무기 재장전이 권장됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n建議實驗對象從彈藥包拾取彈藥\r\n並重新裝填槍械。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n推荐实验体从弹药包中拿出弹药\r\n并给武器装弹。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_23",
+  "internalEnabled": true,
+  "persistentID": 3857088574
+}

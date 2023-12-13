@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "://Intel_",
+  "Description": "Short for \"intelligence\", as in \"gathered information\". Pressing this button will open up a text box with information about the game campaign. Do not remove the \"://\" or the underscore (\"_\").",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "://Intel_",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.IntelHeader",
+  "internalEnabled": true,
+  "persistentID": 36
+}

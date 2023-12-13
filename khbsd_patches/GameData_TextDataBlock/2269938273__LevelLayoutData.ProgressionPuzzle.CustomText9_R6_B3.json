@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door is connected to an unstable power source. High risk of operation failure. </color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: la porte est connectée à une source d'alimentation instable. Risque de dysfonctionnement élevé. </color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: la porta è collegata a una fonte di alimentazione instabile. Elevato rischio di guasto operativo. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Die Tür ist an eine instabile Stromquelle angeschlossen. Hohes Risiko eines Betriebsausfalls.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta conectada a una fuente de energía inestable. Alto riesgo de error de funcionamiento. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Дверь подключена к нестабильному источнику питания. Высока вероятность сбоя</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta conectada com uma fonte de energia instável. Alto risco de falha na operação. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Drzwi są podłączone do niestabilnego źródła zasilania. Znaczne ryzyko wystąpienia awarii. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアの電力源が不安定。動作不良の危険高し。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 불안정한 전력 공급원에 연결되어 있습니다. 작동이 중지될 위험이 큽니다. </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門連接到不穩定的電源。有高風險會操作失敗。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门所连接的电源不稳定。运行失败风险较高。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText9_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 2269938273
+}

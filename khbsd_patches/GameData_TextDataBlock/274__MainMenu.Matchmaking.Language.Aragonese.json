@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aragonese",
+  "Description": "A language spoken in the Aragon region of Spain.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Aragonais",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aragonese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aragonesisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Aragonés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Арагонский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aragonês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aragoński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アラゴン語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아라곤어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "亞拉岡文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阿拉贡语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Aragonese",
+  "internalEnabled": true,
+  "persistentID": 274
+}

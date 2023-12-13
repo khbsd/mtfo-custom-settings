@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">...\r\n>...What's behind this big bulkhead door?\r\n>...Better leave it alone.\n<size=200%><color=red>>...yeah, you got a death wish?</color></size>\r",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">...\r\n>... Qu'est-ce qu'il y a derrière la grande porte à cloison\u00A0?\r\n>... Mieux vaut rester à l'écart.\n<size=200%><color=red>>... Ouais, t'es du genre suicidaire\u00A0?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...\r\n>...Cosa c'è dietro questa grande porta stagna?\r\n>...meglio lasciar perdere.\n<size=200%><color=red>>...già, hai voglia di morire?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">…\r\n>… Was ist hinter dieser großen Schotttür? [BULKHEAD_DOOR]\r\n>>… Sieh lieber nicht nach.\n<size=200%><color=red>>… Ja, sehnst du dich nach dem Tod?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">...\r\n>¿Qué hay tras esta puerta de contención tan grande?\r\n>Será mejor dejarla tal y como está.\n<size=200%><color=red>>¿Tienes ganas de morir?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...\r\n>...Что за этими огромными воротами?\r\n>...Лучше туда не соваться.\n<size=200%><color=red>>...Ага. Ты же не хочешь сдохнуть?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">...\r\n>...O que tem atrás dessa grande porta protetora?\r\n>...Melhor não mexer com isso.\n<size=200%><color=red>>...verdade, está querendo morrer?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...\r\n>...Co jest za tą wielką grodzią?\r\n>...Lepiej jej nie ruszaj.\n<size=200%><color=red>>...Właśnie, tak bardzo chcesz umrzeć?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">...\r\n>...このデカい遮断壁の向こうには何がある？\r\n>...放っておいたほうがいい。\n<size=200%><color=red>>...ああ、自殺願望はあるか？</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">...\r\n>...이 큰 격벽 문 뒤에 뭐가 있는 거지?\r\n>...건드리지 않는 게 좋아.\n<size=200%><color=red>>...그래, 죽고 싶어 환장했어?</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…\r\n>…這扇大型艙門[BULKHEAD_DOOR]後面到底有什麼？\r\n>…最好放著別管。\n<size=200%><color=red>>…沒錯，你想找死嗎？</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">...\r\n>...这扇大舱壁门后面是什么？\r\n>...最好别管它。\n<size=200%><color=red>>...嗯，你有遗愿吗？</color></size>\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown004_A1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3986256297
+}

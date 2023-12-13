@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "No one can use voice",
+  "Description": "A voice chat setting where the user indicates that they want none of the players in the team to use voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chat vocal interdit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nessuno può usare la voce",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Keiner nutzt ein Mikrofon",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Nadie puede usar el chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Никто не использует голосовой чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ninguém pode usar voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nikt nie może używać głosu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット使用不可",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아무도 음성을 사용할 수 없습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "沒有人可以使用語音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "禁止全员使用语音",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.NoOneCanUseVoice",
+  "internalEnabled": true,
+  "persistentID": 263
+}

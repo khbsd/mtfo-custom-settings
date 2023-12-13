@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//:End of subsurface transmission",
+  "Description": "The footer of a message displayed in the elevator ride. Similar to the Warden message. This is displayed in the HUD.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "//:Fin de transmission souterraine",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//:Fine trasmissione sotterranea",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//:Ende der Übertragung aus dem Untergrund",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//:Fin de transmisión de subsuperficie",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//:Конец подземной передачи",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//:Fim da transmissão de subsuperfície",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//:Zakończenie transmisji podpowierzchniowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//:地表下の通信終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//:지상인 통신 종료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//:地下傳輸結束",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//:地下传输结束",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.EndOfSubsurfaceTransmission",
+  "internalEnabled": true,
+  "persistentID": 1066
+}

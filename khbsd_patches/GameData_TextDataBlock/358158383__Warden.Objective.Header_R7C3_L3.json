@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Corrupted Uplink",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Liaison montante corrompue",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Uplink danneggiato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fehlerhafter Uplink",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uplink dañado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поврежденное подключение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uplink corrompido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uszkodzone łącze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "破損したアップリンク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "손상된 업링크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "損壞的上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "受损上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.Header_R7C3_L3",
+  "internalEnabled": true,
+  "persistentID": 358158383
+}

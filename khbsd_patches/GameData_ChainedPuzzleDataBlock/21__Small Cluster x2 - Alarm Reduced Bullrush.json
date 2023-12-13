@@ -1,0 +1,25 @@
+{
+  "PublicAlarmName": "Class II Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 5,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 4
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Small Cluster x2 - Alarm Reduced Bullrush",
+  "internalEnabled": true,
+  "persistentID": 21
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HUD Opacity",
+  "Description": "A game setting that controls the opacity of the game's HUD.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Opacité de l'affichage tête haute",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Opacità HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HUD-Transparenz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Opacidad de la interfaz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прозрачность HUD",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Opacidade de interface",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przezroczystość interfejsu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD不透明度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD 불투명도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抬頭顯示器不透明度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "平视显示不透明度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDOpacity",
+  "internalEnabled": true,
+  "persistentID": 116
+}

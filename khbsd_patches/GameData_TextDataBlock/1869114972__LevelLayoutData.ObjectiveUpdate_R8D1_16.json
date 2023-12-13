@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_9] restricted. Override lockdown from terminal in [ZONE_4]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_9] verrouillée. Annulez le protocole de verrouillage via le terminal de la [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_9] riservata. Superare il blocco dal terminale in [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_9] verriegelt. Überschreiben Sie das Verriegelungsprotokoll am Terminal in [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta a la [ZONE_9] restringida. Anular cierre de emergencia del terminal de la [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ограниченный доступ к двери в [ZONE_9]. Отмените режим изоляции с помощью терминала в [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_9] restrita. Substituir confinamento pelo terminal na [ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 9 [ZONE_9] zamknięte. Obejdź blokadę w terminalu w strefie 4 [ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_9]へのドアは制限されている。[ZONE_4]の端末からロックダウンをオーバーライドせよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_9] 문이 잠겼습니다. [ZONE_4] 터미널에서 폐쇄를 해제하세요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_9]的門受到管制。從[ZONE_4]的終端覆蓋封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往[ZONE_9]的门受限。从[ZONE_4]中的终端覆盖封锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_16",
+  "internalEnabled": true,
+  "persistentID": 1869114972
+}

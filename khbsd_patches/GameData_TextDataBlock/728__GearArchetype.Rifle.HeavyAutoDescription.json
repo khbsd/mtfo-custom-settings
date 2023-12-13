@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nMedium to long range\nLow firerate\n",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nMoyenne à longue portée\nFaible cadence de tir\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nGittata da media a lunga\nScarsa cadenza di tiro\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nMittlere bis große Reichweite\nNiedrige Feuerrate\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automático\nMedio a largo alcance\nCadencia de tiro baja\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nСредняя или большая дальность\nНизкая скорострельность\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automático\nMédio a longo alcance\nBaixa cadência de tiros\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nŚredni i długi dystans\nNiska szybkostrzelność\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n中距離から長距離\n連射が遅い\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n중장거리\n느린 발사 속도\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n中長程\n低射速\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n中到远程\n低射速\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.HeavyAutoDescription",
+  "internalEnabled": true,
+  "persistentID": 728
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Local generator E-530 redirect request approved..",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Demande de réacheminement du générateur local E-530 approuvée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta di deviazione generatore locale E-530 approvata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Umleitungsanfrage für lokalen Generator E-530 genehmigt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Solicitud de redirección del generador local E-530 aceptada...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Одобрен запрос на перенаправление питания локального генератора E-530.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Solicitação de redirecionamento do gerador local E-530 aprovada..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Żądanie przekierowania lokalnego generatora E-530 zatwierdzone...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカル発電機E-530の送電先変更リクエストが承認された...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로컬 발전기 E-530 경로 재설정 요청 승인됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "本地發電機E-530重新定向要求已批准……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "本地发电机E-530重定向需求已批准……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.R8E1.PostCommandOutput",
+  "internalEnabled": true,
+  "persistentID": 166463012
+}

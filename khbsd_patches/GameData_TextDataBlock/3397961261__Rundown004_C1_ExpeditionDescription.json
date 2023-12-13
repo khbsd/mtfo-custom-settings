@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "nFrame checksum error. Prisoners allocated Data Spheres to salvage nFrame data from cache. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Erreur de checksum nFrame. Sphères de données allouées aux prisonniers pour récupérer les données nFrame du cache. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore di checksum nFrame. I prigionieri hanno assegnato le Sfere dati per recuperare i dati nFrame dal nascondiglio. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Prüfsummenfehler im nFrame. Den Gefangenen wurden Datenkugeln zugewiesen, um die nFrame-Daten aus dem Versteck zu holen. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error de suma de verificación del sistema neural [nFrame]. Los prisioneros han encontrado esferas de datos para rescatar los datos del sistema neural [nFrame] del escondite. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка контрольного показателя нейронного терминала. Заключенные нашли сферы для сбора данных из резерва нейронного терминала. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro de soma de verificação de nFrame. Prisioneiros alocados em esferas de dados para preservar dados do nFrame do cache. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd sumy kontrolnej układu neuronowego. Więźniom przypisano sfery danych w celu wydobycia danych układu ze skrytki. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "nフレームチェックサムエラー。キャッシュからnフレームデータをサルベージするために囚人をデータスフィアに配分した。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "n프레임 검사합 오류. 수감자들은 캐시에서 n프레임 데이터를 회수하기 위해 데이터 스피어를 할당했습니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "nFrame總和檢查碼錯誤。已分配資料球給囚犯，用於回收藏身處中的nFrame殘餘資料。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "神经框架[nFrame]校验和错误。囚犯分配数据球以从藏匿处回收神经框架[nFrame]数据。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown004_C1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 3397961261
+}

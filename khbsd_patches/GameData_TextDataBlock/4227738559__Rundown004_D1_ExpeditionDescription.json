@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power grid manager reports system errors in primary reactor. Prisoners dispatched to execute quadrant generator reboot. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Plusieurs erreurs système détectées dans le gestionnaire du réacteur principal. Les prisonniers sont chargés de procéder au redémarrage du générateur du quadrant. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il gestore della rete elettrica segnala errori di sistema nel reattore primario. Prigionieri inviati per eseguire il riavvio del generatore di quadranti. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stromnetzmanager meldet Systemfehler im Primärreaktor. Gefangene entsandt, um einen Neustart des Quadrantengenerators auszuführen. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El administrador de la red eléctrica informa de errores del sistema en el reactor principal. Prisioneros enviados para reiniciar el generador del cuadrante. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система управления электросетью обнаружила ошибки в главном реакторе. Заключенным приказано перезагрузить генератор сектора. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O gerenciador de rede elétrica relata erros de sistema no reator primário. Prisioneiros despachados para executar reinicialização do gerador do quadrante. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Administrator sieci energetycznej zgłasza błędy systemowe w generatorze podstawowym. Wysłano więźniów w celu ponownego uruchomienia generatora kwadrantu. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電力系統マネジャーから主リアクターのシステムエラー報告。四分円発電機の再起動実行のために囚人を派遣した。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력망 관리자가 주요 반응로에서 시스템 오류를 보고합니다. 사분면 발전기 재부팅을 위해 수감자들이 파견되었습니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "根據電網管理系統回報，主反應器發生系統錯誤。已派遣囚犯前往重新啟動象限發電機。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电网管理程序报告主要反应堆系统错误。囚犯派去执行象限发电机重启。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown004_D1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 4227738559
+}

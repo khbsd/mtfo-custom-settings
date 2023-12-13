@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} to Type, {1} Hold to Talk, {2} for Map, {3} for Coms",
+  "Description": "This is a helper text for the in-game chat. \"{0}\" represents the designated key for starting to type chat messages.  \"{1}\" represents the designated key for starting to speak over voice chat. \n\"{2}\" represents the designated key for showing the in game map,  \"{3}\" represents the designated key for showing a Communications menu. \n\nComs is short for Communications",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} pour écrire, {1} (maintenir) pour parler, {2} pour ouvrir la carte, {3} pour communiquer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} per digitare, {1} mantieni per parlare, {2} per mappa, {3} per comunicare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} zum Tippen, {1} halten zum Sprechen, {2} für die Karte, {3} für die Kommandoliste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} para escribir, mantén pulsado {1} para hablar, {2} para mapa, {3} para comunicarse",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0}, чтобы написать; удерживайте {1}, чтобы сказать; {2}\u00A0— карта; {3}\u00A0— команды",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} para digitar, {1} segure para falar, {2} para o mapa, {3} para as frases",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij {0}, aby pisać; Przytrzymaj {1}, aby mówić; Mapa {2}; Komunikaty {3}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} でタイプ、 {1} 長押しで通話、 {2} でマップ、 {3} で定型文",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}: 입력, {1}: 길게 눌러 말하기, {2}: 맵, {3}: 통신",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}打字，{1}按住可說話，{2}顯示地圖，{3}顯示通訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0} - 打字，{1} - 按住说话，{2} - 地图，{3} - 通讯",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GameEventLog.A_Type_B_Talk_C_Map_D_Comms",
+  "internalEnabled": true,
+  "persistentID": 1392
+}

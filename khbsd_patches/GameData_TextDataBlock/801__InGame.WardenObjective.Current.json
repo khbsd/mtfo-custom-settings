@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[CURRENT]",
+  "Description": "Below the \"objectives\" headline, which lists the mission objectives, this text string is shown beside the current objective to indicate that it should be a priority for the player(s).",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[ACTUEL]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[ATTUALE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[AKTUELL]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[ACTUAL]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ТЕКУЩАЯ]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[ATUAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[BIEŻĄCE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[選択中]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[현재]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[目前]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[当前]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.Current",
+  "internalEnabled": true,
+  "persistentID": 801
+}

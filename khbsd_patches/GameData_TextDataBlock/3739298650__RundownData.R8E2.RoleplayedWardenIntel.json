@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">... [alarm echoing] \r\n>... <color=red><size=200%>Evacuate immediately.</size></color> This is not a drill. \r\n>... [static] ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... [bruits d'alarme]\r\n>... <color=red><size=200%>Évacuez immédiatement.</size></color> Ceci n'est pas un exercice. \r\n>... [parasites radio] ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">… [eco dell'allarme] \r\n>… <color=red><size=200%>Evacuare immediatamente.</size></color> Questa non è un'esercitazione. \r\n>… [statica] ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… [Alarm hallt wider] \r\n>… <color=red><size=200%>Sofort evakuieren.</size></color> Dies ist keine Übung. \r\n>… [Rauschen] ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> [alarma sonando] \r\n>... <color=red><size=200%>La evacuación debe ser inmediata.</size></color> No es un simulacro.. \r\n>... [interferencias] ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...[сигнал тревоги]\r\n>...<color=red><size=200%>Немедленно эвакуируйтесь.</size></color> Это не учебная тревога.\r\n>...[помехи] ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">... [alarme ecoando] \r\n>... <color=red><size=200%>Evacuem imediatamente.</size></color> Isto não é um teste. \r\n>... [estática] ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">... [wycie alarmu] \r\n>... <color=red><size=200%>Natychmiast się ewakuować.</size></color> To nie jest ćwiczenie. \r\n>... [szum] ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">... [警報が鳴り響く] \r\n>... <color=red><size=200%>今すぐ避難せよ。</size></color>これは訓練ではない。\r\n>... [雑音] ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">... [경보 울림] \r\n>... <color=red><size=200%>즉시 대피하십시오.</size></color> 이것은 훈련이 아닙니다.. \r\n>... [정적] ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">... [警報聲迴繞] \r\n>... <color=red><size=200%>立即撤離。</size></color>這不是演習。\r\n>... [雜音] ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">... [警报回响声] \r\n>... <color=red><size=200%>立即撤离。</size></color>这不是演习。\r\n>... [杂音] ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "RundownData.R8E2.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3739298650
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>#ER02://<br>OVERLOAD</color>",
+  "Description": "Overload is the hardest objectives in the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>#ER02://<br>SURCHARGE</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>#ER02://<br>SOVRACCARICO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>#ER02://<br>HERAUSFORDERUNG</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>#ER02://<br>SOBRECARGA</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>#ОШИБ02://<br>ПЕРЕГРУЗКА</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>#ER02://<br>SOBRECARGA</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>#BŁ02://<br>NADMIAROWY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>#エラー02://<br>オーバーロード</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>#ER02://<br>고위험</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>#ER02://<br>超載</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>#ER02://<br>附加</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.ExpeditionSectorIcon.Overload",
+  "internalEnabled": true,
+  "persistentID": 2210002064
+}

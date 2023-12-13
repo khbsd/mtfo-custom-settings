@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather Data Cubes.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez les cubes de données [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere i cubi di dati [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Datenwürfel [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila cubos de datos [DATA CUBE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите кубы данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete cubos de dados [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz kostki danych [DATA_CUBES].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]を集めろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 수집.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集資料方塊[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集数据立方[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData_Gather_3_Data_Cubes_R8B1_MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 365974442
+}

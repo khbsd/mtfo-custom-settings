@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate Influx Protocol using the special command [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez le protocole d'afflux avec la commande spéciale [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviare il protocollo di afflusso utilizzando il comando speciale [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie das Zustromprotokoll mit dem speziellen Befehl [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciar protocolo de afluencia con el comando especial [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите протокол подачи с помощью особой команды [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie o Protocolo de Influxo usando o comando especial [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom protokół dopływu za pomocą specjalnego polecenia [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特殊コマンド[SPECIAL_COMMAND]を使用し、Influxプロトコルを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[SPECIAL_COMMAND] 특수 명령을 사용해 유입 프로토콜 실시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用特殊指令[SPECIAL_COMMAND]啟動流入協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用特殊命令[SPECIAL_COMMAND]发起流入协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R5E1.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 3161505032
+}

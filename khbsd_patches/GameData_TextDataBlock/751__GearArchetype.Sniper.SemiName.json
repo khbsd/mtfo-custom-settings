@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sniper",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sniper",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile di precisione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scharfschützengewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de francotirador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Снайперская винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sniper",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin snajperski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スナイパー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "저격 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "狙擊槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "狙击枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Sniper.SemiName",
+  "internalEnabled": true,
+  "persistentID": 751
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0}'s Boosters",
+  "Description": "Boosters are performance enhancing drugs that the players can choose to inject into their PC to gain various advantages/perks in the game. The drugs \"boost\" the PC's abilities, hence the name \"boosters\". This text string is put right after a player's name (it will be put in place of the \"{0}\"), which is why it starts with an apostrophe, in order to turn it into the possessive form of the player's name.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Boosters de {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Potenziamento di {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Booster von {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Potenciadores de {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилители игрока {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Impulsos de {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – wzmacniacze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}のブースター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}의 부스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}的強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}的强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Player_X_Boosters",
+  "internalEnabled": true,
+  "persistentID": 484
+}

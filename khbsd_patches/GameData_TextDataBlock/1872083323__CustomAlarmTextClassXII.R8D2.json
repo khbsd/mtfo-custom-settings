@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "START SECURITY SCAN SEQUENCE <color=red>[WARNING:CLASS XII ALARM \nDETECTED]</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉMARRER LA SÉQUENCE D'ANALYSE DE SÉCURITÉ <color=red>[ALERTE\u00A0: ALARME DE CLASSE\u00A0XII \nDÉTECTÉE]</color> ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIARE SEQUENZA SCANSIONE DI SICUREZZA <color=red>[ATTENZIONE: ALLARME CLASSE XII \nRILEVATO]</color> ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN-SEQUENZ STARTEN <color=red>[WARNUNG: ALARM DER KLASSE\u00A0XII \nERKANNT]</color> ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIAR SECUENCIA DE ESCÁNER DE SEGURIDAD <color=red>[ADVERTENCIA: ALARMA DE CLASE XII \nDETECTADA]</color> ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ ПРОВЕРКУ БЕЗОПАСНОСТИ <color=red>[ВНИМАНИЕ! ОБНАРУЖЕН СИГНАЛ ТРЕВОГИ\nКЛАССА XII]</color> ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIAR SEQUÊNCIA DE ESCANEAMENTO DE SEGURANÇA <color=red>[AVISO: ALARME CLASSE XII \nDETECTADO]</color> ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ROZPOCZNIJ SEKWENCJĘ SKANOWANIA BEZPIECZEŃSTWA <color=red>[OSTRZEŻENIE WYKRYTO ALARM \nKLASY XII]</color> ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンシークエンスを開始<color=red>[警告：クラスXII警報\n検出]</color> ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 절차 시작 <color=red>[경고:클래스 XII 경보 \n탐지됨]</color> ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動安全掃描序列<color=red>[警告：偵測到\nXII級警報]</color> ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始安全扫描序列<color=red>[警告：检测到\nXII级警报]</color> ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "CustomAlarmTextClassXII.R8D2",
+  "internalEnabled": true,
+  "persistentID": 1872083323
+}

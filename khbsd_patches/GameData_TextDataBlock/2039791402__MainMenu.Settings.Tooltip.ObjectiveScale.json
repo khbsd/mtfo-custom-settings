@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the size of the objective",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la taille de l'objectif.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla le dimensioni dell'obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Größe des Ziels.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el tamaño del objetivo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует размер цели.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o tamanho dos objetivos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za rozmiar celu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標のサイズを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制目標大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制目标界面的大小。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.ObjectiveScale",
+  "internalEnabled": true,
+  "persistentID": 2039791402
+}

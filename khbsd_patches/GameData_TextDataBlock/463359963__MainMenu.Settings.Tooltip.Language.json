@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The language the menu should be localized to.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit la langue du jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La lingua in cui deve essere tradotto il menu.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Sprache, in der das Spiel lokalisiert werden soll.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El idioma en que se debería mostrar el menú.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Язык игры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O idioma do menu deveria ser localizado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Język menu powinien też ulec zmianie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニューを表示する言語。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴 현지화 언어입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選單的語言版本。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "菜单文字显示语言。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.Language",
+  "internalEnabled": true,
+  "persistentID": 463359963
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CHANGE EXPEDITION",
+  "Description": "A button the host can press to keep the lobby (with any players who have already joined) but change what expedition (mission) they will play.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "MODIFIER L'EXPÉDITION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CAMBIA SPEDIZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXPEDITION ÄNDERN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAMBIAR EXPEDICIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СМЕНИТЬ ЭКСПЕДИЦИЮ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TROCAR EXPEDIÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZMIEŃ EKSPEDYCJĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションを変更",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사 변경",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "更改遠征",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "更改任务",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ChangeExpeditionButton",
+  "internalEnabled": true,
+  "persistentID": 33
+}

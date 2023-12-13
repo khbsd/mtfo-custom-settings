@@ -1,0 +1,195 @@
+{
+  "officialForRelease": false,
+  "publicName": "[AT] Van Auken Arms [TP] [SP]",
+  "baseItemID": 11,
+  "weaponPersonalityID": 2,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 86,
+      "partName": "SMG_UMP_Grip"
+    },
+    {
+      "allowed": true,
+      "ID": 90,
+      "partName": "SMG_MP5_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [
+    {
+      "allowed": true,
+      "ID": 88,
+      "partName": "SMG_UMP_Stock"
+    },
+    {
+      "allowed": true,
+      "ID": 92,
+      "partName": "SMG_MP5_Stock"
+    }
+  ],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 89,
+      "partName": "SMG_MP5_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 85,
+      "partName": "SMG_UMP_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 87,
+      "partName": "SMG_UMP_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 91,
+      "partName": "SMG_MP5_Receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 93,
+      "partName": "CoilParts_SMGReceiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 17,
+      "partName": "Tool_M9_Flashlight"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    },
+    {
+      "allowed": true,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 52,
+      "partName": "WPN_NavTech_Sight"
+    },
+    {
+      "allowed": true,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    },
+    {
+      "allowed": true,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 113,
+      "partName": "Grip_Angled_a"
+    },
+    {
+      "allowed": true,
+      "ID": 114,
+      "partName": "Grip_Straight_a"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": true,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": true,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": true,
+      "ID": 107,
+      "partName": "muzzle_c"
+    },
+    {
+      "allowed": true,
+      "ID": 109,
+      "partName": "muzzle_d"
+    },
+    {
+      "allowed": true,
+      "ID": 110,
+      "partName": "muzzle_e"
+    },
+    {
+      "allowed": true,
+      "ID": 111,
+      "partName": "muzzle_f"
+    },
+    {
+      "allowed": false,
+      "ID": 112,
+      "partName": "muzzle_silencer_a"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Special_UMP",
+  "internalEnabled": true,
+  "persistentID": 109
+}

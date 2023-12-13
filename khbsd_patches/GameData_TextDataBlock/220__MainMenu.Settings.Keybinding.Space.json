@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Space",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Espace",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spazio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leertaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Barra espaciadora",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пробел",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espaço",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Spacja",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スペース",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스페이스바",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空格鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空格键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Space",
+  "internalEnabled": true,
+  "persistentID": 220
+}

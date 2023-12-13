@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Auto Pistol Damge",
+  "Description": "I.e. how much damage you can deal with an auto pistol.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de pistolet auto",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da pistola autom.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Autopistole-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de pistola automática",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (самозарядный пистолет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de pistola automática",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od pistoletu automatycznego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オートピストルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자동 권총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "自動手槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "自动手枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.AutoPistolDamageName",
+  "internalEnabled": true,
+  "persistentID": 549
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Medium",
+  "Description": "A text string indicating that a particular game setting is set to \"medium\". It could, for example, refer to \"shadow resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Moyen",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Medio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mittel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Medio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Средн.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Médio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Śr.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보통",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Medium",
+  "internalEnabled": true,
+  "persistentID": 170
+}

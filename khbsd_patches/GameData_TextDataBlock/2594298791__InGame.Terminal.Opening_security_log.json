@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Opening security log...",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Ouverture du journal de sécurité...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apertura registro di sicurezza...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsprotokoll wird geöffnet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abriendo registro de seguridad...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открытие журнала безопасности...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrindo registro de segurança...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwieranie dziennika zabezpieczeń...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティログを展開中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 로그 여는 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在開啟安全日誌……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在打开安全日志……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Opening_security_log",
+  "internalEnabled": true,
+  "persistentID": 2594298791
+}

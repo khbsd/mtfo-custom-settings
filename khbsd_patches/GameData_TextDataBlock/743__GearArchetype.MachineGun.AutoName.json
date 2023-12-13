@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machinegun",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mitrailleuse",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mitragliatrice",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinengewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Metralleta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пулемет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Metralhadora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin maszynowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マシンガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기관총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "机关枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.AutoName",
+  "internalEnabled": true,
+  "persistentID": 743
+}

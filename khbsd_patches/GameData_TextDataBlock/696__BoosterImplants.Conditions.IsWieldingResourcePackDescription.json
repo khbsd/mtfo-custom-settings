@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must have a resource pack equipped for booster to be active.",
+  "Description": "A description of a condition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit avoir équipé un pack de ressources pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve avere una scorta risorse equipaggiata per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss ein Ressourcenpaket ausgerüstet haben, damit der Booster aktiv sein kann.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe tener equipado un pack de recursos para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, используя набор ресурсов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve ter um pacote de recursos equipado para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi mieć wyposażony pakiet zasobów, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象はリソースパック装備中のみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터를 활성화하려면 대상이 자원 팩을 장비해야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須配備一個資源包才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者必须已装备上资源包，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingResourcePackDescription",
+  "internalEnabled": true,
+  "persistentID": 696
+}

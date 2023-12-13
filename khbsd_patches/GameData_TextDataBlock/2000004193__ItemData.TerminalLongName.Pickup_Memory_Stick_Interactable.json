@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Memory Stick",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Carte mémoire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scheda di memoria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Memorystick",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pendrive",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Карта памяти",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cartão de memória",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nośnik pamięci",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メモリスティック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메모리 스틱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "記憶卡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "记忆棒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Pickup_Memory_Stick_Interactable",
+  "internalEnabled": true,
+  "persistentID": 2000004193
+}

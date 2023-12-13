@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Intel",
+  "Description": "A headline for game settings related to the HUD intel info.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Renseignements",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Info",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Informationen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Información",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Данные",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Informações",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "情報",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "情報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "情报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Intel",
+  "internalEnabled": true,
+  "persistentID": 128
+}

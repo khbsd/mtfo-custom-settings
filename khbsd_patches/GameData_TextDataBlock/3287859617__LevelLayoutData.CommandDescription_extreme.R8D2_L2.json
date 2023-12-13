@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Depollution of contaminated air - 99%.  <color=red>WARNING: Requires Class S IX bio-scan. Alarm: 105 dB</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Purification de l'air contaminé - 99\u00A0%. <color=red>AVERTISSEMENT\u00A0: bioscan de classe\u00A0S\u00A0IX requis. Alarme\u00A0: 105\u00A0dB.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bonifica aria contaminata - 99%. <color=red>ATTENZIONE: richiede bio-scansione di Classe IX. Allarme: 105 dB</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Entgiftung der kontaminierten Luft\u00A0– 99\u00A0%. <color=red>WARNUNG: Erfordert Bioscan der Klasse\u00A0S\u00A0IX. Alarm: 105\u00A0dB</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descontaminación de aire nocivo: 99\u00A0%. <color=red>ADVERTENCIA: Necesita un bioescáner de clase IX. Alarma: 105 dB</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очистка загрязненного воздуха: 99%. <color=red>ВНИМАНИЕ! Требуется биосканирование класса S IX. Сигнал тревоги: 105 дБ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Despoluição do ar contaminado - 99%. <color=red>AVISO: Requer bioescâner de Classe S IX. Alarme: 105 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poziom oczyszczenia skażonego powietrza – 99%. <color=red>OSTRZEŻENIE: wymaga bioskanowania klasy S IX. Alarm: 105 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "汚染空気の除去 ― 99%。<color=red>警告：クラスS IXのバイオスキャンが必要。警報：105 デシベル</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오염 공기 정화 - 99%. <color=red>경고: 클래스 IX 바이오스캔 필요. 경보: 105dB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "淨化汙染空氣 - 99%。<color=red>警告：需要S IX級生物掃描。警報：105 dB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "净化污染空气 - 99%。<color=red>警告：需要S IX级生物扫描。警报：105 dB</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "LevelLayoutData.CommandDescription_extreme.R8D2_L2",
+  "internalEnabled": true,
+  "persistentID": 3287859617
+}

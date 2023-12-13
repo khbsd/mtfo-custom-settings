@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mongolian",
+  "Description": "A language spoken on the Mongolian Plateau.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mongol",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mongolo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mongolisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mongol",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Монгольский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mongol",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mongolski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "モンゴル語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "몽고어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "蒙文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蒙古语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Mongolian",
+  "internalEnabled": true,
+  "persistentID": 374
+}

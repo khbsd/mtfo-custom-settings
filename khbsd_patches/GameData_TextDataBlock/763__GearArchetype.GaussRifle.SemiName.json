@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Rifle",
+  "Description": "A firearm category. \"HEL\" stands for \"Hybrid Electrothermal Light-gas\", which is the propulsion system that launches the weapon's projectiles.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Винтовка HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 라이플",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.GaussRifle.SemiName",
+  "internalEnabled": true,
+  "persistentID": 763
+}

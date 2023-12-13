@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Alt",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alt droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alt destro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechte Alt-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alt Der",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая клавиша Alt",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alt direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy Alt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右Alt",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 Alt",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右Alt",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右Alt键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.RightAlt",
+  "internalEnabled": true,
+  "persistentID": 200
+}

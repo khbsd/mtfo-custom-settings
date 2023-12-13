@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sneaking",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Discrétion",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Furtività",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Heimlichkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escabullirse",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действуем тихо",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Furtividade",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skradanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スニーキング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "은밀 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "暗中",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "偷摸",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Sneaking",
+  "internalEnabled": true,
+  "persistentID": 1273
+}

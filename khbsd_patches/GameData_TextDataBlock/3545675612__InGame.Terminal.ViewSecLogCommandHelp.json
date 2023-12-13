@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "View the security log of this device",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche le journal de sécurité de cet appareil.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Visualizza il registro di sicurezza di questo dispositivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsprotokoll des Geräts anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ver el registro de seguridad de este dispositivo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Посмотреть журнал безопасности на этом устройстве",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Veja o registro de segurança deste dispositivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetl dziennik zabezpieczeń urządzenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このデバイスのセキュリティログを見る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 기기의 보안 로그 보기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "查看此裝置的安全日誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "查看此设备的安全日志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ViewSecLogCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3545675612
+}

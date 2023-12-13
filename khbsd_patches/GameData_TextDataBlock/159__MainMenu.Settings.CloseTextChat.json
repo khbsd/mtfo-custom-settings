@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Close Text Chat",
+  "Description": "Control key binding/mapping. This key closes/hides the text chat in the HUD.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fermer la fenêtre de texte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiudi chat testuale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Textchat schließen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cerrar chat de texto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Закрыть чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fechar chat de texto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zamknij czat tekstowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "テキストチャットを閉じる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "채팅 닫기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉文字聊天",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭文字聊天",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CloseTextChat",
+  "internalEnabled": true,
+  "persistentID": 159
+}

@@ -1,0 +1,26 @@
+{
+  "m_pauseBeforeStart": 1.0,
+  "m_pauseBetweenGroups": 1.0,
+  "m_wavePauseMin_atCost": 1.0,
+  "m_wavePauseMax_atCost": 8.0,
+  "m_wavePauseMin": 1.0,
+  "m_wavePauseMax": 25.0,
+  "m_populationFilter": [
+    3
+  ],
+  "m_filterType": 0,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 1.0,
+  "m_overrideWaveSpawnType": false,
+  "m_survivalWaveSpawnType": 0,
+  "m_populationPointsTotal": 3.0,
+  "m_populationPointsPerWaveStart": 3.0,
+  "m_populationPointsPerWaveEnd": 3.0,
+  "m_populationPointsMinPerGroup": 3.0,
+  "m_populationPointsPerGroupStart": 3.0,
+  "m_populationPointsPerGroupEnd": 3.0,
+  "m_populationRampOverTime": 0.0,
+  "name": "Finite 3 M",
+  "internalEnabled": true,
+  "persistentID": 55
+}

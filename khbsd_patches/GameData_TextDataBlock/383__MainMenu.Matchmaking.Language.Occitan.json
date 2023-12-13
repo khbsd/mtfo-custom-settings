@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Occitan",
+  "Description": "A language spoken in in the Cataolina region of Spain, France, Italy and Monaco.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Occitan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Occitano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Okzitanisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Occitano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Окситанский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Occitano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oksytański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オック語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "옥시탄어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "奧西坦文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "奥克语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Occitan",
+  "internalEnabled": true,
+  "persistentID": 383
+}

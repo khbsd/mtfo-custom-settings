@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UNCONNECTED ZONE\n[ NO DATA ]",
+  "Description": "[NO DATA] is not a code and should be localized.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ZONE NON CONNECTÉE\n[AUCUNE DONNÉE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ZONA NON CONNESSA\n[ NESSUN DATO ]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NICHT VERBUNDENE ZONE\n[KEINE DATEN]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ZONA SIN CONECTAR\n[SIN DATOS]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕПОДКЛЮЧЕННАЯ ЗОНА\n[НЕТ ДАННЫХ]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ZONE NÃO CONECTADA\n[ SEM DADOS ]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NIEPOŁĄCZONA STREFA\nBRAK DANYCH [ NO DATA ]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "未接続ゾーン\n[ データなし ]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "미연결 구역\n[ 데이터 없음 ]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未連接區域\n[無資料]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未连接区域\n[无数据]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadController.UnconnectedZone",
+  "internalEnabled": true,
+  "persistentID": 2142418761
+}

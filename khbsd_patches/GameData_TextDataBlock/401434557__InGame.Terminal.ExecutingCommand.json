@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Executing command",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Exécution de la commande",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esecuzione comando",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Befehl wird ausgeführt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecutando comando",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выполнение команды",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Executando comando",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonywanie polecenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コマンドを実行中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명령 실행 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在執行指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在执行命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ExecutingCommand",
+  "internalEnabled": true,
+  "persistentID": 401434557
+}

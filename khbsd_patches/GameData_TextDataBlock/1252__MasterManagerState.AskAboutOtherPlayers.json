@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AskAboutOtherPlayers",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "InfosAutresJoueurs",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiedi degli altri giocatori",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NachAnderenSpielernFragen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pregunta por otros jugadores",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Узнать статус других игроков",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PerguntarSobreJogadores",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZapytajoInnychGraczy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "他プレイヤーについて尋ねる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다른플레이어에게질문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "詢問其他玩家",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "询问其他玩家",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.AskAboutOtherPlayers",
+  "internalEnabled": true,
+  "persistentID": 1252
+}

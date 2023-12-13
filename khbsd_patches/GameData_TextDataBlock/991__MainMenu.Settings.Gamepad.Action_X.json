@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Action {0}",
+  "Description": "A gamepad input. {0} is a number between 1 and 12.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Action {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Azione {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktion {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acción {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действие {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ação {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działanie {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アクション {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "액션 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "動作{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "操作{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Action_X",
+  "internalEnabled": true,
+  "persistentID": 991
+}

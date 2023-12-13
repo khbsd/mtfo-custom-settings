@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>ZONE 247</color> opened",
+  "Description": "Don't localize ZONE 247.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Porte vers la <color=orange>ZONE\u00A0247</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>ZONE 247</color> aperta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>ZONE 247</color> geöffnet.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la <color=orange>ZONE 247</color> está abierta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в <color=orange>ZONE 247</color> открыта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>ZONE 247</color> aberta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 247 [ZONE_247]</color> otwarte",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 247</color> へのドアが開いた",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 247</color> 문 열림",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>ZONE 247</color>的門已開啟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 247</color>门已打开",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText9_C2",
+  "internalEnabled": true,
+  "persistentID": 1418
+}

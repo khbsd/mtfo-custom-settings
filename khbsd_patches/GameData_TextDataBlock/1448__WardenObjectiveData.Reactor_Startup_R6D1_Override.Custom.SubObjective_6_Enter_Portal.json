@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Secure the <color=orange>MATTER_WAVE_PROJECTOR</color> to the Mounting Platform.",
+  "Description": "Don't localize MATTER_WAVE_PROJECTOR",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Fixez le <color=orange>MATTER_WAVE_PROJECTOR</color> à la plateforme de montage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fissare <color=orange>MATTER_WAVE_PROJECTOR</color> a piattaforma di montaggio.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Befestigen Sie den <color=orange>MATTER_WAVE_PROJECTOR</color> an der Montageplattform.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Asegura el <color=orange>MATTER_WAVE_PROJECTOR</color> a la plataforma de ensamblaje.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите <color=orange>MATTER_WAVE_PROJECTOR</color> на крепежной площадке.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Proteja o <color=orange>MATTER_WAVE_PROJECTOR</color> até a plataforma de fixação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przymocuj <color=orange>projektor fal materii [MATTER_WAVE_PROJECTOR]</color> do platformy montażowej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>MATTER_WAVE_PROJECTOR</color> をマウンティングプラットフォームに確保。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>MATTER_WAVE_PROJECTOR</color>를 마운팅 플랫폼으로 이동.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<color=orange>MATTER_WAVE_PROJECTOR</color>固定到安裝平台。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<color=orange>MATTER_WAVE_PROJECTOR</color>固定到安装平台上。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_6_Enter_Portal",
+  "internalEnabled": true,
+  "persistentID": 1448
+}

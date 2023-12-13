@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "\rPower out in section B1. Reactor to be brought online at any cost of prisoners.\r\n",
+  "Description": "Don't translate B1",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alimentation de secours activée dans le secteur\u00A0B1. Les prisonniers doivent redémarrer le réacteur. Nombreuses pertes à prévoir.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La sezione B1 registra solo l'alimentazione di emergenza. Prigionieri inviati a riavviare il reattore [reactor]. Previsti elevati danni collaterali.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sektion B1 registriert nur Notstromversorgung. Gefangene entsandt, um den Reaktor neu zu starten. Hohe Kollateralschäden erwartet.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Solo activar el encendido de emergencia de registro de la sección B1. Prisioneros destinados para reiniciar el reactor [reactor]. Se esperan daños colaterales elevados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В секции B1 работает только аварийный источник питания. Заключенным поручено перезапустить реактор. Ожидаются высокие сопутствующие потери.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seção B1 registrando apenas energia de emergência. Prisioneiros enviados para reinicializar o reator. Alto dano colateral esperado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W sekcji B1 zarejestrowano wyłącznie zasilanie awaryjne. Wysłano więźniów w celu ponownego uruchomienia reaktora. Spodziewana znaczna liczba ofiar.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セクションB1は緊急電源のみが稼働中。囚人がリアクター再起動のために派遣された。多くのコラテラルダメージが予想される。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹션 B1은 비상 전원만 등록. 반응로를 재부팅하기 위해 수감자 배치함. 높은 부수적 피해가 예상.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "B1區段僅分配緊急電源。已派遣囚犯前往重啟反應器。預計會造成高度連帶傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "B1区仅启用紧急电源。囚犯派去重启反应堆。预计附带损害高。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_A3_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1840875035
+}

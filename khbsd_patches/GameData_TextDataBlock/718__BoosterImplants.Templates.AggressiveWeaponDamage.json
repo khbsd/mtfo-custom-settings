@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ADROIT",
+  "Description": "The name of a category of boosters that has great effect on how much damage the subject can deal with firearms.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "HABILE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABILITÀ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GESCHICKT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRECISIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БРОНЕБОЙНОСТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ASTÚCIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZRĘCZNOŚĆ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アドロイド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "노련함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "敏捷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "威势",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.AggressiveWeaponDamage",
+  "internalEnabled": true,
+  "persistentID": 718
+}

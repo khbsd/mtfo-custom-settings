@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Infection resist.",
+  "Description": "Short for \"infection resistance\", i.e. how well you can withstand infection.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résistance à l'infection",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Resist. alle infezioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Infektions-Resistenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resistencia a infecciones",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Иммун. (инфекции)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resist. a infecção",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odporność na zakażenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "感染耐性",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염 저항력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "感染抵抗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "感染抗性",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InfectionResistanceName",
+  "internalEnabled": true,
+  "persistentID": 535
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert memorystick into Biocom-Mainframe.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérez la carte mémoire dans l’ordinateur central Biocom.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire la scheda di memoria nel Mainframe Biocom.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Setzen Sie den Memorystick in den Biocom-Hauptrechner ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta el pendrive en la unidad central de Biocom.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставьте карту памяти в центральный компьютер Biocom.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira o cartão de memória no Biocom-Mainframe.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włóż nośnik pamięci w systemie mainframe BIOCOM.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオコム・メインフレームにメモリースティックを挿入しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메모리 스틱을 Biocom 메인프레임에 삽입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將記憶卡插入Biocom主機電腦",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将记忆棒插入Biocom主机。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InteractionText.MainframeTrojan_R7D2",
+  "internalEnabled": true,
+  "persistentID": 1882645507
+}

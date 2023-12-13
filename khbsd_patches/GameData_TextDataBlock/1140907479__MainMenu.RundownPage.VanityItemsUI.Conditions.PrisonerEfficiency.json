@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ACHIEVE PRISONER EFFICIENCY",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OPTIMISER L'EFFICACITÉ DES PRISONNIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OTTIENI EFFICIENZA PRIGIONIERO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ERZIELEN SIE GEFANGENEN-EFFIZIENZ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "LOGRA EFICACIA DE PRISIONEROS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ДОСТИГНИТЕ ЭФФЕКТИВНОСТИ ЗАКЛЮЧЕННОГО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ATINJA A EFICIÊNCIA DO PRISIONEIRO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSIĄGNIJ EFEKTYWNOŚĆ WIĘŹNIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人の効率\nに到達",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 효율 달성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "獲得囚犯效率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "获得囚犯效率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.PrisonerEfficiency",
+  "internalEnabled": true,
+  "persistentID": 1140907479
+}

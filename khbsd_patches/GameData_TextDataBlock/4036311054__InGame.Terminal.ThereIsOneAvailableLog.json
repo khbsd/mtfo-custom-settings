@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "There is 1 available log in this terminal",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "1\u00A0journal disponible sur ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In questo terminale è disponibile 1 registro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "An diesem Terminal gibt es 1 verfügbares Protokoll",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "En este terminal hay 1 registro disponible.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доступных журналов на терминале: 1",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Há 1 registro disponível neste terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W terminalu dostępny jest 1 dziennik",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末には利用可能なログが1つあります",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 터미널의 사용 가능한 로그: 1개",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "此終端有1項可用日誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "本终端上有1份可用日志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.ThereIsOneAvailableLog",
+  "internalEnabled": true,
+  "persistentID": 4036311054
+}

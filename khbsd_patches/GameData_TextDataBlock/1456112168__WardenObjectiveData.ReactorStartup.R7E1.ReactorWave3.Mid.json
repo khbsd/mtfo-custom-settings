@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "D75_%oor to [ZONE_14] unl|-##|ocked",
+  "Description": "Door to [ZONE_14] unlocked",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "P75_%orte vers la [ZONE_14]dév|-##|verrouillée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "P75_%orta per [ZONE_14] sbl|-##|occata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "T75_%3ür zu [ZONE_14] entr|-##|iegelt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "P75_%uerta a [ZONE_14] ab|-##|ierta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Д75_%верь в [ZONE_14] откр|-##|ыта",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "P75_%orta para [ZONE_14] des|-##|trancada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "D75_%rzwi do strefy 14 [ZONE_14] odb|-##|okowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_14]へのド75_%アを開|-##|錠。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "D75_%[ZONE_14] 문이 잠겼l|-##|",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通住_%[ZONE_14]白勺門已|-##|角金肖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "D75_通往[ZONE_14]的%门已解|-##|锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.ReactorStartup.R7E1.ReactorWave3.Mid",
+  "internalEnabled": true,
+  "persistentID": 1456112168
+}

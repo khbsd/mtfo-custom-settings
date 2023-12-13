@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.7,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.5889147,
+        "g": 0.7075472,
+        "b": 0.4772606
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.4
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.6,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.3490566,
+        "g": 0.3490566,
+        "b": 0.205811679
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.6,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.6509804,
+        "g": 0.7137255,
+        "b": 0.545098066
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.589849532,
+        "g": 0.6415094,
+        "b": 0.396404415
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.1,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.35088107,
+        "g": 0.6799179,
+        "b": 0.8962264
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.5,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.653099537,
+        "g": 0.6981132,
+        "b": 0.510413
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    }
+  ],
+  "name": "camo_green",
+  "internalEnabled": true,
+  "persistentID": 48
+}

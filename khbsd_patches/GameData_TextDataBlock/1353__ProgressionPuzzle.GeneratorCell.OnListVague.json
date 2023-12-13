@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the <color=orange>QUERY</color> command on a terminal to access information about a specific cell. Then look for it in the specified zone.",
+  "Description": "Don't localize QUERY",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>QUERY</color> sur un terminal pour obtenir des informations sur une cellule spécifique, puis cherchez-la dans la zone spécifiée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando <color=orange>QUERY</color> su un terminale per accedere alle informazioni su una cella [CELL] particolare. Poi cercarla nella zona indicata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=orange>QUERY</color> an einem Terminal, um Informationen über eine bestimmte Zelle abzurufen. Suchen Sie dann in der angegebenen Zone nach ihr.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando <color=orange>QUERY</color> en una terminal para obtener información sobre una célula [CELL] en particular. Después, búscalo en la zona en particular.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>QUERY</color> на терминале, чтобы получить сведения о конкретной батарее. Затем найдите ее в указанной зоне.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando <color=orange>QUERY</color> em um terminal para acessar as informações sobre uma Cell específica. Depois, procure-o em uma ZONE específica.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>QUERY</color> w terminalu, aby uzyskać informacje o określonym ogniwie, a następnie znajdź je we właściwej strefie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末で <color=orange>QUERY</color> コマンドを使用し、特定のセルに関する情報にアクセスしろ。その後、指定されたゾーンでそれを探せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에서 <color=orange>QUERY</color> 명령을 사용해 특정 [CELL] 셀의 정보에 접근 후, 지정된 구역에서 찾기.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端使用<color=orange>QUERY</color>指令來存取關於特定電池的資訊。然後在指定的區域中尋找。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端上使用<color=orange>QUERY</color>命令访问关于特定电池[CELL]的信息，然后去指定区域寻找。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.GeneratorCell.OnListVague",
+  "internalEnabled": true,
+  "persistentID": 1353
+}

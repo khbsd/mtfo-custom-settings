@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Three round burst\nMedium range\nBalanced recoil",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rafale de trois balles\nMoyenne portée\nRecul équilibré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raffica a tre colpi\nGittata media\nRinculo equilibrato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "3-Schuss-Salve\nMittlere Reichweite\nAusgewogener Rückstoß",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disparo triple\nMedio alcance\nRetroceso equilibrado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очередь по три выстрела\nСредняя дальность\nУмеренная отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Disparo triplo\nMédio alcance\nRecuo equilibrado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Seria trzech pocisków\nŚredni dystans\nUmiarkowany odrzut",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "3点バースト\n中距離\nバランスの取れたリコイル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "3점사\n중거리\n안정된 반동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "三連發\n中程\n平衡後座力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "三连发\n中程\n后坐力中等",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 724
+}

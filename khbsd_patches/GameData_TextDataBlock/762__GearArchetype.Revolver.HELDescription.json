@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nShort to mid range\nOverpenetrating rounds",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nCourte à moyenne portée\nBalles ultra-pénétrantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata da breve a media\nColpi perforanti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nKurze bis mittlere Reichweite\nDurchschlagende Geschosse",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nCorto a medio alcance\nBalas superperforantes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nМалая или средняя дальность\nВысокая пробивная способность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomática\nCurto a médio alcance\nMunição altamente perfurante",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nKrótki i średni dystans\nPociski nadpenetrujące",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n近距離から中距離\n超貫通弾",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n중단거리\n고관통탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n中短程\n超穿彈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n近到中程\n过度穿透子弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Revolver.HELDescription",
+  "internalEnabled": true,
+  "persistentID": 762
+}

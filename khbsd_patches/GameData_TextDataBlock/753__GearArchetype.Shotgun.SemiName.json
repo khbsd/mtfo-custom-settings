@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shotgun",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à pompe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a pompa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дробовик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzelba",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "산탄총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.SemiName",
+  "internalEnabled": true,
+  "persistentID": 753
+}

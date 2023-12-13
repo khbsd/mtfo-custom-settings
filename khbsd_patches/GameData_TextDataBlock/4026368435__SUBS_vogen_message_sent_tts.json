@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[HEARSAY VOGEN DISPATCH]\r\nMessage Sent.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[TRANSMISSION VOGEN HEARSAY]\r\nMessage envoyé.\r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[DIFFUSIONE HEARSAY VOGEN]\r\nMessaggero inviato.\r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[VOGEN „HEARSAY“]\r\nNachricht gesendet.\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[ENVÍO DE HEARSAY DE VOGEN]\r\nMensaje enviado.\r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[СГЕНЕРИРОВАННЫЙ ГОЛОС]\r\nСообщение отправлено.\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[DESPACHO HEARSAY VOGEN]\r\nMensagem enviada.\r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[KOMUNIKAT VOGEN SYSTEMU HEARSAY]\r\nWiadomość wysłana.\r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Hearsay VoGenディスパッチ]\r\nメッセージを送信した。\r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[HEARSAY VOGEN 디스패치]\r\n메시지를 전송했습니다.\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[HEARSAY VOGEN密電]\r\n已傳送訊息。\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[HEARSAY VOGEN密电]\r\n信息已发送。\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "SUBS_vogen_message_sent_tts",
+  "internalEnabled": true,
+  "persistentID": 4026368435
+}

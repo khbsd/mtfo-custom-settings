@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Regen. speed",
+  "Description": "Regen. is short for \"health regeneration\", and \"speed\" represents speed at which the health regenerates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vitesse de régénération",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità rigen.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Regen.-Tempo",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad de regeneración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скор. реген.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade de regen.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość regeneracji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リジェネ速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "재생 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "恢復速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "恢复速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RegenerationSpeedName",
+  "internalEnabled": true,
+  "persistentID": 511
+}

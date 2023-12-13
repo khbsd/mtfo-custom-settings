@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Conduit genetic code compromised. Prisoners to collect DNA sample from HSU facility.",
+  "Description": "Don't localize HSU.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Code génétique du conduit compromis. Les prisonniers doivent récupérer un échantillon d'ADN dans l'installation HSU.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Codice genetico Contatto compromesso. Prigionieri inviati a recuperare il campione di DNA dalla struttura HSU.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Genetischer Code des Conduits kompromittiert. Gefangene sollen eine DNA-Probe der HSU-Einheit sammeln.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Conducto de código genético en peligro. Los prisioneros deben reunir una muestra de ADN de la instalación HSU.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка генетического кода проводника. Заключенным поручено извлечь образец ДНК из HSU.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Código genético do conduto comprometido. Prisioneiros devem coletar amostra de DNA da instalação HSU.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naruszono kod genetyczny przekaźnika. Więźniowie mają zebrać próbkę DNA z obiektu HSU.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンジット遺伝子コード漏洩。HSUユニットからDNAサンプルを回収するため囚人を派遣した。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도관 유전 코드 손상. 수감자들은 HSU 시설에서 DNA 샘플을 채취할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "導管遺傳碼受損。派遣囚犯前往收集HSU設施的DNA樣本。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "导管遗传密码受损。囚犯派去收集HSU设施的DNA样本。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_2_2.Description",
+  "internalEnabled": true,
+  "persistentID": 1546
+}

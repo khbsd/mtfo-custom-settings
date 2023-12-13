@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>Zone 392</color> unlocked",
+  "Description": "Don't translate the text in between the \"<>\" tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la <color=orange>zone\u00A0392 [Zone 392]</color> déverrouillée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>zona 392 [ZONE_392]</color> sbloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>Zone 392</color> [Zone 392] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la <color=orange>ZONE 392</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в <color=orange>зону 392 [ZONE_392]</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>ZONE 392</color> destravada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 392 [ZONE_392]</color> odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 392</color>へのドアがロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 392</color> 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>392 區[ZONE_392]</color>的門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>392区[ZONE_392]</color>门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Small_HSU_R3D1.ActivateHSUSpecifics_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3039445024
+}

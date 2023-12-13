@@ -1,0 +1,199 @@
+{
+  "ZoneAliasStart": 302,
+  "Zones": [
+    {
+      "LocalIndex": 0,
+      "AliasOverride": -1,
+      "OverrideAliasPrefix": false,
+      "SubSeed": 12311,
+      "MarkerSubSeed": 1,
+      "LightsSubSeed": 1,
+      "BulkheadDCScanSeed": 1,
+      "SubComplex": 4,
+      "CustomGeomorph": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_tech_lab_hub_HA_01.prefab",
+      "IgnoreRandomGeomorphRotation": false,
+      "CoverageMinMax": {
+        "x": 25.0,
+        "y": 40.0,
+        "normalized": {
+          "x": 0.529998958,
+          "y": 0.847998261,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 47.1699066,
+        "sqrMagnitude": 2225.0
+      },
+      "BuildFromLocalIndex": 0,
+      "StartPosition": 2,
+      "StartPosition_IndexWeight": 0.0,
+      "StartExpansion": 3,
+      "ZoneExpansion": 5,
+      "LightSettings": 39,
+      "AltitudeData": {
+        "AllowedZoneAltitude": 0,
+        "ChanceToChange": 0.5
+      },
+      "EventsOnEnter": [
+        {
+          "Delay": 0.0,
+          "Noise": {
+            "Enabled": true,
+            "RadiusMin": 0.0,
+            "RadiusMax": 20000.0
+          },
+          "Intel": {
+            "Enabled": false
+          },
+          "Sound": {
+            "Enabled": true,
+            "SoundEvent": 390663189
+          }
+        }
+      ],
+      "EventsOnPortalWarp": [],
+      "EventsOnApproachDoor": [],
+      "EventsOnUnlockDoor": [],
+      "EventsOnOpenDoor": [],
+      "EventsOnDoorScanStart": [],
+      "EventsOnDoorScanDone": [],
+      "ProgressionPuzzleToEnter": {
+        "PuzzleType": 3,
+        "CustomText": 972,
+        "PlacementCount": 1,
+        "ZonePlacementData": []
+      },
+      "ChainedPuzzleToEnter": 0,
+      "IsCheckpointDoor": false,
+      "PlayScannerVoiceAudio": true,
+      "SkipAutomaticProgressionObjective": false,
+      "SecurityGateToEnter": 0,
+      "UseStaticBioscanPointsInZone": false,
+      "TurnOffAlarmOnTerminal": false,
+      "TerminalPuzzleZone": {
+        "LocalIndex": 0,
+        "SeedType": 1,
+        "TerminalIndex": 0,
+        "StaticSeed": 0
+      },
+      "EventsOnTerminalDeactivateAlarm": [],
+      "ActiveEnemyWave": {
+        "HasActiveEnemyWave": false,
+        "EnemyGroupInfrontOfDoor": 0,
+        "EnemyGroupInArea": 0,
+        "EnemyGroupsInArea": 0
+      },
+      "EnemySpawningInZone": [
+        {
+          "GroupType": 0,
+          "Difficulty": 3,
+          "Distribution": 1,
+          "DistributionValue": 1.0
+        },
+        {
+          "GroupType": 1,
+          "Difficulty": 7,
+          "Distribution": 2,
+          "DistributionValue": 1.0
+        }
+      ],
+      "EnemyRespawning": false,
+      "EnemyRespawnRequireOtherZone": true,
+      "EnemyRespawnRoomDistance": 2,
+      "EnemyRespawnTimeInterval": 10.0,
+      "EnemyRespawnCountMultiplier": 1.0,
+      "HSUClustersInZone": 0,
+      "CorpseClustersInZone": 0,
+      "ResourceContainerClustersInZone": 0,
+      "GeneratorClustersInZone": 0,
+      "CorpsesInZone": 0,
+      "GroundSpawnersInZone": 3,
+      "HSUsInZone": 0,
+      "DeconUnitsInZone": 0,
+      "AllowSmallPickupsAllocation": true,
+      "AllowResourceContainerAllocation": false,
+      "ForceBigPickupsAllocation": false,
+      "ConsumableDistributionInZone": 0,
+      "BigPickupDistributionInZone": 0,
+      "TerminalPlacements": [
+        {
+          "PlacementWeights": {
+            "Start": 0.0,
+            "Middle": 0.0,
+            "End": 0.0
+          },
+          "AreaSeedOffset": 0,
+          "MarkerSeedOffset": 0,
+          "LocalLogFiles": [
+            {
+              "FileName": "ETY-4UJ-HHB",
+              "FileContent": 1784928424,
+              "FileContentOriginalLanguage": 1,
+              "AttachedAudioFile": 0,
+              "AttachedAudioByteSize": 0,
+              "PlayerDialogToTriggerAfterAudio": 0
+            }
+          ],
+          "UniqueCommands": [],
+          "StartingStateData": {
+            "StartingState": 0,
+            "UseCustomInfoText": false,
+            "CustomInfoText": 0,
+            "KeepShowingLocalLogCount": false,
+            "AudioEventEnter": 0,
+            "AudioEventExit": 0,
+            "PasswordProtected": false,
+            "PasswordHintText": "Password Required.",
+            "GeneratePassword": false,
+            "PasswordPartCount": 1,
+            "ShowPasswordLength": true,
+            "ShowPasswordPartPositions": false,
+            "TerminalZoneSelectionDatas": []
+          }
+        }
+      ],
+      "ForbidTerminalsInZone": false,
+      "PowerGeneratorPlacements": [],
+      "DisinfectionStationPlacements": [],
+      "DumbwaiterPlacements": [],
+      "HealthMulti": 0.0,
+      "HealthPlacement": {
+        "Start": 0.0,
+        "Middle": 0.0,
+        "End": 0.0
+      },
+      "WeaponAmmoMulti": 0.0,
+      "WeaponAmmoPlacement": {
+        "Start": 0.0,
+        "Middle": 0.0,
+        "End": 0.0
+      },
+      "ToolAmmoMulti": 0.0,
+      "ToolAmmoPlacement": {
+        "Start": 0.0,
+        "Middle": 0.0,
+        "End": 0.0
+      },
+      "DisinfectionMulti": 0.0,
+      "DisinfectionPlacement": {
+        "Start": 0.0,
+        "Middle": 0.0,
+        "End": 0.0
+      },
+      "StaticSpawnDataContainers": [
+        {
+          "Count": 40,
+          "DistributionWeightType": 0,
+          "DistributionWeight": 0.0,
+          "DistributionRandomBlend": 1.0,
+          "DistributionResultPow": 1.0,
+          "StaticSpawnDataId": 3,
+          "FixedSeed": 0
+        }
+      ]
+    }
+  ],
+  "name": "Rundown005_A2_L3",
+  "internalEnabled": true,
+  "persistentID": 3374452533
+}

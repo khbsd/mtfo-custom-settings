@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the number of samples used to blur fog and indirect light.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le nombre d'échantillons utilisés pour estomper le brouillard et l'éclairage indirect.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il numero di campioni utilizzati per nebbia sfocata e luce indiretta.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Anzahl der Samples, die für die Unschärfe von Nebel und indirektem Licht verwendet werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el número de muestras empleadas para difuminar la niebla y luz indirecta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует число образцов для размытия дыма и отраженного света.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o número de amostras usadas para desfocar névoa e luz indireta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za częstotliwość próbkowania przy rozmyciu mgły i światła pośredniego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "霧と間接光をぼかす時に使用するサンプルの数を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개와 간접 광원을 흐리게 처리하는 데 사용하는 샘플의 수를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制用於模糊霧與間接光線的樣本數。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制用于模糊雾和间接光线的样本数量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.FogDiffusionQuality",
+  "internalEnabled": true,
+  "persistentID": 648210816
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Main Objective",
+  "Description": "A headline for the text that describes the mission's main objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primärziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Objetivo principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Главная цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Objetivo principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel główny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주요 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主要目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 798
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ZONE RESTRICTED. JUNCTION-KEY AUTHORIZATION REQUIRED TO ENTER.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ZONE INTERDITE. AUTORISATION DE CLÉ DE JONCTION REQUISE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ZONA RISERVATA. RICHIESTA AUTORIZZAZIONE CON CHIAVE DOPPIA PER L'INGRESSO.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZONE VERRIEGELT. AUTORISIERUNG DES KNOTENPUNKTSCHLÜSSELS ERFORDERLICH.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ZONA RESTRINGIDA. SE NECESITA UNA AUTORIZACIÓN DE LLAVE DOBLE PARA ENTRAR.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗОНА ОГРАНИЧЕННОГО ДОСТУПА. ДЛЯ ВХОДА ТРЕБУЕТСЯ АВТОРИЗАЦИЯ КОМПЛЕКСНОГО КЛЮЧА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ZONA RESTRITA. NECESSÁRIA AUTORIZAÇÃO DE CHAVE DE JUNÇÃO PARA ENTRAR.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STREFA ZAMKNIĘTA. WYMAGANA AUTORYZACJA ZA POMOCĄ KLUCZA WĘZŁOWEGO.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ZONE制限。進入にはジャンクションキー認証が必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "제한 구역입니다. 진입하려면 정션 키 인증이 필요합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "受管制區域。需要連接鑰授權才能進入。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "区域受限。需要组合钥匙授权才能进入。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_04",
+  "internalEnabled": true,
+  "persistentID": 1424707355
+}

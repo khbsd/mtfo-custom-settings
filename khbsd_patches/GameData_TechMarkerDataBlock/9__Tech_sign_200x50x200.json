@@ -1,0 +1,51 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Signs/sign_2x2_tech_wallflat.prefab",
+        "function": 9,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 10,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_sign_200x50x200",
+    "BoundingVolume": 2000.0
+  },
+  "name": "Tech_sign_200x50x200",
+  "internalEnabled": true,
+  "persistentID": 9
+}

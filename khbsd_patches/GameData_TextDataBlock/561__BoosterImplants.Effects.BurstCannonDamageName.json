@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Cannon Damage",
+  "Description": "I.e. how much damage you can deal with a burst cannon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de canon-rafale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da cannone a raffica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoß-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de cañón de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (автоматическая пушка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de canhão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od działa salwowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストキャノンダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버스트 캐논 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發砲傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发炮伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BurstCannonDamageName",
+  "internalEnabled": true,
+  "persistentID": 561
+}

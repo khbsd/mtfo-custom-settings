@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the volume of music.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le volume de la musique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il volume della musica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Lautstärke der Musik.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el volumen de la música.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует громкость музыки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o volume da música.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za głośność muzyki.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "音楽の音量を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음악 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制音樂音量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制音乐的音量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MusicVolume",
+  "internalEnabled": true,
+  "persistentID": 2829309910
+}

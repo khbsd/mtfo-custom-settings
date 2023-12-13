@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Capacitor OVERLOAD.. SECONDARY AIR SCRUBBERS OFFLINE.. WARNING..",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: SURCHARGE DU CONDENSATEUR... ÉPURATEURS D'AIR SECONDAIRES HORS SERVICE... AVERTISSEMENT...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: SOVRACCARICO Condensatore. DEPURATORI ARIA SECONDARI OFFLINE. ATTENZIONE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Kondensator ÜBERLASTET … SEKUNDÄRLUFTAUFBEREITER OFFLINE … WARNUNG …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: SOBRECARGA DE CONDENSADOR ELÉCTRICO. DEPURADORES AÉREOS SECUNDARIOS DESCONECTADOS. CUIDADO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! СБОЙ в работе конденсатора. РЕЗЕРВНЫЕ ОЧИСТИТЕЛИ ВОЗДУХА ОТКЛЮЧЕНЫ. ВНИМАНИЕ!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: SOBRECARGA no condensador.. PURIFICADORES DE AR SECUNDÁRIOS OFFLINE.. AVISO:.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: PRZECIĄŻENIE kondensatora.. FILTRY POMOCNICZE POWIETRZA WYŁĄCZONE.. OSTRZEŻENIE..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：コンデンサがオーバーロード.. 副空気清浄装置オフライン.. 警告..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 캐패시터 과부하됨.. 보조 공기 포집기 가동 정지.. 경고..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：電容器超載……次級空氣洗滌器離線……警告……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：电容器过载，二级空气洗涤器离线……警告……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalFogUpdateInfo_R6",
+  "internalEnabled": true,
+  "persistentID": 1124
+}

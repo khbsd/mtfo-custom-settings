@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ABORTING...",
+  "Description": "As in \"aborting the action of creating a lobby.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANNULATION...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ANNULLAMENTO...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WIRD ABGEBROCHEN ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ABORTANDO...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТМЕНА...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SUSPENDENDO...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZERYWANIE...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中断中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중단 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在中止……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在中断……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.Aborting",
+  "internalEnabled": true,
+  "persistentID": 462
+}

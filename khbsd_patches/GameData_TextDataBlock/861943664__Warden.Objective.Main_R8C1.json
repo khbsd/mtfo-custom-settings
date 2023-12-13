@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Program Data Cubes with membrane coordinates ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Programmez les cubes de données [DATA_CUBE] avec les coordonnées de membrane",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Programmare cubi di dati [DATA_CUBE] con coordinate membrana",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Programmieren Sie die Datenwürfel [DATA_CUBE] mit Membrankoordinaten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Programa cubos de datos [DATA CUBE] con coordenadas de membrana.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрограммируйте кубы данных [DATA_CUBE], используя координаты мембраны.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Programar cubos de dados [DATA_CUBE] com coordenadas de membrana",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaprogramuj kostki danych za pomocą współrzędnych membrany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "膜座標でデータキューブ[DATA CUBE]をプログラムしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "멤브레인 좌표로 [DATA_CUBE] 데이터 큐브 프로그래밍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在資料方塊[DATA_CUBE]中編入膜面座標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在数据立方[DATA_CUBE]中编入位面坐标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Objective.Main_R8C1",
+  "internalEnabled": true,
+  "persistentID": 861943664
+}

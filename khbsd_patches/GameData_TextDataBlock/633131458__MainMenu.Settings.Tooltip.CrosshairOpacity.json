@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the transparency of the crosshair. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la transparence du réticule.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la trasparenza del mirino.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Transparenz des Fadenkreuzes.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la transparencia de la retícula.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует прозрачность прицела.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a transparência de fio de retículo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za przezroczystość celownika.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クロスヘアの透明度を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조준선의 투명도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制十字準線透明度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制准星的透明度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.CrosshairOpacity",
+  "internalEnabled": true,
+  "persistentID": 633131458
+}

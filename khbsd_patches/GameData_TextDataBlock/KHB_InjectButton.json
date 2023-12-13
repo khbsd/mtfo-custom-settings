@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SKINJECT",
+  "Description": "As in \"inject drug\" via a syringe.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "INJECTER",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INIETTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "INJIZIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INYECTAR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВВЕСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INJETAR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WSTRZYKNIJ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "注射",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "注射",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "注射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.InjectButton",
+  "internalEnabled": true,
+  "persistentID": 45
+}

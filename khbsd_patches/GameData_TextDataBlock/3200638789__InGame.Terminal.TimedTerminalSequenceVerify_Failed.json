@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification failed! The Timed Verification Sequence is complete.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échec de la vérification\u00A0! Séquence de vérification chronométrée terminée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica fallita! La sequenza di verifica a tempo è completa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung fehlgeschlagen! Die zeitgesteuerte Verifizierung ist abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación fallida! Secuencia de verificación cronometrada completada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верификация не пройдена! Синхронизированный цикл верификации завершен.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na verificação! A sequência de verificação cronometrada está concluída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja nieudana! Sekwencja weryfikacji czasowej ukończona.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証失敗！同期認証シークエンス完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 실패! 시한 승인 절차가 완료되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證失敗！先前已完成過限時驗證序列。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证失败！定时验证序列已完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_Failed",
+  "internalEnabled": true,
+  "persistentID": 3200638789
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NEXT AREA:",
+  "Description": "Text on the doors in the game, explaining which zone the doors lead to.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROCHAINE ZONE\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AREA SUCC.:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NÄCHSTES GEBIET:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRÓXIMA ZONA:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СЛЕД. ОБЛАСТЬ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRÓXIMA ÁREA:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NASTĘPNY OBSZAR:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次のエリア：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 지역:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "下一區段：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下一区域：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.NextArea",
+  "internalEnabled": true,
+  "persistentID": 1129
+}

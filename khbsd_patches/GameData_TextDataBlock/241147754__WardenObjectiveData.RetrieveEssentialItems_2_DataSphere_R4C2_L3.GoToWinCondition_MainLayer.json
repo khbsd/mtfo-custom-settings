@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring the [ALL_ITEMS] with you and make sure you extract with it after clearing the main objective. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Apportez la [ALL_ITEMS] avec vous et assurez-vous de l'emporter après avoir rempli l'objectif principal. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare con sé la [ALL_ITEMS] e assicurarsi di eseguire estrazione con essa dopo aver completato l'obiettivo principale. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nehmen Sie die [ALL_ITEMS] mit und extrahieren Sie damit, nachdem Sie das Primärziel erfüllt haben. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva las [ALL_ITEMS] contigo y asegúrate de usarlas para extraer tras superar el objetivo principal. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Возьмите предмет ([ALL_ITEMS]) и выполните извлечение после достижения главной цели. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leve [ALL_ITEMS] consigo e certifique-se de extrair depois de concluir o objetivo principal. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostarcz sferę danych ([ALL_ITEMS]) i ewakuuj się z nią po zrealizowaniu celu głównego. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS]を携行し、主目標のクリア後に必ずそれを持って抽出しろ。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS]을(를) 가져오고 주요 목표 완료 후 함께 탈출할 것. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "攜帶[ALL_ITEMS]，完成主要目標後，務必連同該物品一起撤離。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "带上[ALL_ITEMS]并确保在完成主要目标后带着它撤离。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_2_DataSphere_R4C2_L3.GoToWinCondition_MainLayer",
+  "internalEnabled": true,
+  "persistentID": 241147754
+}

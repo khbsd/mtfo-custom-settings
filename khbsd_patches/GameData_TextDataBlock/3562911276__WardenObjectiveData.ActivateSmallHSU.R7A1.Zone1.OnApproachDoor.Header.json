@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Recycle the HSUs",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Recyclez les HSU",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riciclare le HSU",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Recyclen Sie die HSUs",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reciclar las HSU",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Переработайте HSU",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recicle os HSUs",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Recyrkulacja HSU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HSUをリサイクルしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HSU 재활용하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "回收HSU",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "回收HSU",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Zone1.OnApproachDoor.Header",
+  "internalEnabled": true,
+  "persistentID": 3562911276
+}

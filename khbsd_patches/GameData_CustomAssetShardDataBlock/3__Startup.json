@@ -1,0 +1,28 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/Scenes/ElevatorCage/Assets/ElevatorRide.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/character_a.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/character_b.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/character_c.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/character_d.prefab",
+      "Shard": 0
+    }
+  ],
+  "name": "Startup",
+  "internalEnabled": true,
+  "persistentID": 3
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING:// CONTAMINENTS DETECTED, ACTIVATE AIR FILTRATION IN <color=orange>Zone 94</color>",
+  "Description": "Don't localize Zone 94",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: // CONTAMINANTS DÉTECTÉS, ACTIVEZ LA FILTRATION D'AIR DANS LA <color=orange>Zone\u00A094</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE:// RILEVATI CONTAMINANTI, ATTIVARE FILTRO ARIA NELLA <color=orange>ZONE 94</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG:// VERUNREINIGUNGEN ERKANNT, AKTIVIEREN SIE DIE LUFTFILTERUNG IN <color=orange>ZONE 94</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA:// CONTENCIONES DETECTADAS. ACTIVAR FILTRO DE AIRE EN LA <color=orange>ZONE 94</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ:// ОБНАРУЖЕНО ЗАГРЯЗНЕНИЕ. ВКЛЮЧЕНЫ ВОЗДУШНЫЕ ФИЛЬТРЫ В <color=orange>ZONE 94</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO:// CONTAMINANTES DETECTADOS, ATIVAR FILTRAGEM DE AR NA <color=orange>ZONE 94</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE:// WYKRYTO ZANIECZYSZCZENIA, URUCHOM FILTRACJĘ POWIETRZA W <color=orange>strefie 94 [ZONE_94]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告:// 汚染を検出、 <color=orange>Zone 94</color>で空気清浄を起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고:// 격리 탐지됨, <color=orange>ZONE 94</color> 공기 여과장치 가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告://偵測到污染物，在<color=orange>ZONE 94</color>中啟用空氣過濾",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告://检测到污染物，激活<color=orange>ZONE 94</color>空气过滤",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_2_START_AIRFILTRATION",
+  "internalEnabled": true,
+  "persistentID": 1444
+}

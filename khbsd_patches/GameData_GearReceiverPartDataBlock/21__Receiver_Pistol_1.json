@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Pistol_1.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 30,
+    "BundleShard": 9
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Pistol_1",
+  "internalEnabled": true,
+  "persistentID": 21
+}

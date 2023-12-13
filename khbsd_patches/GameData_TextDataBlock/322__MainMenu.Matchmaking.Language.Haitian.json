@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Haitian",
+  "Description": "A language spoken in Haiti.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Haïtien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Creolo haitiano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Haitianisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Haitiano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Гаитянский креольский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Haitiano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Haitański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイチ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아이티어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "海地文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "海地语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Haitian",
+  "internalEnabled": true,
+  "persistentID": 322
+}

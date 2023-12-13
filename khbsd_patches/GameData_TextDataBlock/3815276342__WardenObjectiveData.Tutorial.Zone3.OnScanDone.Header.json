@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to the next zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la zone suivante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere alla zona successiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zur nächsten Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dirígete a la siguiente zona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Переход к следующей зоне",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Continue para a próxima zona",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Udaj się do następnej strefy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次のゾーンへ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 구역으로 진행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往下一區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往下一个区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone3.OnScanDone.Header",
+  "internalEnabled": true,
+  "persistentID": 3815276342
+}

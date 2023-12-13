@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nThe ID of the required keycard is shown in the top left of the visor.\r\nUse the PING command followed by the ID to pinpoint the keycard.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nLe numéro de la carte magnétique nécessaire est affiché dans le coin supérieur gauche de votre visière.\r\nUtilisez la commande PING suivie du numéro de la carte pour localiser cette dernière.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nL'ID della chiave magnetica richiesta è mostrato in alto a sinistra sul visore.\r\nUtilizzare il comando PING seguito dall'ID per individuare la chiave magnetica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDie ID der benötigten Schlüsselkarte wird links oben auf dem Visor angezeigt. \r\nNutzen Sie den PING-Befehl gefolgt von der ID, um die Schlüsselkarte zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nLa ID de la tarjeta de acceso requerida se muestra en la parte superior izquierda del visor.\r\nIntroduce el comando PING seguido de la ID para localizar la tarjeta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nID необходимой ключ-карты отображается в верхнем левом углу визора.\r\nИспользуйте команду PING в сочетании с ID, чтобы отыскать ключ-карту.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nA ID do cartão de acesso necessária é exibida na parte superior esquerda do visor.\r\nUse o comando PING seguido da ID para apontar o cartão de acesso.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nIdentyfikator karty dostępu jest widoczny w lewym górnym rogu wizjera.\r\nWprowadź identyfikator karty dostępu poprzedzony przez polecenie PING.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n必要なキーカードのIDはバイザーの左上に表示される。\r\nIDに続けてPINGコマンドを使用し、キーカードを突き止めよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n필요한 키 카드의 ID는 바이저의 좌측 상단에 표시됩니다.\r\nPING 명령과 ID를 연달아 사용해 키 카드를 식별하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n所需鑰匙卡的ID顯示於面罩左上角。\r\n使用ID隨附的PING指令來確認鑰匙卡詳細位置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n所需钥匙卡的ID显示在面罩左上方。\r\n使用PING命令加上ID来定位钥匙卡。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_10",
+  "internalEnabled": true,
+  "persistentID": 937748837
+}

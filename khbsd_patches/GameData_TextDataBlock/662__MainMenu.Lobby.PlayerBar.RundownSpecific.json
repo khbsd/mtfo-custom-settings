@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[Rundown Specific]",
+  "Description": "A \"Rundown\" is basically a game campaign, and this text string indicates that a particular piece of gear (weapons/tools) is exclusive/specific to the current Rundown.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "[Équipement de campagne exclusif]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[Esclusiva perlustrazione]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[Rundown-spezifisch]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[Solo para campaña]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[Эксклюзив кампании]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[Especificação da campanha]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[tylko dla tej ekstrakcji]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ランダウン固有]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[런다운 전용]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[遠征綱要特定]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[行动限定]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.RundownSpecific",
+  "internalEnabled": true,
+  "persistentID": 662
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use [ITEM_SERIAL] to create an uplink to [UPLINK_ADDRESS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez [ITEM_SERIAL] pour créer une liaison montante vers [UPLINK_ADDRESS].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare [ITEM_SERIAL] per creare un uplink a [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verwenden Sie [ITEM_SERIAL], um einen Uplink zu [UPLINK_ADDRESS] zu erstellen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Utiliza el [ITEM_SERIAL] para crear un uplink a [UPLINK_ADDRESS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте предмет ([ITEM_SERIAL]), чтобы создать подключение к [UPLINK_ADDRESS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use [ITEM_SERIAL] para criar um uplink para [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj przedmiotu [ITEM_SERIAL], aby utworzyć łącze z [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL]を使用して[UPLINK_ADDRESS]へのアップリンクを生成しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL]을 사용해 [UPLINK_ADDRESS] 업링크 생성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用[ITEM_SERIAL]建立到[UPLINK_ADDRESS]的上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用[ITEM_SERIAL]创建上行链路至[UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SolveItemUpdate.Uplink",
+  "internalEnabled": true,
+  "persistentID": 171056937
+}

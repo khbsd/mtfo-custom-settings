@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Computer terminal [ITEM_SERIAL] and input the backdoor command [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le terminal informatique [ITEM_SERIAL] et entrez la commande de porte dérobée [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale computer [ITEM_SERIAL] e inserire il comando backdoor [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Computerterminal [ITEM_SERIAL] und geben Sie den Hintertür-Befehl [SPECIAL_COMMAND] ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la terminal [ITEM_SERIAL] e introduce el comando de puerta trasera [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите компьютерный терминал [ITEM_SERIAL] и введите секретную команду [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de computador [ITEM_SERIAL] e insira o comando de backdoor [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal komputerowy [ITEM_SERIAL] i wprowadź polecenie tylnego wejścia: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末[ITEM_SERIAL]を見つけ、バックドアコマンド[SPECIAL_COMMAND]を入力しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "컴퓨터 터미널 [ITEM_SERIAL]을 찾아 백도어 명령 [SPECIAL_COMMAND] 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到電腦終端[ITEM_SERIAL]並輸入後門指令[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到电脑终端[ITEM_SERIAL]并输入后门命令[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_DisableLifeSupport_R4A2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3061181835
+}

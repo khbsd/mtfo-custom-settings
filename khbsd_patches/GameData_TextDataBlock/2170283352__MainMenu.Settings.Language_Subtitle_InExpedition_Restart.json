@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Restart Expedition to get full localization",
+  "Description": "A subtitle for the language settings that shows when the player is in an expedition.\nYou are allowed to change language but certain in-game texts won't be localized until you restart the expedition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Redémarrez l'expédition pour afficher la traduction complète",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riavvia la spedizione per ottenere la localizzazione completa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Starte die Expedition neu, um die vollständige Lokalisierung zu erhalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciar expedición para disfrutar de todo el texto traducido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для полной локализации перезапустите экспедицию",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reiniciar a expedição para obter a localização completa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zrestartuj ekspedycję, aby uzyskać pełną wersję językową",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションをリスタートしてローカリゼーションを完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 텍스트를 현지화하려면 탐사를 다시 시작하세요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重新啟動遠征以獲得完整的當地語言版",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重启任务以显示完整汉化版本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Language_Subtitle_InExpedition_Restart",
+  "internalEnabled": true,
+  "persistentID": 2170283352
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need to prepare!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "On se prépare\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dobbiamo prepararci!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir müssen uns vorbereiten!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Tenemos que prepararnos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовимся!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos nos preparar!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Musimy się przygotować!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備が必要だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비해야 해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要做好準備！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们得做好准备！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.WeNeedToPrepare",
+  "internalEnabled": true,
+  "persistentID": 1189
+}

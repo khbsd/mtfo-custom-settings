@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ABOUT THE RUNDOWN\n<size=60%>(external link)</size>",
+  "Description": "Russian should also localize (external link). \"Rundown\" is GTFO's term for \"campaign\", i.e. a set of expeditions/missions. \"About the rundown\" is a button the player can press to access an info text about the rundown's/campaign's premise/story.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "À PROPOS DE LA CAMPAGNE\n<size=60%>(lien externe)</size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INFO SULLE PERLUSTRAZIONI\n<size=60%>(link esterno)</size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ÜBER DEN RUNDOWN\n<size=60%>(Externer Link)</size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INFORMACIÓN DE CAMPAÑA\n<size=60%>(vínculo externo)</size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КАМПАНИЯ. СВЕДЕНИЯ\n<size=60%>(external link)</size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SOBRE A CAMPANHA\n<size=60%>(link externo)</size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "O EKSTRAKCJI\n<size=60%>(zewnętrzne łącze)</size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ランダウンについて\n<size=60%>（外部リンク）</size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "런다운 정보\n<size=60%>(외부 링크)</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關於「遠征綱要」\n<size=60%>（外部連結）</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关于行动\n<size=60%>（外部链接）</size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.AboutRundownButton",
+  "internalEnabled": true,
+  "persistentID": 3
+}

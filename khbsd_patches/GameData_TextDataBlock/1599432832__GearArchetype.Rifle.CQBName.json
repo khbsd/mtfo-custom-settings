@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CQB Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil CQB",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile CR",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "CQB-Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de CQB",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автомат CQB",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil CQB",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabinek CQB",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "CQBライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "CQB 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "CQB步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "CQB步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.Rifle.CQBName",
+  "internalEnabled": true,
+  "persistentID": 1599432832
+}

@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class S III Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 1,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 9.0,
+  "WantedDistanceBetweenPuzzleComponents": 15.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Far x3 - R5A1 ALT",
+  "internalEnabled": true,
+  "persistentID": 225
+}

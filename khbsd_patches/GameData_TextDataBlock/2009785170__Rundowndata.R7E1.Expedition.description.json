@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Critical process died.\nEmergency shutdown initiated.\nPrisoners dispatched to reboot reactor.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Arrêt d’un processus critique.\nDébut du verrouillage d’urgence.\nPrisonniers déployés pour relancer le réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il processo critico è morto.\nSpegnimento di emergenza avviato.\nPrigionieri inviati a riavviare il reattore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kritischer Prozess abgestürzt.\nNotabschaltung eingeleitet.\nGefangene entsandt, um den Reaktor neu zu starten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Proceso crítico fallido.\nApagado de emergencia iniciado.\nPrisioneros destinados a reiniciar el reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Критический процесс остановлен.\nЭкстренное отключение питания.\nЗаключенным приказано перезапустить реактор.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Processo crítico eliminado.\nDesligamento de emergência iniciado.\nPrisioneiros despachados para reinicializar o reator.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Procedura krytyczna zaniknęła.\nSekwencja awaryjnego wyłączenia zainicjowana.\nWięźniowie wysłani w celu ponownego uruchomienia reaktora.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "重大プロセス死亡。\n緊急封鎖開始。\nリアクターの再起動のために囚人たちが派遣された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중요 절차 중단.\n긴급 폐쇄 시작됨.\n수감자 반응로 재가동에 투입됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關鍵過程死亡。\n緊急關閉已啟動。\n已派出囚犯前往重新啟動反應器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关键进程停止。\n已发起紧急关闭。\n囚犯派去重启反应堆。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundowndata.R7E1.Expedition.description",
+  "internalEnabled": true,
+  "persistentID": 2009785170
+}

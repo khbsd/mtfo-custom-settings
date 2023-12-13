@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Show the help screen",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche l'écran Aide.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra la schermata di aiuto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hilfebildschirm anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra la pantalla de ayuda.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает меню помощи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mostre a tela de ajuda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pokaż ekran pomocy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘルプ画面を表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도움말 화면 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示説明畫面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示帮助界面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.HelpCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 1719154468
+}

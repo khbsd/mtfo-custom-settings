@@ -1,0 +1,50 @@
+{
+  "Headers": [
+    {
+      "AboveBlockID": 167,
+      "LabelText": "Gather"
+    },
+    {
+      "AboveBlockID": 163,
+      "LabelText": "Reactor"
+    },
+    {
+      "AboveBlockID": 12,
+      "LabelText": "Clear a path"
+    },
+    {
+      "AboveBlockID": 13,
+      "LabelText": "Special Command"
+    },
+    {
+      "AboveBlockID": 15,
+      "LabelText": "Retrieve"
+    },
+    {
+      "AboveBlockID": 18,
+      "LabelText": "Distribute"
+    },
+    {
+      "AboveBlockID": 192,
+      "LabelText": "HSU"
+    },
+    {
+      "AboveBlockID": 23,
+      "LabelText": "Central PowerGenCluster"
+    },
+    {
+      "AboveBlockID": 98,
+      "LabelText": "Survival"
+    },
+    {
+      "AboveBlockID": 177,
+      "LabelText": "Terminal Uplink"
+    },
+    {
+      "AboveBlockID": 102,
+      "LabelText": "Corrupted Uplink"
+    }
+  ],
+  "Blocks": [],
+  "LastPersistentID": 315
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Could not connect to '{0}'. Make sure it is a valid address for an external uplink.",
+  "Description": "{0} is the user text input and should be an IP adress.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Connexion à '{0}' impossible. Assurez-vous que l'adresse est valide pour une liaison montante externe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impossibile connettersi a \"{0}\". Assicurarsi che sia un indirizzo valido per un uplink esterno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbindung zu {0} konnte nicht hergestellt werden. Stellen Sie sicher, dass es sich um eine gültige Adresse für einen externen Uplink handelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No se ha podido conectar a «{0}». Asegúrate de que se trata de una dirección válida para un uplink externo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Не удается подключиться к {0}. Убедитесь, что указан верный адрес внешнего подключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Impossível se conectar a '{0}'. Confira se o endereço do uplink externo é válido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie można połączyć z {0}. Upewnij się, że jest to prawidłowy adres dla łącza zewnętrznego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "'{0}'に接続できませんでした。外部アップリンクとして有効なアドレスか確認してください。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "'{0}'에 연결 불가. 외부 업링크의 유효한 주소인지 확인하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無法連線到「{0}」。確認是否為外部上行鏈路的有效位址。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未能连接到“{0}”。请确保外部上行链路的地址有效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Could_not_connect_to_X",
+  "internalEnabled": true,
+  "persistentID": 2200715877
+}

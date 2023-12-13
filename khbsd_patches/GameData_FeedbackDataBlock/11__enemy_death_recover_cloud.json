@@ -1,0 +1,18 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_EnemyRecover_Cloud",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_death_recover_cloud",
+  "internalEnabled": true,
+  "persistentID": 11
+}

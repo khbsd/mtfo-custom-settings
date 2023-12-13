@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Open {0}",
+  "Description": "I.e. \"open this locker.\" This text string appears on screen when the player is standing near a prop that can be opened (e.g. a locker), to indicate that they can open the prop by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvrir {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apri {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} öffnen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abrir {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открыть {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrir {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwórz: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を開く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "열기 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開啟{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "打开{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Open_X",
+  "internalEnabled": true,
+  "persistentID": 845
+}

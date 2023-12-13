@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Close proximity access to Hydrostasis Unit is required to be able to acquire the sample",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accès de proximité à l’unité d’hydrostase nécessaire pour obtenir l’échantillon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un accesso ravvicinato all'Unità idrostatica è necessario per poter acquisire il campione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zur Entnahme der Probe ist ein direkter Zugang zur Hydrostasis-Einheit erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se requiere aproximación a la unidad de hidroletargo para poder extraer la muestra.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для получения образца требуется непосредственный доступ к стазис-модулю.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "É necessário fechar o acesso de proximidade para a unidade de hidroestase para poder adquirir a amostra",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W celu pobrania próbki wymagany jest bliski dostęp do jednostki hydrostazy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サンプルを入手するには、ハイドロスタシスユニットへの近接アクセスが必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수분식 생체 정지 유닛에 매우 근접하게 접근하여 샘플 획득 가능",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "必須近距離感應才能從靜液裝置取得樣本",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要流体静力舱的近场访问权限才能获得样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Help4_R7B3",
+  "internalEnabled": true,
+  "persistentID": 2428639631
+}

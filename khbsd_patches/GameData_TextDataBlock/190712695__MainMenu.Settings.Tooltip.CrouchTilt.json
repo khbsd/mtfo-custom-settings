@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables a small rotation to the weapons to indicate that you are crouching.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Incline légèrement l'arme pour indiquer que vous êtes accroupi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente una piccola rotazione delle armi per indicare che sei abbassato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert eine leichte Drehung der Waffen, um anzuzeigen, dass du dich duckst.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa una pequeña rotación en las armas para indicar que estás de cuchillas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В режиме скрытности оружие слегка отклонено.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa uma rotação pequena das armas para indicar que você está se agachando.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umożliwia niewielkie przechylenie broni, aby wskazać, że jest się w trybie kucania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しゃがみ状態であることを示すため、武器をわずかに傾ける。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기를 약간 옆으로 돌려 앉아있음을 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "武器稍微轉向旁邊以顯示蹲伏姿勢。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蹲伏时让武器稍作倾斜。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.CrouchTilt",
+  "internalEnabled": true,
+  "persistentID": 190712695
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Depth Of Field",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Profondeur de champ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Profondità di campo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tiefenschärfe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Profundidad de campo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Глубина резкости",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Profundidade do campo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głębia ostrości",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "被写界深度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "피사계 심도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "景深",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "景深",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.DepthOfField",
+  "internalEnabled": true,
+  "persistentID": 103
+}

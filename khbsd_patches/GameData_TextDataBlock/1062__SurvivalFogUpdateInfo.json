@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING:PRIMARY AIR SCRUBBERS OFFLINE... SECONDARY ONLINE..",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: ÉPURATEURS D'AIR PRIMAIRES HORS LIGNE... SECONDAIRES EN LIGNE...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: DEPURATORI ARIA PRINCIPALI OFFLINE. SECONDARI ONLINE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: PRIMÄRE LUFTAUFBEREITER OFFLINE … SEKUNDÄRE ONLINE …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: DEPURADORES DE OXÍGENO PRINCIPALES DESACTIVADOS. SECUNDARIOS ACTIVADOS.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! ОСНОВНЫЕ ОЧИСТИТЕЛИ ВОЗДУХА ОТКЛЮЧЕНЫ... РЕЗЕРВНЫЕ ВКЛЮЧЕНЫ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: PURIFICADORES DE AR PRIMÁRIOS OFFLINE... SECUNDÁRIO ONLINE..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: PODSTAWOWE FILTRY TLENU WYŁĄCZONE.. POMOCNICZE WŁĄCZONE..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：主酸素清浄装置オフライン... 副装置オンライン...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 주 공기 포집기 가동 정지... 보조 포집기 가동..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：一級空氣洗滌器離線……次級上線……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：一级空气洗涤器离线……二级在线……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalFogUpdateInfo",
+  "internalEnabled": true,
+  "persistentID": 1062
+}

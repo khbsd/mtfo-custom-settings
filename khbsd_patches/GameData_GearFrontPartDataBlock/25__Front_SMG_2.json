@@ -1,0 +1,118 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_SMG_2.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "SMG_Front_2_Idle",
+    "RightHandGripAnim": "SMG_Front_2_Idle",
+    "AssetBundle": 20,
+    "BundleShard": 13
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "SMG_Front_2_Fire"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "SMG_Front_2_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "SMG_Front_2_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 9,
+      "StringData": "SMG_Front_2_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "SMG_Front_2_Reload"
+    },
+    {
+      "TriggerTime": 0.25,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.33,
+      "Type": 5,
+      "StringData": "CARBINE_RELOAD_1_MAG_OUT"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.67,
+      "Type": 5,
+      "StringData": "carbine_reload_3_grab_mag"
+    },
+    {
+      "TriggerTime": 0.9,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.15,
+      "Type": 5,
+      "StringData": "smg_reload_5_slide_pull"
+    },
+    {
+      "TriggerTime": 1.05,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 1.35,
+      "Type": 5,
+      "StringData": "smg_reload_3_foley"
+    },
+    {
+      "TriggerTime": 1.7,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    }
+  ],
+  "name": "Front_SMG_2",
+  "internalEnabled": true,
+  "persistentID": 25
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return to the point of entrance in [EXTRACTION_ZONE]",
+  "Description": "A short summary of a mission objective. \"[EXTRACTION_ZONE]\" will be replaced by the area ID where the point of entrance is located; don't alter these characters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Retournez au point d'entrée de [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torna al punto di ingresso in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kehren Sie zum Eintrittspunkt in [EXTRACTION_ZONE] zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Regresa al punto de entrada en [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вернитесь к месту начала экспедиции в зоне [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Retorne ao ponto de entrada em [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powróć do punktu wejścia w [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の入口へ戻れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE] 위치의 진입점으로 돌아가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "返回[EXTRACTION_ZONE]的入口",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返回[EXTRACTION_ZONE]的入口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.GoToWinConditionElevator",
+  "internalEnabled": true,
+  "persistentID": 946
+}

@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Surge Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 21,
+  "SurvivalWavePopulation": 48,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 30.0,
+  "WantedDistanceBetweenPuzzleComponents": 30.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 6
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Big RequireAll x3 - Alarm Surge - R2E1 - z597",
+  "internalEnabled": true,
+  "persistentID": 196
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Checkpoint door here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de point de contrôle ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta del checkpoint qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist eine Checkpoint-Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Una puerta de punto de control aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь дверь к чекпойнту.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de ponto de controle aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi z punktem kontrolnym, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チェックポイントドアだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 체크포인트 도어다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有重生點門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有重生点门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Checkpoint_Door_Here",
+  "internalEnabled": true,
+  "persistentID": 4205898778
+}

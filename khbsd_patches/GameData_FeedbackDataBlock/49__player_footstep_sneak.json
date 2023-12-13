@@ -1,0 +1,162 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakRubber"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakRubber_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMud"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakMud_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakGravel"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakGravel_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakWood"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakWood_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSand"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerSneakSand_3rd"
+    }
+  ],
+  "effectData": [],
+  "name": "player_footstep_sneak",
+  "internalEnabled": true,
+  "persistentID": 49
+}

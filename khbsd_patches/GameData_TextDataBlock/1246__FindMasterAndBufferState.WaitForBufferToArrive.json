@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WaitForBufferToArrive",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "AttenteArrivéeTampon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attendere arrivo buffer",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WartenAufEintreffenDesBuffers",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperar a que llegue el búfer",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание запуска буфера",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AguardarChegadaDeMemória",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OczekiwanieNaBufor",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バッファー到着待機",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버퍼기다리는중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待緩衝區到達",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待缓冲到达",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.WaitForBufferToArrive",
+  "internalEnabled": true,
+  "persistentID": 1246
+}

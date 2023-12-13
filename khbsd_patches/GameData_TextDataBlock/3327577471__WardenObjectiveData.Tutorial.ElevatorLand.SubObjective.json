@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find out what zone you are in",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Identifiez la zone actuelle.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scoprire qual è la zona attuale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie heraus, in welcher Zone Sie sind.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Averigua en qué zona estás.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Узнайте, в какой зоне вы находитесь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Descubra em qual zona você está",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dowiedz się, w jakiej jesteś strefie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自分がどのゾーンにいるか突き止めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자신이 위치한 구역 확인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "查出你所在區域",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到你所在的区域",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "WardenObjectiveData.Tutorial.ElevatorLand.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 3327577471
+}

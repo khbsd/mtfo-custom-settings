@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert Hisec crate into Unsealer [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérez la caisse HISEC dans le déverrouilleur [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire la cassa HISEC nel Dissigillatore [Unsealer] [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Platzieren Sie die [HISEC]-Kiste im Entsiegler [UNSEALER] [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta la caja de HISEC en el permeabilizador [Unsealer] [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поместите контейнер HISEC в распечатыватель ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a caixa HISEC dentro do desselante [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umieść skrzynię podwyższonego bezpieczeństwa w rozszczelniaczu [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HISECクレートを開封器[ITEM_SERIAL]に挿入しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하이섹 상자를 언실러 [ITEM_SERIAL]에 넣기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將HISEC箱插入啟封器[UNSEALER][ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将HISEC箱插入启封器[UNSEALER][ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 4086745297
+}

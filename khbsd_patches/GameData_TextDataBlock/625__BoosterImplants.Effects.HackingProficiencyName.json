@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hacking skill",
+  "Description": "Refers to the player's hacking skill level.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Piratage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abilità da hacker",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hacking-Fähigkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Habilidad de hackeo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Хакерские навыки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Habilidade de hackear",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umiejętność hakowania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハッキングスキル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해킹 스킬",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "破解技能",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "侵入技能",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.HackingProficiencyName",
+  "internalEnabled": true,
+  "persistentID": 625
+}

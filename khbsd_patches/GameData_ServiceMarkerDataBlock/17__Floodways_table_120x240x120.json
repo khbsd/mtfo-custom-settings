@@ -1,0 +1,52 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_table_120x240x120/Floodways_table_120x240x120_v01.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_table_120x240x120/Floodways_table_120x240x120_v02.prefab",
+        "function": 0,
+        "Shard": 2
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 13,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_table_120x240x120",
+    "BoundingVolume": 3456.0
+  },
+  "name": "Floodways_table_120x240x120",
+  "internalEnabled": true,
+  "persistentID": 17
+}

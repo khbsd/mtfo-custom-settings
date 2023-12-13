@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Transport MATTER_WAVE_PROJECTOR to Jump Gate in [ZONE_2]",
+  "Description": "Don't localize MATTER_WAVE_PROJECTOR and [ZONE_2]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Transportez MATTER_WAVE_PROJECTOR à la porte de largage dans la [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trasportare MATTER_WAVE_PROJECTOR a portale di salto in [ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Transportieren Sie den MATTER_WAVE_PROJECTOR zum Sprungtor in [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Transporta el MATTER_WAVE_PROJECTOR al portal de salto en la [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Переместите проектор материальных волн [MATTER_WAVE_PROJECTOR] к вратам телепортации в [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Transporte o MATTER_WAVE_PROJECTOR até o portão de salto na [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś projektor fal materii [MATTER_WAVE_PROJECTOR] do wrót skokowych w strefie 2 [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "MATTER_WAVE_PROJECTORを [ZONE_2]のジャンプゲートに運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "MATTER_WAVE_PROJECTOR를 [ZONE_2]의 점프 게이트로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將MATTER_WAVE_PROJECTOR傳送到[ZONE_2]的跳躍門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将MATTER_WAVE_PROJECTOR运到[ZONE_2]的跃迁门处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_MainObjective_progression",
+  "internalEnabled": true,
+  "persistentID": 1542
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Melee resist.",
+  "Description": "Short for \"melee resistance\", i.e. how well you can withstand a melee attack.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résistance de mêlée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Resist. mischia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nahkampf-Widerst.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resistencia a cuerpo a cuerpo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Иммун. (ближний бой)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resist. a golpes",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odporność w walce wręcz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近接攻撃耐性",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "근접 저항력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "近戰抵抗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近战抗性",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MeleeResistanceName",
+  "internalEnabled": true,
+  "persistentID": 527
+}

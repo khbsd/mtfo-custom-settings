@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.75,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.601,
+        "g": 0.155659,
+        "b": 0.187887713
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.75,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.9372549,
+        "g": 0.670588255,
+        "b": 0.6392157
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.972549,
+        "g": 0.9161058,
+        "b": 0.713851
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.929411769,
+        "g": 0.654432654,
+        "b": 0.403364718
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.6,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.882352948,
+        "g": 0.917647064,
+        "b": 0.8862745
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.2,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.6037736,
+        "g": 0.03702387,
+        "b": 0.03702387
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 0.9,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.843137264,
+        "g": 0.152941182,
+        "b": 0.20784314
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.8,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.9019608,
+        "g": 0.972549,
+        "b": 0.972549
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    }
+  ],
+  "name": "RedToWhite_1_Flickering",
+  "internalEnabled": true,
+  "persistentID": 81
+}

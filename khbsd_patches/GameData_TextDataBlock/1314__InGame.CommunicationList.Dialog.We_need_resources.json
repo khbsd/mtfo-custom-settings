@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need resources",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Il nous faut des ressources",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ci servono risorse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir brauchen Ressourcen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesitamos recursos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужны ресурсы",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos coletar recursos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebujemy zasobów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "物資が必要だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원을 모아야 해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们需要资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.We_need_resources",
+  "internalEnabled": true,
+  "persistentID": 1314
+}

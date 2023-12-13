@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TO STOP ALARM!",
+  "Description": "Ending of a Bioscan HUD message.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "POUR ARRÊTER L'ALARME\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PER FERMARE L'ALLARME!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZUM ALARMAUSSCHALTEN!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PARA DETENER LA ALARMA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ДЛЯ ОТКЛЮЧЕНИЯ ТРЕВОГИ!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PARA PARAR O ALARME!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W CELU WYŁĄCZENIA ALARMU!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警報を止めろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[경보 정지까지]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "以停止警報！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "以停止警报！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.ToStopAlarm",
+  "internalEnabled": true,
+  "persistentID": 1089
+}

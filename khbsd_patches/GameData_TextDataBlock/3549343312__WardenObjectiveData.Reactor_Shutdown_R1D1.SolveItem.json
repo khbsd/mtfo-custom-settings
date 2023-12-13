@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make sure the Reactor is fully shut down before leaving",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Assurez-vous que le réacteur est complètement éteint avant de partir.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verificare lo spegnimento completo del reattore prima di partire.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellen Sie sicher, dass der Reaktor vollständig abgeschaltet ist, bevor Sie gehen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Asegúrate de que el reactor está completamente apagado antes de salir.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перед уходом убедитесь, что реактор выключен.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Garanta que o reator esteja totalmente desligado antes de ir embora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przed wyruszeniem upewnij się, że reaktor jest w pełni wyłączony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "離れる前にリアクターが完全にシャットダウンしたか確かめろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "떠나기 전에 반응로를 완전히 정지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確認反應器完全關閉後再離開",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "离开前确保反应堆完全关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Shutdown_R1D1.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 3549343312
+}

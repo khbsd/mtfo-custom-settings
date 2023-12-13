@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You need a <color=orange>Bulkhead Security Key</color> to activate the Bulkhead Door Controller {0}",
+  "Description": "Don't localize Bulkhead Security Key and Bulkhead Door Controller.\nA text that appears on screen when the player is standing close to a Bulkhead Door Controller but doesn't have a Bulkhead Security Key. Don't alter the RichText tags. \"{0}\" will be replaced by the ID of the Bulkhead Door Controller, don't alter those characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Il vous faut une <color=orange>clé de cloison de sécurité</color> pour activer le contrôleur de porte à cloison {0}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Hai bisogno di una <color=orange>chiave di protezione stagna</color> per attivare il controller della porta stagna {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sie benötigen einen <color=orange>Schott-Sicherheitsschlüssel</color>, um die Schott-Türsteuerung {0} zu aktivieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesitas una <color=orange>llave de contención [BULKHEAD_KEY]</color> para activar el controlador de puerta de contención {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется <color=orange>ключ безопасности</color>, чтобы активировать терминал ворот {0}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você precisa de uma <color=orange>chave de segurança</color> para ativar o controle de portas protetoras {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebujesz <color=orange>klucza grodzi</color>, aby aktywować panel sterowania grodzi {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "遮断壁の操作盤を起動するには <color=orange>遮断壁のセキュリティキー</color> が必要 {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 격벽 문 제어기를 작동시키려면 <color=orange>격벽 보안 열쇠</color>가 필요합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你需要一把<color=orange>艙門安全鑰</color>來啟動艙門控制器{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要<color=orange>舱壁安全钥匙</color>才能开启舱壁门控制器{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.BulkheadKeyNeededToActivate_X",
+  "internalEnabled": true,
+  "persistentID": 874
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Please.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "S'il vous plaît.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Per favore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bitte.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Por favor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пожалуйста.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Por favor.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Proszę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "頼む。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부탁한다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拜託。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拜托。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Please",
+  "internalEnabled": true,
+  "persistentID": 1475
+}

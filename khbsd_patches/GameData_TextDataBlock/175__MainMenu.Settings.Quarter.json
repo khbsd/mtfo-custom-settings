@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quarter",
+  "Description": "A text string indicating that a particular game setting is set to \"quarter\". It could, for example, refer to \"texture resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quart",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un quarto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Viertel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cuarto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Низк.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Um quarto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "1/4",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "4分の1",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "1:4",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "四分之一",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "四分之一",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Quarter",
+  "internalEnabled": true,
+  "persistentID": 175
+}

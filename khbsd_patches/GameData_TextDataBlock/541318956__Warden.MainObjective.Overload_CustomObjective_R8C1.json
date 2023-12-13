@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate <color=orange>central terminal</color> in <color=orange>ZONE 370</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le <color=orange>terminal central</color> de la <color=orange>ZONE\u00A0370</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare <color=orange>terminale centrale</color> in <color=orange>ZONE 370</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das <color=orange>zentrale Terminal</color> in <color=orange>ZONE 370</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el <color=orange>terminal central</color> en la <color=orange>ZONA 370</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>главный терминал</color> в <color=orange>ZONE 370</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar <color=orange>terminal central</color> na <color=orange>ZONE 370</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj <color=orange>terminal centralny</color> w <color=orange>strefie 370 [ZONE_370]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 370</color>で<color=orange>中央端末</color>を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 370</color>에서 <color=orange>중앙 터미널</color> 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位<color=orange>ZONE 370</color>中的<color=orange>中央終端</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<color=orange>ZONE 370</color>中的<color=orange>中央终端</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Warden.MainObjective.Overload_CustomObjective_R8C1",
+  "internalEnabled": true,
+  "persistentID": 541318956
+}

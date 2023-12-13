@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MALE",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "H",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "UOMO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MÄNNLICH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "HOMBRE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "МУЖЧИНА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "HOMEM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MĘŻCZYZNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "男性",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "남성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "男",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "男",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.MALE",
+  "internalEnabled": true,
+  "persistentID": 1344852872
+}

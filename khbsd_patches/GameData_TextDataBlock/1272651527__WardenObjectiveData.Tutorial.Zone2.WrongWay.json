@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Head back to the main path",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retournez sur la voie principale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tornare al percorso principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kehren Sie auf den Hauptpfad zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vuelve a la ruta principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Возвращайтесь к главному пути.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volte para o caminho principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powróć na ścieżkę główną",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主進路へ戻れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주경로로 돌아가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "返回主路線",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返回主路线",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone2.WrongWay",
+  "internalEnabled": true,
+  "persistentID": 1272651527
+}

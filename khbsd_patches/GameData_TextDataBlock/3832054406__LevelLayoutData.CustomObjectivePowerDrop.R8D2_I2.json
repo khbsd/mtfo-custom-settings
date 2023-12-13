@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power restored in <color=#3299a8>ZONE 41</color>. All systems online",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Courant rétabli dans la <color=#3299a8>ZONE\u00A041</color>. Systèmes opérationnels.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimentazione ripristinata in <color=#3299a8>ZONE 41</color>. Tutti i sistemi online.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Strom in <color=#3299a8>ZONE\u00A041</color> wiederhergestellt. Alle Systeme online.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se ha restaurado la energía en la <color=#3299a8>ZONE 41</color>. Todos los sistemas están activados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Питание в <color=#3299a8>ZONE 41</color> восстановлено. Все системы запущены.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energia restaurada na <color=#3299a8>ZONE 41</color>. Todos os sistemas estão online",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasilanie w <color=#3299a8>strefie 41 [ZONE_41]</color> przywrócone. System uruchomiony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>ZONE 41</color>の電力が復旧。全システムオンライン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>ZONE 41</color> 전력 복구됨. 전 시스템 온라인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=#3299a8>ZONE 41</color>電力已恢復，所有系統上線",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=#3299a8>ZONE 41</color>电力已恢复，所有系统上线",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.CustomObjectivePowerDrop.R8D2_I2",
+  "internalEnabled": true,
+  "persistentID": 3832054406
+}

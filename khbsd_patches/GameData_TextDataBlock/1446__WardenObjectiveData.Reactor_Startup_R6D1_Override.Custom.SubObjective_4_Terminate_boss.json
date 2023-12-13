@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Extract with coordinates.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Allez au point d'évacuation avec les coordonnées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estrazione alle coordinate.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Extrahieren Sie an den angegebenen Koordinaten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extrae con coordenadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь к точке выхода по координатам.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá ao ponto de extração com as coordenadas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dokonaj ewakuacji na współrzędnych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "座標を持って脱出。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "좌표를 사용해 이탈.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "撤離到座標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "带上坐标撤离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_4_Terminate_boss",
+  "internalEnabled": true,
+  "persistentID": 1446
+}

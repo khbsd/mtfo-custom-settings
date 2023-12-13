@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Finalizing junction-key authorization. Do not exit scan.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Finalisation de l'autorisation de la clé de jonction. Ne sortez pas du scanner.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Finalizzazione dell'autorizzazione con chiave doppia. Non uscire dalla scansione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Autorisierung des Knotenpunktschlüssels wird durchgeführt. Verlassen Sie nicht den Scan.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Finalizando autorización de llave doble. No abandonar el análisis.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершение авторизации комплексного ключа. Не прерывайте сканирование.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Finalizando a autorização de chave de junção. Não saia do escâner.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Finalizowanie autoryzacji za pomocą klucza węzłowego. Nie przerywaj skanowania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ジャンクションキーの認証を完了中。スキャンを終了しないでください。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정션 키 인증 완료 중. 스캔을 종료하지 마세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在完成連接鑰授權。請勿離開掃描範圍。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在确认组合钥匙授权。请勿退出扫描范围。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_19",
+  "internalEnabled": true,
+  "persistentID": 273177769
+}

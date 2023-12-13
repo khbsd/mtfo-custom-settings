@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_2] unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_2] débloquée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per zona 2 [ZONE_2] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_2] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la [ZONE_2] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в зону [ZONE_2] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para [ZONE_2] destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do [ZONE_2] odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_2]へのドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_2] 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_2]的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_2]门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CentralPowerGeneratorCluster_3_R5A3_L3.EventsOnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 4278864296
+}

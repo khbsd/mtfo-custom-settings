@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Finish the Scan Sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminez la séquence d'analyse.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminare sequenza di scansione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beenden Sie die Scan-Sequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Termina la secuencia del escáner.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершите проверку безопасности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Termine a sequência de escaneamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ukończ sekwencję skanowania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャンシークエンスを完了しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔 절차 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "結束掃描序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "结束扫描序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S2_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1575671732
+}

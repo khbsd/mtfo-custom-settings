@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to <color=orange>[ITEM_ZONE]</color> and find Hydrostasis Unit",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez <color=orange>[ITEM_ZONE]</color> et cherchez l’unité d’hydrostase.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>[ITEM_ZONE]</color> e trovare Unità idrostatica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>[ITEM_ZONE]</color> und finden Sie die Hydrostasis-Einheit.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la <color=orange>[ITEM_ZONE]</color> y encuentra la unidad de hidroletargo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в <color=orange>[ITEM_ZONE]</color> и найдите стазис-модуль.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até <color=orange>[ITEM_ZONE]</color> e encontre a unidade de hidroestase",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy <color=orange>[ITEM_ZONE]</color> i znajdź jednostkę hydrostazy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ITEM_ZONE]</color>に行き、ハイドロスタシスユニットを見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ITEM_ZONE]</color>(으)로 이동해 수분식 생체 정지 유닛 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>[ITEM_ZONE]</color>並找到靜液裝置",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>[ITEM_ZONE]</color>并找到流体静力舱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindZone_R7B3",
+  "internalEnabled": true,
+  "persistentID": 1249757231
+}

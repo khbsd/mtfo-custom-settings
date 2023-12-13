@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RUNDOWN SECTORS CLEARED",
+  "Description": "\"Rundown\" is GTFO's term for \"campaign\", i.e. a set of expeditions (missions/maps). Expeditions (missions/maps) are divided into \"sectors\" which are optional to clear. A certain amount of cleared sectors will unlock new expeditions. \"Rundown sectors cleared\" is a headline for a list of sectors that the player has cleared.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SECTEURS DE CAMPAGNE TERMINÉS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SETTORI PERLUSTRAZIONE COMPLETATI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RUNDOWN-SEKTOREN ABGESCHLOSSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECTORES DE CAMPAÑA COMPLETADOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАЧИЩЕННЫЕ СЕКТОРЫ КАМПАНИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUIU OS SETORES DA CAMPANHA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZYSZCZONE SEKTORY EKSTRAKCJI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クリアしたランダウンセクター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완료한 런다운 섹터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征綱要已完成分區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "行动分区已清理",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.SectorsCleared",
+  "internalEnabled": true,
+  "persistentID": 13
+}

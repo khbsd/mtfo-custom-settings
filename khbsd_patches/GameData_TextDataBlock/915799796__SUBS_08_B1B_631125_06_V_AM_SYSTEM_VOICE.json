@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[GARGANTA ALERT SYSTEM]\nThis is a contamination preparedness training exercise. \nAnti-radiation bulkheads will remain open and contamination filtration \nwill be suspended for the duration of the exercise. \nThere is no need to panic. \nThis is a drill.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[SYSTÈME D'ALERTE GARGANTA]\nCeci est un exercice de préparation à la contamination.\nLes cloisons anti-radiation resteront ouvertes et le système de filtration\nsera suspendu pour la durée de l'exercice.\nGardez votre calme.\nCeci est un exercice.\r",
+    "ShouldTranslate": true
+  },
+  "Italian": {
+    "Translation": "[SISTEMA DI AVVISO GARGANTA]\nQuesto è un esercizio di addestramento sulla preparazione alla contaminazione. \nLe porte stagne anti-radiazioni rimarranno aperte e il filtraggio dei contaminanti \nsarà sospeso per tutta la durata dell'esercitazione. \nNon c'è bisogno di farsi prendere dal panico. \nQuesta è un'esercitazione.\r",
+    "ShouldTranslate": true
+  },
+  "German": {
+    "Translation": "[GARGANTA-WARNUNGSSYSTEM]\nDies ist eine Übung zur Kontaminationskontrolle.\nStrahlenschutz-Schotttüren bleiben geöffnet und Kontaminationsfilterung\nStrahlenschutzschotten bleiben geöffnet und die Kontaminationsfilterung wird für die Dauer der Übung ausgesetzt.\nEs gibt keinen Grund zur Panik \nDies ist eine Übung.\r",
+    "ShouldTranslate": true
+  },
+  "Spanish": {
+    "Translation": "[SISTEMA DE ALERTA DE GARGANTA]\nEste es un ejercicio de entrenamiento de preparación de infección. \nLas contenciones antirradiación permanecerán abiertas y el filtro de infección \nse anulará mientras el ejercicio esté activo. \nQue no cunda el pánico. \nSolo es un simulacro.\r",
+    "ShouldTranslate": true
+  },
+  "Russian": {
+    "Translation": "[СИСТЕМА АВАРИЙНОГО ОПОВЕЩЕНИЯ ГАРГАНТА]\nЭто учебное мероприятие по отработке готовности к заражению. \nНа время учений противорадиационные ворота останутся открыты, \nа фильтрация заражения проводиться не будет. \nНе нужно паниковать. \nЭто учебная тревога.\r",
+    "ShouldTranslate": true
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[SISTEMA DE ALERTA DA GARGANTA]\nEste é um exercício de treinamento de preparo para contaminação. \nPortas protetoras antirradiação ficarão abertas e a filtragem de contaminação \nserá suspensa durante o exercício. \nNão há motivos para pânico. \nÉ só um teste.\r",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "[SYSTEM OSTRZEGANIA GARGANTA]\nTo szkolenie w zakresie gotowości na wypadek skażenia. \nGrodzie przewcipromienne pozostaną otwarte, a filtracja zanieczyszczeń \nzostanie zawieszona na czas trwania szkolenia. \nNie ma powodu do paniki.\nTo ćwiczenie.\r",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "[ガルガンタ警告システム]\nこれは汚染事故の準備訓練である。\n訓練中、耐放射線隔壁は開放されたままになり、\n汚染濾過は一時停止となる。\n慌てる必要はない。\nこれは訓練である。\r",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "[가르간타 경보 시스템]\n이 훈련은 오염 대비 훈련입니다.\n방사선 방호 격벽은 개방 상태로 유지되며,\n훈련 진행 중 오염 여과는 중단됩니다.\n당황할 필요는 없습니다.\n이것은 훈련입니다.\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "[加甘塔警報系統]\n這是汙染準備訓練演習。\n演習期間，防輻射艙門將保持開啟狀態，\n而且汙染過濾將會暫停。\n無需恐慌。\n這是演習。\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "[加尔甘塔警告系统]\n这是一次污染准备训练演习。\n演习期间，防辐射舱壁门将会保持开启状态，\n且污染过滤将会暂时关闭。\n无需恐慌。\n这是一次演习。\r",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 4,
+  "name": "SUBS_08_B1B_631125_06_V_AM_SYSTEM_VOICE",
+  "internalEnabled": true,
+  "persistentID": 915799796
+}

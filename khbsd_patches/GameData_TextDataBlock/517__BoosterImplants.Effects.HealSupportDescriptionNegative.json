@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will get less out of MediPacks.",
+  "Description": "Don't localize MediPacks. \nDescribes the disadvantage of having a poor \"med efficiency\" value. Essentially this means that when the subject uses a MediPack, it will replenish less health than usual.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet tire moins de bénéfices des MediPacks.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto otterrà benefici minori dai MediPack.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson nutzt MediPacks schlechter.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto les sacará menos partido a los botiquines.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аптечки восстанавливают здоровье менее эффективно.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo é menos beneficiado pelos pacotes médicos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca odzyska mniej zdrowia po użyciu apteczki.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象へのMediPacksの効果が下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 구급팩 효과를 더 적게 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象將從醫藥包[MediPack]獲益較少。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "医药包治疗使用者的效果降低。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Effects.HealSupportDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 517
+}

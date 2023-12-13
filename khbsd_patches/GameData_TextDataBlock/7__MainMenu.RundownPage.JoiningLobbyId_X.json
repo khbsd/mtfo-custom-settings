@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Joining lobbyId: {0}",
+  "Description": "In GTFO, another player can generate a unique \"lobby ID\" (a series of numbers) and send it to you. After you've copied it to your Windows clipboard, you can press the \"JOIN FROM CLIPBOARD\" button to join that other player's lobby.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Connexion à l'ID de salon\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso alla lobby ID: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beitritts-Lobby-ID: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uniéndose a la sala con Id. {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ID лобби для входа: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entrando na IDLobby: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dołączanie do ID lobby: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "参加先のロビーID: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 로비 ID에 참가 중: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加入大廳ID：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在加入大厅ID：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.JoiningLobbyId_X",
+  "internalEnabled": true,
+  "persistentID": 7
+}

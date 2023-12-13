@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification failed! Use public key <color=orange>{0}</color> to obtain the code",
+  "Description": "{0} is a key the players have to input into a terminal",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Échec de la vérification\u00A0! Utilisez la clé publique <color=orange>{0}</color> pour obtenir le code.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica fallita! Usare chiave pubblica <color=orange>{0}</color> per ottenere il codice.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung fehlgeschlagen! Nutzen Sie den öffentlichen Schlüssel <color=orange>{0}</color>, um den Code zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación fallida! Usa la clave pública <color=orange>{0}</color> para obtener el código.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верификация не пройдена! Для получения кода используйте публичный ключ <color=orange>{0}</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na verificação! Use a chave pública <color=orange>{0}</color> para obter o código",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja nieudana! Aby uzyskać kod, użyj klucza publicznego <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証失敗！パブリックキー<color=orange>{0}</color>を使用してコードを取得",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 실패! <color=orange>{0}</color> 공개 키를 사용해 코드를 받으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證失敗！使用公開金鑰<color=orange>{0}</color>取得驗證碼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证失败！使用公共密钥<color=orange>{0}</color>获取代码",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "InGame.Terminal.Verification_failed_Use_public_key_X_to_obtain_the_code",
+  "internalEnabled": true,
+  "persistentID": 507647514
+}

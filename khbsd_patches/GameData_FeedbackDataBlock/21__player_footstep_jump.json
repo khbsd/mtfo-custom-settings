@@ -1,0 +1,162 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpConcrete"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpConcrete_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpRubber"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpRubber_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMud"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpMud_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpGravel"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpGravel_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSheetMetal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSheetMetal_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpWood"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpWood_3rd"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSand"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "PlayerJumpSand_3rd"
+    }
+  ],
+  "effectData": [],
+  "name": "player_footstep_jump",
+  "internalEnabled": true,
+  "persistentID": 21
+}

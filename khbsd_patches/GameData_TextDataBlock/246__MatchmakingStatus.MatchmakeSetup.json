@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MATCHMAKE SETUP",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CONFIGURATION DE RECHERCHE DE MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IMPOSTAZIONI ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE-SET-UP",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CONFIGURAR EMPAREJAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАСТРОЙКА ПОДБОРА КОМАНДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFIGURAÇÃO DE BUSCA-PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KONFIGURACJA MATCHMAKINGU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイク設定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치메이크 설정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配對設定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匹配设置",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.MatchmakeSetup",
+  "internalEnabled": true,
+  "persistentID": 246
+}

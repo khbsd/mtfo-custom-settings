@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>//ERROR:Power Outage - Requires 4 generators online</color>\n",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>//ERREUR\u00A0: Panne de courant. Requiert 4\u00A0générateurs en ligne.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>//ERRORE: interruzione di corrente - Richiede 4 generatori online</color>\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>//FEHLER: Stromausfall – 4 Generatoren müssen online sein</color>\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>//ERROR: Pérdida de energía - Requiere 4 generadores activados.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Отключение электропитания. Требуется запустить 4 генератора.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>//ERRO: Falta de energia — Requer 4 geradores online</color>\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>//BŁĄD: awaria zasilania – wymagane działanie 4 generatorów</color>\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>//エラー:停電 - オフライン発電機4が必要</color>\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>//오류: 전력 공급 중단. 발전기 4개 온라인 필요</color>\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>//錯誤：斷電 - 需要4台發電機上線</color>\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>//错误：断电 - 需要4台发电机在线</color>\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_Generator4_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1024870377
+}

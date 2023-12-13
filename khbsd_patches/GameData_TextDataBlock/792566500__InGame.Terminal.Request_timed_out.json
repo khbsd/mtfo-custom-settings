@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Request timed out.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "La demande a expiré.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta scaduta.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeitüberschreitung der Anforderung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El tiempo de la solicitud ha expirado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Превышен интервал ожидания",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O pedido excedeu o tempo limite.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upłynął limit czasu żądania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リクエストタイムアウト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "요청 시간 초과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "要求逾時。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "请求超时。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Request_timed_out",
+  "internalEnabled": true,
+  "persistentID": 792566500
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OPTIONAL: Use nearby <color=#3299a8>terminals</color> to block incoming <color=#3299a8>monster surges</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OPTIONNEL\u00A0: Utilisez les <color=#3299a8>terminaux</color> à proximité pour empêcher les <color=#3299a8>monstres</color> d'affluer.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OPZIONALE: usare <color=#3299a8>terminali</color> vicini per bloccare <color=#3299a8>ondate di mostri</color> in arrivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "OPTIONAL: Nutzen Sie die <color=#3299a8>Terminals</color> in der Nähe, um ankommende <color=#3299a8>Monsterwellen</color> aufzuhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OPCIONAL: Usa <color=#3299a8>terminales</color> cercanos para bloquear los <color=#3299a8>ataques de monstruos</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ДОПОЛНИТЕЛЬНО: используйте ближайшие <color=#3299a8>терминалы</color>, чтобы помешать приближающимся <color=#3299a8>монстрам</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OPCIONAL: Usar <color=#3299a8>terminais</color> da área para bloquear os <color=#3299a8>surtos de monstros</color> que se aproximam",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OPCJONALNE: Użyj pobliskich <color=#3299a8>terminali</color>, aby powstrzymać nadchodzące <color=#3299a8>fale potworów</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任意：周辺の<color=#3299a8>端末</color>を使い、 やって来る<color=#3299a8>モンスターの襲来</color>を阻止しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "선택 사항: 주변 <color=#3299a8>터미널</color>을 사용해 <color=#3299a8>괴물 무리</color> 차단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可選：使用附近的<color=#3299a8>終端</color>阻止來襲的<color=#3299a8>大量怪物</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可选：使用附近的<color=#3299a8>终端</color>阻止来袭的<color=#3299a8>怪物狂潮</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.AuxiliaryFloodgates.R8D2_S1",
+  "internalEnabled": true,
+  "persistentID": 2103205354
+}

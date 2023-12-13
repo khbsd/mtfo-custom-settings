@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} to time interval.",
+  "Description": "Very short instructions on how to beat a GTFO mini-game: A visual indicator swings back and forth across a display - the task is to push a button (\"represented by \"{0}\") right as the indicator is in a specific position. Essentially, it's a timing game. Synonyms for \"time\" could potentially be \"match\" or \"synchronize.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} pour synchroniser l'intervalle.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} per sincronizzare l'intervallo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} zum Zeitintervall.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} para el intervalo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0}, чтобы попасть в цель.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} para sincronizar intervalo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0}, aby wymierzyć interwał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} で間隔を合わせる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}: 타이밍 맞춰 누르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "及時按下{0}。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "根据间隔按下{0}。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.HackingMinigame.X_ToTimeInterval",
+  "internalEnabled": true,
+  "persistentID": 969
+}

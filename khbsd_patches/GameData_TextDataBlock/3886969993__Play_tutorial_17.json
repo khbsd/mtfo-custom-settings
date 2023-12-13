@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nUse doors to secure vulnerable positions. Close the door.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nUtilisez les portes pour défendre les positions vulnérables. Fermez la porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nUsare le porte per proteggere le posizioni vulnerabili. Chiudere la porta.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nNutzen Sie Türen, um angreifbare Positionen zu sichern. Schließen Sie die Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nUtiliza las puertas para defender posiciones vulnerables. Cierra la puerta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nИспользуйте двери, чтобы защитить уязвимые позиции. Закройте дверь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nUse portas para proteger posições vulneráveis. Feche a porta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nUżyj drzwi, aby zabezpieczyć wrażliwe pozycje.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n攻撃されやすい位置の安全を確保するためドアを使用せよ。ドアを閉めろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n문을 사용해 취약한 위치를 보완하십시오. 문을 닫으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n利用門來加強防禦弱點位置。關門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n使用门守住脆弱位置。关上门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_17",
+  "internalEnabled": true,
+  "persistentID": 3886969993
+}

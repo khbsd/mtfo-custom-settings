@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aborted PING Command\n{0} is no longer available",
+  "Description": "{0} is the name of an item the player tries to ping.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Commande PING annulée.\n{0} n'est plus disponible.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando PING annullato\n{0} non più disponibile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PING-Befehl abgebrochen\n{0} nicht länger erreichbar",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando PING abortado\n{0} ya no está disponible.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Команда PING отменена\nПредмет {0} больше не доступен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Suspendeu comando PING\n{0} não está mais disponível",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerwano polecenie OZNACZANIA\n{0} – dostęp utracony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PINGコマンドを中断\n{0}はもう利用できません",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중단된 PING 명령\n{0}은(는) 더 이상 사용할 수 없습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已中斷PING指令\n無法再使用{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已中断PING命令\n{0}已不可用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Aborted_PING_Command_X_is_no_longer_available",
+  "internalEnabled": true,
+  "persistentID": 1159872459
+}

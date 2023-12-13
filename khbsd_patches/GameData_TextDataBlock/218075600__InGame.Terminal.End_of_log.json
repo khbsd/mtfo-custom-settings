@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "End of log.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Fin du journal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fine del registro.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ende des Protokolls.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fin del registro.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Конец журнала",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fim do registro.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Koniec dziennika.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ログ終了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로그 끝",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "日誌結束。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "日志结束。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.End_of_log",
+  "internalEnabled": true,
+  "persistentID": 218075600
+}

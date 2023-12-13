@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Texture Size",
+  "Description": "Refers to the Texture Resolution Size",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résolution des textures",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dimensione texture",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Texturgröße",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resolución de texturas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Размер текстур",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resolução",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozmiar tekstur",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "テクスチャのサイズ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "텍스처 크기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "紋理大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "纹理尺寸",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.TextureSize",
+  "internalEnabled": true,
+  "persistentID": 98
+}

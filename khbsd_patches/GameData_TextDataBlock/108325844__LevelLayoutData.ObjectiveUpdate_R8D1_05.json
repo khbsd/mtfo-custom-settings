@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use <color=orange>terminal command</color> to open the door to ZONE 40 ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la <color=orange>commande du terminal</color> pour ouvrir la porte vers la ZONE\u00A040",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il <color=orange>comando da terminale</color> per aprire la porta per ZONE 40",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie einen <color=orange>Terminalbefehl</color>, um die Tür zu ZONE 40 zu öffnen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el <color=orange>comando del terminal</color> para abrir la puerta a la ZONE 40.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте <color=orange>команду терминала</color>, чтобы открыть дверь в ZONE 40.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar <color=orange>comando de terminal</color> para abrir a porta para a ZONE 40 ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj <color=orange>polecenia w terminalu</color>, aby otworzyć drzwi do strefy 40 [ZONE_40]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>端末コマンド</color>を使い、ZONE 40へのドアを開けろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>터미널 명령</color>을 사용해 ZONE 40 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用<color=orange>終端指令</color>開啟通往ZONE 40的門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>终端命令</color>打开通往ZONE 40的门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_05",
+  "internalEnabled": true,
+  "persistentID": 108325844
+}

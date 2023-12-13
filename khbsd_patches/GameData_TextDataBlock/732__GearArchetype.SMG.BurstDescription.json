@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Four round burst\nShort to mid range",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rafale de quatre balles\nCourte à moyenne portée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raffica a quattro colpi\nGittata da breve a media",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "4-Schuss-Salve\nKurze bis mittlere Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disparo cuádruple\nCorto a medio alcance",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очередь по четыре выстрела\nМалая или средняя дальность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Disparo quádruplo\nCurto a médio alcance",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Seria czterech pocisków\nKrótki i średni dystans",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "4点バースト\n近距離から中距離",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "4점사\n중단거리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "四連發\n中短程",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "四连发\n近到中程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 732
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[WOODS]\nThis is Schaeffer. \nThe security door won't open if you're holding the datacubes. \nSend them through first.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[WOODS]\r\nIci Schaeffer.\nLa porte de sécurité ne s'ouvrira pas si vous portez les cubes de données.\nEnvoyez-les-nous d'abord.\r",
+    "ShouldTranslate": true
+  },
+  "Italian": {
+    "Translation": "[WOODS]\r\nQui Schaeffer. \nLa porta di sicurezza non si aprirà se avete in mano i cubi di dati. \nMandateceli prima.\r",
+    "ShouldTranslate": true
+  },
+  "German": {
+    "Translation": "[WOODS]\r\nHier spricht Schaeffer. \nDie Sicherheitstür wird sich nicht öffnen, wenn Sie die Datenwürfel in der Hand halten. \nSchicken Sie sie zuerst durch.\r",
+    "ShouldTranslate": true
+  },
+  "Spanish": {
+    "Translation": "[WOODS]\r\nSoy Schaeffer. \nLa puerta de seguridad no se abrirá si sostenéis los cubos de datos. \nAntes de nada, enviádnoslos.\r",
+    "ShouldTranslate": true
+  },
+  "Russian": {
+    "Translation": "[ВУДС]\r\nЭто Шеффер.\nЕсли вы держите кубы данных, защитная дверь не откроется.\nСначала передайте их.\r",
+    "ShouldTranslate": true
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[WOODS]\r\nSchaeffer falando. \nA porta de segurança não vai abrir se vocês estiverem com os cubos de dados. \nMandem eles primeiro.\r",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "[WOODS]\r\nTu Schaeffer. \nDrzwi się nie otworzą, jeśli macie ze sobą kostki danych. \nMusicie je najpierw dostarczyć.\r",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "[ウッズ]\r\nこちらシェフェール。\nデータキューブを持っていると、セキュリティドアは開かない。\n先に送ってくれ。\r",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "[우즈]\r\n여기는 쉐퍼. \n[DATA_CUBE] 데이터 큐브를 들고 있으면 보안문이 열리지 않아. \n먼저 통과시켜.\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "[伍茲]\r\n這裡是薛佛。\n如果你們拿著資料方塊，安全門是打不開的。\n先把資料方塊送過來。\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "[伍兹]\r\n这里是谢弗。\n如果你们拿着数据立方，安全门是打不开的。\n先把数据立方送过来。\r",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "SUBS_08_E2B_631129_01_V_AM_5",
+  "internalEnabled": true,
+  "persistentID": 896706785
+}

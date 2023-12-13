@@ -1,0 +1,15 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "DESERT_BOSS_ARTILLERY_PROJECTILE_HIT"
+    }
+  ],
+  "effectData": [],
+  "name": "desert_boss_artillery_hit",
+  "internalEnabled": true,
+  "persistentID": 58
+}

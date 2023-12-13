@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lockdown to [ZONE_5] is lifted. FRT located in quadrant. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage de la [ZONE_5] levé. Turbine anti-brouillard localisée dans le quadrant. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Blocco a zona 5 [ZONE_5] revocato. TAN situata nel quadrante. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelung von [ZONE_5] aufgehoben. NVT befindet sich im Quadranten. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se ha eliminado el cierre de emergencia a la\u00A0[ZONE_5]. FRT situado en el cuadrante. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Изоляция [ZONE_5] снята. Антидымовая турбина находится в секторе. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento para [ZONE_5] removido. FRT localizada no quadrante. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada strefy 5 [ZONE_5] zniesiona. Zlokalizowano turbinę przeciwmgielną w kwadrancie. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]のロックダウン解除。四分円でFRT発見。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5] 폐쇄 해제. 사분면에서 FRT 발견. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[ZONE_5]已解除封鎖。驅霧器渦輪位於象限中。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_5]已解除封锁。驱雾器涡轮位于象限中。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Infection_R5D1_L2.EventsOnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 658139899
+}

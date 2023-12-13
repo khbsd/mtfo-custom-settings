@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Returning...",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retour...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ritorno...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zurück ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Regresando...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Возврат...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Retornando...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powrót…",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "帰還中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "돌아가기...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在返回……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在返回……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalConnect_Returning",
+  "internalEnabled": true,
+  "persistentID": 3129341011
+}

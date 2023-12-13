@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make your way to the armory in <color=orange>ZONE 73</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Introduisez-vous dans l'arsenal de la <color=orange>ZONE\u00A073</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere l'armeria nella <color=orange>ZONE 73</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zur Waffenkammer in <color=orange>ZONE 73</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Consigue llegar a la armería en la <color=orange>ZONE 73</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до оружейной в <color=orange>ZONE 73</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abra caminho até o arsenal na <color=orange>ZONE 73</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do zbrojowni w <color=orange>strefie 73 [ZONE_73]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 73</color>の武器庫へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 73</color> 무기고로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "設法到達<color=orange>ZONE 73</color>的軍械庫",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "设法到达<color=orange>ZONE 73</color>的军械库",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone2.GoToArmory",
+  "internalEnabled": true,
+  "persistentID": 2739528692
+}

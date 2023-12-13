@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Cancel that.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Annulez ça.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Annullare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Abbrechen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cancela.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отбой.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cancela.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerwać to.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "今のは取り消す。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "취소한다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "取消。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "取消。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Cancel_That",
+  "internalEnabled": true,
+  "persistentID": 1479
+}

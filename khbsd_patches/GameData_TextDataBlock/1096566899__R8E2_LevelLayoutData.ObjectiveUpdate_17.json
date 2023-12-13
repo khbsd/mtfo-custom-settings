@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Keep back enemies to buy time. Use <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> command on terminals to lock out enemies.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Empêchez les ennemis de vous suivre pour gagner du temps. Utilisez la commande <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> depuis les terminaux pour leur barrer la route.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tenere indietro i nemici per guadagnare tempo. Usare il comando <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> sui terminali per bloccare fuori i nemici.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halten Sie Feinde zurück, um Zeit zu gewinnen. Nutzen Sie den Befehl <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> an Terminals, um Feinde auszusperren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No te acerques a los enemigos para ahorrar tiempo. Usa el comando <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> en los terminales para bloquear a los enemigos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Задержите врагов, чтобы выиграть время. Для этого используйте команду <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> на терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mantenha os inimigos longe para ganhar tempo. Use o comando <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> nos terminais para prender os inimigos para fora.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Utrzymuj przeciwników z dala, aby zapewnić sobie czas. Użyj polecenia <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> w terminalach, aby odciąć przeciwników.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵を食い止めて時間を稼げ。端末より<color=#3299a8>ADMIN_TEMP_OVERRIDE</color>コマンドを使って敵を締め出せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적을 물러나게 만들어 시간을 벌기 위어야 합니다. 터미널에서 <color=#3299a8>ADMIN_TEMP_OVERRIDE</color> 명령을 사용하여 적을 차단하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "阻止敵人以爭取時間。在終端上使用<color=#3299a8>ADMIN_TEMP_OVERRIDE</color>指令將敵人封鎖在外。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阻止敌人以争取时间。在终端上使用<color=#3299a8>ADMIN_TEMP_OVERRIDE</color>命令将敌人封锁在外。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8E2_LevelLayoutData.ObjectiveUpdate_17",
+  "internalEnabled": true,
+  "persistentID": 1096566899
+}

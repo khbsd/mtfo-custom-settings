@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed towards the extraction point in [ZONE_5]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation de la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere verso il punto di estrazione in [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zum vorderen Extraktionspunkt in [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hacia el punto de extracción en la\u00A0[ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь к точке выхода в [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá na direção do ponto de extração na [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do punktu ewakuacyjnego w strefie 5 [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]の脱出地点へ移動しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5]의 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_5]撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_5]的撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone4.OpenDoorSubObjective",
+  "internalEnabled": true,
+  "persistentID": 1060820775
+}

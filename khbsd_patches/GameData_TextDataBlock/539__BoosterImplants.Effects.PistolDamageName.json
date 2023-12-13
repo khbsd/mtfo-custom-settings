@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pistol Damage",
+  "Description": "I.e. how much damage you can deal with a pistol.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de pistolet",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da pistola",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pistolenschaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de pistola",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (пистолет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de pistola",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od pistoletu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ピストルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "권총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "手槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.PistolDamageName",
+  "internalEnabled": true,
+  "persistentID": 539
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Galician",
+  "Description": "A lanugage spoken in the Galicia region of Spain.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Galicien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Galiziano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Galizisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gallego",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Галисийский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Galego",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Galicyjski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ガリシア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "갈리시아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加里斯亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加利西亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Galician",
+  "internalEnabled": true,
+  "persistentID": 316
+}

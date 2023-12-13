@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tahitian",
+  "Description": "A language spoken in French Polynesia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tahitien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tahitiano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tahitisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tahitiano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Таитянский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Taitiano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tahitański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "タヒチ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "타히티어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大溪地文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "塔希提语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Tahitian",
+  "internalEnabled": true,
+  "persistentID": 433
+}

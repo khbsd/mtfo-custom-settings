@@ -1,0 +1,54 @@
+{
+  "m_timing": {
+    "minTimeInState": 5.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [
+    {
+      "GameEvent": 11,
+      "SoundEvent": "combat_orch_hit_level_3",
+      "Cooldown": 1.0
+    },
+    {
+      "GameEvent": 32,
+      "SoundEvent": "combat_deep_roll",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 33,
+      "SoundEvent": "combat_braahm_org",
+      "Cooldown": 0.0
+    },
+    {
+      "GameEvent": 0,
+      "Cooldown": 0.0
+    }
+  ],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "combat_regular"
+    },
+    {
+      "eventName": "music_combat"
+    },
+    {
+      "eventName": "stop_voice_logs"
+    }
+  ],
+  "m_SwitchesOnEnter": [],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "CombatRegular",
+  "internalEnabled": true,
+  "persistentID": 6
+}

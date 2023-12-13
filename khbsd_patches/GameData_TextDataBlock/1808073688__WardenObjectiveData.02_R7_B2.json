@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown. Issue bypass from local terminal.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. Ignorez depuis un terminal local.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. Eseguire bypass da terminale locale.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Leiten Sie die Umgehung an einem lokalen Terminal ein.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Cierre de emergencia en puerta. Ejecuta anulación en terminal local.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Выполните обход с локального терминала.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em modo de confinamento de emergência. Use o terminal local para contornar.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Zażądaj obejścia z lokalnego terminalu.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー: ドアは緊急封鎖中。ローカル端末からバイパスを行え。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문 비상 폐쇄. 내부 터미널에서 우회</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態。從本地終端發布旁路。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁中。从本地终端发布旁通。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.02_R7_B2",
+  "internalEnabled": true,
+  "persistentID": 1808073688
+}

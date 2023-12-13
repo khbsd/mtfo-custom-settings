@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone quarantined. Manually run <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> from a terminal in <color=orange>ZONE 24</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Zone en quarantaine. Exécutez manuellement <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> depuis un terminal de la <color=orange>ZONE\u00A024</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Zona in quarantena. Eseguire manualmente <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> da un terminale nella <color=orange>ZONE 24</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zone unter Quarantäne. Führen Sie den Befehl <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> manuell an einem Terminal in <color=orange>ZONE 24</color> aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Zona en cuarentena. Ejecutar <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> manualmente desde un terminal en la <color=orange>ZONE 24</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Зона на карантине. Вручную запустите протокол экстренной эвакуации <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> на терминале в <color=orange>ZONE 24</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Zona em quarentena. Execute manualmente <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> em um terminal da <color=orange>ZONE 24</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strefa objęta kwarantanną. Uruchom ręcznie polecenie <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> z terminalu w <color=orange>strefie 24 [ZONE_24]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゾーンを隔離。手動で<color=orange>EMERGENCY_ESCAPE_PROTOCOL</color>を<color=orange>ZONE 24</color>の端末で起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "구역 격리됨. <color=orange>ZONE 24</color> 터미널에서 <color=orange>EMERGENCY_ESCAPE_PROTOCOL</color> 비상 탈출 프로토콜 수동 시행할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "區域已隔離。由<color=orange>ZONE 24</color>的終端手動執行<color=orange>EMERGENCY_ESCAPE_PROTOCOL</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "区域已隔离。在<color=orange>ZONE 24</color>的终端上手动运行紧急逃离协议<color=orange>EMERGENCY_ESCAPE_PROTOCOL</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_5",
+  "internalEnabled": true,
+  "persistentID": 2565679904
+}

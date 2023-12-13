@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} is using {1} on you",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} utilise {1} sur vous",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} sta usando {1} su di te",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wendet {1} auf Sie an",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} está usando {1} contigo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} использует на вас: {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} está usando {1} em você",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} używa na tobie: {1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} があなたに {1} を使用中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 님이 당신에게 {1} 사용 중입니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}對你使用{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}正在对你使用{1}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.X_USE_Y_ON_YOU",
+  "internalEnabled": true,
+  "persistentID": 4155006703
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: CONTAINMENT LIFTED. BIOMASS READINGS APPROACHING",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: CONFINEMENT LEVÉ. BIOMASSES EN APPROCHE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: CONTENIMENTO ATTIVATO. RILEVATA BIOMASSA IN AVVICINAMENTO.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: EINDÄMMUNG AUFGEHOBEN. BIOMASSE-WERTE NÄHERN SICH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: CONTENCIÓN ELIMINADA. LECTURAS DE BIOMASA ENTRANTES.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! КАРАНТИН ЗАВЕРШЕН. ПРИБЛИЖЕНИЕ БИОСИГНАТУР.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: CONTENÇÃO RETIRADA. LEITURAS DE BIOMASSA SE APROXIMANDO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: IZOLACJA ZNIESIONA. ZBLIŻAJĄ SIĘ SYGNATURY BIOMASY.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：封鎖解除。生体反応が接近中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 격리 시스템 해제. 바이오매스 신호 접근 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：遏制解除。生物質讀數接近",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：控制已解除，生物质读数正在接近",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Containment_R5B3_L2.EventOnActivate_Intel",
+  "internalEnabled": true,
+  "persistentID": 3981884256
+}

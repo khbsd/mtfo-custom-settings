@@ -1,0 +1,51 @@
+{
+  "publicName": "Lock Melter",
+  "LocalizedName": 3907231457,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 5,
+  "inventorySlot": 5,
+  "FPSSettings": 32,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 3,
+  "ConsumableAmmoMax": 5,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/LockMelter/Consumable_LockMelter_FirstPerson.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/LockMelter/Consumable_LockMelter.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/LockMelter/Consumable_LockMelter_Pickup.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/LockMelter/Consumable_LockMelter.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "LockMelter",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "LockMelter",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_LockMelter",
+  "internalEnabled": true,
+  "persistentID": 116
+}

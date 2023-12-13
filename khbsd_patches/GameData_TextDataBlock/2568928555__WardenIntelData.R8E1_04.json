@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING:</color> Large biomass detected.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0:</color> biomasse importante détectée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE:</color> rilevata grande biomassa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG:</color>: Große Biomasse entdeckt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA:</color> Biomasa grande detectada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> Обнаружена большая биосигнатура.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO</color>: Grande biomassa detectada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE:</color> wykryto znaczną biomasę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：</color>大型の生体反応を検知。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color> 대형 바이오매스 탐지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color>偵測到大量生物質。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color>探测到大型生物质。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenIntelData.R8E1_04",
+  "internalEnabled": true,
+  "persistentID": 2568928555
+}

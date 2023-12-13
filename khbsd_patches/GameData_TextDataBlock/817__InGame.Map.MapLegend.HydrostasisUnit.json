@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hydrostasis Unit",
+  "Description": "Part of the map \"legend\" (icon explanations.) A hydrostasis unit is a pod that humans can lie down in, that closes and puts the subject in a chemically induced coma.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Unité d'hydrostase",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Unità idrostatica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hydrostasis-Einheit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Unidad de hidroletargo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стазис-модуль",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Unidade de hidroestase",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jednostka hydrostazy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイドロスタシスユニット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수분식 생체 정지 유닛",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "靜液裝置",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "流体静力舱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.HydrostasisUnit",
+  "internalEnabled": true,
+  "persistentID": 817
+}

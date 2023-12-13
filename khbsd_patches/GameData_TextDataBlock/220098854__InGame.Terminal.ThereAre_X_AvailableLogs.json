@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "There are {0} available logs in this terminal",
+  "Description": "{0} is a number larger than 1.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "{0}\u00A0journaux disponibles sur ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In questo terminale sono disponibili {0} registri",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "An diesem Terminal gibt es {0} verfügbare Protokolle",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "En este terminal hay {0} registros disponibles.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доступных журналов на терминале: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Há {0} registros disponíveis neste terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostępnych dzienników w terminalu: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末には利用可能なログが{0}あります",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 터미널의 사용 가능한 로그: {0}개",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "此終端有{0}項可用日誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "本终端上有{0}份可用日志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.ThereAre_X_AvailableLogs",
+  "internalEnabled": true,
+  "persistentID": 220098854
+}

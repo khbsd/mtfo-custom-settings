@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Releasing phase lock to [Zone 179] - Extraction allowed. ",
+  "Description": "Don't localize [Zone 179].",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Ouverture du verrou de la [Zone 179] - Évacuation autorisée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilascio blocco fase a [Zone 179] - Estrazione consentita.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigabe der Phasensperre für [Zone 179] – Extraktion zugelassen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloqueando cierre de fase a [ZONE 179]. Extracción permitida. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[Zone 179] разблокирована. Выход авторизован.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberando trava da fase para [Zone 179] — Extração permitida. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zwalnianie blokady strefy 179 [Zone 179] – ewakuacja umożliwiona.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Zone 179]へのフェーズロックを解除中 - 脱出を許可。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[Zone 179] 페이즈 록 개방 - 탈출 허용. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解除[Zone 179]的階段封鎖 - 允許撤離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在解除ZONE 179阶段锁定 - 撤离已开放。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival.C3.GoToWinWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 2207614960
+}

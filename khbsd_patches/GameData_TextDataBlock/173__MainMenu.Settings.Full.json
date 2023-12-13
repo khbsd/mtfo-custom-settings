@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Full",
+  "Description": "A text string indicating that a particular game setting is set to \"full\". It could, for example, refer to \"texture resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Max",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Max",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Voll",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Total",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Макс.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Máxima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "1/1",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "1:1",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全部",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全满",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Full",
+  "internalEnabled": true,
+  "persistentID": 173
+}

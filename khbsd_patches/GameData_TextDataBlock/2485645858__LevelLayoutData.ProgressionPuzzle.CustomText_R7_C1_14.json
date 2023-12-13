@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather GLP-2 canisters and go to the forward exit point.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Rassemblez des bombes de GLP-2 et rendez-vous au point de sortie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere bombole GLP-2 e raggiungere il punto d'estrazione anteriore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie GLP-2-Kanister und begeben Sie sich zum vorderen Austrittspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne recipientes de GLP-2 y ve al punto de evacuación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите канистры с ГПП-2 и идите к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete recipientes GLP-2 e avance para o próximo ponto de saída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz kanistry GLP-2 i przejdź do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "GLP-2缶を集めて先の脱出地点へ行け。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "GLP-2 용기를 수집하고 탈출구로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集GLP-2罐並前往前進撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集GLP-2罐并去往前出口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_14",
+  "internalEnabled": true,
+  "persistentID": 2485645858
+}

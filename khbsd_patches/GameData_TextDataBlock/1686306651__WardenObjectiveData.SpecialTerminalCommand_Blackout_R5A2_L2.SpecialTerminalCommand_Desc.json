@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reroute power coupling to sector that has been powered down.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réacheminez le couplage électrique vers le secteur actuellement hors tension.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Reindirizzare l'accoppiamento di potenza al settore che è stato disattivato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leiten Sie die Stromkopplung zu einem abgeschalteten Sektor um.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se ha desactivado el desviamiento de energía vinculada al sector.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перенаправьте электропитание в отключенном секторе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Redirecione o acoplamento de energia para o setor que teve a energia desligada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekieruj sprzęgło zasilające do sektora z odciętym zasilaniem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "停電したセクターへの電力回路結合を復旧しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전원이 꺼진 섹터로 전력 연결 경로를 다시 지정하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將電力耦合重新路由至斷電分區。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将电力耦合重定向至断电分区。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Blackout_R5A2_L2.SpecialTerminalCommand_Desc",
+  "internalEnabled": true,
+  "persistentID": 1686306651
+}

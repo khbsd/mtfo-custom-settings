@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warning: Security reactivated.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Avertissement\u00A0: Sécurité réactivée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione: sicurezza riattivata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warnung: Sicherheitsprotokoll reaktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Advertencia: Seguridad reactivada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание: система безопасности перезапущена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso: segurança reativada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie: zabezpieczenia reaktywowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：セキュリティ再稼働済。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 보안 재활성화됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：安全系統已重新啟動。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：安全措施已重新激活。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Terminal_Command_Output_R7D2_2",
+  "internalEnabled": true,
+  "persistentID": 36651273
+}

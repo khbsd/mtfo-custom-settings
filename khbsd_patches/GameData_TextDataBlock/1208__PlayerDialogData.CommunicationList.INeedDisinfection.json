@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I need disinfection!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je suis infecté\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Devo disinfettarmi!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich brauche eine Desinfektion!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Necesito desinfectarme!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужна дезинфекция!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preciso de desinfecção!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebuję odkażania!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消毒が必要だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염 제거가 필요해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我需要消毒！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我需要消毒！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.INeedDisinfection",
+  "internalEnabled": true,
+  "persistentID": 1208
+}

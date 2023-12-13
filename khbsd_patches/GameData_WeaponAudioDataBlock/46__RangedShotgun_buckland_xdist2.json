@@ -1,0 +1,86 @@
+{
+  "eventOnSemiFire2D": [
+    "ShotgunBodyE",
+    "ShotgunMechD",
+    "ShotgunNoiseD",
+    "ShotgunReverb",
+    "shotgun_kick_c "
+  ],
+  "eventOnBurstFire2D": [
+    "ShotgunBodyE",
+    "ShotgunMechD",
+    "ShotgunNoiseD",
+    "ShotgunReverb",
+    "shotgun_kick_c "
+  ],
+  "eventOnAutoFireStart2D": [
+    "ShotgunBodyE",
+    "ShotgunMechD",
+    "ShotgunNoiseD",
+    "ShotgunReverb",
+    "shotgun_kick_c "
+  ],
+  "eventOnAutoFireEnd2D": [
+    "ShotgunAutoEnd2D"
+  ],
+  "eventOnBurstFireOneShot2D": [],
+  "eventOnChargeup2D": [
+    "WeaponChargeUpAlt2"
+  ],
+  "eventOnCooldown2D": [
+    "WeaponCooldownMedium1"
+  ],
+  "eventOnChargeupEnd2D": "WeaponChargeUpEnd",
+  "eventOnCooldownEnd2D": "WeaponCooldownEnd",
+  "eventOnSemiFire3D": [
+    "ShotgunBodyC3D",
+    "ShotgunMechC3D",
+    "ShotgunNoiseC3D",
+    "ShotgunReverb3D"
+  ],
+  "eventOnBurstFire3D": [
+    "ShotgunBodyC3D",
+    "ShotgunMechC3D",
+    "ShotgunNoiseC3D",
+    "ShotgunReverb3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "ShotgunBodyC3D",
+    "ShotgunMechC3D",
+    "ShotgunNoiseC3D",
+    "ShotgunReverb3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "ShotgunAutoEnd3D"
+  ],
+  "eventOnChargeup3D": [
+    "WeaponChargeUpAlt2"
+  ],
+  "eventOnCooldown3D": [
+    "WeaponCooldownMedium1"
+  ],
+  "eventOnChargeupEnd3D": "WeaponChargeUpEnd",
+  "eventOnCooldownEnd3D": "WeaponCooldownEnd",
+  "eventOnSyncedBurstFirePerShot3D": [
+    "ShotgunBodyC3D",
+    "ShotgunMechC3D",
+    "ShotgunNoiseC3D",
+    "ShotgunReverb3D"
+  ],
+  "eventOnSyncedAutoFirePerShot3D": [
+    "ShotgunBodyC3D",
+    "ShotgunMechC3D",
+    "ShotgunNoiseC3D",
+    "ShotgunReverb3D"
+  ],
+  "eventClick": "ShotgunDryFire",
+  "eventReload": "ShotgunReload",
+  "TriggerBurstAudioForEachShot": true,
+  "TriggerAutoAudioForEachShot": true,
+  "eventEquip": "ShotgunEquip",
+  "eventZoomIn": "ShotgunIronsightIn",
+  "eventZoomOut": "ShotgunIronsightOut",
+  "name": "RangedShotgun_buckland_xdist2",
+  "internalEnabled": true,
+  "persistentID": 46
+}

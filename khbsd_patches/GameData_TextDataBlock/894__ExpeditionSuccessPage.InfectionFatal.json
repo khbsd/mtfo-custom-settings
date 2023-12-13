@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fatal",
+  "Description": "The level of infection the player character has. I.e. \"Infection level: Fatal\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Fatal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fatale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tödlich",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fatal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "фатальный",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "fatal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Śmiertelne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "致命的",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "치명적",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "致命",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "致命",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.InfectionFatal",
+  "internalEnabled": true,
+  "persistentID": 894
+}

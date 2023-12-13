@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Empty Cooling Tank reservoirs",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Videz les réservoirs de refroidissement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Svuotare i serbatoi di raffreddamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leeren Sie die Kühltank-Speicherbecken.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vaciar depósitos de tanques de refrigeración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Опустошить емкости охлаждения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esvaziar os reservatórios de tanques de resfriamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Opróżnij rezerwuary zbiorników chłodzących",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "冷却タンク貯水槽を空にしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "냉각 탱크 저장소 비우기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "清空冷卻槽水箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "清空冷却罐水箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.SpecialTerminalFloodDrainChamber.R8D2",
+  "internalEnabled": true,
+  "persistentID": 965009221
+}

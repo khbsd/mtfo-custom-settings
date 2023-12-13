@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NULL",
+  "Description": "If the \"artifact heat\" on the current expedition/mission is very low, this word sums up the probability of the player being rewarded with a booster: \"Null\", as in (virtually) non-existent.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "AUCUN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NULLO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NULL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "NULO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТСУТСТВУЕТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "NULA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZEROWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゼロ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.ElevatorRide.Null",
+  "internalEnabled": true,
+  "persistentID": 803
+}

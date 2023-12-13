@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING! atmospheric inversion imminent!</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0! Inversion atmosphérique imminente\u00A0!</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE! Inversione atmosferica imminente!</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG! Inversionswetterlage steht bevor!</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡ADVERTENCIA! ¡Inversión atmosférica inminente!</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Ожидается атмосферная инверсия!</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO! Inversão atmosférica iminente!</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE! Nadchodząca inwersja atmosferyczna!</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告！大気反転は目前！</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고! 대기 역전 임박!</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告！即將發生逆溫！</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告！即将发生大气逆温！</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.WardenIntel.TempInversion_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 2393644940
+}

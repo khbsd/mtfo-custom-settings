@@ -1,0 +1,25 @@
+{
+  "SpawnsPerZone": 7,
+  "ChanceToSpawnInResourceContainer": 0.75,
+  "SpawnData": [
+    {
+      "ItemID": 174,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 117,
+      "Weight": 9.0
+    },
+    {
+      "ItemID": 140,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 9.0
+    }
+  ],
+  "name": "Fog_reps_and_syringes_alt",
+  "internalEnabled": true,
+  "persistentID": 86
+}

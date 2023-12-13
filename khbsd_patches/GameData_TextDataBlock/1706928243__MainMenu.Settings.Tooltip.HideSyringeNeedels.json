@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables you to hide the needle on the syringes in game. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permet de cacher l'aiguille des seringues.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ti consente di nascondere l'ago delle siringhe nel gioco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ermöglicht es Ihnen, die Nadel an den Injektionsnadeln im Spiel zu verstecken. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Te permite ocultar las agujas de las jeringuillas del juego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Настройка позволяет скрыть иглы от шприцев в игре.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Permite que você esconda a agulha das seringas no jogo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umożliwia ukrycie igieł strzykawek w grze.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲーム中の注射器の針を隠す。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주사기 바늘이 보이지 않게 숨깁니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可在遊戲中隱藏注射器的針頭。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "允许在游戏中隐藏注射器上的针头。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HideSyringeNeedels",
+  "internalEnabled": true,
+  "persistentID": 1706928243
+}

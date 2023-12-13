@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use <color=orange>terminal command</color> to route power to ZONE 41",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la <color=orange>commande du terminal</color> pour réacheminer le courant vers la ZONE\u00A041",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il <color=orange>comando da terminale</color> per deviare l'energia a ZONE 41",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie einen <color=orange>Terminalbefehl</color>, um Strom zu ZONE 41 zu leiten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el <color=orange>comando del terminal</color> para dirigir la energía a la ZONE 41.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте <color=orange>команду терминала</color>, чтобы направить питание в ZONE 41.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar <color=orange>comando de terminal</color> para rotear a energia para a ZONE 41",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj <color=orange>polecenia w terminalu</color>, aby przekierować zasilanie do strefy 41 [ZONE_41]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>端末コマンド</color>を使い、ZONE 41に電力を供給しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>터미널 명령</color>을 사용해 ZONE 41로 전력 전달",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用<color=orange>終端指令</color>路由電力至ZONE 41",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>终端命令</color>将为ZONE 41通电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_06",
+  "internalEnabled": true,
+  "persistentID": 1380865018
+}

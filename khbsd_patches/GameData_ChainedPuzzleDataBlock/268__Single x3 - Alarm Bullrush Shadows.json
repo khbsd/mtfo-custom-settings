@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class V Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 67,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 5
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single x3 - Alarm Bullrush Shadows",
+  "internalEnabled": true,
+  "persistentID": 268
+}

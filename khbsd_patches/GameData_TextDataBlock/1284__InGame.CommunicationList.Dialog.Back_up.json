@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Back up",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Battez en retraite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Indietro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rückzug",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Retirada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отступаем",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recue",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wycofać się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "撤退",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "빠져",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "撤退",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "撤退",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Back_up",
+  "internalEnabled": true,
+  "persistentID": 1284
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "简体中文",
+  "Description": "The language they speak in China.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chinois simplifié",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "简体中文",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "簡體中文",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chino simplificado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "简体中文",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chinês simplificado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Chiński (uproszczony)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "簡体字中国語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중국어 간체",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "簡體中文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "简体中文",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Language.Chinese_Simplified",
+  "internalEnabled": true,
+  "persistentID": 1386
+}

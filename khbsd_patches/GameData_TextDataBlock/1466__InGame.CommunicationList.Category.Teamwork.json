@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Teamwork",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Travail d'équipe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lavoro di squadra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Teamwork",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Trabajo en equipo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Командная работа",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Trabalho em equipe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działanie drużynowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームワーク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀워크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "團隊合作",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "团队协作",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Teamwork",
+  "internalEnabled": true,
+  "persistentID": 1466
+}

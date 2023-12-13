@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pack Up the {0}.",
+  "Description": "Short title of a dialog option the player can choose to speak.\n{0} is item name.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ramassez l'objet\u00A0{0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliete {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} einsammeln!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prepara {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднимайте: {0}!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recupere {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabieraj {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}をしまえ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 챙겨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "带走{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.PackUpX",
+  "internalEnabled": true,
+  "persistentID": 2246393049
+}

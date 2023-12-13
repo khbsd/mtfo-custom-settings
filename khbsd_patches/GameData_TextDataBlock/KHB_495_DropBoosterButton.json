@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "butterfinger booster",
+  "Description": "As in \"Discard booster.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Jeter le booster",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scarta potenziamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Booster verwerfen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Soltar potenciador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбросить усилитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Descartar impulso",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upuść wzmacniacz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースターを捨てる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터 버리기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "丟下強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "丢弃强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.DropBooster",
+  "internalEnabled": true,
+  "persistentID": 495
+}

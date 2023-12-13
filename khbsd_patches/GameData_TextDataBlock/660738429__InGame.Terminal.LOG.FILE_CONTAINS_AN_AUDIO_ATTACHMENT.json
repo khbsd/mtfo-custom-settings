@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>LOG FILE CONTAINS AN AUDIO ATTACHMENT, DO YOU WANT TO PLAY IT NOW?</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=orange>LE FICHIER JOURNAL CONTIENT UNE PIÈCE JOINTE AUDIO. JOUER MAINTENANT\u00A0?</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>IL FILE DI REGISTRO CONTIENE UN ALLEGATO AUDIO. ASCOLTARLO ORA?</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>PROTOKOLLDATEI ENTHÄLT EINEN AUDIOANHANG. JETZT ABSPIELEN?</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>EL ARCHIVO DE REGISTRO CONTIENE UN ARCHIVO ADJUNTO DE AUDIO, ¿QUIERES REPRODUCIRLO AHORA?</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ФАЙЛ ЖУРНАЛА СОДЕРЖИТ ЗВУКОВОЕ ВЛОЖЕНИЕ. ВОСПРОИЗВЕСТИ СЕЙЧАС?</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>O ARQUIVO DE REGISTRO CONTÉM UM ÁUDIO ANEXADO; DESEJA REPRODUZI-LO AGORA?</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>PLIK DZIENNIKA ZAWIERA ZAŁĄCZNIK DŹWIĘKOWY, CZY CHCESZ GO TERAZ ODTWORZYĆ?</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ログファイルは音声アタッチメントを含んでいます。今すぐ再生しますか？</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>오디오가 첨부된 로그 파일입니다. 지금 재생하시겠습니까?</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>日誌檔案包含音訊附件，是否立即播放？</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>日志文件包含音频附件，是否立即播放？</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.LOG.FILE_CONTAINS_AN_AUDIO_ATTACHMENT",
+  "internalEnabled": true,
+  "persistentID": 660738429
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Read a text log on this terminal\\nExample: READ myfile.txt, will output the contents of 'myfile.txt'",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche un journal sur ce terminal.\\nExemple\u00A0: READ myfile.txt affichera le contenu de 'myfile.txt'.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Legge un registro di testo su questo terminale\\nEsempio: READ miofile.txt mostrerà il contenuto di \"miofile.txt\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lesen Sie ein Textprotokoll an diesem Terminal.\\nBeispiel: READ myfile.txt zeigt den Inhalt von „myfile.txt“ an.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lee un registro de texto en este terminal.\\nEjemplo: READ myfile.txt mostrará el contenido de «myfile.txt».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выводит текстовый журнал на данный терминал.\\nНапример, команда READ myfile.txt покажет содержимое файла myfile.txt.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leia o registro de texto neste terminal\\nExemplo: READ myfile.txt, exibe o conteúdo de 'myfile.txt'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odczytaj dziennik tekstowy w tym terminalu\\nPrzykład: polecenie READ myfile.txt wyświetli zawartość pliku myfile.txt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末のテキストログを読む\\n例: READ myfile.txtは、'myfile.txt'の内容を出力します",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널의 텍스트 로그 판독\\n예: READ myfile.txt, 'myfile.txt'의 콘텐츠를 출력합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "讀取此終端的文字日誌\\n範例：「READ myfile.txt」將輸出「myfile.txt」的內容",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "读取本终端上的文本日志\\n例：“READ myfile.txt”将输出“myfile.txt”的内容",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ReadCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 332281760
+}

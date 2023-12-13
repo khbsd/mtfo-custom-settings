@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Middle",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Milieu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Centro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mitte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "По центру",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Meio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Środek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中央だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중간",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中間",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中间",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Middle",
+  "internalEnabled": true,
+  "persistentID": 1294
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NAV INFO BWD: ",
+  "Description": "NAV is short for Navigation. BWD is short for Backward.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "INFOS DE NAV. ARR\u00A0: ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INFO PREC: ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NAV-INFO RW: ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INFO. NAV. ATRÁS: ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАВ. ИНФ. НЗД: ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RETRO INFO NAV: ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PW INFO NAW: ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナビ情報後方: ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐색 정보 받음: ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向後導航資訊： ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "向后导航信息： ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.NAV_INFO_BWD",
+  "internalEnabled": true,
+  "persistentID": 2084538025
+}

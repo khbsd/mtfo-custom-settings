@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Far left!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Tout à gauche\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Più a sinistra!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ganz links!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al extremo de la izquierda!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дальний левый угол!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extrema esquerda!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Po lewej!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "一番左だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 멀리!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "最左邊！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "最左！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.FarLeft",
+  "internalEnabled": true,
+  "persistentID": 1184
+}

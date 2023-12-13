@@ -1,0 +1,50 @@
+{
+  "Headers": [
+    {
+      "AboveBlockID": 51,
+      "LabelText": "Clusters"
+    },
+    {
+      "AboveBlockID": 18,
+      "LabelText": "Small Clusters"
+    },
+    {
+      "AboveBlockID": 40,
+      "LabelText": "Surge"
+    },
+    {
+      "AboveBlockID": 59,
+      "LabelText": "Bulkhead"
+    },
+    {
+      "AboveBlockID": 67,
+      "LabelText": "Error trickles"
+    },
+    {
+      "AboveBlockID": 4,
+      "LabelText": "No Alarm"
+    },
+    {
+      "AboveBlockID": 10,
+      "LabelText": "Reserved Scans"
+    },
+    {
+      "AboveBlockID": 7,
+      "LabelText": "Singles"
+    },
+    {
+      "AboveBlockID": 91,
+      "LabelText": "Mixed Irregular (All types)"
+    },
+    {
+      "AboveBlockID": 5,
+      "LabelText": "Mixed Regulars (Reds and Orange)"
+    },
+    {
+      "AboveBlockID": 121,
+      "LabelText": "Sustained"
+    }
+  ],
+  "Blocks": [],
+  "LastPersistentID": 299
+}

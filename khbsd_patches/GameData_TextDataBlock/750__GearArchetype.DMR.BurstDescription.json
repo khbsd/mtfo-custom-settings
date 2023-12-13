@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Two shot burst\nLong range\nHigh damage",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rafale de deux balles\nLongue portée\nDégâts élevés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raffica a due colpi\nGittata lunga\nDanni elevati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "2-Schuss-Salve\nGroße Reichweite\nHoher Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disparo doble\nLargo alcance\nMucho daño",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очередь по два выстрела\nБольшая дальность\nБольшой урон",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Disparo duplo\nLongo alcance\nAlto dano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Seria dwóch pocisków\nDługi dystans\nDuże obrażenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "2点バースト\n長距離\n高ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "2점사\n장거리\n높은 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "雙連發\n長程\n高傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "二连发\n远程\n高伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.DMR.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 750
+}

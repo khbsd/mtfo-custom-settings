@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CLCTR\u00A0multithread processor activated\r\n\r\n",
+  "Description": "A computer notification informing players that a new system called CLCTR has been activated.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Processeur multithread CLCTR activé\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Processore multithread\u00A0CLCTR attivato\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "CLCTR-Multithread-Prozessor aktiviert\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se ha activado el procesador de subproceso CLCTR.\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активирован многоканальный процессор CLCTR.\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Processador de multithread CLCTR\u00A0ativado\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Procesor wielowątkowy\u00A0CLCTR uruchomiony\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "CLCTRマルチスレッドプロセッサ起動\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "CLCTR 멀티스레드 프로세서 작동\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "CLCTR多執行緒處理器已啟動\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "CLCTR多线程处理器已激活\r\n\r\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.R1_alt_RoleplayHeader",
+  "internalEnabled": true,
+  "persistentID": 1616762565
+}

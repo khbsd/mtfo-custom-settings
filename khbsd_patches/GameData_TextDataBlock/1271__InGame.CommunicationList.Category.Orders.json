@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Orders",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ordres",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ordini",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Befehle",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Órdenes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Приказы",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pedidos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozkazy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "命令",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명령",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "命令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Orders",
+  "internalEnabled": true,
+  "persistentID": 1271
+}

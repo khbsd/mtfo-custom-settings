@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Combat Shotgun",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à pompe de combat",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Canna liscia da combattimento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kampf-Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta de combate",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Боевой дробовик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda de combate",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzelba bojowa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンバットショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전투 산탄총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "戰鬥霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "战斗霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.AutoName",
+  "internalEnabled": true,
+  "persistentID": 757
+}

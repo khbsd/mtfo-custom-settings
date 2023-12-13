@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Malagasy",
+  "Description": "A language spoken in Madagascar\r and Mayotte.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Malgache",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Malgascio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Madagassisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Malgache",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Малагасийский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Malgaxe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Malgaski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マラガシ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마다가스카르어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "馬達加斯加文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "马达加斯加语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Malagasy",
+  "internalEnabled": true,
+  "persistentID": 367
+}

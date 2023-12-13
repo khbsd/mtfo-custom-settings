@@ -1,0 +1,18 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_SMG_4.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 30,
+    "BundleShard": 15
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_SMG_4",
+  "internalEnabled": true,
+  "persistentID": 7
+}

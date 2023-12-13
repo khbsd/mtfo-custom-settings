@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Move Left",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento a sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nach links bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover a la izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover para esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ruch w lewo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左に移動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向左移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MoveLeft",
+  "internalEnabled": true,
+  "persistentID": 131
+}

@@ -1,0 +1,16 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/Modules/ExteriorRendering/Clouds/Textures/CloudNoise.psd",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/Modules/ExteriorRendering/Clouds/Textures/CloudDetailNoise.asset",
+      "Shard": 0
+    }
+  ],
+  "name": "Exterior Rendering Resources",
+  "internalEnabled": true,
+  "persistentID": 20
+}

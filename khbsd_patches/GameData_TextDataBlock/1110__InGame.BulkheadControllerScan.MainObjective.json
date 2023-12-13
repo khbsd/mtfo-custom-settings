@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAIN OBJECTIVE",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIF PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVO PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PRIMÄRZIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVO PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГЛАВНАЯ ЦЕЛЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVO PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CEL GŁÓWNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주요 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主要目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1110
+}

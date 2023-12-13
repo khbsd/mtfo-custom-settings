@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need a terminal!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "On doit trouver le terminal\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ci serve un terminale!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir brauchen ein Terminal!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Necesitamos una terminal!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужен терминал!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos de um terminal!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebujemy terminala!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末が必要だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널이 필요해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要終端！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们需要一台终端！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.WeNeedATerminal",
+  "internalEnabled": true,
+  "persistentID": 1232
+}

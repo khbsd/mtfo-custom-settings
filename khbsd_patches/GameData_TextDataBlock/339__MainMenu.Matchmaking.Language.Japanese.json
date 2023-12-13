@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Japanese",
+  "Description": "A language spoken in Japan.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Japonais",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Giapponese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Japanisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Japonés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Японский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Japonês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Japoński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "日本語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "일본어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "日文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "日语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Japanese",
+  "internalEnabled": true,
+  "persistentID": 339
+}

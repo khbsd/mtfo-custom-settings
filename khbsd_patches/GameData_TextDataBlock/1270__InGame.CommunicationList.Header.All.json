@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "All",
+  "Description": "Used in the sentence \"Say to All\" instead of the name of another player.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "tous",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tutti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Todos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Всем",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tudo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wszystko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全員",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모두",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "所有人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "所有人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Header.All",
+  "internalEnabled": true,
+  "persistentID": 1270
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lift Lockdown",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lever le verrouillage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Revocare il blocco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelung aufheben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cancela el cierre de emergencia",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отменить режим изоляции",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Remover confinamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znieś blokadę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "封鎖を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電梯封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解除封锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone3_OpenDoor_Header",
+  "internalEnabled": true,
+  "persistentID": 3079188499
+}

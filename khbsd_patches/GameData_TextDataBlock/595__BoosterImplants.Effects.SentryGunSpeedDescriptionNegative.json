@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deploy sentry guns with decreased detection, rotation and firing speed.",
+  "Description": "Describes the disadvantage of having a poor \"sentry CPU speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet déploie des tourelles avec une portée de détection, une rotation et une cadence de tir moins accrue.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto schiererà torrette automatiche con rotazione, cadenza di tiro e rilevamento ridotti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Versuchsperson stattet ihr Sentry-Geschütz mit einer niedrigeren Erkennungs-, Rotations- und Feuerrate aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto utilizará centinelas con menor capacidad de detección, rotación y cadencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установка турели со слабой системой обнаружения, наведения и низкой скоростью стрельбы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo usa armas sentinelas com detecção, rotação e cadência de tiro reduzidas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca podkręci działo wartownicze, zmniejszając jego wykrywalność, obroty i szybkostrzelność.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象は探知・回転・発射速度が低下したセントリーガンを展開する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 설치하는 센트리 건의 탐지, 회전 및 발사 속도가 감소합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象部署的自動砲台會降低偵測、旋轉與射速。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者将减速运行其哨戒炮，降低探测、旋转和发射速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 595
+}

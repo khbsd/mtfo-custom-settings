@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red> EXECUTING WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>EXÉCUTION DE WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> ESECUZIONE WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARDEN_FF17#04885_OVERRIDE_RESET WIRD AUSGEFÜHRT ...</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> EJECUTANDO WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВЫПОЛНЯЕТСЯ ПРИНУДИТЕЛЬНЫЙ СБРОС СМОТРИТЕЛЯ WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> EXECUTANDO WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> WYKONYWANIE RESETU_OBEJŚCIA_FF17#04885_STRAŻNIKA</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>WARDEN_FF17#04885_OVERRIDE_RESETを実行中</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>WARDEN_FF17#04885_OVERRIDE_RESET 실행 중</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>正在執行WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>正在执行WARDEN_FF17#04885_OVERRIDE_RESET</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_9",
+  "internalEnabled": true,
+  "persistentID": 4028253467
+}

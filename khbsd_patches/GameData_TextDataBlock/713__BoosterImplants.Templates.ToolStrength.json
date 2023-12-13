@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DEX",
+  "Description": "The name of a category of boosters that affect how efficiently the subject can use tools.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DEX",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DEX",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GESCH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESTREZA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СНОРОВКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DESTREZA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SPRAWNOŚĆ+",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "デックス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "손재주",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "戴克斯",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "灵巧",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.ToolStrength",
+  "internalEnabled": true,
+  "persistentID": 713
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "North!",
+  "Description": "As in \"to the north!\" A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Nord\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nord!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Norden!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al norte!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На север!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Norte!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Północ!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "北だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "북쪽으로!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "北！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "往北！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.North",
+  "internalEnabled": true,
+  "persistentID": 1177
+}

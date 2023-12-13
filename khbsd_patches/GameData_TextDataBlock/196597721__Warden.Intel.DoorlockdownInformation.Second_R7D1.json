@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>//OPTIONAL:</color>Lower security for <color=orange>Zone 194</color> in <color=orange>Zone 204</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>//OPTIONNEL\u00A0:</color> Réduisez la sécurité de la <color=orange>zone\u00A0194</color> dans la <color=orange>zone\u00A0204</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>//OPZIONALE:</color> abbassare la sicurezza per la <color=orange>ZONE 194</color> nella <color=orange>ZONE 204</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>//OPTIONAL:</color>Niedrigere Sicherheit für <color=orange>Zone 194</color> in <color=orange>Zone 204</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>//OPCIONAL:</color>Reduce la seguridad de la <color=orange>Zone 194</color> en la <color=orange>Zone 204</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>//ДОПОЛНИТЕЛЬНО:</color> понизьте уровень безопасности <color=orange>зоны 194</color> в <color=orange>зоне 204</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>//OPCIONAL:</color>Reduzir a segurança da <color=orange>Zone 194</color> na <color=orange>Zone 204</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>//OPCJONALNE: </color>Obniż zabezpieczenie <color=orange>strefy 194 [ZONE_194]</color> w <color=orange>strefie 204 [ZONE_204]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>//任意：</color><color=orange>Zone 204</color>内の<color=orange>Zone 194</color>のセキュリティ低減",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>//선택 사항:</color> <color=orange>ZONE 204</color>에서 <color=orange>ZONE 194</color> 보안 약화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>//可選：</color>在<color=orange>Zone 204</color>降低<color=orange>Zone 194</color>安全系統層級。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>//可选：</color>在<color=orange>ZONE 204</color>降低<color=orange>ZONE 194</color>的安全措施",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "Warden.Intel.DoorlockdownInformation.Second_R7D1",
+  "internalEnabled": true,
+  "persistentID": 196597721
+}

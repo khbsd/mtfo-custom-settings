@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reset temperature and gradient in sublevel 821 to nominal values",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réinitialisez la température et le gradient du sous-niveau 821 aux valeurs nominales.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Reimpostare la temperatura e il gradiente ai valori nominali nel sottolivello 821",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Setzen Sie die Temperatur und den Gradienten in Unterebene 821 auf die Nennwerte zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reinicia la temperatura y el gradiente en el subnivel 821 a los valores nominales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбросьте температуру и показатель перепада температур на подуровне 821 до значений по умолчанию.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reinicie a temperatura e gradiente no subnível 821 aos valores nominais",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zresetuj temperaturę i gradient na podpoziomie 821 do wartości nominalnych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "気温とサブレベル821の勾配を名目数値にリセットしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하위 레벨 821의 온도 및 기울기를 공칭 값으로 재설정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將821次樓層的溫度和梯度重設至額定值",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将地下821层温度和梯度重置为标称值",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R4B2_L2.SpecialTerminalCommandSpecifics_Desc",
+  "internalEnabled": true,
+  "persistentID": 1145870484
+}

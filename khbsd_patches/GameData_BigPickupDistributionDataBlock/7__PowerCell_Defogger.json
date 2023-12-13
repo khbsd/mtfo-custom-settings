@@ -1,0 +1,16 @@
+{
+  "SpawnsPerZone": 2,
+  "SpawnData": [
+    {
+      "ItemID": 131,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 133,
+      "Weight": 1.0
+    }
+  ],
+  "name": "PowerCell_Defogger",
+  "internalEnabled": true,
+  "persistentID": 7
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ENTERING SECURITY ZONE:",
+  "Description": "Text on the doors in the game, explaining which security zone the doors lead to.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ENTRÉE DANS LA ZONE DE SÉCURITÉ\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INGRESSO ZONA SICUREZZA:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BETRETEN DER SICHERHEITSZONE:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENTRANDO EN ZONA DE SEGURIDAD:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВХОД В ОХРАНЯЕМУЮ ЗОНУ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENTRANDO NA ZONA DE SEGURANÇA:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WKRACZANIE DO STREFY BEZPIECZEŃSTWA:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティゾーンに進入：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 구역 진입 중:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進入安全區：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入安全区：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.EnteringSecurityZone",
+  "internalEnabled": true,
+  "persistentID": 1128
+}

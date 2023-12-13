@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Complete HSU transfer objective in [ZONE_5]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Atteignez l'objectif de transfert d'HSU dans la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completare l'obiettivo di trasferimento HSU in [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schließen Sie das HSU-Transferziel in [ZONE_5] ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Completa el objetivo de transferencia de HSU en la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершите перемещение HSU в [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Conclua o objetivo de transferência de HSU na [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ukończ cel transferu HSU w strefie 5 [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]でHSU転送目標を完了しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5]에서 HSU 운반 목표 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ZONE_5]完成HSU轉移目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ZONE_5]完成HSU转移目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R7_A1_02_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3813409614
+}

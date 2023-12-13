@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HUD Pixel Effects",
+  "Description": "A graphic setting that makes it so that text in the game's user interfaces have a mirroring/drop shadow-like effect.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Effets de pixels de l'affichage tête haute",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Effetti pixel HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HUD-Pixeleffekte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Efecto pixelado de la interfaz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффекты текста HUD",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Efeitos de pixel de interface",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efekty pikselowe interfejsu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUDピクセルエフェクト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD 픽셀 효과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抬頭顯示器像素效果",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "平视显示像素效果",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDPixelEffects",
+  "internalEnabled": true,
+  "persistentID": 115
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY DOOR",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "PORTE DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PORTA DI SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSTÜR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PUERTA DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАЩИТНАЯ ДВЕРЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PORTA DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DRZWI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SECURITY_DOOR",
+  "internalEnabled": true,
+  "persistentID": 1696740792
+}

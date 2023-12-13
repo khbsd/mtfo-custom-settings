@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick up trip mine",
+  "Description": "I.e. \"pick up this trip mine from the ground/wall.\" A text that appears on screen when the player is standing near a trip mine that they can pick up.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramasser la mine à déclencheur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogli mina adesiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolpermine aufheben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoger mina de detección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднять мину",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegar mina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieść minę z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トリップマインを拾う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인 줍기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起絆雷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拾取绊雷",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.PickUpTripMine",
+  "internalEnabled": true,
+  "persistentID": 876
+}

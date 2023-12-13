@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PULSE:{0}",
+  "Description": "Information on the HUD that shows the current pulse of the player. \n{0} is a number representing the heartbeats per minute the player character has, togheter with a heartbeat icon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "POULS\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PULSAZIONI:{0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PULS: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PULSO: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПУЛЬС: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "BATIMENTOS:{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PULS: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脈拍：{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "펄스: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "脈搏：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "脉搏：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.PlayerStatus.Pulse_X",
+  "internalEnabled": true,
+  "persistentID": 457619842
+}

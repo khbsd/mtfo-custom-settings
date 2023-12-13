@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Menu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Start",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comenzar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Старт",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Start",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スタート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Start",
+  "internalEnabled": true,
+  "persistentID": 993
+}

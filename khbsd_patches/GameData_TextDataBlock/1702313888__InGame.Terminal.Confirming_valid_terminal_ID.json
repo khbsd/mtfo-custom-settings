@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Confirming valid terminal ID",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Vérification de l'ID du terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Conferma ID terminale valido",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gültige Terminal-ID wird bestätigt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Confirmando ID de terminal válida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подтверждение корректного ID терминала",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confirmando ID de terminal válida",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdzanie identyfikatora terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "有効な端末IDを確認中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유효한 터미널 ID 확인 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在確認終端ID",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在确认终端ID",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Confirming_valid_terminal_ID",
+  "internalEnabled": true,
+  "persistentID": 1702313888
+}

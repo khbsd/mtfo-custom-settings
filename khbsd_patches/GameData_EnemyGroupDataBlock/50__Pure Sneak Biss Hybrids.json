@@ -1,0 +1,17 @@
+{
+  "Type": 1,
+  "Difficulty": 6,
+  "SpawnPlacementType": 0,
+  "MaxScore": 3.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Sneak Biss Hybrids",
+  "internalEnabled": true,
+  "persistentID": 50
+}

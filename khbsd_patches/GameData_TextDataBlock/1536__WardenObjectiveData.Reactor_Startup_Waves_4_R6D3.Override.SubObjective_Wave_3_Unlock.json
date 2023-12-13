@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_10] and [ZONE_11] unlocked by startup sequence",
+  "Description": "Don't localize [ZONE_10] and  [ZONE_11]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Porte vers la [ZONE_10] et [ZONE_11] déverrouillée par la séquence de démarrage du réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_10] e [ZONE_11] sbloccata da sequenza avvio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_10] und [ZONE_11] durch Startsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de las [ZONE_10] y [ZONE_11] está desbloqueada con una secuencia de arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска разблокировал дверь в [ZONE_10] и [ZONE_11].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_10] e [ZONE_11] destrancada pela sequência de inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 10 [ZONE_10] i strefy 11 [ZONE_11] odblokowane przez sekwencję rozruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_10] と [ZONE_11] へのドアが始動シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시동 절차에 의해 [ZONE_10] 및 [ZONE_11] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_10]與[ZONE_11]的門已由啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_10]和[ZONE_11]的门已由启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3.Override.SubObjective_Wave_3_Unlock",
+  "internalEnabled": true,
+  "persistentID": 1536
+}

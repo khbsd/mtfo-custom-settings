@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency lockdown lifted. Door to [ZONE_9] unlocked. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage d'urgence désactivé. Porte vers la [ZONE_9] déverrouillée. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento d'emergenza revocato. Porta per [ZONE_9] sbloccata. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notverriegelung aufgehoben. Tür zu [ZONE_9] entriegelt. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia anulado. La puerta a la [ZONE_9] está desbloqueada. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим изоляции отменен. Дверь в [ZONE_9] открыта. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento de emergência desativado. Porta para [ZONE_9] destrancada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada awaryjna zniesiona. Drzwi do strefy 9 [ZONE_9] odblokowane. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急ロックダウン解除。[ZONE_9]へのドアのロック解除。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 폐쇄 해제됨. [ZONE_9] 문 개방됨. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緊急封鎖已解除。通往[ZONE_9]的門已解鎖。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "紧急封锁已解除。通往[ZONE_9]的门已解锁。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_17",
+  "internalEnabled": true,
+  "persistentID": 2978064292
+}

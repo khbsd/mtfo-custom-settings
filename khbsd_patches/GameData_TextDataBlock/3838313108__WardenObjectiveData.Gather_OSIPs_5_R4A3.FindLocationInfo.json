@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for OSIP vials in the complex",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez les flacons OSIP dans le complexe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare le fiale OSIP nel complesso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach OSIP-Ampullen [OSIP].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca viales OSIP en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите ампулы УОП в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure tubos de OSIP no complexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź fiolki peptydowe w kompleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内でOSIP小瓶を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 OSIP 바이알 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施裡尋找OSIP藥瓶",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找OSIP药瓶",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_OSIPs_5_R4A3.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 3838313108
+}

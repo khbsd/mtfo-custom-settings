@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class I Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 290,
+  "SurvivalWavePopulation": 43,
+  "SurvivalWaveAreaDistance": 1,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 17.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 56
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Big x1 Defend - Alarm with flyers spawnpoints",
+  "internalEnabled": true,
+  "persistentID": 265
+}

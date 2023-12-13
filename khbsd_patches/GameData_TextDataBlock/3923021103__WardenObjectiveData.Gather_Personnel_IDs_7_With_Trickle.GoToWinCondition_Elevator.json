@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ret::urn to the po1234nt of enA%G3trance in [EXTRACTION_ZONE]",
+  "Description": "The sentence is supposed to be \"broken\" in the way it's written, kind of like it's been hacked. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ret::our au po1234nt d'enA%G3trée de la [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tor::nare al pu1234nto di inA%G3gresso in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Keh::ren Sie zum Ei1234ntrittSp%G3unkt in [EXTRACTION_ZONE] zur?0ück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reg::resa al pu1234nto de enA%G3trada en [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верни::тесь к м1234сту нА%3чал7 3К$спедиции в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vol::te ao po1234nto de enA%G3trada na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pow::róć do pu1234ktu wejA%G3cia w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の入A%G3口へ戻::れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE] 위치의 진1234입A%G3점으로 복::귀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "返::回[EXTRACTION_ZONE]的入A%G3口1234",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "返::回[EXTRACTION_ZONE]的出A%G3口1234处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_7_With_Trickle.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 3923021103
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I need tool refill",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "J'ai besoin de recharge d'outil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mi serve ricarica per strumenti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich brauche ein Werkzeug-Nachfüllpaket",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesito reponer las herramientas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужны припасы для устройства",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preciso de recarga de ferramentas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Muszę uzupełnić narzędzia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツールのリフィルが足りない",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 보충이 필요해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我需要補充工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我需要工具补给",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_need_tool_refill",
+  "internalEnabled": true,
+  "persistentID": 1310
+}

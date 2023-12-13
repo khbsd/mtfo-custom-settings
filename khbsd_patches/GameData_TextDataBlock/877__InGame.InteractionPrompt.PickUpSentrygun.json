@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick up sentry gun",
+  "Description": "I.e. \"pick up this sentry gun from the ground.\" A text that appears on screen when the player is standing close to a sentry gun that they can pick up.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramasser la tourelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogli torretta automatica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Geschütz aufnehmen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoger centinela",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднять турель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegar arma sentinela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieś działko wartownicze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セントリーガンを拾う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "센트리 건 줍기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拾取哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.PickUpSentrygun",
+  "internalEnabled": true,
+  "persistentID": 877
+}

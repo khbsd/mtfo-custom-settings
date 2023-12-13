@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminates any active alarms linked to this terminal.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Interrompt toutes les alarmes actives liées à ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattiva tutti gli allarmi attivi collegati a questo terminale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beendet alle aktiven Alarme, die mit diesem Terminal verbunden sind.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Termina cualquier alarma activa vinculada a este terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключает все активные системы сигнализации, связанные с этим терминалом.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encerra qualquer alarme ativo ligado a este terminal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powoduje przerwanie wszelkich aktywnych alarmów związanych z tym terminalem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末にリンクされたアクティブな警報を解除する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 터미널에 연결된 활성화된 경보를 모두 종료합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終止連結到此終端的任何啟用中警報。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终止链接到此终端的任何活跃警报。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Deactivate_Alarms_Description",
+  "internalEnabled": true,
+  "persistentID": 2609170668
+}

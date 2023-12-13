@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Got an artifact here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Artefact ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ottenuto un manufatto qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Artefakt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hay un artefacto aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь артефакт.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tem um artefato aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mam tu artefakt.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アーティファクトを発見した。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 아티팩트가 있다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有寶物。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有红晶。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Artifact_Here",
+  "internalEnabled": true,
+  "persistentID": 3880669416
+}

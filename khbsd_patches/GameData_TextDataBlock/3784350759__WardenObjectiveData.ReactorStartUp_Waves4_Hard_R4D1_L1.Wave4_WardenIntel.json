@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_7] unlocked by startup sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_7] déverrouillée par la séquence de démarrage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_7] sbloccata da sequenza avvio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_7] durch Startsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la [ZONE_7] está desbloqueada con una secuencia de arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска разблокировал дверь в [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_7] destrancada pela sequência de inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 7 [ZONE_7] odblokowane przez sekwencję rozruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_7] へのドアが始動シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시동 절차에 의해 [ZONE_7] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_7]的門已由啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往[ZONE_7]的门已由启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.ReactorStartUp_Waves4_Hard_R4D1_L1.Wave4_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3784350759
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Latin",
+  "Description": "A dead language that used to be spoken in Italy and throughout the Roman Empire.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Latin",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Latino",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lateinisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Latín",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Латынь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Latim",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Łaciński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ラテン語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "라틴어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拉丁文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拉丁语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Latin",
+  "internalEnabled": true,
+  "persistentID": 356
+}

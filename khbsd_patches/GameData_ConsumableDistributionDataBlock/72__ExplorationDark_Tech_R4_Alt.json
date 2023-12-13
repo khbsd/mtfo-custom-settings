@@ -1,0 +1,41 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.7,
+  "SpawnData": [
+    {
+      "ItemID": 174,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 30,
+      "Weight": 0.75
+    },
+    {
+      "ItemID": 115,
+      "Weight": 0.2
+    },
+    {
+      "ItemID": 116,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 140,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 142,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 144,
+      "Weight": 0.3
+    },
+    {
+      "ItemID": 117,
+      "Weight": 1.0
+    }
+  ],
+  "name": "ExplorationDark_Tech_R4_Alt",
+  "internalEnabled": true,
+  "persistentID": 72
+}

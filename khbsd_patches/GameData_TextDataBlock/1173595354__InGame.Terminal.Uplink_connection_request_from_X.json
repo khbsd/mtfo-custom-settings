@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Uplink connection request from {0}. Use the </color>UPLINK_CONFIRM<color=red> command to establish connection.</color>",
+  "Description": "{0} is the name of a terminal, like TERMINAL_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>Demande de connexion de liaison montante émise par le {0}. Utilisez la commande </color>UPLINK_CONFIRM<color=red> pour établir une connexion.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Richiesta connessione uplink da {0}. Utilizzare il comando </color>UPLINK_CONFIRM<color=red> per stabilire la connessione.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Uplink-Verbindungsanfrage von {0}. Nutzen Sie den Befehl </color>UPLINK_CONFIRM<color=red>, um eine Verbindung herzustellen.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Solicitud de conexión de uplink de {0}. Usa el comando </color>UPLINK_CONFIRM<color=red> para establecer la conexión.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Поступил запрос на подключение от терминала {0}. Используйте команду </color>UPLINK_CONFIRM<color=red> для установки соединения.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Solicitação de conexão de uplink de {0}. Use o comando </color>UPLINK_CONFIRM<color=red> para estabelecer a conexão.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Żądanie połączenia z {0}. Użyj polecenia </color>UPLINK_CONFIRM<color=red>, aby ustanowić połączenie.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>{0}からのアップリンク接続リクエスト。</color>UPLINK_CONFIRM<color=red>コマンドを使用して接続を確立。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>{0}의 업링크 연결 요청. </color>UPLINK_CONFIRM<color=red> 명령을 사용해 연결을 설정하십시오.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>來自{0}的上行鏈路連線要求。使用</color>UPLINK_CONFIRM<color=red>指令建立連線。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>来自{0}的上行链路连接请求。使用“</color>UPLINK_CONFIRM<color=red>”命令建立连接。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Uplink_connection_request_from_X",
+  "internalEnabled": true,
+  "persistentID": 1173595354
+}

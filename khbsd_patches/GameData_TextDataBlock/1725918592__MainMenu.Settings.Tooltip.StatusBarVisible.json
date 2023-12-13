@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables the statusbar on your HUD",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active la barre d'état sur l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra la barra di stato sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert die Statusleiste auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa la barra de estado de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает панель состояния в HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa a barra de status na interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza pasek statusu w interfejsie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD上にステータスバーを表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD에 상태 바를 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在抬頭顯示器上啟用狀態列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在平视显示上开启状态栏。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.StatusBarVisible",
+  "internalEnabled": true,
+  "persistentID": 1725918592
+}

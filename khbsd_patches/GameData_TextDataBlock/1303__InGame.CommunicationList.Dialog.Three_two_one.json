@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Three two one",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trois, deux, un",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tre due uno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drei, zwei, eins",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tres, dos, uno",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Три, два, один",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Um, dois, três",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzy, dwa, jeden",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "3、2、1",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "셋, 둘, 하나",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "三二一",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "三二一",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Three_two_one",
+  "internalEnabled": true,
+  "persistentID": 1303
+}

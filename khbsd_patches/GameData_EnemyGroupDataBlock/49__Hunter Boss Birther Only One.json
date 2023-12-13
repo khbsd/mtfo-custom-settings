@@ -1,0 +1,17 @@
+{
+  "Type": 6,
+  "Difficulty": 2,
+  "SpawnPlacementType": 1,
+  "MaxScore": 5.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 7,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hunter Boss Birther Only One",
+  "internalEnabled": true,
+  "persistentID": 49
+}

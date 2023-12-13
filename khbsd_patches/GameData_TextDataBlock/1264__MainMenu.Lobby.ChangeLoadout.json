@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CHANGE LOADOUT",
+  "Description": "Button to go back from ready to changing loadout",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "MODIFIER L'ARSENAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CAMBIA ATTREZZATURA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AUSRÜSTUNG ÄNDERN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAMBIAR EQUIPO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИЗМЕНИТЬ КОМПЛЕКТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TROCAR ARSENAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZMIEŃ WYPOSAŻENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロードアウトを変更",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "장비 구성 변경",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "更改裝備",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "更改配装",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.ChangeLoadout",
+  "internalEnabled": true,
+  "persistentID": 1264
+}

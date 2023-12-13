@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the reactor and make sure it is back online.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le réacteur [reactor] de l'étage et remettez-le en marche.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il reattore [reactor] e assicurarsi che sia di nuovo online.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Reaktor [reactor] und stellen Sie sicher, dass er wieder online ist.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el reactor [reactor] y asegúrate de que vuelve a estar en marcha.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите реактор [REACTOR] и включите его.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o reator [reactor] e garanta que ele volte a funcionar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź reaktor [REACTOR], a następnie ponownie go uruchom.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター[reactor]を見つけ、稼働状態に戻っていることを確認しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로[Reactor]를 찾아 다시 작동시킬 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到反應器[Reactor]並確保重新連線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到反应堆[reactor]并确保其恢复连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_6_R3A3.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2921300303
+}

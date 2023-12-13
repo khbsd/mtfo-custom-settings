@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Swedish",
+  "Description": "A language spoken in Sweden.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Suédois",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Svedese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schwedisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sueco",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Шведский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sueco",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szwedzki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スウェーデン語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스웨덴어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "瑞典文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "瑞典语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Swedish",
+  "internalEnabled": true,
+  "persistentID": 418
+}

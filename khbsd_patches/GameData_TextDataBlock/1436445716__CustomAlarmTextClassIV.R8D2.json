@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "START SECURITY SCAN SEQUENCE <color=red>[WARNING:CLASS IV ALARM \nDETECTED]</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉMARRER LA SÉQUENCE D'ANALYSE DE SÉCURITÉ <color=red>[ALERTE\u00A0: ALARME DE CLASSE\u00A0IV \nDÉTECTÉE]</color> ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIARE SEQUENZA SCANSIONE DI SICUREZZA <color=red>[ATTENZIONE: ALLARME CLASSE IV \nRILEVATO]</color> ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN-SEQUENZ STARTEN <color=red>[WARNUNG: ALARM DER KLASSE\u00A0IV \nERKANNT]</color> ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIAR SECUENCIA DE ESCÁNER DE SEGURIDAD <color=red>[ADVERTENCIA: ALARMA DE CLASE IV \nDETECTADA]</color> ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ ПРОВЕРКУ БЕЗОПАСНОСТИ <color=red>[ВНИМАНИЕ! ОБНАРУЖЕН СИГНАЛ ТРЕВОГИ\nКЛАССА IV]</color> ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIAR SEQUÊNCIA DE ESCANEAMENTO DE SEGURANÇA <color=red>[AVISO: ALARME CLASSE IV \nDETECTADO]</color> ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ROZPOCZNIJ SEKWENCJĘ SKANOWANIA BEZPIECZEŃSTWA <color=red>[OSTRZEŻENIE WYKRYTO ALARM \nKLASY IV]</color> ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンシークエンスを開始<color=red>[警告：クラスIV警報\n検出]</color> ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 절차 시작 <color=red>[경고:클래스 IV 경보 \n탐지됨]</color> ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始安全掃描序列<color=red>[警告：偵測到\nIV級警報]</color> ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始安全扫描序列<color=red>[警告：检测到\nIV级警报]</color> ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "CustomAlarmTextClassIV.R8D2",
+  "internalEnabled": true,
+  "persistentID": 1436445716
+}

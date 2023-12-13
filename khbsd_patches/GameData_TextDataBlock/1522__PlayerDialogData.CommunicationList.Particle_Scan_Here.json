@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Particle scan here.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà un scanner à particules.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansione particellare qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Partikelscan.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Un escáner de partículas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь сканер частиц.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escâner de partículas aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skaner cząsteczkowy, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここを粒子スキャンしてくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 입자 스캔해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "粒子掃描，這裡。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里要用粒子扫描。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Particle_Scan_Here",
+  "internalEnabled": true,
+  "persistentID": 1522
+}

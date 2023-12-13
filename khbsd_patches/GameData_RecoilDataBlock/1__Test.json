@@ -1,0 +1,59 @@
+{
+  "power": {
+    "Min": 0.0,
+    "Max": 0.0
+  },
+  "spring": 0.0,
+  "dampening": 0.0,
+  "hipFireCrosshairSizeDefault": 0.0,
+  "hipFireCrosshairRecoilPop": 0.0,
+  "hipFireCrosshairSizeMax": 0.0,
+  "horizontalScale": {
+    "Min": 0.0,
+    "Max": 0.0
+  },
+  "verticalScale": {
+    "Min": 0.0,
+    "Max": 0.0
+  },
+  "directionalSimilarity": 0.0,
+  "worldToViewSpaceBlendHorizontal": 1.0,
+  "worldToViewSpaceBlendVertical": 0.802,
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "recoilPosShiftWeight": 0.0,
+  "recoilPosStiffness": 0.0,
+  "recoilPosDamping": 0.0,
+  "recoilPosImpulseWeight": 0.0,
+  "recoilCameraPosWeight": 0.0,
+  "recoilAimingWeight": 0.0,
+  "recoilRotImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "recoilRotStiffness": 0.0,
+  "recoilRotDamping": 0.0,
+  "recoilRotImpulseWeight": 0.0,
+  "recoilCameraRotWeight": 0.0,
+  "concussionIntensity": 0.0,
+  "concussionFrequency": 0.0,
+  "concussionDuration": 0.0,
+  "name": "Test",
+  "internalEnabled": true,
+  "persistentID": 1
+}

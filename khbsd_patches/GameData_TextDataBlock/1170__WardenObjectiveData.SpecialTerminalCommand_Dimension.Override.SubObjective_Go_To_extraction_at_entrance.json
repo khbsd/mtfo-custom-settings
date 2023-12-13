@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Retreat to extraction in [EXTRACTION_ZONE] immediately",
+  "Description": "Don't localize [EXTRACTION_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Retournez au point d'évacuation de [EXTRACTION_ZONE] immédiatement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ritirata immediata per l'estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ziehen Sie sich sofort zum Extraktionspunkt in [EXTRACTION_ZONE] zurück",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Regresa a la extracción en [EXTRACTION_ZONE] de inmediato.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Немедленно эвакуируйтесь в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recue para o ponto de extração em [EXTRACTION_ZONE] imediatamente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przemieść się niezwłocznie do strefy ewakuacji [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "即座に [EXTRACTION_ZONE] の脱出地点へ撤退",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "즉시 [EXTRACTION_ZONE]의 탈출 지점으로 후퇴",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "立即撤離到[EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "立即撤退到[EXTRACTION_ZONE]撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_Go_To_extraction_at_entrance",
+  "internalEnabled": true,
+  "persistentID": 1170
+}

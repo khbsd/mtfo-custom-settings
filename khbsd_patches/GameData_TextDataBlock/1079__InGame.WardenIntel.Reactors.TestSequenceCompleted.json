@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR TEST SEQUENCE COMPLETED",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SÉQUENCE DE TEST DU RÉACTEUR TERMINÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEQUENZA TEST REATTORE COMPLETATA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORTESTSEQUENZ ABGESCHLOSSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECUENCIA DE PRUEBA DEL REACTOR COMPLETADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦИКЛ ПРОВЕРКИ РЕАКТОРА ЗАВЕРШЕН",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SEQUÊNCIA DE TESTE DE REATOR CONCLUÍDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKWENCJA TESTU REAKTORA ZAKOŃCZONA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターテストシークエンス完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시험 절차 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器測試序列完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆测试序列已完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.TestSequenceCompleted",
+  "internalEnabled": true,
+  "persistentID": 1079
+}

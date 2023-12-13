@@ -1,0 +1,7 @@
+{
+  "Type": 1,
+  "GearJSON": "{\"Ver\":1,\"Name\":\"Shelling Arid 5\",\"Packet\":{\"Comps\":{\"Length\":16,\"a\":{\"c\":2,\"v\":35},\"b\":{\"c\":3,\"v\":109},\"c\":{\"c\":4,\"v\":48},\"d\":{\"c\":5,\"v\":48},\"e\":{\"c\":6,\"v\":29},\"f\":{\"c\":7,\"v\":2},\"g\":{\"c\":8,\"v\":16},\"h\":{\"c\":9,\"v\":15},\"i\":{\"c\":10,\"v\":27},\"j\":{\"c\":11,\"v\":27},\"k\":{\"c\":12,\"v\":49},\"l\":{\"c\":16,\"v\":21},\"m\":{\"c\":19,\"v\":18},\"n\":{\"c\":23,\"v\":8},\"o\":{\"c\":25,\"v\":3}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":-0.098,\"y\":-0.07,\"normalized\":{\"x\":-0.813733459,\"y\":-0.5812382,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.120432548,\"sqrMagnitude\":0.014504},\"scale\":0.05},\"tDecalB\":{\"position\":{\"x\":-0.098,\"y\":-0.07,\"normalized\":{\"x\":-0.813733459,\"y\":-0.5812382,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.120432548,\"sqrMagnitude\":0.014504},\"scale\":0.04},\"tPattern\":{\"position\":{\"x\":-0.09,\"y\":-0.03,\"normalized\":{\"x\":-0.9486833,\"y\":-0.316227764,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.09486833,\"sqrMagnitude\":0.009000001},\"angle\":-90.0,\"scale\":0.1}},\"publicName\":{\"data\":\"Shelling Arid 5\"}}}",
+  "name": "HighCalPistol",
+  "internalEnabled": true,
+  "persistentID": 63
+}

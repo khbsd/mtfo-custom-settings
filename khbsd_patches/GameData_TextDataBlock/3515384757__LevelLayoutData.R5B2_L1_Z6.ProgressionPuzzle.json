@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone access granted from terminal uplinks in Secondary Sector. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accès à la zone accordé à partir des terminaux de liaison montante dans le secteur secondaire. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso alla zona concesso dagli uplink del terminale nel settore secondario. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugang zur Zone wird von Terminal-Uplinks im Sekundärsektor gewährt. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso a la zona permitido con los uplinks de la terminal en el sector secundario. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доступ к зоне открыт через подключения терминала во второстепенном секторе. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso à Zone concedido com uplinks de terminais no Setor Secundário. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przyznano dostęp do strefy z łącz terminali w sektorze pobocznym. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副セクターの端末アップリンクからZoneアクセス付与。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 섹터 터미널 업링크로부터 구역 액세스 허가됨. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已從次級分區的終端上行鏈路開放區域存取權限。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已从次要分区的终端上行链路开放区域访问权限。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.R5B2_L1_Z6.ProgressionPuzzle",
+  "internalEnabled": true,
+  "persistentID": 3515384757
+}

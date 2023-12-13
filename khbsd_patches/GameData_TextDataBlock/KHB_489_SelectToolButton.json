@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ssssssssss",
+  "Description": "An invitation for the player to select their preferred tool. These are not carpenter tools like hammers and monkey wrenches, but andvanced gadgets like motion trackers, sentry guns or mine deployers.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "OUTIL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "STRUMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WERKZEUG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "HERRAMIENTA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСТРОЙСТВО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FERRAMENTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NARZĘDZIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツール",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.PlayerBar.SelectTool",
+  "internalEnabled": true,
+  "persistentID": 489
+}

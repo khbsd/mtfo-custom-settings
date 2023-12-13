@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate the startup on the Terminal",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Démarrez le terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializzare l'avvio sul terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie den Startvorgang auf dem Terminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia el arranque de la terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите реактор через терминал.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comece a inicialização no terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom terminal",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末で始動を開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 시동할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端上開始啟動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端上发起启动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3.SubObjective_InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 1530
+}

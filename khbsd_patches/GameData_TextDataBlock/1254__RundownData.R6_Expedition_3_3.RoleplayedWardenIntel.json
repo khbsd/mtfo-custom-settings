@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... [panting] Hand me some ammo! \r\n... I can't. <size=200%><color=red>That was all of it.</size></color>\n... Shit. \r",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... [Halète] J'ai besoin de munitions\u00A0! \r\n... C'est pas possible. <size=200%><color=red>On est à court.</size></color>\n... Bordel. \r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… [ansimando] Passami delle munizioni! \r\n… Non posso. <size=200%><color=red>Non ne ho più.</size></color>\n… Merda. \r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… [Keuchen] Gib mir Munition!\r\n… Geht nicht. <size=200%><color=red>Das war alles, was wir hatten.</size></color>\n… Mist.\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... [jadeando] ¡Pásame munición! \r\n... Va a ser que no. <size=200%><color=red>Se ha acabado.</size></color>\n... A tomar por culo. \r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... [тяжелое дыхание] Передай боеприпасы! \r\n... Не могу. <size=200%><color=red>Они кончились.</size></color>\n... Вот дрянь!\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... [ofegante] Me dê um pouco de munição! \r\n... Eu não consigo. <size=200%><color=red>Acabou tudo.</size></color>\n... Merda. \r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…. [dyszy] Amunicja! \r\n…Nie mogę.<size=200%><color=red>Skończyła się.</size></color>\n…W mordę. \r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... [荒い息] 弾を寄こせ！ \r\n... ダメだ。 <size=200%><color=red>さっきので全部だ。</size></color>\n... クソッ。 \r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... [헐떡거임] 탄약 좀 줘! \r\n... 없어. <size=200%><color=red>아까 그게 다야.</size></color>\n... 젠장. \r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……[喘氣聲]給我一些彈藥！\r\n……不行。<size=200%><color=red>剛剛已經用完了。</size></color>\n……該死。\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……[喘气声]给我一些弹药！\r\n……不行。<size=200%><color=red>刚刚已经用完了。</size></color>\n……该死。\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_3_3.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1254
+}

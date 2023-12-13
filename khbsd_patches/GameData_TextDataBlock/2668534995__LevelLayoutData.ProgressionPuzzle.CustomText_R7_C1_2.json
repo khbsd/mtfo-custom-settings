@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Air filtration system can be enabled from a terminal in <color=orange>ZONE 23</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Système de filtration d'air activable depuis un terminal de la <color=orange>ZONE\u00A023</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il sistema di filtrazione dell'aria è attivabile da un terminale nella <color=orange>ZONE 23</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das Luftfilterungssystem kann an einem Terminal in <color=orange>ZONE 23</color> aktiviert werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sistema de filtrado de aire se puede activar desde un terminal en la <color=orange>ZONE 23</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Систему фильтрации воздуха можно активировать на терминале в <color=orange>ZONE 23</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Possível ativar o sistema de filtragem de ar em um terminal da <color=orange>ZONE 23</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "System filtracji powietrza można uruchomić z terminalu w <color=orange>strefie 23 [ZONE_23]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "換気システムは<color=orange>ZONE 23</color>の端末から起動可能",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 23</color> 터미널에서 여과 시스템 작동 가능",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空氣過濾系統可由<color=orange>ZONE 23</color>的終端開啟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空气过滤系统可在<color=orange>ZONE 23</color>的终端上开启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_2",
+  "internalEnabled": true,
+  "persistentID": 2668534995
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Optional Objective",
+  "Description": "A headline for the text that describes the mission's optional objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif secondaire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo opzionale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Optionales Ziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Objetivo opcional",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дополнительная цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Objetivo opcional",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel dodatkowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任意目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부가 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可選目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可选目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.OptionalObjective",
+  "internalEnabled": true,
+  "persistentID": 799
+}

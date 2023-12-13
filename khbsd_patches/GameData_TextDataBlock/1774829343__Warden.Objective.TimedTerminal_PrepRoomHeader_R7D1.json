@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Timed Terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminal chronométré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminale a tempo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeitgesteuertes Terminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminal cronometrado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Синхронизированный терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Terminal cronometrado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Terminal czasowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期端末",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 터미널",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定時終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定时终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.TimedTerminal_PrepRoomHeader_R7D1",
+  "internalEnabled": true,
+  "persistentID": 1774829343
+}

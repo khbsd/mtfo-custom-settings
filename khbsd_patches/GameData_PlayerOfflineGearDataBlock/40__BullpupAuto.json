@@ -1,0 +1,7 @@
+{
+  "Type": 1,
+  "GearJSON": "{\"Ver\":1,\"Name\":\"Accrat Golok DA\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":2},\"b\":{\"c\":2,\"v\":17},\"c\":{\"c\":3,\"v\":108},\"d\":{\"c\":4,\"v\":22},\"e\":{\"c\":5,\"v\":38},\"f\":{\"c\":6,\"v\":2},\"g\":{\"c\":7,\"v\":2},\"h\":{\"c\":8,\"v\":18},\"i\":{\"c\":9,\"v\":13},\"j\":{\"c\":10,\"v\":22},\"k\":{\"c\":11,\"v\":22},\"l\":{\"c\":12,\"v\":41},\"m\":{\"c\":16,\"v\":19},\"n\":{\"c\":19,\"v\":17},\"o\":{\"c\":21,\"v\":9},\"p\":{\"c\":23,\"v\":5},\"q\":{\"c\":25,\"v\":5}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":-0.202,\"y\":0.012,\"normalized\":{\"x\":-0.9982401,\"y\":0.05930139,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.20235613,\"sqrMagnitude\":0.0409480035},\"scale\":0.07},\"tDecalB\":{\"position\":{\"x\":-0.2,\"y\":0.01,\"normalized\":{\"x\":-0.9987523,\"y\":0.0499376133,\"normalized\":{\"x\":-0.998752356,\"y\":0.049937617,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.99999994,\"sqrMagnitude\":0.99999994},\"magnitude\":0.200249851,\"sqrMagnitude\":0.0401},\"scale\":0.07},\"tPattern\":{\"position\":{\"x\":-0.1,\"y\":0.032,\"normalized\":{\"x\":-0.9524241,\"y\":0.3047757,\"normalized\":{\"x\":-0.952424169,\"y\":0.304775745,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.99999994,\"sqrMagnitude\":0.99999994},\"magnitude\":0.104995243,\"sqrMagnitude\":0.011024},\"angle\":-140.0,\"scale\":0.1}},\"publicName\":{\"data\":\"Accrat Golok DA\"}}}",
+  "name": "BullpupAuto",
+  "internalEnabled": true,
+  "persistentID": 40
+}

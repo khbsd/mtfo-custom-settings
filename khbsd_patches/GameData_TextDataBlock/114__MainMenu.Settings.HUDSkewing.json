@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HUD Skewing",
+  "Description": "A game setting that allows the user to alter how much the game's HUD is perceived as concave or \"bending\" across the screen.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inclinaison de l'affichage tête haute",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Distorsione HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HUD-Verdrehung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sesgo de la interfaz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Искажение HUD",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Distorção de interface",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zukosowanie interfejsu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUDゆがみ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD 기울이기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抬頭顯示器扭曲",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "平视显示偏移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDSkewing",
+  "internalEnabled": true,
+  "persistentID": 114
+}

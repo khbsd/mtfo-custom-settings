@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Alarm Class M IV",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 13,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 11.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 5
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Irregular x4 - Error Alarm Reduced Bullrush Mix",
+  "internalEnabled": true,
+  "persistentID": 101
+}

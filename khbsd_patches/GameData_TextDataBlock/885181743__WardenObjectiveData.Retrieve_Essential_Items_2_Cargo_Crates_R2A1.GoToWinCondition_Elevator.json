@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return the item to the extraction point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rentrez au point d'évacuation dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare l'oggetto al punto di estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie den Gegenstand zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva el objeto al punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите предмет к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Devolva o item ao ponto de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś przedmiot do punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテムを[EXTRACTION_ZONE]の脱出地点に戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해당 아이템을 [EXTRACTION_ZONE]의 탈출 지점으로 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將物品帶回[EXTRACTION_ZONE]的撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将物品送回[EXTRACTION_ZONE]的撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Retrieve_Essential_Items_2_Cargo_Crates_R2A1.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 885181743
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! - Bioreadings appearing in <color=orange>Zone 274</color> - Don't let them disperse!\n\n",
+  "Description": "Don't localize Zone 274",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! - Biosignatures détectées dans la <color=orange>Zone\u00A0274</color> - Ne les laissez pas se disperser\u00A0!\n\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Rilevate tracce biologiche in <color=orange>ZONE 274</color>. Non devono disperdersi!\n\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – Biosignale erscheinen in <color=orange>ZONE 274</color> – Sie dürfen sich nicht ausbreiten!\n\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! Han aparecido unas bioseñales en la <color=orange>ZONE 274</color>. ¡Que no se dispersen!\n\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Биосигнатуры приближаются к <color=orange>ZONE 274</color>! Распространение недопустимо!\n\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! — Bioleituras aparecendo na <color=orange>ZONE 274</color> — Não permita que eles se dispersem!\n\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – w <color=orange>strefie 274 [ZONE_274]</color> wykryto biosygnatury – nie pozwól się im rozproszyć!\n\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ - <color=orange>Zone 274</color> に生体反応が接近中！ - 逃がすな！\n\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! - <color=orange>ZONE 274</color>에서 생체 신호 감지 - 반드시 확산을 저지할 것!\n\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！- <color=orange>Zone 274</color>出現生物質讀數 - 不要讓對方散開！\n\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！ - <color=orange>ZONE 274</color>出现生物读数 - 防止扩散开来！\n\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_2",
+  "internalEnabled": true,
+  "persistentID": 1358
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>ZONE 24</color> unlocked.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Porte vers la <color=orange>ZONE\u00A024</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>ZONE 24</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>ZONE 24</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la <color=orange>ZONE 24</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в <color=orange>ZONE 24</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>ZONE 24</color> destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 24 [ZONE_24]</color> odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 24</color>へのドアが封鎖解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 24</color> 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>ZONE 24</color>的門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 24</color>门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_1",
+  "internalEnabled": true,
+  "persistentID": 1487071192
+}

@@ -1,0 +1,17 @@
+{
+  "SpawnsPerZone": 3,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 115,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 144,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Small_C-foam_Alt",
+  "internalEnabled": true,
+  "persistentID": 60
+}

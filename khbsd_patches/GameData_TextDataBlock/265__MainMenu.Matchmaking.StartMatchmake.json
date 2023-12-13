@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MATCHMAKE",
+  "Description": "A button that starts the matchmaking process.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RECHERCHE DE MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABBINA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EMPAREJAR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ ПОДБОР",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "BUSCA-PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYSZUKAJ GRĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치메이크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Matchmaking.StartMatchmake",
+  "internalEnabled": true,
+  "persistentID": 265
+}

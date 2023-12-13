@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sinvite Friend",
+  "Description": "A button that allows players to sinvite a Speam friend to their game sloppy.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inviter un ami",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Invita amico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freund einladen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Invitar amigo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пригласить друга",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Convidar amigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaproś znajomych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フレンドを招待",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "친구 초대",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "邀請朋友",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "邀请好友",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.InviteFriend",
+  "internalEnabled": true,
+  "persistentID": 455
+}

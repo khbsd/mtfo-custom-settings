@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... Door to [ZONE_11] opened by emergency sequence. Evacuate immediately!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_11] ouverte par la séquence d'urgence. Évacuez immédiatement\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… Porta per zona 11 [ZONE_11] aperta da sequenza di emergenza. Evacuazione immediata!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "…\u00A0Tür zu [ZONE_11] durch Notfallsequenz geöffnet. Sofort evakuieren!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la [ZONE_11] se ha abierto con una secuencia de emergencia. ¡Evacuar de inmediato!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аварийный цикл разблокировал дверь в [ZONE_11]. Немедленно эвакуируйтесь!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Porta para a [ZONE_11] aberta pela sequência de emergência. Evacue imediatamente!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "... Drzwi do strefy [ZONE_11] odblokowane przez sekwencję awaryjną. Wymagana niezwłoczna ewakuacja!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... [ZONE_11]へのドアが緊急シークエンスにより開いた。即座に避難せよ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...비상 절차에 의해 [ZONE_11] 문 열림. 즉시 탈출할 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……通往[ZONE_11]的門已由緊急序列開啟。立即撤離！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……[ZONE_11]的门已由紧急序列打开。立即撤离！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R5D2_L1.ReactorWave_Intel_13",
+  "internalEnabled": true,
+  "persistentID": 3736336656
+}

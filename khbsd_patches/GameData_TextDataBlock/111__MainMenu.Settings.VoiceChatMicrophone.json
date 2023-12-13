@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Chat Microphone",
+  "Description": "A game setting that allows the user to choose what microphone to use for voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Microphone (chat vocal)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Microfono chat vocale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mikrofon",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Micrófono del chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Микрофон для голосового чата",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Microfone do chat de voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mikrofon czatu głosowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャットマイク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅 마이크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天麥克風",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天麦克风",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceChatMicrophone",
+  "internalEnabled": true,
+  "persistentID": 111
+}

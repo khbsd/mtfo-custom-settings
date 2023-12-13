@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Sequence failed</color> - Restart initialization sequence on main terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Échec de la séquence</color> - Redémarrer la séquence d’initialisation sur le terminal principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Sequenza non riuscita</color>: riavviare la sequenza di inizializzazione sul terminale principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Sequenz fehlgeschlagen</color> – Starten Sie die Initialisierungssequenz auf dem Hauptterminal neu.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Secuencia fallida</color> - Reinicia la secuencia de inicialización en el terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Сбой цикла</color>. Заново запустите стартовый цикл с основного терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Falha na sequência</color> - Reinicie a sequência de inicialização no terminal principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Sekwencja nieudana</color> – dokonaj powtórnej inicjalizacji sekwencji w terminalu głównym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>シークエンス失敗</color> - メイン端末でシークエンス初期化を再開始せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>절차 실패</color> - 중앙 터미널에서 절차 시행 재시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>序列失敗</color> - 在主終端重新啟動初始化序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>序列失败</color> - 在主终端上重启初始化序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.TimedTerminal_Fail_R7D1",
+  "internalEnabled": true,
+  "persistentID": 3552864659
+}

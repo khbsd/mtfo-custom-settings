@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the transparency of your HUD.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la transparence de l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la trasparenza del tuo HUD.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Transparenz Ihres HUDs.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la transparencia de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует прозрачность HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a transparência de interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za przezroczystość interfejsu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUDの透明度を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD 투명도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制抬頭顯示器透明度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制平视显示的透明度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HUDOpacity",
+  "internalEnabled": true,
+  "persistentID": 3525040005
+}

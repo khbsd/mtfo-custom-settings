@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <b>corrupted</b> [ALL_ITEMS] and bring it to the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez la [ALL_ITEMS] <b>corrompue</b> et amenez-la au scanner d'évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare la [ALL_ITEMS] <b>corrotta</b> e portarla alla scansione di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die <b>fehlerhafte</b> [ALL_ITEMS] und bringen Sie sie zum Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra los siguientes objetos [ALL_ITEMS] <b>dañados</b> y llévalos al escáner de extracción de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <b>поврежденный</b> предмет ([ALL_ITEMS]) и отнесите к сканеру извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o [ALL_ITEMS] <b>corrompido</b> e leve-o até o escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź i zanieś <b>uszkodzoną sferę danych</b> ([ALL_ITEMS]) do skanera punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>破損した</b> [ALL_ITEMS]を見つけ、[EXTRACTION_ZONE]の脱出スキャンへ運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<b>손상됨</b> [ALL_ITEMS]을(를) 찾고 [EXTRACTION_ZONE]의 탈출 스캔으로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到<b>損壞的</b>[ALL_ITEMS]並帶到[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<b>受损</b>的[ALL_ITEMS]并将其带到[EXTRACTION_ZONE]的撤离扫描点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_2_DataSphere_R4C2_L3.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3758365391
+}

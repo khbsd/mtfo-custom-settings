@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machine pistol",
+  "Description": "A firearm category. A \"machine pistol\" is a fully automatic pistol.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pistolet automatique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola mitragliatrice",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinenpistole",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pistola ametralladora",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автоматический пистолет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pistola-metralhadora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pistolet maszynowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マシンピストル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기관 권총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機關手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冲锋手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.Pistol.AutoName",
+  "internalEnabled": true,
+  "persistentID": 767
+}

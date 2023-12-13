@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nLong range\nHigh damage\nLimited ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nLongue portée\nDégâts élevés\nCapacité de munitions limitée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata lunga\nDanni elevati\nRidotta capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nGroße Reichweite\nHoher Schaden\nBegrenzte Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nLargo alcance\nMucho daño\nCapacidad de munición limitada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nБольшая дальность\nВысокий урон\nНебольшая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomático\nLongo alcance\nAlto dano\nCapacidade limitada de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nDługi dystans\nDuże obrażenia\nOgraniczona pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n長距離\n高ダメージ\n装弾数が制限",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n장거리\n높은 대미지\n제한된 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n長程\n高傷害\n有限彈藥容量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n远程\n高伤害\n弹药容量有限",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.DMR.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 746
+}

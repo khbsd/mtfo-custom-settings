@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ":://Interrupted_Communications_",
+  "Description": "\"Interrupted communications\" represents incomplete transmissions from other prisoners who have previously explored the mission/map in question, and reading/listening to them can give clues (\"intel\") on how to survive.. Do not remove the \"://\" or the underscores (\"_\").",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": ":://Transmissions_interrompues_",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ":://Comunicazioni_interrotte_",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ":://Unterbrochene_Kommunikationen_",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ":://Comunicaciones_interrumpidas_",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ":://Interrupted_Communications_",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ":://Comunicações_interrompidas_",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ":://Zakłócone_komunikaty_",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ":://中断_通信_",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ":://끊어진_통신_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "://中斷_通訊_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ":://中断_通讯_",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.InteruptedComminucations",
+  "internalEnabled": true,
+  "persistentID": 38
+}

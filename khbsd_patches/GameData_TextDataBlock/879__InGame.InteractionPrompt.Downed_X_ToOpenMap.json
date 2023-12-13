@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "YOU ARE DOWNED, WAITING FOR TEAMMATE! (NOTE: '{0}' TO OPEN MAP)",
+  "Description": "A text that appears on screen when the player is downed (0% health.) \"Waiting for teammate\" refers to the fact that only a teammate can help you up once you're downed. \"{0}\" will be replaced by the appropriate keyboard key/gamepad button, do not alter those characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VOUS ÊTES ABATTU, ATTENDEZ VOTRE COÉQUIPIER\u00A0! (NOTE\u00A0: {0} POUR OUVRIR LA CARTE)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEI A TERRA, ATTENDI UN COMPAGNO DI SQUADRA! (NOTA: '{0}' PER APRIRE LA MAPPA)",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SIE WURDEN ABGESCHOSSEN, AUF TEAMMITGLIEDER WARTEN! (HINWEIS: „{0}“ zum KARTENÖFFNEN)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡TE HAS QUEDADO SIN SALUD! ¡ESPERANDO POR UN COMPAÑERO! (AVISO: «{0}» PARA ABRIR EL MAPA)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВЫ БЕЗ СОЗНАНИЯ. ЖДИТЕ НАПАРНИКА! ('{0}', ЧТОБЫ ОТКРЫТЬ КАРТУ)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VOCÊ JÁ ERA, AGUARDANDO ALIADO! (OBS.: '{0}' PARA ABRIR MAPA)",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POWALONO CIĘ, OCZEKIWANIE NA CZŁONKA DRUŻYNY! (UWAGA: '{0}', ABY OTWORZYĆ MAPĘ)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダウンした！チームメイトを待て！(注: '{0}' でマップを開く)",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "쓰러졌습니다. 팀원을 기다리고 있습니다! (참고: '{0}' - 맵 열기)",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你被擊倒了，等待隊友！（注意：「{0}」開啟地圖）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你已倒下，正在等待队友！（注：'{0}'打开地图）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Downed_X_ToOpenMap",
+  "internalEnabled": true,
+  "persistentID": 879
+}

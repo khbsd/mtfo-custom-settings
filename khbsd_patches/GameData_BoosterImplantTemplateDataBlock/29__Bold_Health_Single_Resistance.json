@@ -1,0 +1,40 @@
+{
+  "Deprecated": false,
+  "PublicName": 709,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "DropWeight": 4.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 10,
+        "MinValue": 1.15,
+        "MaxValue": 1.2
+      },
+      {
+        "BoosterImplantEffect": 11,
+        "MinValue": 1.15,
+        "MaxValue": 1.2
+      }
+    ]
+  ],
+  "ImplantCategory": 1,
+  "MainEffectType": 2,
+  "name": "Bold_Health_Single_Resistance",
+  "internalEnabled": true,
+  "persistentID": 29
+}

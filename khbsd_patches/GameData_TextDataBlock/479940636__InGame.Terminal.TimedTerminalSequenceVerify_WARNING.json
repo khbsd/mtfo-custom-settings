@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=yellow>WARNING</color> :: VERIFICATION MUST BE COMPLETED WITHIN ALLOTTED TIME FRAME.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=yellow>AVERTISSEMENT</color>\u00A0: LA VÉRIFICATION DOIT ÊTRE EFFECTUÉE DANS LE TEMPS IMPARTI.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=yellow>ATTENZIONE</color> :: LA VERIFICA DEVE ESSERE COMPLETATA ENTRO IL TEMPO DISPONIBILE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=yellow>WARNUNG</color> :: VERIFIZIERUNG MUSS INNERHALB DES VORGEGEBENEN ZEITRAHMENS ABGESCHLOSSEN WERDEN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=yellow>ADVERTENCIA</color> :: LA VERIFICACIÓN DEBE COMPLETARSE EN EL LAPSO DE TIEMPO PERMITIDO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=yellow>ВНИМАНИЕ!</color> ВЕРИФИКАЦИЯ ДОЛЖНА БЫТЬ ПРОЙДЕНА В ОТВЕДЕННОЕ ВРЕМЯ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=yellow>AVISO</color>:: A VERIFICAÇÃO DEVE SER CONCLUÍDA DENTRO DO PERÍODO ESTIPULADO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=yellow>OSTRZEŻENIE</color> :: WERYFIKACJA MUSI ZOSTAŃ UKOŃCZONA W WYZNACZONYM CZASIE.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=yellow>警告</color> :: 認証は割り当てられた時間内に完了しなければなりません。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=yellow>경고</color> :: 승인은 할당된 시간 내에 완료되어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=yellow>警告</color> :: 必須於時限內完成驗證。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=yellow>警告</color>：验证必须在分配的时限内完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_WARNING",
+  "internalEnabled": true,
+  "persistentID": 479940636
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick up your deployables.",
+  "Description": "Deployables in this case are things like sentry guns and trip mines.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ramassez les objets déployables.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliete i vostri schierabili.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsetzbare Gegenstände aufheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoge tus desplegables.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Уберите установки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegue seus alocáveis.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieść przedmioty rozstawiane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "設置物を拾ってくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "설치 장비 챙겨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起可部署物品。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "捡起你的部署物。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Pick_Up_Your_Deployables",
+  "internalEnabled": true,
+  "persistentID": 1470
+}

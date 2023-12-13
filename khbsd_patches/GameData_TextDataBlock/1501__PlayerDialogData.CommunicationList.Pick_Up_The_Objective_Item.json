@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carry the objective item.",
+  "Description": "Text for button that commands an AI character to carry an objective item.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Transportez l'objet d'objectif.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trasporta l'oggetto obiettivo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tragen sie den Zielgegenstand.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva el objeto del objetivo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перенесите требуемый предмет.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carregue o item de objetivo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weź przedmiot powiązany z celem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標アイテムを拾ってくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 아이템 들어.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿目標物品。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拿取目标物品。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Pick_Up_The_Objective_Item",
+  "internalEnabled": true,
+  "persistentID": 1501
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... No. It's your turn.  \r\n… Why can’t HE do it? \r\n... Just <size=200%><color=red>touch the fucking-\r</color></size>\n... Alright! Jeez... \r\n",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... Non. C'est à ton tour.  \r\n... Et pourquoi pas lui, hein\u00A0?! \r\n... Je te dis de <size=200%><color=red>toucher ce foutu...\r</color></size>\n... Bon, d'accord\u00A0! Pfff... \r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… No. È il tuo turno. \r\n… Perché non può farlo LUI? \r\n… Basta <size=200%><color=red>toccare quel cazzo di…\r</color></size>\n… Va bene! Cavolo… \r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… Nein. Du bist dran.\r\n… Warum kann ER es nicht tun?\r\n… Jetzt <size=200%><color=red>fass das Ding schon–\r</color></size>\n… Okay! Meine Güte …\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... Ni hablar. Te toca.  \r\n... ¿Y por qué no lo puede hacer él? \r\n... Haz el puto favor de <size=200%><color=red>tocar el...\r</color></size>\n... ¡Vale, vale! Ya voy... \r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Нет уж, твоя очередь. \r\n… А он почему не может?\r\n... Заткнись и <size=200%><color=red>бери эту фиговину.\r</color></size>\n... Ладно-ладно! Что горячиться-то?\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Não. É sua vez agora. \r\n… Por que ELE não consegue? \r\n... É só <size=200%><color=red>tocar na porra d...\r</color></size>\n... Então ok! Nossa... \r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…Nie, twoja kolej.\r\n…Czemu SAM tego nie zrobi? \r\n…Po prostu <size=200%><color=red>dotknij ten jebany\r</color></size>\n…Dobra! Rety… \r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... いや。おまえの番だ。  \r\n… なんであいつにはできないんだ？ \r\n... ただ<size=200%><color=red>触ればいいだけ—\r</color></size>\n... わかったよ！畜生... \r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 아냐, 네 차례야.  \r\n… 그놈은 왜 못하는데? \r\n... 그냥 <size=200%><color=red>씨발 좀 만져...\r</color></size>\n... 알았어! 젠장... \r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……不，輪到你了。\r\n……為什麼不讓他去？\r\n……趕快<size=200%><color=red>碰那個該死的—\r</color></size>\n……好了！真是的……\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……不，现在轮到你了。\r\n……他怎么就不能去了？\r\n……赶紧<size=200%><color=red>碰那个该死的——\r</color></size>\n……行行行！真是的……\r\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_3_1.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1259
+}

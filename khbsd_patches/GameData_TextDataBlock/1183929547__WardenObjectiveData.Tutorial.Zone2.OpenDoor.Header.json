@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quietly go to armory",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous discrètement à l'arsenal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere silenziosamente l'armeria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie leise zur Waffenkammer.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a la armería con sigilo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тихо войдите в оружейную",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá ao arsenal silenciosamente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przemknij do zbrojowni",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "静かに武器庫へ向かえ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기고로 조용히 접근",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安靜前往軍械庫",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "悄然前往军械库",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Tutorial.Zone2.OpenDoor.Header",
+  "internalEnabled": true,
+  "persistentID": 1183929547
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Long range\nAutomatic fire\nLimited ammo capacity\nThermal scope",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Longue portée\nAutomatique\nCapacité de munitions limitée\nViseur thermique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gittata lunga\nFuoco automatico\nRidotta capienza del caricatore\nMirino termico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Große Reichweite\nAutomatisches Feuer\nBegrenzte Munitionskapazität\nThermisches Visier",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Largo alcance\nFuego automático\nCapacidad de munición limitada\nMira térmica",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Большая дальность\nАвтоматический огонь\nНебольшая емкость магазина\nТепловизионный прицел",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Longo alcance\nDisparo automático\nCapacidade limitada de munição\nBinóculo térmico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Długi zasięg\nOgień automatyczny\nOgraniczona pojemność magazynku\nLuneta termowizyjna",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "長距離\n自動発砲\n装弾数に制限\nサーマルスコープ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "장거리\n자동 발사\n제한된 탄약량\n열상 조준경",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "長程\n自動射擊\n有限彈藥容量\n熱像儀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "远程\n自动射击\n弹药容量有限\n热成像瞄准镜",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "GearArchetype.PrecisionRifle.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 958451622
+}

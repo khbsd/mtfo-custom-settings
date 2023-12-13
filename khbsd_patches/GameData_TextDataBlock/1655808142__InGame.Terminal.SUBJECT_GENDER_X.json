@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SUBJECT GENDER: {0}",
+  "Description": "{0} is either FEMALE or MALE",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "SEXE DU SUJET\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "GENERE SOGGETTO: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GESCHLECHT DER VERSUCHSPERSON: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SEXO DEL SUJETO: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОЛ СУБЪЕКТА: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "GÊNERO DO INDIVÍDUO: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PŁEĆ BIORCY: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の性別: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상 성별: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象性別：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者性别：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SUBJECT_GENDER_X",
+  "internalEnabled": true,
+  "persistentID": 1655808142
+}

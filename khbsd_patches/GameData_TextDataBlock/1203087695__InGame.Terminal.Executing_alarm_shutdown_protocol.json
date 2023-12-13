@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Executing alarm-shutdown protocol...",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Exécution du protocole de désactivation d'alarme...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esecuzione protocollo di spegnimento allarme...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alarmdeaktivierungsprotokoll wird ausgeführt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecutando protocolo de desactivación de alarma...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выполняется протокол аварийного отключения...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Executando protocolo de desligamento de alarme...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonywanie protokołu wyłączenia alarmu...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警報シャットダウンプロトコルを実行中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경보 정지 프로토콜 실행 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在執行警報關閉協定……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在执行警报关闭协议……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Executing_alarm_shutdown_protocol",
+  "internalEnabled": true,
+  "persistentID": 1203087695
+}

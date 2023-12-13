@@ -1,0 +1,52 @@
+{
+  "publicName": "MATTER_WAVE_PROJECTOR",
+  "LocalizedName": 0,
+  "terminalItemShortName": "MATTER_WAVE_PROJECTOR",
+  "terminalItemLongName": "MATTER_WAVE_PROJECTOR",
+  "addSerialNumberToName": false,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 1,
+  "Shard": 2,
+  "inventorySlot": 8,
+  "FPSSettings": 36,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": false,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": false,
+  "GUIShowAmmoTotalRel": false,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": false,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 0,
+  "ConsumableAmmoMax": 0,
+  "audioEventEquip": "",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/MiscPickups/SmallHSUEuippable_FirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/MiscPickups/MWP_FirstPerson.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/MiscPickups/CarryItemGeneric_ThirdPerson.prefab",
+    "Assets/AssetPrefabs/Items/MiscPickups/MWP_ThirdPerson.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/MiscPickups/CarryItemGeneric_Pickup.prefab",
+    "Assets/AssetPrefabs/Items/MiscPickups/MWP_pickup.prefab"
+  ],
+  "InstancePrefabs": [],
+  "EquipTransitionTime": 0.5,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "Generator_Cell",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "Generator_Cell",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "Carry_MWP",
+  "internalEnabled": true,
+  "persistentID": 164
+}

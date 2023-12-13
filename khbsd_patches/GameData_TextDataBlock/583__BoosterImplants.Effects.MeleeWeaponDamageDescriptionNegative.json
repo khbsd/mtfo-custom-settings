@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deal less damage when using melee weapons.",
+  "Description": "Describes the disadvantage of having a poor \"melee damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet inflige moins de dégâts avec des armes de mêlée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto infliggerà danni inferiori utilizzando armi da mischia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verursacht weniger Schaden mit Nahkampfwaffen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto infligirá menos daño al usar armas cuerpo a cuerpo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый в ближнем бою, понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo causa menos danos ao usar armas corpo a corpo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zadawał mniej obrażeń bronią do walki wręcz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の近接武器使用時のダメージが下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 근접 무기를 사용할 때 더 적은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象在使用近戰武器時會造成較少傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者通过近战武器造成的伤害减少。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MeleeWeaponDamageDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 583
+}

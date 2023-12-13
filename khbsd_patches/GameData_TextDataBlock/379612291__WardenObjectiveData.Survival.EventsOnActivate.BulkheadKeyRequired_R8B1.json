@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Security bypass failed, <color=yellow>search Zone 140 for Bulkhead Key</color> to reach additional sectors. ",
+  "Description": "Don't localize BULKHEAD.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0: échec du forçage. <color=yellow>Fouillez la zone\u00A0140 pour trouver la clé de cloison [BULKHEAD_KEY]</color> requise pour atteindre de nouveaux secteurs. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: bypass di sicurezza fallito, <color=yellow>cercare la chiave stagna [BULKHEAD_KEY] nella Zone 140</color> per raggiungere settori aggiuntivi. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Sicherheitsumgehung fehlgeschlagen, <color=yellow>durchsuchen Sie Zone\u00A0140 nach dem Schott-Schlüssel [BULKHEAD_KEY]</color>, um zusätzliche Sektoren zu erreichen. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Error de derivación de seguridad. <color=yellow>Examina la ZONE 140 para encontrar la llave de contención [BULKHEAD_KEY]</color> para llegar a sectores adicionales. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Ошибка обхода системы безопасности. Чтобы попасть в дополнительные секторы, <color=yellow>найдите ключ от ворот [BULKHEAD_KEY] в ZONE 140</color>. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Falha ao evitar segurança, <color=yellow>procure uma chave de segurança [BULKHEAD_KEY] na Zone 140</color> para chegar a setores adicionais. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: obejście zabezpieczeń nieudane; w celu uzyskania dostępu do dodatkowych stref <color=yellow>odszukaj klucz do grodzi w strefie 140 [ZONE_140]</color>. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：セキュリティバイパス失敗、<color=yellow>Zone 140を調べて隔壁キーを見つけ</color>、さらなるセクターに到達せよ。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 보안 통과 실패, <color=yellow>Zone 140에서 격벽 키 [BULKHEAD_KEY]를 찾아</color> 추가 섹터에 도달할 것. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：安全略過失敗，<color=yellow>在ZONE 140搜尋艙門鑰匙[BULKHEAD_KEY]</color>以到達額外分區。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：安全旁通失败，<color=yellow>在ZONE 140搜寻舱壁钥匙[BULKHEAD_KEY]</color>以到达额外分区。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival.EventsOnActivate.BulkheadKeyRequired_R8B1",
+  "internalEnabled": true,
+  "persistentID": 379612291
+}

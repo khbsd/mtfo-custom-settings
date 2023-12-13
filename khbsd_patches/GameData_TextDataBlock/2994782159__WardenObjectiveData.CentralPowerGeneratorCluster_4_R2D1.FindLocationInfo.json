@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate the Power Cells and use them to power up the Generator Cluster",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez des piles à combustible et utilisez-les pour mettre la grappe de générateurs sous tension",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare le celle di energia e usarle per accendere il gruppo elettrogeno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie die Energiezellen und verwenden Sie sie, um den Generatorcluster zu betreiben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza las células de energía y úsalas para alimentar el clúster de generadores.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите батареи и запитайте от них кластер генераторов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize as Power Cells e use-as para abastecer o grupo de geradores",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj ogniwa zasilające i zasil nimi zespół generatorów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "パワーセルを見つけ、それを使って発電機群を起動しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "파워 셀을 찾고 발전기 클러스터 전력 공급에 사용할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位電池[CELL]並用以啟動的發電機叢集",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到电池[CELL]并用它们来启动发电机集群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CentralPowerGeneratorCluster_4_R2D1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 2994782159
+}

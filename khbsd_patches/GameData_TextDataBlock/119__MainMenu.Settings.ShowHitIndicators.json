@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Show hit indicators",
+  "Description": "Whenever the player hits an enemy (with a melee attack or a bullet), a little star flashes in the HUD to indicate a successful hit. The \"show hit indicators\" setting allows the player to enable/disable this feature.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Afficher l'indicateur d'impact",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra indicatori di colpo a segno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Trefferanzeige",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ver indicadores de impacto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывать индикаторы удара",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mostrar indicadores de acerto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pokazuj wskaźnik trafień",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヒットマークを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명중 표시 보이기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示命中指標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示击中标记",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ShowHitIndicators",
+  "internalEnabled": true,
+  "persistentID": 119
+}

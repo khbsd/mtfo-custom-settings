@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Corsican",
+  "Description": "A language spoken in France\r and Italy.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Corse",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Corso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Korsisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Corso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Корсиканский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Córsico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Korsykański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コルシカ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "코르시카어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "科西嘉文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "柯西嘉语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Corsican",
+  "internalEnabled": true,
+  "persistentID": 299
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "undetermined",
+  "Description": "A summary of the player's medical status. I.e. \"Medical status: undetermined.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "indéterminé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non determinato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "unbestimmt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Indefinida",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "неясное",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "indeterminado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "nieokreślony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不確定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불분명",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "不明",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MedicalStatusUndetermined",
+  "internalEnabled": true,
+  "persistentID": 905
+}

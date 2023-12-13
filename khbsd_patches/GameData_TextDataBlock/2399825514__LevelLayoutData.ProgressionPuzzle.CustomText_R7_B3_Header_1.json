@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! Persistent Fog Levels Activated",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0! Niveaux de brouillard persistants activés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Attivati livelli di nebbia persistenti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! Anhaltende Nebelwerte aktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! Niveles de niebla persistente activados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Зафиксировано высокое задымление.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! Níveis de névoa persistente ativados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE! Aktywowano poziom trwałej mgły",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！永続的霧レベルが起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! 지속 안개 수준 활성화됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！已啟動持續煙霧濃度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！持久雾度已激活",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B3_Header_1",
+  "internalEnabled": true,
+  "persistentID": 2399825514
+}

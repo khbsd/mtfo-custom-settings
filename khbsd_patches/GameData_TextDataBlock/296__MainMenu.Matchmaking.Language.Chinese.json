@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Chinese",
+  "Description": "A language spoken in China.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chinois",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cinese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Chinesisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chino",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Китайский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chinês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Chiński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中国語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중국어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中文",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Chinese",
+  "internalEnabled": true,
+  "persistentID": 296
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Wait!",
+  "Description": "A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Attendez\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aspettate!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Espera!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ждем!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espere!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czekać!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "待て！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기다려!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等一下！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等等！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Wait",
+  "internalEnabled": true,
+  "persistentID": 1174
+}

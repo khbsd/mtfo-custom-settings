@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 247,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 13
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Defend x1 - R5C1 ALT",
+  "internalEnabled": true,
+  "persistentID": 229
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR:Access DENIED. <color=orange>SECONDARY</color> lockdown override required.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERROR:Accès REFUSÉ. Déverrouillage <color=orange>SECONDAIRE</color> requis.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE:Accesso NEGATO. È richiesto l'override del blocco <color=orange>SECONDARIO</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Zugriff VERWEIGERT. <color=orange>SEKUNDÄRER</color> Override der Verriegelung erforderlich.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR:Acceso DENEGADO. Es necesario anular el cierre de emergencia <color=orange>SECUNDARIO</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. В доступе ОТКАЗАНО. Запустите <color=orange>ДОПОЛНИТЕЛЬНУЮ</color> изоляцию принудительно.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Acesso NEGADO. Substituição de confinamento <color=orange>SECUNDÁRIO</color> necessária.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: odmowa DOSTĘPU. Wymagane obejście <color=orange>POBOCZNE.</color></color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：アクセス拒否。 <color=orange>第2</color> 封鎖オーバーライドが必要。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류:접근 거부. <color=orange>보조</color> 폐쇄 중단 필요.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：拒絕存取。需要覆蓋<color=orange>次級</color>封鎖。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：拒绝访问。需要覆盖<color=orange>二级</color>封锁。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.PuzzleProgression.AccessDeniedSecondary",
+  "internalEnabled": true,
+  "persistentID": 902288817
+}

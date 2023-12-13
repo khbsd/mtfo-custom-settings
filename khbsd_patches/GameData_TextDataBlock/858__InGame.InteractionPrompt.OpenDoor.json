@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Open Door",
+  "Description": "I.e. \"open this door.\" This text string appears on screen when the player is standing near a closed door, to indicate that they can open the door by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvrir la porte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apri porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür öffnen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abrir puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открыть дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrir porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwórz drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアを開く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문 열기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.OpenDoor",
+  "internalEnabled": true,
+  "persistentID": 858
+}

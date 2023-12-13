@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use",
+  "Description": "Control key binding/mapping. This key is for interacting with props in the surroundings (e.g. computer terminals), or using resource packs on oneself or teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Use",
+  "internalEnabled": true,
+  "persistentID": 140
+}

@@ -1,0 +1,36 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Revolver_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Revolver_1",
+    "RightHandGripAnim": "Front_Revolver_1",
+    "AssetBundle": 40,
+    "BundleShard": 2
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 8,
+      "StringData": "Stock_Revolver_1_fire"
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [],
+  "name": "Stock_Revolver_1",
+  "internalEnabled": true,
+  "persistentID": 14
+}

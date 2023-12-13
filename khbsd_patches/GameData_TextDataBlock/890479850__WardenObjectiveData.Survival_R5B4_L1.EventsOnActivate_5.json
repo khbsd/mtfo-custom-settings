@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: NOT ABLE TO RESTORE POWER TO [ZONE 183] & [ZONE 184] - POWER CELLS NEEDED TO GAIN ACCESS",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: IMPOSSIBLE DE RÉTABLIR LE COURANT DANS [LA ZONE\u00A0183] ET [LA ZONE\u00A0184] - CELLULES D'ALIMENTATION REQUISES POUR ACCÉDER À LA ZONE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: IMPOSSIBILE RIPRISTINARE L'ALIMENTAZIONE A ZONA 183 [ZONE_183] E ZONA 184 [ZONE_184] - RICHIESTE CELLE DI ENERGIA PER OTTENERE L'ACCESSO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: STROMVERSORGUNG VON [ZONE 183] & [ZONE 184] KANN NICHT WIEDERHERGESTELLT WERDEN – ENERGIEZELLEN BENÖTIGT, UM ZUGANG ZU ERHALTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: NO SE PUEDE RESTAURAR LA ENERGÍA DE [ZONE 183] Y [ZONE 184]. SE NECESITAN CÉLULAS DE ENERGÍA PARA OBTENER ACCESO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! НЕ УДАЕТСЯ ВОССТАНОВИТЬ ПИТАНИЕ [ZONE 183] и [ZONE 184]. ДЛЯ ДОСТУПА ТРЕБУЮТСЯ БАТАРЕИ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: NÃO FOI POSSÍVEL RESTAURAR A ENERGIA DE [ZONE 183] E [ZONE 184] - POWER CELLS NECESSÁRIAS PARA OBTER ACESSO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: PRZYWRÓCENIE ZASILANIA W STREFACH [ZONE 183] I [ZONE 184] NIEMOŻLIWE – WYMAGANE OGNIWO ZASILAJĄCE, ABY UZYSKAĆ DOSTĘP",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：[ZONE 183]および[ZONE 184]への電力復旧不能 - パワーセルへのアクセスが必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: [ZONE 183] & [ZONE 184]의 전원을 복원할 수 없음 - 액세스 권한을 얻기 위해 파워 셀 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：無法恢復183區[ZONE_183]和184區[ZONE_184]的電力 - 需要電池[CELL]以獲得存取權限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：无法恢复183区[ZONE_183]和184区[ZONE_184]电力 - 需要电池[CELL]以获得访问权限",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_5",
+  "internalEnabled": true,
+  "persistentID": 890479850
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MEDICAL",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "MÉDICAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MEDICINALI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MEDIZINISCH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MÉDICO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "МЕДИЦИНА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MÉDICO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MEDYCZNE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メディカル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "의료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "醫藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "医药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.MEDICAL",
+  "internalEnabled": true,
+  "persistentID": 1783051322
+}

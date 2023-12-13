@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Secondary Sector is a dead end. Return to main sector.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ce secteur secondaire ne mène nulle part. Retournez au secteur principal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il settore secondario è un vicolo cieco. Tornare al settore principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Der Sekundärsektor ist einer Sackgasse. Kehren Sie zum Primärsektor zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sector secundario es un callejón sin salida. Vuelve al sector principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Второстепенный сектор бесполезен. Вернитесь в главный сектор.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O setor secundário é uma rua sem saída. Volte para o setor principal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sektor poboczny prowadzi donikąd. Wróć do sektora głównego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副セクターは行き止まり。メインセクターへ戻れ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 섹터는 막다른 골목입니다. 메인 섹터로 돌아갑니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級分區前方無路。返回主要分區。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要分区前方无路。返回主要分区。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "LevelLayoutdata.CustomObjectiveSecondaryComplete.R8D2_L2_H1",
+  "internalEnabled": true,
+  "persistentID": 3279517889
+}

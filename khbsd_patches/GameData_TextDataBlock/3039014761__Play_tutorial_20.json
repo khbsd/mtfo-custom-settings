@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nThis threat exceeds subject capabilities. \r\nProceed to the extraction point immediately.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nLa menace dépasse les capacités du sujet. \r\nRendez-vous immédiatement au point d’évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nQuesta minaccia supera le capacità del soggetto. \r\nProcedere immediatamente al punto di estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDiese Bedrohung übersteigt die Fähigkeiten der Versuchsperson. \r\nBegeben Sie sich sofort zum Extraktionspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nLa amenaza sobrepasa las capacidades del sujeto. \r\nAcude inmediatamente al punto de extracción.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nЭта угроза превышает возможности субъекта.\r\nНемедленно проследуйте к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nEsta ameaça excede a capacidade do indivíduo. \r\nProssiga até o ponto de extração imediatamente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nZagrożenie przed biorcą przerasta jego możliwości. \r\nSkieruj się niezwłocznie do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\nこの脅威は対象の能力を超えている。\r\n即座に脱出地点へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n이 위협은 대상의 능력을 초월합니다. \r\n즉시 탈출 지점으로 이동하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n此威脅超出實驗對象能力範圍。\r\n立刻前往撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n此威胁超出实验体能力范围。\r\n立即前往撤离点。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_20",
+  "internalEnabled": true,
+  "persistentID": 3039014761
+}

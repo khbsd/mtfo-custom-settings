@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "YOURSELF",
+  "Description": "This word can be used to complete a sentence, e.g. \"press [E] to use the medipack on YOURSELF.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VOUS-MÊME",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SELBST",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PARA TI",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СЕБЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SI MESMO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SOBIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自分",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你自己",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你自己",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Yourself",
+  "internalEnabled": true,
+  "persistentID": 856
+}

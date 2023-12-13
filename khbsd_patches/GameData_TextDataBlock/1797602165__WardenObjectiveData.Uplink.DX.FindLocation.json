@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download Genomdata from External location <color=orange>A%\"1?p4\"f+a¤</color> via Uplink.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Téléchargez les données du génome depuis l'emplacement externe <color=orange>A%\"1?p4 \"f+a¤</color> via la liaison montante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scaricare Genomdata dalla posizione esterna <color=orange>A%\"1?p4\"f+a¤</color> tramite terminale uplink.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Laden Sie die Gendaten über den Uplink vom externen Standort <color=orange>A%\"1?p4\"f+a¤</color> aus herunter.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descargar datos del genoma de ubicación externa <color=orange>A%\"1?p4\"f+a¤</color> a través de uplink.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузите геномную информацию с внешнего источника <color=orange>A%\"1?p4\"f+a¤</color> с помощью терминала подключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixando dados de genoma do local externo <color=orange>A%\"1?p4\"f+a¤</color> via uplink.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobierz dane genomowe z lokalizacji zewnętrznej <color=orange>A%\"1?p4\"f+a¤</color> za pomocą terminalu łącza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンクを介して外部ロケーション<color=orange>A%\"1?p4\"f+a¤</color>からゲノムデータをダウンロードしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크를 통해 외부 위치 <color=orange>A%\"1?p4\"f+a¤</color>에 게놈 데이터를 다운로드합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從外部位置<color=orange>A%\"1?p4\"f+a¤</color>經由上行鏈路下載基因資料。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过上行链路从外部位置<color=orange>A%\"1?p4\"f+a¤</color>下载基因组数据。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 11,
+  "ImportVersion": 11,
+  "name": "WardenObjectiveData.Uplink.DX.FindLocation",
+  "internalEnabled": true,
+  "persistentID": 1797602165
+}

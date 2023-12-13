@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nText in the top left corner of a door indicates \r\nthat the door provides passage to the specified zone.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nLe texte situé en haut à gauche de la porte indique \r\nque celle-ci permet d’accéder à la zone indiquée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nIl testo nell'angolo in alto a sinistra di una porta indica \r\nche essa fornisce il passaggio alla zona specificata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDer Text in der linken oberen Ecke einer Tür zeigt an, \r\ndass die Tür den Zugang zur angegebenen Zone ermöglicht.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nEl texto de la esquina superior izquierda de las puertas indica \r\nla zona a la que permite acceder.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nТекст в верхнем левом углу двери означает,\r\nчто эта дверь ведет в указанную зону.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nO texto no canto superior esquerdo de uma porta indica \r\nque ela dá passagem para a zona especificada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nNapis w lewym górnym rogu drzwi informuje o strefie, \r\nz jaką się one łączą.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\nドアの左上の文字はそのドアが\r\n特定のZoneに通じることを示す。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n문 좌측 상단의 텍스트는 문이\r\n명시된 구역으로 가는 경로를 제공함을 나타냅니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n門左上角的文字會顯示\r\n該扇門通往哪個特定區域。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n门左上角的文本表示\r\n这扇门可通往指定区域。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Play_tutorial_05",
+  "internalEnabled": true,
+  "persistentID": 2574105441
+}

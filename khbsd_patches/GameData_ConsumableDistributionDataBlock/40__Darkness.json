@@ -1,0 +1,21 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 114,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 30,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 0.5
+    }
+  ],
+  "name": "Darkness",
+  "internalEnabled": true,
+  "persistentID": 40
+}

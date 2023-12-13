@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Artifacts:",
+  "Description": "A text string that precedes the number that indiates how many artifacts the player has collected so far during the expedition/mission.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Artefacts\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Manufatti:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Artefakte:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Artefactos:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Артефакты",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Artefatos:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Artefakty:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アーティファクト:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아티팩트:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "寶物：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "红晶：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.ArtifactsTitle",
+  "internalEnabled": true,
+  "persistentID": 790
+}

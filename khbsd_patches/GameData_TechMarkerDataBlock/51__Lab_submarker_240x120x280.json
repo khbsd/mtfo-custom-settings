@@ -1,0 +1,131 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        2
+      ],
+      [],
+      [],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        0,
+        1,
+        3
+      ],
+      [],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        6,
+        0,
+        1
+      ],
+      [
+        2,
+        8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        6,
+        0,
+        1
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 5.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V02.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V03.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V04.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V05.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V06.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V07.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_240x120x240/mining_storage_submarker_HSU_240x120x240_V08.prefab",
+        "function": 15,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_240x120x280/Lab_submarker_240x120x280_V08.prefab",
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/SM_DataCenter_240x120x280",
+    "BoundingVolume": 8064.0
+  },
+  "name": "Lab_submarker_240x120x280",
+  "internalEnabled": true,
+  "persistentID": 51
+}

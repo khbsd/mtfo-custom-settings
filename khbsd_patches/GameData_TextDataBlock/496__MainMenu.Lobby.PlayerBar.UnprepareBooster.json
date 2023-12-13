@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unprepare Booster",
+  "Description": "\"Boosters\" are performance enhancing drugs. A prepared booster has been chosen by the player to later be administered - then the player can choose to \"unprepare\" the booster, essentially undoing their previous choice.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Annuler le booster",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Annulla preparazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Booster deaktivieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Guardar potenciador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Убрать усилитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Despreparar impulso",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cofnij przygotowanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースターを戻す",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터 준비 취소",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "取消準備強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "取消准备强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.UnprepareBooster",
+  "internalEnabled": true,
+  "persistentID": 496
+}

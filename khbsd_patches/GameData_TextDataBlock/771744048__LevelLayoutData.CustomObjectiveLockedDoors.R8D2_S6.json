@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=#3299a8>Survive</color> until the power is back on",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=#3299a8>Survivez</color> jusqu'au rétablissement du courant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=#3299a8>Sopravvivere</color> fino al ripristino della corrente",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=#3299a8>Überleben Sie</color>, bis der Strom wieder eingeschaltet ist.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=#3299a8>Sobrevive</color> hasta que vuelva la energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=#3299a8>Продержитесь</color> до восстановления питания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=#3299a8>Sobreviver</color> até a energia voltar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=#3299a8>Przeżyj</color> do czasu odzyskania zasilania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電源が再び入るまで<color=#3299a8>生き延びろ</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력이 복구될 때까지 <color=#3299a8>생존</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=#3299a8>存活</color>到電力恢復時",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=#3299a8>存活</color>到电力恢复时",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_S6",
+  "internalEnabled": true,
+  "persistentID": 771744048
+}

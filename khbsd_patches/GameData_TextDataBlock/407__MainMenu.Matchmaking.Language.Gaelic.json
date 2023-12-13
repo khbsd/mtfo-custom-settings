@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gaelic",
+  "Description": "A language spoken in Scotland (UK), as well as the Cape Breton Island and Nova Scotia regions of Canada.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gaélique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gaelico scozzese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gälisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gaélico",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Гэльский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Gaélico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gaelicki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲール語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게일어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "蓋爾文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "盖尔语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Gaelic",
+  "internalEnabled": true,
+  "persistentID": 407
+}

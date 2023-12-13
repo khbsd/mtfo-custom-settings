@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security door to [ZONE_5] unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de sécurité vers la [ZONE_5] déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta di sicurezza per [ZONE_5] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitstür zu [ZONE_5] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de seguridad a la [ZONE_5] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Защитная дверь в [ZONE_5] открыта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de segurança para [ZONE_5] destrancada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 5 [ZONE_5] odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]へのセキュリティドアを開錠。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5] 보안문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_5]的安全門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往[ZONE_5]的安全门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.CentralPowerGeneratorCluster_4_R4D2_L2.EventsOnGoToWin_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 2832149354
+}

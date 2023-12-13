@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deploy Trip Mine",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployer une mine à déclencheur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Piazza mina adesiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolpermine einsetzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar mina de detección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите мину с лазерным датчиком",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enviar mina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozstaw minę z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トリップマインを展開",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인 설치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "部署絆雷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "部署绊雷",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.PlaceTripMine",
+  "internalEnabled": true,
+  "persistentID": 949608994
+}

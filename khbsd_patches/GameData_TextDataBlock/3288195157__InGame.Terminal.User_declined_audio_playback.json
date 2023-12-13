@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "No - user declined audio playback, exiting..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Non - Lecture du fichier audio refusée, fermeture...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "No - L'utente ha rifiutato la riproduzione dell'audio. Uscita.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nein – Audiowiedergabe durch Benutzer abgelehnt, beende ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No - El usuario ha rechazado la reproducción del audio, saliendo...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нет\u00A0— пользователь отменил воспроизведение аудиофайла. Выход...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não. Reprodução de áudio recusada pelo usuário; saindo..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie – użytkownik anulował odtwarzanie, zamykanie..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "いいえ - ユーザーは音声再生を拒否、終了中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아니요. 사용자가 오디오 재생 거부. 종료합니다...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "否 - 使用者拒絕播放音訊，正在退出……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "否 - 用户拒绝播放音频，正在退出……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.User_declined_audio_playback",
+  "internalEnabled": true,
+  "persistentID": 3288195157
+}

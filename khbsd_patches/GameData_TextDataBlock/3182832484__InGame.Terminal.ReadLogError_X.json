@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ERROR: No Log found with filename '{0}'\n\nUsage: READ [FILENAME]\n\nAttributes:\n[FILENAME]     The name of the file to read\n\nExample: READ myfile.txt, will output the contents of 'myfile.txt'",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ERREUR\u00A0: Aucun journal trouvé avec le nom de fichier '{0}'\n\nUtilisation\u00A0: READ [NOM DE FICHIER]\n\nAttributs\u00A0:\n[NOM DE FICHIER]     Nom du fichier à lire\n\nExemple\u00A0: READ myfile.txt affichera le contenu de 'myfile.txt'.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ERRORE: nessun registro trovato con nome \"{0}\"\n\nSintassi: READ [FILENAME]\n\nParametri:\n[FILENAME]     Il nome del file da leggere\n\nEsempio: READ miofile.txt mostrerà il contenuto di \"miofile.txt\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER: Kein Protokoll mit dem Namen „{0}“ gefunden.\n\nEinsatz: READ [FILENAME]\n\nAttribute:\n[FILENAME]     Der Name der zu lesenden Datei.\n\nBeispiel: READ myfile.txt zeigt den Inhalt von „myfile.txt“ an.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ERROR: Ningún registro encontrado con nombre de archivo «{0}»\n\nUso: READ [FILENAME]\n\nAtributos:\n[FILENAME]     El nombre del archivo para leer.\n\nEjemplo: READ myfile.txt mostrará el contenido de «myfile.txt».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА. Журнал с именем {0} не найден.\n\nПрименение: READ [FILENAME]\n\nПараметры:\n[FILENAME]     Имя файла, который нужно прочитать\n\nНапример, команда READ myfile.txt выведет содержимое файла myfile.txt.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ERRO: Nenhum registro encontrado com o nome '{0}'\n\nUso: READ [FILENAME]\n\nAtributos:\n[FILENAME]     O nome do arquivo a ler\n\nExemplo: READ myfile.txt gera conteúdo de 'myfile.txt'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BŁĄD: nie znaleziono dziennika o nazwie pliku {0}\n\nUżycie: READ [FILENAME]\n\nAtrybuty:\n[FILENAME]     Nazwa pliku do odczytania\n\nPrzykład: polecenie READ myfile.txt wyświetli zawartość pliku myfile.txt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー: ファイル名'{0}'のログが見つかりません\n\n使用法: READ [FILENAME]\n\n属性:\n[FILENAME]     読み込むファイルの名前\n\n例: READ myfile.txtは'myfile.txt'の内容を出力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류: '{0}' 파일명의 로그를 찾을 수 없습니다.\n\n사용법: READ [파일명]\n\n특성:\n[파일명]          판독할 파일 이름\n\n예: READ myfile.txt, 'myfile.txt'의 콘텐츠만 출력합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤：未找到檔案名稱為「{0}」的日誌\n\n用法：READ [檔案名稱]\n\n屬性：\n[檔案名稱]     待讀取檔案的名稱\n\n範例：READ myfile.txt，將輸出「myfile.txt」的內容",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误：未找到文件名为“{0}”的日志\n\n用法：READ [文件名]\n\n属性：\n[文件名]     待读取文件的名称\n\n例：“READ myfile.txt”将输出“myfile.txt”的内容",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "InGame.Terminal.ReadLogError_X",
+  "internalEnabled": true,
+  "persistentID": 3182832484
+}

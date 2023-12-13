@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Dutch",
+  "Description": "A language spoken in the Netherlands and the Flanders region of Belgium.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Néerlandais",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Olandese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Niederländisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Neerlandés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нидерландский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Holandês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Holenderski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オランダ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "네덜란드어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "荷蘭文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "荷兰语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Dutch",
+  "internalEnabled": true,
+  "persistentID": 305
+}

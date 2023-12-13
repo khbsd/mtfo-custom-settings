@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Auto Center Map On Player",
+  "Description": "A game setting that controls whether the map view centers on the player's position on the map, whenever the user enters the map view.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Centrer automatiquement la carte sur le joueur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Centra mappa su giocatore automaticamente",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karte automatisch auf Spieler zentrieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centrar mapa en jugador automáticamente",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Игрок в центре карты",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mapa autocentrado no jogador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Automatycznie wyśrodkuj mapę na graczu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップで自動的にプレイヤーを中心に表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플레이어 중앙으로 맵 자동 정렬",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "地圖自動以玩家為中心",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "玩家自动居于地图中心",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AutoCenterMapOnPlayer",
+  "internalEnabled": true,
+  "persistentID": 120
+}

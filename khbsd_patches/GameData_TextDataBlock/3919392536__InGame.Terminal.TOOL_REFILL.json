@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TOOL REFILL",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "RECHARGE D'OUTIL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICARICA PER STRUMENTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WERKZEUG-NACHFÜLLPAKET",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECARGA DE HERRAMIENTAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРИПАСЫ ДЛЯ УСТРОЙСТВА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECARGA DE FERRAMENTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NARZĘDZIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツールリフィル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 보충",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "工具補充",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "工具补充",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.TOOL_REFILL",
+  "internalEnabled": true,
+  "persistentID": 3919392536
+}

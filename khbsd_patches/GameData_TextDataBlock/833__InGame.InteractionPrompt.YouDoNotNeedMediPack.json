@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "YOU DO NOT NEED MEDICAL RESOURCES",
+  "Description": "This text appears on screen when the player has the chance to receive medical aid but their health is full.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VOUS N'AVEZ PAS BESOIN DE RESSOURCES MÉDICALES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NON HAI BISOGNO DI RISORSE MEDICHE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SIE BENÖTIGEN KEINE MEDIZINISCHEN RESSOURCEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "NO NECESITAS RECURSOS MÉDICOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВАМ НЕ ТРЕБУЕТСЯ МЕДИЦИНСКАЯ ПОМОЩЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VOCÊ NÃO PRECISA DE RECURSOS MÉDICOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NIE POTRZEBUJESZ ŚRODKÓW MEDYCZNYCH",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "医療物資は不要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "당신은 의료 자원이 필요하지 않습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你不需要醫療資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你无需医药资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.YouDoNotNeedMediPack",
+  "internalEnabled": true,
+  "persistentID": 833
+}

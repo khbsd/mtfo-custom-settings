@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Flood the <color=#3299a8>Drainage</color> Chamber",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Submergez la <color=#3299a8>chambre d'évacuation</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Allagare la camera di <color=#3299a8>drenaggio</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fluten Sie die <color=#3299a8>Entwässerungskammer</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inunda la sala de <color=#3299a8>drenaje</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проведите воду через <color=#3299a8>дренажную камеру</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encher a Câmara de <color=#3299a8>Drenagem</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zalej komorę <color=#3299a8>drenażową</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>排水</color>室を浸水させろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>배수 챔버</color> 물 채우기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "讓水流入<color=#3299a8>排水</color>室",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "让水流入<color=#3299a8>排水</color>室",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 9,
+  "ImportVersion": 9,
+  "name": "LevelLayoutData.CustomObjectiveControlRoom.R8D2_S2",
+  "internalEnabled": true,
+  "persistentID": 1812916811
+}

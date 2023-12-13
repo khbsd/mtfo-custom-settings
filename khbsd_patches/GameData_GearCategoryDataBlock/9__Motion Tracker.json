@@ -1,0 +1,19 @@
+{
+  "PublicName": "Bio Tracker",
+  "Description": 818,
+  "BaseItem": 28,
+  "HUDIcon": "",
+  "IconRotationOffset": 0.0,
+  "IconZoomOffset": 0.0,
+  "FPSArmPoseName": "",
+  "ThirdPersonFullbodyMovement": 0,
+  "SemiArchetype": 0,
+  "BurstArchetype": 0,
+  "AutoArchetype": 0,
+  "SemiBurstArchetype": 0,
+  "MeleeArchetype": 0,
+  "PartAlignPriority": [],
+  "name": "Motion Tracker",
+  "internalEnabled": true,
+  "persistentID": 9
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deactivated",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattivato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Deaktiviert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactivado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключено",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desativado/a",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywowano",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "停止中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已停用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemStatus_Deactivated",
+  "internalEnabled": true,
+  "persistentID": 303447383
+}

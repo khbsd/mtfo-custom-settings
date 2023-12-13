@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enemy detection\nEnemy tagging",
+  "Description": "A short description of what the biotracker tool is used for. I.e. it helps detect enemies, and it can \"tag\" enemies. To \"tag\" an enemy is to mark them with a HUD icon so that everyone on the team can see the enemy, even in darkness or through walls.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Détection des ennemis\nMarquage des ennemis",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilevamento nemico\nMarcatura nemico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feinderkennung\nFeindmarkierung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Detección de enemigos\nRastro de enemigos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Распознавание врагов\nМетка на врага",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Detecção de inimigo\nMarcação de inimigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykrywanie przeciwników\nOznaczanie przeciwników",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵探知\n敵タグ付け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 탐지\n적 태그",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "敵人偵測\n敵人標記",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "探测敌人\n标记敌人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.MotionTrackerDescription",
+  "internalEnabled": true,
+  "persistentID": 818
+}

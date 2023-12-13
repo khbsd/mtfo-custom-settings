@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Cold storage bulkhead filtration system offline.  Grid reboot required. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: systèmes de filtration de la cloison de l'entrepôt frigorifique hors ligne. Redémarrage du réseau requis.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: sistema di filtrazione della paratia stagna della cella frigorifera offline. Richiesto riavvio griglia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Filtersystem des Kühlhausschotts offline. Neustart des Netzes erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Sistema de filtración de contención de almacenamiento en frío desactivado. Se necesita reiniciar la red.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Система фильтрации ворот холодильного хранилища неактивна. Требуется перезагрузка сети.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Sistema de filtragem do protetor de armazenamento frio offline. Reinicialização de rede necessária.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: układ filtracji grodzi chłodni wyłączony. Wymagane ponowne uruchomienie sieci. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：冷蔵貯蔵庫隔壁換気システムオフライン。グリッドの再起動が必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 냉장실 격벽 여과 시스템 오프라인. 전력망 재부팅 필요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：冷藏庫艙門過濾系統離線。需要重啟電網。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：冷藏库舱壁门过滤系统离线。需要重启电网。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown002_D2_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 988226900
+}

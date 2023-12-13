@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Display information about this terminal",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche des informations sur ce terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra le informazioni su questo terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Informationen über dieses Terminal anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra información sobre este terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает информацию о данном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exiba informações sobre este terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetl informacje o terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末に関する情報を表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 정보 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示關於此終端的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示关于本终端的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.InfoCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3398612584
+}

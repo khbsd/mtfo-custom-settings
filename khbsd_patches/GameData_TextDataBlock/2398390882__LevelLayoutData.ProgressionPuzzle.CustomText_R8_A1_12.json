@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in [ZONE_3]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal dans la [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare terminale in [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in [ZONE_3].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el terminal en la [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в [ZONE_3].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar terminal na [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w strefie 3 [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_3]で端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_3]에서 터미널 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位[ZONE_3]中的終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[ZONE_3]中的终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8_A1_12",
+  "internalEnabled": true,
+  "persistentID": 2398390882
+}

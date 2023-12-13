@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mental status: {0}",
+  "Description": "A medical evaluation of the prisoner's mental state. \"{0}\" will be replaced by a word that sums up the prisoner's mental status, do not alter these characters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "État mental\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato mentale: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Psychischer Zustand: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado psicológico: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Психическое состояние: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estado mental: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stan psychiczny: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "精神状態: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정신 상태: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "精神狀態：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "心理状况：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MentalStatus_X",
+  "internalEnabled": true,
+  "persistentID": 901
+}

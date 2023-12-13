@@ -1,0 +1,101 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_AutoShotgun_3.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_AutoShotgun_3_idle",
+    "RightHandGripAnim": "Front_AutoShotgun_3_idle",
+    "AssetBundle": 20,
+    "BundleShard": 0
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_AutoShotgun_3_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_AutoShotgun_3_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_AutoShotgun_3_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 5,
+      "StringData": "generic_reload_pat_soft"
+    },
+    {
+      "TriggerTime": 0.6,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_out"
+    },
+    {
+      "TriggerTime": 1.5,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 2.0,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_in"
+    },
+    {
+      "TriggerTime": 2.0,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 2.5,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.7,
+      "Type": 7
+    }
+  ],
+  "name": "Front_AutoShotgun_3",
+  "internalEnabled": true,
+  "persistentID": 11
+}

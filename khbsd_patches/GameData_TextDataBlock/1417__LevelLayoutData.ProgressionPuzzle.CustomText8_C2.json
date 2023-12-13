@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Ventilation system OFFLINE. Evacuate immediately </color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: système de ventilation hors service. Évacuez immédiatement.<color=red>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: sistema ventilazione OFFLINE. Evacuare immediatamente <color=red>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Belüftungssystem OFFLINE. Sofort evakuieren.<color=red>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: Sistema de ventilación desconectado. Evacuar inmediatamente<color=red>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Система вентиляции ОТКЛЮЧЕНА. Приступите к немедленной эвакуации.<color=red>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Sistema de ventilação DESLIGADO. Evacue imediatamente <color=red>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: System wentylacyjny WYŁĄCZONY. Wymagana niezwłoczna ewakuacja<color=red>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：換気システムがオフライン。即座に退避せよ <color=red>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 환기 시스템이 꺼졌습니다. 즉시 대피하십시오</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：通風系統離線。立即疏散<color=red>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：通风系统离线，立即撤离<color=red>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText8_C2",
+  "internalEnabled": true,
+  "persistentID": 1417
+}

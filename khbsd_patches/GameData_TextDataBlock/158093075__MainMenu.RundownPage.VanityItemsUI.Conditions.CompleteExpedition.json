@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPLETE {0}",
+  "Description": "Vanity item condition: completing a specific level\n",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COMPLETA {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHLIESSEN SIE {0} AB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COMPLETA {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОЙДИТЕ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUA {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UKOŃCZ {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.CompleteExpedition",
+  "internalEnabled": true,
+  "persistentID": 158093075
+}

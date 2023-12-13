@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DPad Up",
+  "Description": "A gamepad input. DPad is short for directional pad or digital pad.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Croix directionnelle (haut)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Croce direzionale su",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DPad nach oben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dpad hacia arriba",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка вверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DPad para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pad kierunkowy w górę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "十字キー上",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "D 패드 위",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "方向鍵上",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "方向键向上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.DPadUp",
+  "internalEnabled": true,
+  "persistentID": 983
+}

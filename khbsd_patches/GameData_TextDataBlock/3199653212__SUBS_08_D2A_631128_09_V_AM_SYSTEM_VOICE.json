@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[GARGANTA ALERT SYSTEM]\nWarning. PRIMARY QUADRANT REACTOR CORE temperature has exceeded operational safety limits. \nAll non-safety officers evacuate the PRIMARY QUADRANT REACTOR immediately. \nThis is not a drill.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[SYSTÈME D'ALERTE GARGANTA]\nAlerte\u00A0: la température du CŒUR DU RÉACTEUR DU QUADRANT PRINCIPAL a dépassé les limites de sécurité opérationnelles.\nTous les agents qui ne sont pas chargés de la sécurité doivent évacuer immédiatement vers le RÉACTEUR DU QUADRANT PRINCIPAL.\nCeci n'est pas un exercice.\r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[SISTEMA DI AVVISO GARGANTA]\nAttenzione. La temperatura del NUCLEO REATTORE QUADRANTE PRIMARIO ha superato i limiti di sicurezza operativa. \nTutti gli agenti non addetti alla sicurezza evacuino immediatamente il REATTORE QUADRANTE PRIMARIO. \nQuesta non è un'esercitazione.\r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[GARGANTA-WARNUNGSSYSTEM]\nWarnung. Die Kerntemperatur im PRIMÄRREAKTOR DES QUADRANTEN hat die zulässigen Höchstwerte für die Betriebssicherheit überschritten.\nAlle Mitarbeiter, die nicht für die Sicherheit zuständig sind, werden aufgefordert, sofort aus dem PRIMÄRREAKTOR DES QUADRANTEN zu evakuieren.\nDies ist keine Übung.\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[SISTEMA DE ALERTA DE GARGANTA]\nAdvertencia. La temperatura del NÚCLEO DEL REACTOR DEL CUADRANTE PRINCIPAL ha excedido los límites de seguridad operativos. \nTodos los agentes que no se encarguen de la seguridad deben abandonar de inmediato el REACTOR DEL CUADRANTE PRINCIPAL. \nNo es un simulacro.\r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[СИСТЕМА АВАРИЙНОГО ОПОВЕЩЕНИЯ ГАРГАНТА]\nВнимание. Температура ЯДРА ГЛАВНОГО РЕАКТОРА СЕКТОРА превысила рабочие допуски безопасности. \nВсем, кроме сотрудников службы экстренного реагирования, немедленно покинуть ГЛАВНЫЙ РЕАКТОР СЕКТОРА. \nЭто не учебная тревога.\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[SISTEMA DE ALERTA DA GARGANTA]\nAviso. A temperatura do NÚCLEO DO REATOR DO QUADRANTE PRIMÁRIO excedeu os limites de segurança operacionais. \nTodos os oficiais que não forem de segurança devem evacuar o REATOR DO QUADRANTE PRIMÁRIO imediatamente. \nIsso não é um teste.\r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "\n[SYSTEM OSTRZEGANIA GARGANTA]Ostrzeżenie. Temperatura RDZENIA REAKTORA PODSTAWOWEGO KWADRANTU przekroczyła operacyjne granice bezpieczeństwa.\nWszystkie osoby niebędące funkcjonariuszami do spraw bezpieczeństwa powinny bezzwłocznie ewakuować się z reaktora w kwadrancie podstawowym. \nTo nie jest ćwiczenie.\r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ガルガンタ警告システム】\n警告。プライマリ四分リアクターコアの温度が運転安全限界を超過。\nすべての非安全担当者は直ちにプライマリ四分リアクターから退避せよ。\nこれは訓練ではない。\r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[가르간타 경보 시스템]\n경고. 주요 사분면 반응로 코어 온도가 작동 안전 한계를 초과했습니다.\n안전 담당자가 아닌 모든 사람은 즉시 주요 사분면 반응로에서 대피하십시오.\n이것은 훈련이 아닙니다.\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[加甘塔警報系統]\n警告。第一象限反應器核心溫度超出運作安全限制。\n所有非安全人員立即撤離第一象限反應器。\n這不是演習。\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[加尔甘塔警告系统]\n警告。主象限反应堆核心温度超出运行安全限制。\n请全体非安全人员立即撤离主象限反应堆。\n这不是演习。\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "SUBS_08_D2A_631128_09_V_AM_SYSTEM_VOICE",
+  "internalEnabled": true,
+  "persistentID": 3199653212
+}

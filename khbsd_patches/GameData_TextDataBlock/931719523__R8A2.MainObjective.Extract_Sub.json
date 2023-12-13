@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to forward extraction in <color=orange>ZONE 67</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation dans la <color=orange>Zone\u00A067</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere al punto di estrazione anteriore in <color=orange>ZONE 67</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zum vorderen Extraktionspunkt in <color=orange>ZONE 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza hasta la extracción posterior de la <color=orange>ZONE 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пройдите к точке выхода в <color=orange>ZONE 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Continuar para extração avançada na <color=orange>ZONE 67</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do punktu ewakuacyjnego w <color=orange>strefie 67 [ZONE_67]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 67</color>で前方脱出を行え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 67</color>의 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 67</color>的前進撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 67</color>的前撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "R8A2.MainObjective.Extract_Sub",
+  "internalEnabled": true,
+  "persistentID": 931719523
+}

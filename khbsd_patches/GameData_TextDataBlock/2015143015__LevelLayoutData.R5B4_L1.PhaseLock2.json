@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Protocol E.v1 in progress. Phase 2 lock engaged. </color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Protocole E.v1 en cours. Verrouillage de la phase\u00A02 engagé. </color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Protocollo E.v1 in corso. Blocco fase 2 attivato. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Protokoll E.v1 wird ausgeführt. Phasensperre 2 aktiviert. </color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Protocolo E.v1 en curso. Fase 2 de cierre activada. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Действует протокол E.v1. Активирована блокировка фазы 2.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Protocolo E.v1 em andamento. Trava de fase 2 ativada. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Protokół E.v1 w toku. Włączono blokadę fazy 2. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>プロトコルE.v1進行中。フェーズ2ロック作動。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>프로토콜 E.v1 진행 중. 페이즈 2 록 실시 중. </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>協定E.v1進行中。階段2封鎖已啟動。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>协议E.v1正在进行中。阶段2锁定已启动。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.R5B4_L1.PhaseLock2",
+  "internalEnabled": true,
+  "persistentID": 2015143015
+}

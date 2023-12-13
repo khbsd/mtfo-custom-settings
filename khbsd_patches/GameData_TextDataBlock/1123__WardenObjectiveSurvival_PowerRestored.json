@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "POWER REROUTE COMPLETE - PARTIAL RESTORATION COMPLETE... LIGHTS PRIORITIZED...",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "RÉACHEMINEMENT D'ALIMENTATION TERMINÉ - RESTAURATION PARTIELLE TERMINÉE... PRIORITÉ À L'ÉCLAIRAGE...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DEVIAZIONE ENERGIA COMPLETATA. RIPRISTINO PARZIALE COMPLETATO. PRIORITÀ LUCI.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UMLEITUNG DER STROMVERSORGUNG ABGESCHLOSSEN – TEILWEISE WIEDERHERSTELLUNG ABGESCHLOSSEN … BELEUCHTUNG PRIORISIERT …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "REDISTRIBUCIÓN DE ENERGÍA COMPLETADA: RESTAURACIÓN PARCIAL COMPLETADA. PRIORIDAD A LUCES.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПИТАНИЕ ПЕРЕНАПРАВЛЕНО. ПОДАЧА ЭЛЕКТРОЭНЕРГИИ ЧАСТИЧНО ВОССТАНОВЛЕНА. ОСВЕЩЕНИЕ ПРИОРИТЕТНО.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REDIRECIONAMENTO DE ENERGIA CONCLUÍDO — RESTAURAÇÃO PARCIAL CONCLUÍDA... LUZES PRIORIZADAS...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZEKIEROWANIE ZASILANIA UKOŃCZONE – CZĘŚCIOWE PRZYWRÓCENIE UKOŃCZONE.. PRIORYTET DLA ŚWIATEŁ...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電源リルート完了 - 部分回復完了... 照明を優先...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 공급 경로 변경 완료 - 일부 복구 완료... 조명 우선 복구...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電源重新布線完成 - 部分修復完成……照明優先……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电源重定向完成 - 部分恢复完成……优先灯光……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveSurvival_PowerRestored",
+  "internalEnabled": true,
+  "persistentID": 1123
+}

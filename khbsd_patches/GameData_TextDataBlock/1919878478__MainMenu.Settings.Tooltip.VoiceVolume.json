@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the incoming volume from your teammates. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le volume de vos coéquipiers.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il volume in entrata dai tuoi compagni di squadra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Lautstärke der eingehenden Anrufe von Ihren Teammitgliedern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el volumen de tus compañeros.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует громкость входного сигнала от напарников.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o volume de entrada dos seus aliados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za poziom głośności członków drużyny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームメイトからの声の音量を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원의 음성 볼륨을 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制來自隊友的傳入音量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制来自队友的传入音量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VoiceVolume",
+  "internalEnabled": true,
+  "persistentID": 1919878478
+}

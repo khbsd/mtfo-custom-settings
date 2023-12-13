@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "STACK EMPTY",
+  "Description": "I.e. \"you survived the expedition.\" A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is the equivalent of the phrase \"mission clear\" or \"mission successful\" in GTFO.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "LISTE VIDE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CODA VUOTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STACK LEER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SIN TAREAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПЕРЕЧЕНЬ ПУСТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONJUNTO VAZIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STOS PUSTY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スタックなし",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목록 비어 있음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空堆疊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "堆栈已空",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.Header_StackEmpty",
+  "internalEnabled": true,
+  "persistentID": 2143380011
+}

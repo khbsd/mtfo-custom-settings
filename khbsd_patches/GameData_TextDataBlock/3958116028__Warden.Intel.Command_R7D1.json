@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find local Zone terminal and input command <color=orange>Override_Security_Gate_A194</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le terminal de la zone locale et saisissez la commande <color=orange>Override_Security_Gate_A194</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale della zona e inserire il comando <color=orange>Override_Security_Gate_A194</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das lokale Terminal in der Zone und geben Sie den Befehl <color=orange>Override_Security_Gate_A194</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el terminal local de la zona e introduce el comando <color=orange>Override_Security_Gate_A194</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите в зоне локальный терминал и введите команду <color=orange>Override_Security_Gate_A194</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de zona local e insira o comando <color=orange>Override_Security_Gate_A194</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź lokalny terminal w strefie i wprowadź polecenie <color=orange>Override_Security_Gate_A194</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカルのZone端末を見つけて<color=orange>Override_Security_Gate_A194</color>コマンドを入力しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내부 구역 터미널을 찾아 <color=orange>Override_Security_Gate_A194</color> 명령 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到本地區域終端，輸入指令<color=orange>Override_Security_Gate_A194</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到区域本地终端并输入<color=orange>Override_Security_Gate_A194</color>命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Intel.Command_R7D1",
+  "internalEnabled": true,
+  "persistentID": 3958116028
+}

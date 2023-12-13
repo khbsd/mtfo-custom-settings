@@ -1,0 +1,21 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.622,
+        "g": 0.09885964,
+        "b": 0.07921698
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Totally_black",
+  "internalEnabled": true,
+  "persistentID": 73
+}

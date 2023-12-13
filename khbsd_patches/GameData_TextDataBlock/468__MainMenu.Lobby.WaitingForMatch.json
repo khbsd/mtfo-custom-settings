@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WAITING\nFOR\nMATCH",
+  "Description": "When you are a game host and have initiated a matchmaking process to find additional players for the team, this text is shown in each player slot (where the matchmade players will appear), that the game is looking for a matching player for that particular slot.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "EN ATTENTE\nD'UN\nMATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN ATTESA\nDI\nABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARTEN\nAUF\nSPIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESPERANDO\nA LA\nPARTIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИДЕТ\nПОИСК\nКОМАНДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AGUARDANDO\nPARTIDA\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZEKIWANIE\nNA\nGRĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチ\nを\n待っています",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치를\n기다리는\n중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在\n等待\n匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.WaitingForMatch",
+  "internalEnabled": true,
+  "persistentID": 468
+}

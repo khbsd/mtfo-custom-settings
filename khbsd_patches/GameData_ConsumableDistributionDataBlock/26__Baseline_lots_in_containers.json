@@ -1,0 +1,33 @@
+{
+  "SpawnsPerZone": 50,
+  "ChanceToSpawnInResourceContainer": 1.0,
+  "SpawnData": [
+    {
+      "ItemID": 30,
+      "Weight": 6.0
+    },
+    {
+      "ItemID": 114,
+      "Weight": 14.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 117,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 8.0
+    },
+    {
+      "ItemID": 139,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Baseline_lots_in_containers",
+  "internalEnabled": true,
+  "persistentID": 26
+}

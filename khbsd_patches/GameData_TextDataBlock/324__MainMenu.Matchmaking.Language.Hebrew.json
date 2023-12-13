@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hebrew",
+  "Description": "A language spoken in Israel.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Hébreu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ebraico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hebräisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hebreo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Иврит",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Hebraico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hebrajski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘブライ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "히브리어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "希伯來文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "希伯来语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Hebrew",
+  "internalEnabled": true,
+  "persistentID": 324
+}

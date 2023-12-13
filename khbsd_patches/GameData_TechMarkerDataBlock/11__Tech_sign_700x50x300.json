@@ -1,0 +1,45 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 10,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_sign_700x50x300",
+    "BoundingVolume": 10500.0
+  },
+  "name": "Tech_sign_700x50x300",
+  "internalEnabled": true,
+  "persistentID": 11
+}

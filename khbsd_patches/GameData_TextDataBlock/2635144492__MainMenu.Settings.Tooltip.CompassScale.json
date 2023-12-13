@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the size of the compass",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la taille de la boussole.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla le dimensioni della bussola",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Größe des Kompasses.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el tamaño de la brújula.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует размер компаса.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o tamanho da bússola.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za rozmiar kompasu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンパスのサイズを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나침반 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制指南針大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制罗盘的大小。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.CompassScale",
+  "internalEnabled": true,
+  "persistentID": 2635144492
+}

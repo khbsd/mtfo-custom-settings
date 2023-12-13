@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR STARTUP SEQUENCE COMPLETED",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SÉQUENCE DE DÉMARRAGE DU RÉACTEUR TERMINÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEQUENZA AVVIO REATTORE COMPLETATA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORSTARTSEQUENZ ABGESCHLOSSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECUENCIA DE ARRANQUE DEL REACTOR COMPLETADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦИКЛ ЗАПУСКА РЕАКТОРА ЗАВЕРШЕН",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SEQUÊNCIA DE INICIALIZAÇÃO DE REATOR CONCLUÍDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKWENCJA ROZRUCHU REAKTORA ZAKOŃCZONA.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター始動シークエンス完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 가동 절차 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器啟動序列完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆启动序列已完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.StartupSequenceCompleted",
+  "internalEnabled": true,
+  "persistentID": 1106
+}

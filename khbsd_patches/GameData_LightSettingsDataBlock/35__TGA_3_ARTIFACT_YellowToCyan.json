@@ -1,0 +1,105 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.9098039,
+        "g": 0.814274549,
+        "b": 0.59137255
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.66,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.909000039,
+        "g": 0.8156863,
+        "b": 0.5921569
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.66,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.7321176,
+        "g": 0.761999965,
+        "b": 0.6783294
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.35,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.733333349,
+        "g": 0.7607843,
+        "b": 0.6784314
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.733333349,
+        "g": 0.7607843,
+        "b": 0.6784314
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.95,
+      "ChanceBroken": 0.4,
+      "Color": {
+        "a": 1.0,
+        "r": 0.6733177,
+        "g": 0.858823538,
+        "b": 0.858823538
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "TGA_3_ARTIFACT_YellowToCyan",
+  "internalEnabled": true,
+  "persistentID": 35
+}

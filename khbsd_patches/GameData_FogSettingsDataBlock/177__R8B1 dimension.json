@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.781950831,
+    "g": 0.8679245,
+    "b": 0.7967394
+  },
+  "FogDensity": 0.001,
+  "FogAmbience": 0.01,
+  "DensityNoiseDirection": {
+    "x": -2.0,
+    "y": -2.0,
+    "z": -2.0,
+    "normalized": {
+      "x": -0.577350259,
+      "y": -0.577350259,
+      "z": -0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 3.46410155,
+    "sqrMagnitude": 12.0
+  },
+  "DensityNoiseSpeed": 0.05,
+  "DensityNoiseScale": 0.05,
+  "DensityHeightAltitude": 0.5,
+  "DensityHeightRange": 0.2,
+  "DensityHeightMaxBoost": 0.01,
+  "Infection": 0.0,
+  "name": "R8B1 dimension",
+  "internalEnabled": true,
+  "persistentID": 177
+}

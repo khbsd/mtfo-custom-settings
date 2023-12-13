@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">... “Let’s just go. This isn’t right”\r\n>… “It’s been eaten. What did that?”\r\n>… “You want to be next? <size=200%><color=red>Move!</color></size>”",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": ">... \"Tirons-nous d’ici. J’ai un mauvais pressentiment.\"\r\n>... \"Il a été mangé. Qu’est-ce qui a pu faire ça\u00A0?\"\r\n>... \"Tu veux être le prochain\u00A0?<size=200%><color=red>Allez, on se bouge\u00A0!</color></size>\"",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> \"Andiamocene. Non mi piace.\"\r\n>\"È stato divorato. Che cos'è stato?\"\r\n> \"Vuoi essere il prossimo? <size=200%><color=red>Muoviti!</color></size>\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… „Gehen wir einfach. Irgendetwas stimmt hier nicht.“\r\n>… „Es wurde gegessen. Was war das?“\r\n>… „Willst du der Nächste sein? <size=200%><color=red>Los!</color></size>“",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">... «Larguémonos de aquí. Esto pinta feo».\r\n>... «Algo lo ha devorado, pero ¿qué?».\r\n>... «¿Es que tú también quieres acabar así?.\u00A0<size=200%><color=red>¡Andando!</color></size>».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">... Идем уже. Тут что-то не так.\r\n>... Что за тварь это сделала?\r\n>... Хочешь лично проверить? <size=200%><color=red>Быстрее!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">... \"Vamos logo. Tem algo errado\"\r\n>… \"Algo comeu isso. Mas o que faria isso?\"\r\n>… \"Quer ser o próximo? <size=200%><color=red>Anda logo!</color></size>”",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">… „Po prostu ruszajmy. To nie w porządku”\r\n>… “Coś to zjadło. Ale co?”\r\n>… „Też chcesz tak skończyć? <size=200%><color=red>Ruchy!</color></size>”",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">... 「行こう。どうかしてる」\r\n>... 「食われてる。何の仕業だ？」\r\n>... 「自分もそうなりたいか？ <size=200%><color=red>行け！</color></size>」",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">... “그냥 가자. 뭔가 잘못됐어.”\r\n>… “먹혔는데. 무슨 짓을 한 거지?”\r\n>… “너도 먹히고 싶어? <size=200%><color=red>이동해!</color></size>”",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…「快點走吧，感覺不太對勁。」\r\n>…「被吃了。會是什麼東西吃的？」\r\n>…「你想當下一個嗎？<size=200%><color=red>快走！</color></size>」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">... “我们赶紧走吧，情况不对”\r\n>… “这东西被吃了，是什么吃的？”\r\n>… “你也想被吃？<size=200%><color=red>快走！</color></size>”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_17",
+  "internalEnabled": true,
+  "persistentID": 3442885839
+}

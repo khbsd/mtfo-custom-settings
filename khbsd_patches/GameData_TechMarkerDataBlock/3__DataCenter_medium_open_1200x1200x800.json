@@ -1,0 +1,157 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        5,
+        1,
+        3,
+        0,
+        2,
+        4,
+        6
+      ],
+      [],
+      [],
+      [
+        1,
+        3,
+        5
+      ],
+      [
+        0,
+        2,
+        4,
+        1,
+        3,
+        5,
+        6
+      ],
+      [
+        1,
+        3,
+        5,
+        0,
+        2,
+        4,
+        6
+      ],
+      [],
+      [
+        1,
+        3,
+        5,
+        0,
+        2,
+        4,
+        6
+      ],
+      [
+        0,
+        2,
+        4,
+        1,
+        3,
+        5,
+        6
+      ],
+      [
+        1,
+        3,
+        5,
+        0,
+        2,
+        4,
+        6
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_01.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_02.prefab",
+        "function": 13,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_03.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_04.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_05.prefab",
+        "function": 13,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_06.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_medium_open_1200x1200x800/DataCenter_medium_open_1200x1200x800_HA_07.prefab",
+        "function": 0,
+        "Shard": 1
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 4.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_Lab_medium_open_1200x1200x800",
+    "BoundingVolume": 1152000.0
+  },
+  "name": "DataCenter_medium_open_1200x1200x800",
+  "internalEnabled": true,
+  "persistentID": 3
+}

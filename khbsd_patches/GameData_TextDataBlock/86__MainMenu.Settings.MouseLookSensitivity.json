@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Look Sensitivity",
+  "Description": "A headline for the game setting where you choose the mouse sensitivity when you're using it to look around (control the camera) in the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sensibilité de la souris (vision)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità mouse per vista",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus-Empfindlichkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sensibilidad al mirar (ratón)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность мыши при ориентации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sensibilidade de vista do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość przy rozglądaniu się – mysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス視点感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 시야 감도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠視覺靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标视角灵敏度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MouseLookSensitivity",
+  "internalEnabled": true,
+  "persistentID": 86
+}

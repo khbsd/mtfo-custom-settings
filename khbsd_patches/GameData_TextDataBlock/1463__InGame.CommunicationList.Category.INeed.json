@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "What I need",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mes besoins",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cosa mi serve",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Meine Bedürfnisse",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesito",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Что мне нужно — так это",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Do que eu preciso",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebuję",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "要求",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "필요한 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我需要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我需要",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.INeed",
+  "internalEnabled": true,
+  "persistentID": 1463
+}

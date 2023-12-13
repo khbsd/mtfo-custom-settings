@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Capture",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Capturer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cattura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erfassen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Capturar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Снимок экрана",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Capturar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Capture",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キャプチャ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "캡처",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "擷取",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "捕获",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Capture",
+  "internalEnabled": true,
+  "persistentID": 1003
+}

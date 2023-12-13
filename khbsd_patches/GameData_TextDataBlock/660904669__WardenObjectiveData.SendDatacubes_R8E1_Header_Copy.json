@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deposit Data Cubes",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Déposez les cubes de données [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Depositare i cubi di dati [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Deponieren Sie die Datenwürfel [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Deposita los cubos de datos [DATA CUBE]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разместите кубы данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Depositar cubos de dados [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostarcz kostki danych [DATA_CUBES]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]を預けろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 처분",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "存放資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "存放数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 0,
+  "ImportVersion": 0,
+  "name": "WardenObjectiveData.SendDatacubes_R8E1_Header_Copy",
+  "internalEnabled": true,
+  "persistentID": 660904669
+}

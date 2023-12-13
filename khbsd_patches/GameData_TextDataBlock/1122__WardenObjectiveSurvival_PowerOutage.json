@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Power Transformer overloaded caused by [sys_purge].. REROUTING TO RESTORE POWER..",
+  "Description": "Don't localize [sys_purge]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: surcharge du transformateur d'alimentation par [sys_purge]... RÉACHEMINEMENT POUR RÉTABLIR LE COURANT...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: sovraccarico trasformatore energia causato da [sys_purge]. DEVIAZIONE PER RIPRISTINO ENERGIA.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Stromtransformator durch [sys_purge] überlastet … WIRD ZUR WIEDERHERSTELLUNG DER STROMVERSORGUNG UMGELEITET …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Sobrecarga del transformador energético provocada por [sys_purge]. REDISTRIBUIR PARA RESTAURAR ENERGÍA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Трансформатор питания перегружен. Причина: [sys_purge]. ПОДАЧА ПИТАНИЯ ПЕРЕНАПРАВЛЯЕТСЯ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Sobrecarga no transformador de energia causada por [sys_purge].. REDIRECIONANDO PARA RESTAURAR A ENERGIA..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: [sys_purge] spowodowało przeciążenie transformatora.. PRZEKIEROWYWANIE W CELU PRZYWRÓCENIA ZASILANIA..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[sys_purge]により電力変圧器にオーバーロードが発生.. 電源回復のためのリルート中..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: [sys_purge]에 의해 전력 변환기 과부하.. 전력 복구를 위해 공급 경로 변경 중..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：由[sys_purge]導致的電源變壓器超載……重設路線以恢復電力……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：[sys_purge]导致电力变压器过载，正在重定向以恢复电力……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveSurvival_PowerOutage",
+  "internalEnabled": true,
+  "persistentID": 1122
+}

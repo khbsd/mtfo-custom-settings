@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "How you want the Voice chat to be activated.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit le mode d'activation du chat vocal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Come vuoi che venga attivata la Chat vocale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wie Sie den Sprachchat aktivieren möchten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El modo en que quieres que se active el chat de voz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Способ активации голосового чата.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Como você deseja que o chat de voz seja ativado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Metoda aktywacji czatu głosowego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャットの起動方法。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅 활성화 방식입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你希望啟用語音聊天的方式。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你想要激活语音聊天的方式。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VoiceChatMode",
+  "internalEnabled": true,
+  "persistentID": 21248059
+}

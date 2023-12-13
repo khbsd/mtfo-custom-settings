@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Releasing phase lock to [Zone 182]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouverture du verrou de la [Zone\u00A0182]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilascio blocco fase a zona 182 [ZONE_182]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigabe der Phasensperre für [ZONE 182]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloqueando cierre de fase a [ZONE 182].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[Zone 182] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberando trava da fase para [Zone 182]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zwalnianie blokady strefy 182 [Zone 182]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Zone 182]へのフェーズロックを解除中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[Zone 182] 페이즈 록 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在解除182區[ZONE_182]階段封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在解除182区[ZONE_182]阶段锁定",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_8",
+  "internalEnabled": true,
+  "persistentID": 1716003568
+}

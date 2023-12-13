@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tier 5 clearance accepted - Door to <color=#3299a8>ZONE 40</color> unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Habilitation de niveau\u00A05 acceptée. Porte vers la <color=#3299a8>ZONE\u00A040</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Autorizzazione livello 5 accettata: porta per <color=#3299a8>ZONE 40</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigabe für Stufe\u00A05 akzeptiert\u00A0– Tür zu <color=#3299a8>ZONE\u00A040</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Autorización a categoría 5 aceptada: La puerta a la <color=#3299a8>ZONE 40</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверка на уровень 5 пройдена. Дверь в <color=#3299a8>ZONE 40</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberação de Categoria 5 aceita - Porta para a <color=#3299a8>ZONE 40</color> destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uprawnienia 5. stopnia zaakceptowane. Drzwi do <color=#3299a8>strefy 40 [ZONE_40]</color> odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ティア5クリアランスを受理 ― <color=#3299a8>ZONE 40</color>へのドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "티어 5 허가 승인 - <color=#3299a8>ZONE 40</color> 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "5層許可已接受——通往<color=#3299a8>ZONE 40</color>的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "5层许可已接受 - 通往<color=#3299a8>ZONE 40</color>的门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_S3",
+  "internalEnabled": true,
+  "persistentID": 3568285530
+}

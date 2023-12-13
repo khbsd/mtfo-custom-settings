@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ping",
+  "Description": "Control key binding/mapping. To \"ping\" something in the surroundings is to put a marker/waypoint on it, to make your teammates aware of it.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ping",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Segnala",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ping",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Marcar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отметить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marcar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oznaczenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マーカー設置",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Ping",
+  "internalEnabled": true,
+  "persistentID": 160
+}

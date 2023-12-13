@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Italian",
+  "Description": "A language spoken in Italy, San Marino\r, Switzerland\r and the Vatican City.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Italien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Italiano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Italienisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Italiano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Итальянский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Italiano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włoski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "イタリア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이탈리아아",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "義大利文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "意大利语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Italian",
+  "internalEnabled": true,
+  "persistentID": 337
+}

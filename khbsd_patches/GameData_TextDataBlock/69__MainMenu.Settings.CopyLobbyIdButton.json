@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COPY LOBBY ID TO CLIPBOARD",
+  "Description": "\"Lobby ID\" is a unique code (a string of numbers) generated for every lobby. Hosts can copy their lobby ID and send it to other players to invite them to their lobby even if they aren't friends on Steam.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COPIER L'ID DE SALON DANS LE PRESSE-PAPIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COPIA ID LOBBY NEGLI APPUNTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LOBBY-ID IN ZWISCHENABLAGE KOPIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COPIAR ID. DE SALA AL PORTAPAPELES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОПИРОВАТЬ ID ЛОББИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "COPIAR ID DE LOBBY PARA ÁREA DE TRANSFERÊNCIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKOPIUJ ID LOBBY DO SCHOWKA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーIDをクリップボードにコピー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 ID를 클립보드에 복사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將大廳ID複製到剪貼簿",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将大厅ID复制到剪贴板",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CopyLobbyIdButton",
+  "internalEnabled": true,
+  "persistentID": 69
+}

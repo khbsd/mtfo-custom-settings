@@ -1,0 +1,120 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Rifle_2.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Rifle_2",
+    "AssetBundle": 20,
+    "BundleShard": 15
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Rifle_2_fire"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_Rifle_2_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_Rifle_2_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Rifle_2_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.1,
+      "Type": 5,
+      "StringData": "CARBINE_RELOAD_1_MAG_OUT"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 5,
+      "StringData": "carbine_reload_3_grab_mag"
+    },
+    {
+      "TriggerTime": 0.7,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 0.6,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.8,
+      "Type": 5,
+      "StringData": "carbine_mag_bump"
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 5,
+      "StringData": "CARBINE_RELOAD_2_MAG_IN"
+    },
+    {
+      "TriggerTime": 1.05,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 1.2,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.0,
+      "Type": 7
+    }
+  ],
+  "name": "Front_Rifle_2",
+  "internalEnabled": true,
+  "persistentID": 15
+}

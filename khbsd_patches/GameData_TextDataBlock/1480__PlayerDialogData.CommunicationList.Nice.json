@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Nice!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Super\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bene!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Toll!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Bien!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отлично!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Boa!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nieźle!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "いいぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "좋았어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "好樣的！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "很好！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Nice",
+  "internalEnabled": true,
+  "persistentID": 1480
+}

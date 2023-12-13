@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: NAVDATA INTERPRETATION INTERRUPTED</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0: LECTURE DES DONNÉES DE NAVIGATION INTERROMPUE</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: INTERPRETAZIONE NAVDATA INTERROTTA</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: VERARBEITUNG DER NAVDATEN UNTERBROCHEN.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: INTERPRETACIÓN DE DATOS DE NAVEGACIÓN INTERRUMPIDOS</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! ПРЕОБРАЗОВАНИЕ НАВИГАЦИОННЫХ ДАННЫХ ПРЕРВАНО.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: INTERPRETAÇÃO DE DADOS DE NAVEGAÇÃO INTERROMPIDA</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: INTERPRETACJA DANYCH NAWIGACYJNYCH PRZERWANA</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：ナビデータの判読が中断された</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 내비게이션 데이터 해석 중단됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：導航資料解讀已中斷</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：导航数据解读已中断</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "R8B2.Dimension3.PostCommandOutputs6",
+  "internalEnabled": true,
+  "persistentID": 4063330206
+}

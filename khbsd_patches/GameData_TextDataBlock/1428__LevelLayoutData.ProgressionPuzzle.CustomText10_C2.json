@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING - HISEC CARGO misplaced - ENGAGING SECURITY PROTOCOLS<color=red>",
+  "Description": "Don't localize HISEC CARGO.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT - CARGO HISEC égaré - ACTIVATION DES PROTOCOLES DE SÉCURITÉ<color=red>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE - HISEC CARGO fuori posto - ATTIVAZIONE PROTOCOLLI SICUREZZA</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG – HISEC CARGO wurde bewegt – SICHERHEITSPROTOKOLLE WERDEN AKTIVIERT<color=red>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: HISEC CARGO mal colocado. Activando protocolos de seguridad<color=red>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Груз HISEC [HISEC_CARGO] перемещен. АКТИВАЦИЯ ПРОТОКОЛОВ БЕЗОПАСНОСТИ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO - HISEC CARGO mal posicionado — INICIANDO PROTOCOLOS DE SEGURANÇA</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: nieprawidłowe umieszczenie HISEC CARGO – URUCHAMIANIE PROTOKOŁU BEZPIECZEŃSTWA<color=red>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告 - HISEC CARGOの位置不正 - セキュリティプロトコル開始</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고 - HISEC CARGO 배치 오류 - 보안 프로토콜 가동</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告 - HISEC CARGO放置錯誤 - 執行安全協定</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告 - HISEC CARGO错位 - 正在启用安全协议</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText10_C2",
+  "internalEnabled": true,
+  "persistentID": 1428
+}

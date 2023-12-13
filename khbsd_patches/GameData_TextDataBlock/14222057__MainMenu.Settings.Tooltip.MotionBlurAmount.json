@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The amount of motion blur to use for screen movement and moving objects.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le flou de mouvement de l'écran et des objets en mouvement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La quantità di sfocatura da utilizzare per il movimento dello schermo e degli oggetti in movimento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Intensität der Bewegungsunschärfe, die für die Bildschirmbewegung und sich bewegende Objekte verwendet wird.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La cantidad de desenfoque de movimiento que se utilizará para el movimiento de la pantalla y de objetos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Степень размытости при перемещении камеры и движении объектов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A quantidade de desfoque de movimento para usar no movimento da tela e objetos em movimento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Intensywność rozmycia przy ruchu ekranu i poruszających się obiektach.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "画面の動きや移動するオブジェクトに使用するモーションブラーの量。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "화면 및 물체 이동에 사용되는 모션 블러의 강도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "畫面移動與移動物體使用的移動模糊量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "屏幕动态和移动物体所用的动态模糊量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MotionBlurAmount",
+  "internalEnabled": true,
+  "persistentID": 14222057
+}

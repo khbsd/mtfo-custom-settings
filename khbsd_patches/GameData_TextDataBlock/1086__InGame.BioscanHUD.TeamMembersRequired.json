@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TEAM MEMBERS REQUIRED",
+  "Description": "This text is followed with the amount of team members required. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COÉQUIPIERS REQUIS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICHIESTI COMPAGNI SQ.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ERFORDERLICHE TEAMMITGLIEDER:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MIEMBROS DEL EQUIPO NECESARIOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕОБХОДИМО НАПАРНИКОВ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ALIADOS NECESSÁRIOS:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYMAGANI CZŁONKOWIE DRUŻYNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "必要チームメンバー数",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要隊友",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要队友",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.TeamMembersRequired",
+  "internalEnabled": true,
+  "persistentID": 1086
+}

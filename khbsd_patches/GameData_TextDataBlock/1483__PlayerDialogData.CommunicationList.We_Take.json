@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We take...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Nous allons prendre...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Noi prendiamo...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir nehmen …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Nos ocupamos...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На нас...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A gente encara juntos...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bierzmy...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "我々に任せろ...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "우리가 맡는다...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們來對付…",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们处理……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.We_Take",
+  "internalEnabled": true,
+  "persistentID": 1483
+}

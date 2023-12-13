@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Yes!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Oui\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sì!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ja!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Sí!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Да!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sim!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tak!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "分かった！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그래!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "是！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "是！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Yes",
+  "internalEnabled": true,
+  "persistentID": 1211
+}

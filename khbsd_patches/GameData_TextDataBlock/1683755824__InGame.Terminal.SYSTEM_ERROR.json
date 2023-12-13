@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>>> SYSTEM ERROR</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>>> ERREUR SYSTÈME</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>>> ERRORE DI SISTEMA</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>>> SYSTEMFEHLER</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>>> ERROR DE SISTEMA</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>>> ОШИБКА СИСТЕМЫ</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>>> ERRO DE SISTEMA</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>>> BŁĄD SYSTEMOWY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>>> システムエラー</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>>> 시스템 오류</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>>>系統錯誤</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>>> 系统错误</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.SYSTEM_ERROR",
+  "internalEnabled": true,
+  "persistentID": 1683755824
+}

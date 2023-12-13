@@ -1,0 +1,85 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        3
+      ],
+      [],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [],
+      [
+        3
+      ],
+      [],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [],
+      [],
+      [
+        3
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_building_level_1_200x200x800/dig_site_submarker_building_level_1_200x200x800_HA_a.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_building_level_1_200x200x800/dig_site_submarker_building_level_1_200x200x800_HA_b.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_building_level_1_200x200x800/dig_site_submarker_building_level_1_200x200x800_HA_c.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_building_level_1_200x200x800/dig_site_submarker_building_level_1_200x200x800_HA_d.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 45,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_building_level_1_200x200x800",
+    "BoundingVolume": 32000.0
+  },
+  "name": "mining_dig_site_submarker_building_level_1_200x200x800",
+  "internalEnabled": true,
+  "persistentID": 96
+}

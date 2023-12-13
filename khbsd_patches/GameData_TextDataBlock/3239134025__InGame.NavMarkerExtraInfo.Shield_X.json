@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shield {0}%",
+  "Description": "Extra info displayed in the UI when you look directly at another player or bot.\n{0} is the players current shield and will be a value between 0 and 100.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouclier {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scudo {0}%",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schild {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0}\u00A0% de escudo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Щит {0}%",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escudo {0}%",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tarcza {0}%",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シールド {0}%",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "실드 {0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "防護{0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "护盾{0}%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.NavMarkerExtraInfo.Shield_X",
+  "internalEnabled": true,
+  "persistentID": 3239134025
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "EXPEDITION FAILED",
+  "Description": "A summary of how the expedition went.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ÉCHEC DE L'EXPÉDITION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SPEDIZIONE FALLITA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXPEDITION FEHLGESCHLAGEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EXPEDICIÓN FALLIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКСПЕДИЦИЯ ПРОВАЛЕНА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALHA NA EXPEDIÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "EKSPEDYCJA NIEUDANA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディション失敗",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사 실패",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征失敗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "任务失败",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionFailPage.ExpeditionFailed",
+  "internalEnabled": true,
+  "persistentID": 962
+}

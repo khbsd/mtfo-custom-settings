@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deactivates infection filters in sublevel 65t",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactive les filtres d'infection au sous-niveau 65t.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattivare i filtri anti-infezione nel sottolivello 65t",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Deaktiviert die Infektionsfilter in Unterebene 65t.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactiva los filtros de infección en el subnivel 65t.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключите фильтры для инфекционного контроля на подуровне 65t.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desativa filtros contra infecção no subnível 65t",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywuj filtry przeciwzakażeniowe w podpoziomie 65t",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サブレベル65tの感染フィルターを停止しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하위 레벨 65t에서 감염 필터 비활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "停用65t次樓層的感染過濾器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭地下65t层的感染过滤器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R4B3_L3.SpecialTerminalCommandSpecifics_Desc",
+  "internalEnabled": true,
+  "persistentID": 3157040246
+}

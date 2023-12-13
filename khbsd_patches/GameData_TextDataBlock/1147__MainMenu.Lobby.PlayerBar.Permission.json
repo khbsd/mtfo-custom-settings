@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Permission",
+  "Description": "allowed/not allowed",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permission",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Permesso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Berechtigung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Permiso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Permissão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uprawnienie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "許可",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "권한",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "權限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "权限",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Permission",
+  "internalEnabled": true,
+  "persistentID": 1147
+}

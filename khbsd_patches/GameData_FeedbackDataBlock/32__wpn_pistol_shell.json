@@ -1,0 +1,28 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Shells/E_Shell_9x18mm",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Shells/RandomSmoke/ShellSmoke_ADD_2",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "wpn_pistol_shell",
+  "internalEnabled": true,
+  "persistentID": 32
+}

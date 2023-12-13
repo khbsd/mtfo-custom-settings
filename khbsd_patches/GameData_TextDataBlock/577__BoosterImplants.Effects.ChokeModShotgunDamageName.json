@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ChokeModShotgun Damage",
+  "Description": "I.e. how much damage you can deal with a shotgun fitted with a choke mod (it makes the shotgun pellets spread less and be more focused.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil à chokes améliorés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. a pompa a canna strozzata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ChokeModSchrotflinten-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de escopeta con estrangulador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (дробовик с дульным сужением)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de espingarda com estrangulador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od strzelby typu chokemod",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チョークモッドショットガンダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초크 장착형 산탄총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收束式霰彈槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收束器霰弹枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ChokeModShotgunDamageName",
+  "internalEnabled": true,
+  "persistentID": 577
+}

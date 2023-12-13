@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate the terminals.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Localisez les terminaux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trova i terminali.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie die Terminals.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza las terminales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминалы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize os terminais.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminale.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 찾기.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找終端。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位终端。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText15_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 2478951610
+}

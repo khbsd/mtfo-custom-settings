@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deal less damage with their special weapon.",
+  "Description": "Describes the disadvantage of having a poor \"special damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet inflige moins de dégâts avec son arme spéciale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto infliggerà danni minori con la propria arma speciale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verursacht weniger Schaden mit der Spezialwaffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto infligirá menos daño con su arma especial.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый особым оружием, понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo causa menos danos com sua arma especial.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zadawał mniej obrażeń bronią specjalną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の特殊武器のダメージが下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 특수 무기로 더 적은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的特殊武器會造成較少傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者通过特殊武器造成的伤害减少。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SpecialWeaponDamageDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 615
+}

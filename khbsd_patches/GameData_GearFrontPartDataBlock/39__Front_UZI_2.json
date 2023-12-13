@@ -1,0 +1,48 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_UZI_2.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 20,
+    "BundleShard": 4
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Receiver_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    },
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [],
+  "name": "Front_UZI_2",
+  "internalEnabled": true,
+  "persistentID": 39
+}

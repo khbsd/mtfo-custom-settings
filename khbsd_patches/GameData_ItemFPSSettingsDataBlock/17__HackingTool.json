@@ -1,0 +1,141 @@
+{
+  "localPosHip": {
+    "x": 0.08,
+    "y": -0.084,
+    "z": 0.5,
+    "normalized": {
+      "x": 0.155860439,
+      "y": -0.163653463,
+      "z": 0.974127769,
+      "normalized": {
+        "x": 0.155860454,
+        "y": -0.163653478,
+        "z": 0.9741278,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999998
+    },
+    "magnitude": 0.5132797,
+    "sqrMagnitude": 0.263456
+  },
+  "localRotHip": {
+    "x": -51.01,
+    "y": -2.5,
+    "z": 10.18,
+    "normalized": {
+      "x": -0.9795312,
+      "y": -0.0480068251,
+      "z": 0.1954838,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 52.0759277,
+    "sqrMagnitude": 2711.90234
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localPosZoom": {
+    "x": 0.01,
+    "y": -0.075,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.0219146013,
+      "y": -0.16435951,
+      "z": 0.986157,
+      "normalized": {
+        "x": 0.0219146032,
+        "y": -0.164359525,
+        "z": 0.98615706,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.456316769,
+    "sqrMagnitude": 0.208225
+  },
+  "localRotZoom": {
+    "x": -34.42,
+    "y": -1.4,
+    "z": 5.1,
+    "normalized": {
+      "x": -0.988400638,
+      "y": -0.0402022377,
+      "z": 0.146451011,
+      "normalized": {
+        "x": -0.9884007,
+        "y": -0.04020224,
+        "z": 0.146451026,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 34.8239326,
+    "sqrMagnitude": 1212.7063
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 32,
+  "ItemCameraFOVZoom": 30,
+  "LookCameraFOVZoom": 40,
+  "canAim": false,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 14,
+  "WalkAnimation": 9,
+  "RunAnimation": 10,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "HackingTool",
+  "internalEnabled": true,
+  "persistentID": 17
+}

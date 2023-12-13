@@ -1,0 +1,135 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [
+        3,
+        4
+      ],
+      [],
+      [],
+      [
+        3,
+        4
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_room_large_X_2200x2000x2000/refinery_room_large_X_2200x2000x2000_HA_01.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_room_large_X_2200x2000x2000/refinery_room_large_X_2200x2000x2000_HA_02.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_room_large_X_2200x2000x2000/refinery_room_large_X_2200x2000x2000_HA_07.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_room_large_X_2200x2000x2000/refinery_room_large_X_2200x2000x2000_HA_04.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_room_large_X_2200x2000x2000/refinery_room_large_X_2200x2000x2000_HA_09.prefab",
+        "function": 0,
+        "Shard": 10
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 15.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_refinery_room_large_X_2200x2000x2000",
+    "BoundingVolume": 8800000.0
+  },
+  "name": "mining_refinery_room_large_X_2200x2000x2000",
+  "internalEnabled": true,
+  "persistentID": 100
+}

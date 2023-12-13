@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search in lockers for <color=orange>weapon ammo</color> and <color=orange>tool ammo</color> - Make sure to reload your weapons",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fouillez les casiers en quête de <color=orange>munitions</color> pour vos armes et outils. Assurez-vous de recharger vos armes.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare negli armadietti <color=orange>munizioni</color> e <color=orange>risorse per strumenti</color>. Ricaricare le armi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie in den Spinden nach <color=orange>Waffenmunition</color> und <color=orange>Werkzeugmunition</color>. Denken Sie daran, Ihre Waffen nachzuladen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca <color=orange>munición de armas</color> y <color=orange>munición de herramientas</color> en taquillas. Asegúrate de recargar tus armas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поищите в шкафчиках <color=orange>боеприпасы</color> и <color=orange>заряды для устройств</color>. Не забудьте перезарядить оружие.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure <color=orange>munição para armas</color> e <color=orange>para ferramentas</color> nos armários - Certifique-se de recarregar suas armas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poszukaj w szafkach <color=orange>amunicji do broni</color> oraz <color=orange>narzędzi</color> – przeładuj broń",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロッカーで<color=orange>武器の弾薬</color>と<color=orange>ツールの弾薬</color>を探せ - 武器のリロードを忘れるな",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보관함을 수색해 <color=orange>무기 탄약</color>과 <color=orange>도구 탄약</color> 찾기. 무기 장전할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在儲物櫃中搜尋<color=orange>武器彈藥</color>和<color=orange>工具彈藥</color> - 務必重新裝填武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在存放室中搜寻<color=orange>武器弹药</color>和<color=orange>工具弹药</color> - 务必给武器装弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Tutorial.Zone3.OpenDoor.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 2684409199
+}

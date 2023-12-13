@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners to locate <color=orange><size=150%>[ALL_ITEMS]</size></color> before containment system lockdown release.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les prisonniers doivent localiser <color=orange><size=150%>[ALL_ITEMS]</size></color> avant le déverrouillage du système de confinement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati a trovare <color=orange><size=150%>[ALL_ITEMS]</size></color> prima del rilascio del blocco del sistema di contenimento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Gefangenen sollen <color=orange><size=150%>[ALL_ITEMS]</size></color> vor der Auslösung der Verriegelung des Eindämmungssystems lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Los prisioneros deben encontrar <color=orange><size=150%>[ALL_ITEMS]</size></color> antes de que se active el cierre de emergencia del sistema de contención.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным поручено найти предметы (<color=orange><size=150%>[ALL_ITEMS]</size></color>) до разблокировки системы защитной оболочки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros devem localizar <color=orange><size=150%>[ALL_ITEMS]</size></color> antes da liberação do confinamento de sistema de contenção.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Więźniowie mają odnaleźć <color=orange><size=150%>[ALL_ITEMS]</size></color> przed zniesieniem izolacji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "封鎖システムロックダウンが解除される前に、囚人は<color=orange><size=150%>[ALL_ITEMS]</size></color>を見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자들은 격리 시스템 폐쇄 해제 전에<color=orange><size=150%>[ALL_ITEMS]</size></color>을 찾으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯在遏制系統封鎖解除之前定位<color=orange><size=150%>[ALL_ITEMS]</size></color>。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯须在控制系统封锁解除前找到<color=orange><size=150%>[ALL_ITEMS]</size></color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Gamescom_WardenIntel_Exit",
+  "internalEnabled": true,
+  "persistentID": 3831173283
+}

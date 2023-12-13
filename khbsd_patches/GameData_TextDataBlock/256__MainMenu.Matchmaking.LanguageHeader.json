@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Language",
+  "Description": "A header for a game setting where the user chooses what languages they prefer speaking over voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Langue",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lingua",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprache",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Idioma",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Язык",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Idioma",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Język",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "言語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "언어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語言",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语言",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.LanguageHeader",
+  "internalEnabled": true,
+  "persistentID": 256
+}

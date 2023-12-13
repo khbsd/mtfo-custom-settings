@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Three, two, one, go!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Trois, deux, un, c'est parti\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tre, due, uno, via!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drei, zwei, eins, los!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tres, dos, uno... ¡Vamos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Три, два, один, вперед!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Um, dois, três e já!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzy, dwa, jeden, dalej!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "3、2、1、ゴー！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "셋, 둘, 하나!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "三、二、一，出發！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "三、二、一，上！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.ThreeTwoOneGo",
+  "internalEnabled": true,
+  "persistentID": 1192
+}

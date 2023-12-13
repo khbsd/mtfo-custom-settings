@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to armory",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous à l'arsenal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere l'armeria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie zur Waffenkammer.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a la armería.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В оружейную",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá ao arsenal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do zbrojowni",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器庫へ向かえ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기고로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往軍械庫",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往军械库",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone2.CloseTheDoor_Header",
+  "internalEnabled": true,
+  "persistentID": 211953950
+}

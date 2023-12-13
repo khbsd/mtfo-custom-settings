@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Trigger",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gâchette droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grilletto destro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechter Trigger",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gatillo derecho",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правый триггер",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Gatilho direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy spust",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右トリガー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 트리거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右發射鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右扳机键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.RightTrigger",
+  "internalEnabled": true,
+  "persistentID": 988
+}

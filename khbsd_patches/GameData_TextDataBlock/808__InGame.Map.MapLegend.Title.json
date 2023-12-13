@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "LEGEND",
+  "Description": "A headline for the \"legend\" of the map, i.e. the explanations of the different symbols shown on the map.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "LÉGENDE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "LEGENDA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LEGENDE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "LEYENDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОБОЗНАЧЕНИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "LEGENDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "LEGENDA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "凡例",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "범례",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "圖例",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "图例",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.Title",
+  "internalEnabled": true,
+  "persistentID": 808
+}

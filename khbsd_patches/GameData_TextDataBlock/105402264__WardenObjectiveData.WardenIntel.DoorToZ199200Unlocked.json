@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to Zone 199 and Zone 200 unlocked by startup sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de la zone 199 et 200 déverrouillée par la séquence de démarrage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per ZONE 199 e ZONE 200 sbloccata da sequenza avvio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu ZONE 199 und ZONE 200 durch Startsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la ZONE 199 y ZONE 200 se ha desbloqueado con una secuencia de arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска разблокировал дверь в зонах 199 и 200.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a Zone 199 e Zone 200 destrancada pela sequência de inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 199 [ZONE_199] i 200 [ZONE_200] odblokowane przez sekwencję rozruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone199およびZone200へのドアがリアクター始動シークエンスによりロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시동 절차에 따라 ZONE 199 및 ZONE 200 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往ZONE 199與ZONE 200的門已由啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 199和ZONE 200的门已由启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.WardenIntel.DoorToZ199200Unlocked",
+  "internalEnabled": true,
+  "persistentID": 105402264
+}

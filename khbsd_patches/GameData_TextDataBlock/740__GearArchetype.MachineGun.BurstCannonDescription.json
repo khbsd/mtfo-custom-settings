@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Five round burst\nCharge up firemode\nMedium range\nHigh power",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rafale de cinq balles\nTemps de charge élevé\nMoyenne portée\nHaute puissance",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raffica a cinque colpi\nModalità di fuoco con caricamento\nGittata media\nElevata potenza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "5-Schuss-Salve\nAuflade-Feuermodus\nMittlere Reichweite\nHohe Leistung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disparo quíntuple\nCarga predisparo\nMedio alcance\nPotencia alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очередь по пять выстрелов\nТребуется зажать спусковой крючок\nСредняя дальность\nВысокая мощность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Disparo quíntuplo\nCarga pré-disparo\nMédio alcance\nAlto poder",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Seria pięciu pocisków\nTryb ognia z ładowaniem\nŚredni dystans\nDuża siła rażenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "5点バースト\nチャージアップによる発射\n中距離\n高火力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "5점사\n충전 발사 모드\n중거리\n고출력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "五連發\n射擊模式充能\n中程\n高強度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "五连发\n蓄力开火模式\n中程\n威力大",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.BurstCannonDescription",
+  "internalEnabled": true,
+  "persistentID": 740
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPLETE {0} OVERLOAD SECTORS",
+  "Description": "Vanity item condition: completing a number of overload sectors",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER {0}\u00A0SECTEURS DE SURCHARGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COMPLETA {0} SETTORI SOVRACCARICO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHLIESSEN SIE {0} HERAUSFORDERUNGSSEKTOREN AB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COMPLETA {0} SECTORES DE SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОЙДИТЕ СПЕЦИАЛЬНЫЕ СЕКТОРЫ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUA {0} SETORES DE SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UKOŃCZ {0}× SEKTOR NADMIAROWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了{0}オーバーロードセクター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고위험 섹터 {0}개 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成{0}個超載分區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成{0}个附加分区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.CompleteOverloadSectors",
+  "internalEnabled": true,
+  "persistentID": 1686295373
+}

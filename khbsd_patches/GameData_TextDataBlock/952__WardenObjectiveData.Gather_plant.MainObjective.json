@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] Plant Samples and make your way to the extraction point",
+  "Description": "Don't localize Plant Samples. Plant Samples is because they are important mission objectives. They are searchable in the terminals using the same name. The terminals are in English and is not localized in any way.\nA short summary of a mission objective. \"[COUNT_REQUIRED]\" will be replaced by the number of items the player must gather in order to complete the objective; don't alter these characters, just put them in the gramatically correct position in teh sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Recueillez [COUNT_REQUIRED]\u00A0échantillons végétaux [PLANT] et rendez-vous au point d'évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] campioni di piante [PLANT] e trovare strada per punto di estrazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] Pflanzenproben [PLANT] und gelangen Sie zum Extraktionspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] muestras de plantas [PLANT] y llega hasta el punto de extracción.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите образцы растений ([COUNT_REQUIRED]) и доберитесь до точки выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] amostras de plantas [PLANT] e chegue ao ponto de extração.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz [COUNT_REQUIRED] szt. próbek roślin [PLANT] i przejdź do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED] 植物サンプル[PLANT]を集めて脱出地点へ向かえ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[PLANT] 식물 샘플 [COUNT_REQUIRED]개를 수집하고 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集[COUNT_REQUIRED]份植物樣本[PLANT]並前往撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]份植物样本[PLANT]并前往撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Gather_plant.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 952
+}

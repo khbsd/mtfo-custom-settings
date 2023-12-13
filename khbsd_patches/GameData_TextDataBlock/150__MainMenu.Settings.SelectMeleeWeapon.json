@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Melee Weapon",
+  "Description": "Control key binding/mapping. This key equips the player's melee weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner l'arme de mêlée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona arma da mischia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nahkampfwaffe wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar arma cuerpo a cuerpo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать оружие ближнего боя",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar arma branca",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór broni do walki wręcz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近接武器を選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "근접 무기 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇近戰武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择近战武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectMeleeWeapon",
+  "internalEnabled": true,
+  "persistentID": 150
+}

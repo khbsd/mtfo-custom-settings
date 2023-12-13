@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.75715,
+    "g": 0.797,
+    "b": 0.232458353
+  },
+  "FogDensity": 0.0005,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0,
+    "normalized": {
+      "x": 0.577350259,
+      "y": 0.577350259,
+      "z": 0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.73205078,
+    "sqrMagnitude": 3.0
+  },
+  "DensityNoiseSpeed": 0.018,
+  "DensityNoiseScale": 0.05,
+  "DensityHeightAltitude": -4.2,
+  "DensityHeightRange": 0.4,
+  "DensityHeightMaxBoost": 0.012,
+  "Infection": 0.0,
+  "name": "Fog_medium_layered_toxic_green",
+  "internalEnabled": true,
+  "persistentID": 12
+}

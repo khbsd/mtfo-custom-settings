@@ -1,0 +1,13 @@
+{
+  "SpawnsPerZone": 7,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 10.0
+    }
+  ],
+  "name": "OnlyFogReps_Alt",
+  "internalEnabled": true,
+  "persistentID": 45
+}

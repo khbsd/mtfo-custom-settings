@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stay back!",
+  "Description": "As in ",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Reculez\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "State indietro!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zurückbleiben!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Retrocede!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Назад!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Para trás!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odsunąć się!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "下がっていろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "물러나!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退後！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退后！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.StayBack",
+  "internalEnabled": true,
+  "persistentID": 1175
+}

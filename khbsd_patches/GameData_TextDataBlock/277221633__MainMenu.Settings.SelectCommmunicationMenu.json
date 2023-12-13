@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Communication Menu Option",
+  "Description": "Control key binding/mapping. This key select an option in the communication menu",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner une option du menu de communication",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona opzione Menu comunicazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kommunikationsmenü-Option wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar opción del menú de comunicación",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбор параметра в меню связи",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecione a opção de menu de comunicação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór opcji w menu komunikacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通信メニューオプション選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통신 메뉴 옵션 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇通訊選單選項",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择通讯菜单选项",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.SelectCommmunicationMenu",
+  "internalEnabled": true,
+  "persistentID": 277221633
+}

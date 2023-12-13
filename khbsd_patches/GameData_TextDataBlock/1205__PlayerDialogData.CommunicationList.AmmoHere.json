@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ammo here!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà des munitions\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Munizioni qui!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist Munition!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Munición!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь боеприпасы!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Munição aqui!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Amunicja, tutaj!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "弾薬があるぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 탄약이다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "彈藥，這裡！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有弹药！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.AmmoHere",
+  "internalEnabled": true,
+  "persistentID": 1205
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backpack",
+  "Description": "The type of cloth to select",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sac à dos",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Zaino",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rucksack",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mochila",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Рюкзак",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mochila",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Plecak",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックパック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배낭",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "背包",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "背包",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Clothes.Categories.Backpack",
+  "internalEnabled": true,
+  "persistentID": 1151
+}

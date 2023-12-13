@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I2-LP Syringe",
+  "Description": "Don't localize I2-LP",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Seringue I2-LP",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Siringa I2-LP",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "I2-LP Injektionsnadel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Jeringuilla I2-LP",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Шприц I2-LP",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seringa I2-LP",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzykawka I2-LP",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "I2-LP注射器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "I2-LP 주사기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "I2-LP注射器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "I2-LP注射器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.SyringeHealth",
+  "internalEnabled": true,
+  "persistentID": 2347869174
+}

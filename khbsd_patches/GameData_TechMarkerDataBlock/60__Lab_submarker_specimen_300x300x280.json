@@ -1,0 +1,76 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V02.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V03.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V04.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V05.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_300x300x280/Lab_submarker_specimen_300x300x280_V06.prefab",
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 0.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/SM_Lab_specimen_300x300x280",
+    "BoundingVolume": 25200.0
+  },
+  "name": "Lab_submarker_specimen_300x300x280",
+  "internalEnabled": true,
+  "persistentID": 60
+}

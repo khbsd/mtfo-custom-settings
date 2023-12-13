@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Status",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Status",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stan",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "状況",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "상태",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "狀態",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "状态",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Status",
+  "internalEnabled": true,
+  "persistentID": 1275
+}

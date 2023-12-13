@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to the next zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la zone suivante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Andare alla zona successiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie zur nächsten Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a la siguiente zona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идите к следующей зоне",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá para a próxima zona",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do następnej strefy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次のゾーンへ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 구역으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往下一區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往下一个区域",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone0.OnTrigger.Header",
+  "internalEnabled": true,
+  "persistentID": 1999108016
+}

@@ -1,0 +1,17 @@
+{
+  "FeedbackMeleeHitNormal": 50,
+  "FeedbackMeleeHitHard": 51,
+  "InitialFoley": 2073762258,
+  "SwishRegularLeft": 3870443137,
+  "SwishRegularRight": 3870443137,
+  "SwishRegularDelay": 0.3,
+  "SwishHeavy": 2342008644,
+  "ShoveHit": 2259304539,
+  "Charge": 3435211054,
+  "Charged": 2182337294,
+  "ChargedCancelWarning": 746759770,
+  "PlayerCancelCharge": 2073762258,
+  "name": "Hammer",
+  "internalEnabled": true,
+  "persistentID": 1
+}

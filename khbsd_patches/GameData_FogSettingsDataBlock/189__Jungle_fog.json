@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.344428629,
+    "g": 0.52533406,
+    "b": 0.5660378
+  },
+  "FogDensity": 0.0002,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "DensityNoiseSpeed": 0.0,
+  "DensityNoiseScale": 0.02,
+  "DensityHeightAltitude": 18.0,
+  "DensityHeightRange": 0.25,
+  "DensityHeightMaxBoost": 0.005,
+  "Infection": 0.0,
+  "name": "Jungle_fog",
+  "internalEnabled": true,
+  "persistentID": 189
+}

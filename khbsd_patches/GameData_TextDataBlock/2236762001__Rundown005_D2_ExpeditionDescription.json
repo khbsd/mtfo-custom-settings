@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Protocol requiring additional power. Prisoners dispatched to<size=200%><color=red> :: ERR ###</color></size>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le protocole nécessite une alimentation supplémentaire. Prisonniers envoyés à\u00A0<size=200%><color=red> :: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il protocollo richiede potenza aggiuntiva. Prigionieri inviati a<size=200%><color=red> :: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Protokoll erfordert zusätzliche Leistung. Gefangene entsandt, um<size=200%><color=red> :: FEH ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El protocolo necesita energía adicional. Prisioneros destinados a<size=200%><color=red> :: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Протокол требует дополнительного электропитания. Заключенным поручено<size=200%><color=red> :: ОШИБ ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Protocolo exigindo energia adicional. Prisioneiros despachados para<size=200%><color=red> :: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Protokół wymagający dodatkowej mocy. Wysłano więźniów w celu<size=200%><color=red> :: BŁĄ ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プロトコルに追加電力が必要。囚人派遣<size=200%><color=red> :: エラー ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "프로토콜에 추가 전력이 필요합니다. 수감자 파견:<size=200%><color=red> :: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "協定需要額外電力。已派遣囚犯<size=200%><color=red>:: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "协议需要额外电力。囚犯派去<size=200%><color=red>:: ERR ###</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_D2_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2236762001
+}

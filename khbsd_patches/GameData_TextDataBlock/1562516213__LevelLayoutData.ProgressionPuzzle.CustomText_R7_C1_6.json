@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Access denied. </color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>Accès refusé.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Accesso negato. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Zugang verweigert.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Acceso denegado. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Отказано в доступе.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Acesso negado. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Odmowa dostępu. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>アクセス拒否。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>접근 거부됨. </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>拒絕存取。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>拒绝访问。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_6",
+  "internalEnabled": true,
+  "persistentID": 1562516213
+}

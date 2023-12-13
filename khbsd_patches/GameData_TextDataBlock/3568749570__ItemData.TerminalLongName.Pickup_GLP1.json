@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glucagon peptide hormone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Hormone peptidique Glucagon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ormone peptidico glucagone",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Glucagon-Peptidhormon",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hormona peptídica glucagón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Глюкагоноподобный пептид",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Hormônio peptídeo Glicagina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hormon peptydu glukagonowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グルカゴン・ペプチド・ホルモン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "글루카곤 펩타이드 호르몬",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "升糖素肽賀爾蒙",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "胰高血糖素样肽激素",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Pickup_GLP1",
+  "internalEnabled": true,
+  "persistentID": 3568749570
+}

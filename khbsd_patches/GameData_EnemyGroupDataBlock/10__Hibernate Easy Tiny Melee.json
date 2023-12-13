@@ -1,0 +1,17 @@
+{
+  "Type": 0,
+  "Difficulty": 0,
+  "SpawnPlacementType": 0,
+  "MaxScore": 2.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 2.0,
+  "Roles": [
+    {
+      "Role": 0,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hibernate Easy Tiny Melee",
+  "internalEnabled": true,
+  "persistentID": 10
+}

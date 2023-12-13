@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <color=orange>FOG_TURBINE</color> in <color=orange>ZONE 119</color>",
+  "Description": "Don't localize FOG_TURBINE and ZONE_119.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Trouvez la <color=orange>FOG_TURBINE</color> dans la <color=orange>ZONE\u00A0119</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare la <color=orange>FOG_TURBINE</color> nella <color=orange>ZONE 119</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die <color=orange>FOG_TURBINE</color> in <color=orange>ZONE 119</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la <color=orange>FOG_TURBINE</color> en la <color=orange>ZONE 119</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>[FOG_TURBINE]</color> в <color=orange>ZONE 119</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre a <color=orange>FOG_TURBINE</color> na <color=orange>ZONE 119</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>turbinę [FOG_TURBINE]</color> w <color=orange>strefie 119 [ZONE_119]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>FOG_TURBINE</color> を <color=orange>ZONE 119</color>で見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 119</color>에서 <color=orange>FOG_TURBINE</color> 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找<color=orange>ZONE 119</color>中的<color=orange>FOG_TURBINE</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 119</color>中找到<color=orange>FOG_TURBINE</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText12_C2",
+  "internalEnabled": true,
+  "persistentID": 1571
+}

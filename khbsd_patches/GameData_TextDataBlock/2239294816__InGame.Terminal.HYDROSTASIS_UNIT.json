@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HYDROSTASIS UNIT",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "UNITÉ D'HYDROSTASE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "UNITÀ IDROSTATICA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HYDROSTASIS-EINHEIT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "UNIDAD DE HIDROLETARGO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СТАЗИС-МОДУЛЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "UNIDADE DE HIDROESTASE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "JEDNOSTKA HYDROSTAZY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイドロスタシスユニット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수분식 생체 정지 유닛",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "靜液裝置",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "流体静力舱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.HYDROSTASIS_UNIT",
+  "internalEnabled": true,
+  "persistentID": 2239294816
+}

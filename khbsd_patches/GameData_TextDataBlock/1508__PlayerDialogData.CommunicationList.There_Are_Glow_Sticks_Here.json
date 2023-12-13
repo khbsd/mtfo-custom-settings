@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glow sticks here",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà des bâtons lumineux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Starlight qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier sind Knicklichter",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hacen falta barras luminosas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь светящиеся палочки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bastão fluorescente aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Światło chemiczne, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにグロースティックがある",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 글로우 스틱이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有螢光棒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有发光棒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.There_Are_Glow_Sticks_Here",
+  "internalEnabled": true,
+  "persistentID": 1508
+}

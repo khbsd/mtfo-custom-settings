@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The gamepad menu cursor movement sensitivity",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la sensibilité du curseur dans les menus avec la manette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità del movimento del cursore nel menu col controller",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Empfindlichkeit der Cursorbewegung im Gamepad-Menü.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La sensibilidad de movimiento del menú con mando.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность геймпада при перемещении курсора в меню.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A sensibilidade de movimento do cursor no menu do gamepad.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość przy poruszaniu kursorem za pomocą kontrolera.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッドでのメニューカーソルの移動感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 메뉴 커서 이동 감도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器選單游標移動靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄菜单光标移动灵敏度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.GamepadMenuSensitivity",
+  "internalEnabled": true,
+  "persistentID": 2757220219
+}

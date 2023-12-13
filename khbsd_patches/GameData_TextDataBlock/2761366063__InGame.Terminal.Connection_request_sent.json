@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Connection request sent. Waiting for confirmation.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Demande de connexion envoyée. Confirmation en attente.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta di connessione inviata. In attesa di conferma.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbindungsanfrage gesendet. Warte auf Bestätigung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Solicitud de conexión enviada. Esperando confirmación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрос на подключение отправлен. Ожидайте подтверждения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Solicitação de conexão enviada. Aguardando confirmação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Żądanie połączenia wysłane. Oczekiwanie na potwierdzenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "接続リクエスト送信済み。確認を待機中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "연결 요청 보냄. 확인 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連線要求已傳送，正在等待確認。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连接请求已发送，正在等待确认。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Connection_request_sent",
+  "internalEnabled": true,
+  "persistentID": 2761366063
+}

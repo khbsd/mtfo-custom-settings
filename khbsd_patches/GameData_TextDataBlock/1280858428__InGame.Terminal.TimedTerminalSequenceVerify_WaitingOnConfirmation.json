@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting on confirmation for Timed Verification.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "En attente de confirmation pour la vérification chronométrée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa di conferma della verifica a tempo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warte auf Bestätigung der zeitgesteuerten Verifizierung …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando confirmación de la verificación cronometrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание подтверждения синхронизированной верификации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando confirmação da verificação cronometrada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na potwierdzenie weryfikacji czasowej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証の確認を待機中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 승인 확인 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在等待限時驗證確認。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待定时验证确认。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_WaitingOnConfirmation",
+  "internalEnabled": true,
+  "persistentID": 1280858428
+}

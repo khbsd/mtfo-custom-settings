@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Defend.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Défendez.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Difesa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verteidigen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Defiende.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В защиту.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Defesa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bronić się.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "防衛しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "방어해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "防守。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "防御。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Defend",
+  "internalEnabled": true,
+  "persistentID": 1474
+}

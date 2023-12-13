@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SANTONIAN CARGO CRATE",
+  "Description": "Santonian is the name of the mining company that exists in the ingame world.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CAISSON DE SANTONIAN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CASSA DI MERCI SANTONIAN",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SANTONIANISCHE FRACHTKISTE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAJA DE CARGAMENTO DE SANTONIAN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГРУЗОВОЙ КОНТЕЙНЕР SANTONIAN",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CAIXA DE CARGA SANTONIANA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKRZYNIA ŁADUNKOWA SANTONIAN",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サントニアン荷物クレート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "산토니안 화물 상자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "三唐尼貨物箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "桑托货箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Carry_SantonianCargoCrate",
+  "internalEnabled": true,
+  "persistentID": 1695783613
+}

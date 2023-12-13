@@ -1,0 +1,17 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_10.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 150,
+    "BundleShard": 1
+  },
+  "Aligns": [
+    {
+      "AlignType": 20,
+      "AlignName": "Head_align"
+    }
+  ],
+  "name": "Neck_Hammer_10",
+  "internalEnabled": true,
+  "persistentID": 4
+}

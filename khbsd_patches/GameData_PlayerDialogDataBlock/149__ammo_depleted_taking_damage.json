@@ -1,0 +1,42 @@
+{
+  "priority": 100,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 1,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 2,
+  "dramaFilter": {
+    "Exploration": false,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 2022585875,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "ammo_depleted_taking_damage",
+  "internalEnabled": true,
+  "persistentID": 149
+}

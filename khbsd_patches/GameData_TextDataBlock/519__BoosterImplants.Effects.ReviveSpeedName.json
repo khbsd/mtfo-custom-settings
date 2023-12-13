@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Rev. speed",
+  "Description": "Rev. is short for \"revive\", and \"speed\" represents speed at which the subject would be able to revive a downed teammate.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vitesse de réanimation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità rianim.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wi.-Tempo",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad de resurrección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скор. возрожд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade de rev.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość reanimacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "復活速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소생 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "復活速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "复活速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ReviveSpeedName",
+  "internalEnabled": true,
+  "persistentID": 519
+}

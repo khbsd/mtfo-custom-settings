@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject's sentry gun will deal more damage.",
+  "Description": "Describes the advantage of having a good \"Sentry damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "La tourelle du sujet inflige plus de dégâts.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La torretta automatica del soggetto infliggerà danni maggiori.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Geschütz der Versuchsperson verursacht mehr Schaden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La centinela del sujeto infligirá más daño.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый турелью, повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A arma sentinela do indivíduo causa mais danos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działko wartownicze biorcy będzie zadawać większe obrażenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象のセントリーガンのダメージが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 센트리 건이 더 많은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的自動砲台槍會造成較多傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的哨戒炮造成的伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunDamageDescription",
+  "internalEnabled": true,
+  "persistentID": 602
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stand still",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ne bougez pas",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "State fermi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stillgestanden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No te muevas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стоять",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não se mexa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie ruszać się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "動くな",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "가만히 있어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "站住不動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "别动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Stand_still",
+  "internalEnabled": true,
+  "persistentID": 1280
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "VOICE CHAT",
+  "Description": "A headline for voice chat related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CHAT VOCAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CHAT VOCALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPRACHCHAT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CHAT DE VOZ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГОЛОСОВОЙ ЧАТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CHAT DE VOZ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CZAT GŁOSOWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.VoiceChat",
+  "internalEnabled": true,
+  "persistentID": 264
+}

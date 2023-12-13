@@ -1,0 +1,121 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        3,
+        4,
+        1,
+        0
+      ],
+      [],
+      [],
+      [
+        3,
+        4,
+        1,
+        0
+      ],
+      [
+        1,
+        4,
+        0,
+        2,
+        3
+      ],
+      [
+        1,
+        4,
+        0,
+        3,
+        2
+      ],
+      [],
+      [
+        1,
+        4,
+        0,
+        3,
+        2
+      ],
+      [
+        1,
+        4,
+        0,
+        3,
+        2
+      ],
+      [
+        1,
+        4,
+        0,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        4
+      ],
+      [
+        3,
+        4,
+        1,
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        4
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_I_1600x1200x500/Gardens_Lab_I_1600x1200x500_V01.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_I_1600x1200x500/Gardens_Lab_I_1600x1200x500_V02.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_I_1600x1200x500/Gardens_Lab_I_1600x1200x500_V03.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_I_1600x1200x500/Gardens_Lab_I_1600x1200x500_V04.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_I_1600x1200x500/Gardens_Lab_I_1600x1200x500_V05.prefab",
+        "function": 0,
+        "Shard": 9
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 5.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Gardens_Lab_I_1600x1200x500",
+    "BoundingVolume": 960000.0
+  },
+  "name": "Gardens_Lab_I_1600x1200x500",
+  "internalEnabled": true,
+  "persistentID": 59
+}

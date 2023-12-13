@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "START GAME",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COMMENCER LA PARTIE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIA GIOCO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIEL STARTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIAR JUEGO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIAR JOGO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ROZPOCZNIJ GRĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始遊戲",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始游戏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.StartGameButton",
+  "internalEnabled": true,
+  "persistentID": 55
+}

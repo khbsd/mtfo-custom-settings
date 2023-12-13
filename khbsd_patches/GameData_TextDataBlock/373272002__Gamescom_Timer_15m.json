@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": " <color=orange>>> WARNING</color>\nBiomass approaching in <color=red><u>15 minutes</u></color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": " <color=orange>>> ALERTE</color>\nBiomasse en approche. Contact dans <color=red><u>15\u00A0minutes</u>.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": " <color=orange>>> ATTENZIONE</color>\nBiomassa in arrivo tra <color=red><u>15 minuti</u></color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": " <color=orange>>> WARNUNG</color>\nBiomasse nähert sich in <color=red><u>15\u00A0Minuten</u></color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": " <color=orange>>> ADVERTENCIA</color>\nBiomasa aproximándose en <color=red><u>15 minutos</u></color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": " <color=orange>>> ВНИМАНИЕ!</color>\nПриближение биосигнатур. До столкновения <color=red><u>15 минут</u></color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": " <color=orange>>> AVISO</color>\nBiomassa se aproximando em <color=red><u>15 minutos</u></color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": " <color=orange>>> OSTRZEŻENIE</color>\nKontakt z biomasą za <color=red><u>15 minut</u></color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": " <color=orange>>> 警告</color>\n生体反応の接近まであと<color=red><u>15分</u></color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": " <color=orange>>> 경고</color>\n<color=red><u>15분</u></color> 후 바이오매스 접근",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": " <color=orange>>> 警告</color>\n生物質將在<color=red><u>15分鐘</u></color>後接近",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": " <color=orange>>> 警告</color>\n生物质将在<color=red><u>15分钟</u></color>后接近",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "Gamescom_Timer_15m",
+  "internalEnabled": true,
+  "persistentID": 373272002
+}

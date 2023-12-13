@@ -1,0 +1,25 @@
+{
+  "ModelDataPerType": {
+    "Alpha": {
+      "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Targeting/Targeting_1.prefab",
+      "GearCategoryFilter": 0,
+      "AssetBundle": 120,
+      "BundleShard": 5
+    }
+  },
+  "GeneralDatas": [
+    {
+      "Type": 0,
+      "Data": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Targeting/Targeting_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 120,
+        "BundleShard": 5
+      }
+    }
+  ],
+  "Aligns": [],
+  "name": "Targeting_1",
+  "internalEnabled": true,
+  "persistentID": 1
+}

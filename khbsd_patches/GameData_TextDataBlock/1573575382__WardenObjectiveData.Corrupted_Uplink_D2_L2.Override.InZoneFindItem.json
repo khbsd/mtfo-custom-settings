@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enter <color=orange>ZONE 364</color> and execute command <color=orange>AIR_FILTRATION_STARTUP</color> in the terminal to purify infectious fog",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Entrez dans la <color=orange>ZONE\u00A0364</color> et exécutez la commande <color=orange>AIR_FILTRATION_STARTUP</color> dans le terminal pour purifier le brouillard toxique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Entrare nella <color=orange>ZONE 364</color> ed eseguire il comando <color=orange>AIR_FILTRATION_STARTUP</color> nel terminale per purificare la nebbia infettiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Betreten Sie <color=orange>ZONE 364</color> und führen Sie den Befehl <color=orange>AIR_FILTRATION_STARTUP</color> am Terminal aus, um den infektiösen Nebel zu beseitigen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entra en la <color=orange>ZONE 364</color> y ejecuta el comando <color=orange>AIR_FILTRATION_STARTUP</color> en la terminal para purificar la niebla infecciosa.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пройдите в <color=orange>ZONE 364</color> и запустите команду <color=orange>AIR_FILTRATION_STARTUP</color> на терминале, чтобы очистить патогенный дым.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entre na <color=orange>ZONE 364</color> e execute o comando <color=orange>AIR_FILTRATION_STARTUP</color> no terminal para purificar a névoa infecciosa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange>strefy 364 [ZONE_364]</color> i wprowadź w terminalu polecenie <color=orange>AIR_FILTRATION_STARTUP</color>, aby oczyścić zakaźną mgłę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 364</color>に進入し、端末で<color=orange>AIR_FILTRATION_STARTUP</color>コマンドを実行して感染性の霧を浄化しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 364</color>에 들어가 터미널에서 <color=orange>AIR_FILTRATION_STARTUP</color> 명령을 사용해 유독성 안개 제거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進入<color=orange>ZONE 364</color>並在終端執行<color=orange>AIR_FILTRATION_STARTUP</color>指令以淨化受感染煙霧",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入<color=orange>ZONE 364</color>并在终端上执行命令<color=orange>AIR_FILTRATION_STARTUP</color>以净化感染雾",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Corrupted_Uplink_D2_L2.Override.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 1573575382
+}

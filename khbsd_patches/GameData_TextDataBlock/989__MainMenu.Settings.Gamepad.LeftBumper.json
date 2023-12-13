@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Bumper",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gâchette arrière gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pulsante dorsale sinistro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linker Bumper",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón superior izquierdo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левый бампер",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Botão superior esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy bumper",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "LB",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 범퍼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "LB鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左缓冲键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.LeftBumper",
+  "internalEnabled": true,
+  "persistentID": 989
+}

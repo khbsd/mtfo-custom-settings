@@ -1,0 +1,17 @@
+{
+  "Type": 2,
+  "Difficulty": 1,
+  "SpawnPlacementType": 0,
+  "MaxScore": 4.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 3,
+      "Distribution": 5
+    }
+  ],
+  "name": "Detect Lurker Medium Bullrush Striker",
+  "internalEnabled": true,
+  "persistentID": 43
+}

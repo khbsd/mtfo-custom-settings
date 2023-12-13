@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sentry damage",
+  "Description": "The \"sentry damage\" refers to how much damage a sentry gun deals.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de tourelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da torretta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de centinela",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (турель)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano da sentinela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia działka wartowniczego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セントリーダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "센트리 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "自動砲台傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "哨戒炮伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunDamageName",
+  "internalEnabled": true,
+  "persistentID": 601
+}

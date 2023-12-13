@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The quality of screen-space reflections.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Détermine la qualité des reflets sur l'espace d'affichage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La qualità dei riflessi sullo schermo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Qualität der Reflexionen auf dem Bildschirm.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La calidad de los reflejos del espacio en pantalla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество отражения на поверхности объектов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade dos reflexos no espaço da tela.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość odbić w przestrzeni ekranu (screen-space reflections).",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "画面スペースの反射のクオリティ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "화면 공간 반사 품질입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "畫面空間反射品質。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "屏幕空间反射（SSR）的质量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.SSR",
+  "internalEnabled": true,
+  "persistentID": 3376983074
+}

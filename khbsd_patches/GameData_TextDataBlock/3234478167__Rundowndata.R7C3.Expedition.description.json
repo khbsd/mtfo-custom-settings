@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Further uplinks needed for stock-taking in biochemical storage facilities.\nRudimentary objective, reduced resource distribution.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Liaisons montantes supplémentaires nécessaires pour effectuer des retraits dans les dépôts biochimiques.\nObjectif rudimentaire, octroi de ressources réduit.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ulteriori uplink necessari per l'inventario degli impianti di stoccaggio biochimico.\nObiettivo rudimentale, distribuzione ridotta delle risorse.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Weitere Uplinks für die Bestandsaufnahme in biochemischen Lagern erforderlich.\nRudimentäres Ziel: reduzierte Ressourcenverteilung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se necesitan más uplinks para realizar el inventario de los almacenes de material biomédico.\nObjetivo rudimentario, distribución de recursos reducida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для инвентаризации биохимических хранилищ требуется установить новые подключения.\nПобочная цель, сокращенный объем ресурсов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "São necessários outros uplinks para pegar estoque nas instalações de armazenamento bioquímicas.\nObjetivo rudimentar; distribuição de recursos reduzida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagane ustanowień dalszych łącz do inwentaryzacji w magazynach biochemicznych\nCel podstawowy, ograniczona dystrybucja zasobów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生化学保存設備の棚卸には更なるアップリンクが必要。\n初級目標、資源分配減少",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "생화학 저장 시설 재고 조사를 위해 더 많은 업링크 필요.\n기본 목표. 자원 분배 감소.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要更多上行鏈路才能取得生化儲存設施的存貨。\n基本目標，資源分配減少。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要更多上行链路以在生化存储设施中进行盘点。\n基本目标，减少资源分布。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Rundowndata.R7C3.Expedition.description",
+  "internalEnabled": true,
+  "persistentID": 3234478167
+}

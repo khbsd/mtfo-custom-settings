@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to [KEYCARD_ZONE] and look for [KEYCARD_NAME]",
+  "Description": "Don't localize [KEYCARD_ZONE] and  [KEYCARD_NAME], they will be replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Allez à [KEYCARD_ZONE] et cherchez [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [KEYCARD_ZONE] e cercare [KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [KEYCARD_ZONE] und suchen Sie nach [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a [KEYCARD_ZONE] y busca [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в зону [KEYCARD_ZONE] и найдите: [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá até [KEYCARD_ZONE] e procure [KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do [KEYCARD_ZONE] i odnajdź [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[KEYCARD_ZONE] へ移動して [KEYCARD_NAME]を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[KEYCARD_ZONE](으)로 가서 [KEYCARD_NAME] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[KEYCARD_ZONE]並尋找[KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[KEYCARD_ZONE]寻找[KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.Keycard.OnQuery",
+  "internalEnabled": true,
+  "persistentID": 1341
+}

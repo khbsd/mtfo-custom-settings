@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sloppy Goppy Give Me The Droppy",
+  "Description": "As a client in a game lobby, you need to click a \"ready\" button to indicate that you are ready for the expedition/mission to start. This text is then shown underneath your character on the game host's screen, to indicate that you are ready.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "PRÊT AU LARGAGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRONTO PER LA DISCESA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BEREIT FÜR KÄFIG-ABWURF",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "LISTO PARA LA PLATAFORMA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГОТОВО!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRONTO PARA O ELEVADOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GOTOWOŚĆ DO ZRZUTU KLATKI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ケージ投下準備完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "케이지 드롭 준비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "準備降下投放籠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备好笼梯投放",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.ReadyForCageDrop",
+  "internalEnabled": true,
+  "persistentID": 466
+}

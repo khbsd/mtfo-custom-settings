@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sending connection request to {0}",
+  "Description": "{0} is the name of a terminal, like TERMINAL_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Envoi de la demande de connexion au {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Invio richiesta di connessione a {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbindungsanfrage an {0} wird gesendet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Enviando solicitud de conexión a {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправка запроса на подключение к терминалу {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enviando solicitação de conexão para {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wysyłanie żądania połączenia {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}に接続リクエストを送信中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}에 연결 요청 보내는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在傳送連線要求給{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在向{0}发送连接请求",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Sending_connection_request_to_X",
+  "internalEnabled": true,
+  "persistentID": 3492863045
+}

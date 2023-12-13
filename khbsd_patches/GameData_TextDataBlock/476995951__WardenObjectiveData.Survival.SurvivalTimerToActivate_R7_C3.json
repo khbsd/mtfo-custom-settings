@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Preparing Quadrant Lockdown, Alarm sounded. Time until security arrives:",
+  "Description": "Don't localize [sys_purge].",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Confinement du quadrant amorcé, alarme déclenchée. Arrivée de la sécurité prévue dans\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Preparazione blocco quadrante, allarme attivato. Tempo all'arrivo della sicurezza:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Abriegelung des Quadranten wird vorbereitet, Alarm wurde ausgelöst. Zeit bis zum Eintreffen des Sicherheitsdienstes:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Preparando cierre de emergencia del cuadrante. Alarma activada. Tiempo hasta llegada de seguridad:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовка изоляции сектора. Сработала сигнализация. До прибытия службы безопасности:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preparando confinamento de quadrante; alarme ressoado. Tempo até a segurança chegar:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przygotowywanie blokady kwadrantu, wszczęto alarm. Czas do przybycia ochrony:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隔離封鎖準備中、警報発令。警備兵到着までの時間：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사분면 폐쇄 준비 중, 경보 울림. 보안 도착까지 시간:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在準備象限封鎖，警報已響。距離保全到達還有：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在准备象限封锁，警报已响。距离安保到达还剩：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival.SurvivalTimerToActivate_R7_C3",
+  "internalEnabled": true,
+  "persistentID": 476995951
+}

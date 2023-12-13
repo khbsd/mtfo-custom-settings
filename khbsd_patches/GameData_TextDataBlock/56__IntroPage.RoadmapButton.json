@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ROADMAP",
+  "Description": "A button that leads to our public roadmap, which shows what game features we're working on for future updates to the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "FEUILLE DE ROUTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PIANO D'AZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ROADMAP",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MAPA DE RUTA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПЛАН РАЗРАБОТКИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RUMO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PLANY ROZWOJU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "今後のアップデート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로드맵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "路線圖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "路线图",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.RoadmapButton",
+  "internalEnabled": true,
+  "persistentID": 56
+}

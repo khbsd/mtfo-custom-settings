@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Key needed",
+  "Description": "I.e. \"you need a key to get past this door.\" A text that appears on screen when the player is standing close to a locked door that requires a key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clé requise",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiave necessaria",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schlüssel benötigt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llave necesaria",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужен ключ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chave necessária",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagany klucz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "鍵が必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "열쇠 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要鑰匙",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要钥匙",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.KeyNeeded",
+  "internalEnabled": true,
+  "persistentID": 870
+}

@@ -1,0 +1,41 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Weapons/Melee/SledgeHammer_a/SledgeHammer_c.prefab",
+    "GearCategoryFilter": 14,
+    "LeftHandGripAnim": "SledgeHammer_fp_arms",
+    "RightHandGripAnim": "SledgeHammer_fp_arms",
+    "AssetBundle": 20,
+    "BundleShard": 16
+  },
+  "Aligns": [
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Melee_3",
+  "internalEnabled": true,
+  "persistentID": 43
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] Partial Decoders and return the data to be processed.",
+  "Description": "Don't translate [COUNT_REQUIRED]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez [COUNT_REQUIRED] décodeurs partiels et rapportez les données pour traitement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] decodificatori parziali e consegnare i dati da elaborare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] Teildekoder und geben Sie die zu verarbeitenden Daten ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] descodificadores parciales y trae los datos para procesarlos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите неполные дешифраторы ([COUNT_REQUIRED]) и принесите данные для обработки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] decodificadores parciais e insira os dados para processamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz [COUNT_REQUIRED] szt. dekoderów parcjalnych i przekaż dane do przetwarzania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]個のパーシャルデコーダーを収集し、処理のためにデータを返還せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부분 해독기 [COUNT_REQUIRED]개를 수집해 처리할 데이터 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集幾個[COUNT_REQUIRED]局部解碼器，並交回資料進行處理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]个局部解码器并返回数据进行处理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Partial_Decoders_R1C2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 466919394
+}

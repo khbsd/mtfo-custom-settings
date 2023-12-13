@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Timed Verification subpairing {0} complete.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appairage de vérification chronométrée {0} terminé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbinamento verifica a tempo {0} completato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeitgesteuerten Verifizierungspaarung {0} abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Secuencia {0} de la verificación cronometrada completada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Попарная синхронизированная верификация {0} завершена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Subpareamento de verificação cronometrada {0} concluído.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} subparowanie weryfikacji czasowej ukończone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証サブペアリング{0}完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 승인 하위 페어링 {0} 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "限時驗證子配對{0}完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定时验证子配对{0}已完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_TimedVerification_X",
+  "internalEnabled": true,
+  "persistentID": 416179832
+}

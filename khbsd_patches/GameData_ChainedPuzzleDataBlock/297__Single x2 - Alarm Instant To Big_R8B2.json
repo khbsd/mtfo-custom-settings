@@ -1,0 +1,25 @@
+{
+  "PublicAlarmName": "Class II Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 322,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 12.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 45
+    },
+    {
+      "PuzzleType": 6
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single x2 - Alarm Instant To Big_R8B2",
+  "internalEnabled": true,
+  "persistentID": 297
+}

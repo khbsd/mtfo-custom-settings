@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deploy Sentry Gun",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployer une tourelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Piazza torretta automatica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Geschütz einsetzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar centinela",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите турель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enviar arma sentinela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozstaw działko wartownicze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セントリーガンを展開",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "센트리 건 배치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "部署自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "部署哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.PlaceSentry",
+  "internalEnabled": true,
+  "persistentID": 1815290311
+}

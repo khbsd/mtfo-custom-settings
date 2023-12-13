@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Northern Sami",
+  "Description": "A language spoken by indigenous people inhabiting the Sápmi region of Sweden, Norway and Finland.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sami du Nord",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sami del nord",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nord-Samisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sami del norte",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Северносаамский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sami do Norte",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Północnosaamski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "北部サーミ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "북 사미어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "北沙米文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "北萨米语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.NorthernSami",
+  "internalEnabled": true,
+  "persistentID": 403
+}

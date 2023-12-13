@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Error: No attribute named [{0}]",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Erreur\u00A0: Aucun attribut du nom de [{0}]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore: nessun parametro denominato [{0}]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fehler: Kein Attribut mit den Namen [{0}]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error: No se ha nombrado atributo [{0}].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка. Указанного параметра ({0}) не существует.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro: Nenhum atributo com nome [{0}]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd: brak atrybutu o nazwie [{0}]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー: [{0}]という名前の属性はありません",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류: [{0}] 특성 없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤：不存在名稱為[{0}]的屬性",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误：不存在名为[{0}]的属性",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.PingErrorNoAttribute_X",
+  "internalEnabled": true,
+  "persistentID": 3315727473
+}

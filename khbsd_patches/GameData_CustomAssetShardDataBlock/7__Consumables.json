@@ -1,0 +1,24 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item.prefab",
+      "Shard": 16
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Big_Pickup_Item.prefab",
+      "Shard": 16
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item_corpse.prefab",
+      "Shard": 16
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item_ground.prefab",
+      "Shard": 16
+    }
+  ],
+  "name": "Consumables",
+  "internalEnabled": true,
+  "persistentID": 7
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Player Ghost Opacity",
+  "Description": "Controls the opacity of the ghost effect that appears on other player characters (and bots) through walls.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Opacité du fantôme du joueur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Opacità fantasma giocatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spieler-Transparenz (Ghost-Effekt)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Opacidad de efecto fantasma",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прозрачность шлейфа игроков",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Opacidade de sombra dos outros",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przezroczystość efektu ducha graczy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーのゴーストの不透明度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플레이어 고스트 불투명도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "玩家幽靈不透明度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "玩家重影不透明度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PlayerGhostOpacity",
+  "internalEnabled": true,
+  "persistentID": 1430
+}

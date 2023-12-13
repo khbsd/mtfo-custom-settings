@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "fair",
+  "Description": "A summary of the player's medical status. I.e. \"Medical status: fair.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "bon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Discreto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ordentlich",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Óptimo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "удовлетворительное",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "razoável",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "umiarkowany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "良い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "양호",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尚可",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一般",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MedicalStatusFair",
+  "internalEnabled": true,
+  "persistentID": 907
+}

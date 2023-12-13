@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Alarm",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 0.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 10
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "SecurityScan_Bulkhead_Select_Layer_Main",
+  "internalEnabled": true,
+  "persistentID": 59
+}

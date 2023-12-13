@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Primary security access unavailable. Rerouting..  Secondary access granted to <color=orange>ZONE 173</color> ..\n",
+  "Description": "Don't localize [Zone 173]. It is replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Accès principal de sécurité indisponible. Réacheminement... Accès secondaire autorisé dans la <color=orange>Zone\u00A0173</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso sicurezza primario non disponibile. Deviazione. Accesso secondario concesso alla <color=orange>ZONE 173</color>...\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primärer Sicherheitszugang nicht verfügbar. Wird umgeleitet … Sekundärer Zugang zu <color=orange>ZONE 173</color>\u00A0gewährt\u00A0…\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso a seguridad principal no disponible. Redistribuyendo... Acceso secundario concedido en la <color=orange>ZONE 173</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В основном безопасном доступе отказано. Переадресация... Дополнительный доступ открыт в <color=orange>ZONE 173</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso de segurança primário indisponível..  Acesso secundário concedido para a <color=orange>ZONE 173</color> ..\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostęp główny niemożliwy. Przekierowywanie.. Przyznano dostęp pomocniczy w <color=orange>strefie 173 [ZONE_173]</color> ..\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プライマリセキュリティアクセス利用不可。リルート中..  <color=orange>ゾーン173</color> へのセカンダリアクセスを取得..\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 보안 접속 불가. 경로 변경 중... <color=orange>ZONE 173</color>에 보조 접근 허가 ..\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "一級安全存取無法使用。重設路線……授予<color=orange>ZONE 173</color>次級存取權限……\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一级安全访问权限不可用。正在重选路由……已开放二级访问权限至<color=orange>ZONE 173</color>……\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_DoorUnlock",
+  "internalEnabled": true,
+  "persistentID": 1057
+}

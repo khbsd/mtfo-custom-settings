@@ -1,0 +1,17 @@
+{
+  "Type": 0,
+  "Difficulty": 3,
+  "SpawnPlacementType": 1,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 9,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hibernate Miniboss Minibos Birther Align_0",
+  "internalEnabled": true,
+  "persistentID": 40
+}

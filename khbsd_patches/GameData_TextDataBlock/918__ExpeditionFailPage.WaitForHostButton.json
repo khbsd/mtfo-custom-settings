@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting for host to decide what's next...",
+  "Description": "A text that is shown for clients in the expedition failed/success screen, to indicate that it is up to the host to take action (return to lobby or restart from checkpoint).",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "En attente de la décision de l'hôte...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa che l'host decida il prossimo passo...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auf den Host warten, der entscheidet, was als Nächstes zu tun ist\u00A0...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando a que el anfitrión decida qué hacer...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидайте, пока организатор примет решение...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando o anfitrião decidir os próximos passos...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na decyzję hosta...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ホストの次の判断を待っています...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "호스트의 다음 결정을 기다리는 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待主機決定下一步……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待厅主做出决定……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionFailPage.WaitForHostButton",
+  "internalEnabled": true,
+  "persistentID": 918
+}

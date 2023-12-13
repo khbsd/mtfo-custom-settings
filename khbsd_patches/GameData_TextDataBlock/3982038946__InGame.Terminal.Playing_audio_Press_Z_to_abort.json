@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Playing audio.. Press 'Z' to abort",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Lecture du fichier audio. Appuyez sur 'Z' pour annuler.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riproduzione audio. Premere \"Z\" per interrompere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Audio wird abgespielt ... Zum Abbrechen „Z“ drücken.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reproduciendo audio... Pulsa Z para abortar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аудиофайл воспроизводится... Для отмены нажмите Z.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reproduzindo áudio.. Aperte 'Z' para suspender",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odtwarzanie dźwięku.. Naciśnij Z, aby przerwać",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "音声を再生中...'Z'で中断",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오디오 재생 중... 'Z'를 눌러 중단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在播放音訊……按「Z」中斷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在播放音频……按“Z”中断",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Playing_audio_Press_Z_to_abort",
+  "internalEnabled": true,
+  "persistentID": 3982038946
+}

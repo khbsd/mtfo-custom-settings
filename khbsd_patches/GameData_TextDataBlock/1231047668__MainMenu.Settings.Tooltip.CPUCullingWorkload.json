@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the granularity of CPU culling operations. A higher value improves GPU performance at the cost of CPU performance.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la granularité des opérations d'élimination du processeur. Une valeur élevée améliore les graphismes au détriment des performances du processeur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la granularità delle culling operations della CPU. Un valore più alto migliora le prestazioni della GPU a scapito di quelle della CPU.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Granularität der CPU-Culling-Operationen. Ein höherer Wert verbessert die GPU-Leistung auf Kosten der CPU-Leistung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la granularidad de las operaciones de selección de la CPU. Con un valor mayor, mejora el rendimiento de la unidad de procesamiento gráfico a costa del rendimiento de la CPU.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует параметры при переносе нагрузки на ЦП. Высокое значение повышает производительность графического процессора за счет производительности ЦП.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a granularidade das operações escolhidas da CPU. Um valor mais alto melhora o desempenho da GPU ao custo do desempenho da CPU.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za szczegółowość operacji cullingu CPU. Wyższa wartość poprawia wydajność karty graficznej kosztem wydajności CPU.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "CPUカリング動作の精度を決める。値を大きくすると、CPUパフォーマンスを犠牲にしてGPUパフォーマンスが向上する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "CPU 컬링 작업의 세분성을 제어합니다. 값이 높을수록 CPU 성능 대신 GPU 성능이 향상됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制CPU剔除操作的粒度。較高的值會以CPU效能為代價提高GPU效能。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制CPU剔除操作的粒度。此值较高时，会牺牲CPU性能来提高GPU性能。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.CPUCullingWorkload",
+  "internalEnabled": true,
+  "persistentID": 1231047668
+}

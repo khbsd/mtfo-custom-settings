@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Input following syntax to download genome database: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+  "Description": "Don't localize COPY_GEN_INDEX_COMPLETE_DB",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Entrez la commande suivante pour télécharger la base de données du génome\u00A0: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire seguente sintassi per scaricare database genoma: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Geben Sie den folgenden Befehl ein, um die Gendatenbank herunterzuladen: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el siguiente comando para descargar la base de datos del genoma: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите следующую команду, чтобы загрузить базу данных геномной информации: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a seguinte sintaxe para baixar o banco de dados de genomas: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź następującą składnię, aby pobrać bazę danych genomu: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次の構文を入力してゲノムデータベースをダウンロード： <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 구문을 입력해 게놈 데이터베이스 다운로드: <color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輸入以下語法下載基因組資料庫：<color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "输入以下语句下载基因组数据库：<color=orange>COPY_GEN_INDEX_COMPLETE_DB</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_3_DimensionTerminal",
+  "internalEnabled": true,
+  "persistentID": 1445
+}

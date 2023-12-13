@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ABORT MATCHMAKE",
+  "Description": "As in \"aborting the matchmaking process.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANNULER LA RECHERCHE DE MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ANNULLA ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE ABBRECHEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ABORTAR EMPAREJAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТМЕНА ПОДБОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SUSPENDER BUSCA-PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZERWIJ MATCHMAKING",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイクを中断",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치메이크 중단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中止配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中断匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.AbortMatchmake",
+  "internalEnabled": true,
+  "persistentID": 463
+}

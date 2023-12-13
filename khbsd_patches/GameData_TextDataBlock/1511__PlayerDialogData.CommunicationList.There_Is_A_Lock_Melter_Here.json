@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lock Melter here",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà un casse-verrou.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fondi-serratura qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Schlossschmelzer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta un fundecerraduras.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь расплавитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fundidor de fechadura aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Roztapiacz zamków, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにロックメルターがある",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 록멜터다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有熔鎖器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有熔锁器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.There_Is_A_Lock_Melter_Here",
+  "internalEnabled": true,
+  "persistentID": 1511
+}

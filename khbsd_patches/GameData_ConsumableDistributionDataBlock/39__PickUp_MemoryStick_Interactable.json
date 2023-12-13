@@ -1,0 +1,13 @@
+{
+  "SpawnsPerZone": 1,
+  "ChanceToSpawnInResourceContainer": 0.0,
+  "SpawnData": [
+    {
+      "ItemID": 172,
+      "Weight": 1000.0
+    }
+  ],
+  "name": "PickUp_MemoryStick_Interactable",
+  "internalEnabled": true,
+  "persistentID": 39
+}

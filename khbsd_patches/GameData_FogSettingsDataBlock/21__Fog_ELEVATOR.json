@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.8632076,
+    "g": 0.991971433,
+    "b": 1.0
+  },
+  "FogDensity": 0.0,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "DensityNoiseSpeed": 0.0,
+  "DensityNoiseScale": 0.131,
+  "DensityHeightAltitude": 0.0,
+  "DensityHeightRange": 0.0,
+  "DensityHeightMaxBoost": 0.0,
+  "Infection": 0.0,
+  "name": "Fog_ELEVATOR",
+  "internalEnabled": true,
+  "persistentID": 21
+}

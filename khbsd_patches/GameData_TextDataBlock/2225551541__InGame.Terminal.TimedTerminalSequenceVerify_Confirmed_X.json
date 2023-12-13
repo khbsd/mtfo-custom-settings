@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Confirmed timed verification from <color=orange>{0}</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vérification chronométrée confirmée depuis le <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica a tempo confermata da <color=orange>{0}</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeitgesteuerte Verifizierung von <color=orange>{0}</color> bestätigt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Verificación cronometrada del <color=orange>{0}</color> confirmada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Синхронизированная верификация подтверждена: <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Verificação cronometrada confirmada por <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdzono weryfikację czasową od <color=orange>{0}</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>{0}</color>からの同期認証を確認",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>{0}</color>의 시한 승인 확인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已確認<color=orange>{0}</color>的限時驗證",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已确认来自<color=orange>{0}</color>的定时验证",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_Confirmed_X",
+  "internalEnabled": true,
+  "persistentID": 2225551541
+}

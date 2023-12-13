@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": " <color=orange>>> WARNING</color>\n<color=red><u>Biomass approaching</u></color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": " <color=orange>>> ALERTE</color>\n<color=red><u>Biomasse en approche.</u></color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": " <color=orange>>> ATTENZIONE</color>\n<color=red><u>Biomassa in arrivo</u></color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": " <color=orange>>> WARNUNG</color>\n<color=red><u>Biomasse nähert sich</u></color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": " <color=orange>>> ADVERTENCIA</color>\n<color=red><u>Biomasa aproximándose</u></color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": " <color=orange>>> ВНИМАНИЕ!</color>\n<color=red><u>Приближение биосигнатур</u></color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": " <color=orange>>> AVISO</color>\n<color=red><u>Biomassa se aproximando</u></color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": " <color=orange>>> OSTRZEŻENIE</color>\n<color=red><u>Biomasa się zbliża</u></color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": " <color=orange>>> 警告</color>\n<color=red><u>生体反応接近中</u></color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": " <color=orange>>> 경고</color>\n<color=red><u>바이오매스 접근</u></color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": " <color=orange>>> 警告</color>\n<color=red><u>生物質正在接近</u></color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": " <color=orange>>> 警告</color>\n<color=red><u>生物质正在接近</u></color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Gamescom_Timer_0m",
+  "internalEnabled": true,
+  "persistentID": 3495259889
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Command Rejected: inject_user_privilege.exe, logging as potential threat",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Commande rejetée\u00A0: inject_user_privilege.exe, enregistré comme une menace potentielle.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando rifiutato: inject_user_privilege.exe, registrazione come potenziale minaccia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Befehl abgelehnt: inject_user_privilege.exe wird als potenzielle Bedrohung protokolliert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando rechazado: inject_user_privilege.exe, registrando como amenaza potencial.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Команда отклонена: inject_user_privilege.exe. Определена как потенциальная угроза.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comando rejeitado: inject_user_privilege.exe, acessando como possível ameaça",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Polecenie odrzucone: inject_user_privilege.exe, logowanie stanowi potencjalne zagrożenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コマンド拒否: inject_user_privilege.exe、潜在的脅威としてログ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명령 거부됨: inject_user_privilege.exe, 잠재적인 위협으로 기록",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "指令遭拒絕：inject_user_privilege.exe，正在記錄為潛在威脅",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "命令被拒绝：inject_user_privilege.exe，正在记录为潜在威胁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Command_Rejected",
+  "internalEnabled": true,
+  "persistentID": 3565451736
+}

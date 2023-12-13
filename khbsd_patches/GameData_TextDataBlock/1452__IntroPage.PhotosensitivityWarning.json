@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red><size=60>WARNING: READ BEFORE PLAYING\r</color></size>\n\nThis game contains flashing images, light patterns or other visual effects, which may cause epileptic symptoms, seizures, or other problems for a small percentage of players. Even people with no prior history of epileptic seizure might be affected.\r\n\n<color=red>IMMEDIATELY STOP PLAYING AND CONSULT A DOCTOR IF YOU EXPERIENCE ANY DISCOMFORT</color>",
+  "Description": "A warning message about photosensitivity. Shown at the start of the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red><size=60>AVERTISSEMENT\u00A0: À LIRE AVANT DE JOUER\r</color></size>\n\nCe jeu contient des images qui clignotent, des motifs lumineux ou d'autres effets visuels susceptibles de provoquer des symptômes épileptiques, des crises ou d'autres problèmes chez un faible pourcentage de joueurs. Même les personnes n'ayant aucun antécédent épileptique peuvent être affectées.\r\n\n<color=red>ARRÊTEZ IMMÉDIATEMENT DE JOUER ET CONSULTEZ UN MÉDECIN SI VOUS RESSENTEZ LA MOINDRE GÊNE.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red><size=60>ATTENZIONE: LEGGERE PRIMA DI GIOCARE\r</color></size>\n\nQuesto gioco contiene immagini lampeggianti, schemi luminosi o altri effetti visivi che possono causare sintomi epilettici, convulsioni o altri problemi a una piccola percentuale di giocatori. Anche le persone senza precedenti di crisi epilettiche potrebbero esserne colpite.\r\n\n<color=red>SE SI PROVA QUALSIASI MALESSERE, SMETTERE DI GIOCARE IMMEDIATAMENTE E CONSULTARE UN MEDICO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red><size=60>WARNUNG: VOR DEM SPIELEN LESEN\r</color></size>\n\nDieses Spiel verwendet blinkende Bilder, Lichtmuster oder andere visuelle Effekte, die bei einem kleinen Prozentsatz der Spieler epileptische Symptome, Krampfanfälle oder andere Probleme verursachen können. Auch Menschen, die noch nie einen epileptischen Anfall hatten, können davon betroffen sein.\r\n\n<color=red>HÖREN SIE SOFORT AUF ZU SPIELEN UND SUCHEN SIE EINEN ARZT AUF, WENN SIE BEGINNEN, SICH UNWOHL ZU FÜHLEN.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red><size=60>AVISO: LEER ANTES DE JUGAR\r</color></size>\n\nEl juego contiene imágenes con destellos, luces y otros efectos visuales que pueden provocar síntomas de epilepsia, convulsiones u otro tipo de problemas para un pequeño porcentaje de jugadores. Nota: incluso personas que jamás hayan sufrido ataques ni síntomas de epilepsia podrían verse afectadas.\r\n\n<color=red>DEJA DE JUGAR INMEDIATAMENTE SI EXPERIMENTAS ALGÚN TIPO DE INCOMODIDAD Y CONSULTA CON TU MÉDICO</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red><size=60>ПРЕДУПРЕЖДЕНИЕ. ПРОЧТИТЕ ПЕРЕД ИГРОЙ\r</color></size>\n\nВ игре присутствуют мигающие изображения, узоры и прочие визуальные эффекты, которые могут вызвать симптомы эпилепсии или припадки у небольшого процента пользователей. Изображения могут вызвать приступ даже у людей, ранее не страдавших эпилепсией.\r\n\n<color=red>В СЛУЧАЕ ВОЗНИКНОВЕНИЯ СИМПТОМОВ НЕМЕДЛЕННО ПРЕКРАТИТЕ ИГРАТЬ И ПРОКОНСУЛЬТИРУЙТЕСЬ С ВРАЧОМ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red><size=60>AVISO: LEIA ANTES DE JOGAR\r</color></size>\n\nEste jogo contém imagens piscantes, padrões de luzes e outros efeitos visuais que podem causam sintomas epilépticos, convulsões ou outros problemas para um pequeno percentual de jogadores. Até mesmo indivíduos sem qualquer histórico prévio de convulsões podem ser afetados.\r\n\n<color=red>PARE DE JOGAR IMEDIATAMENTE E CONSULTE UM MÉDICO SE VOCÊ SENTIR QUALQUER DESCONFORTO</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red><size=60>OSTRZEŻENIE: PRZECZYTAJ PRZED ROZPOCZĘCIEM GRY\r</color></size>\n\nGra zawiera migające obrazy, wzory świateł i inne efekty wizualne, które u niewielkiego odsetka graczy mogą wywoływać objawy epilepsji, napady padaczkowe oraz inne problemy. Sytuacja ta może mieć miejsce nawet u osób, u których wcześniej nie stwierdzono napadów padaczkowych.\r\n\n<color=red>W RAZIE UCZUCIA DYSKOMFORTU NALEŻY NATYCHMIAST PRZERWAĆ GRĘ</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red><size=60>警告：プレイする前にお読みください\r</color></size>\n\n本ゲームには、ごく一部のプレイヤーにてんかん症状や発作などの問題を引き起こす可能性のある点滅する画像や光のパターンなどの視覚効果が含まれています。過去にてんかん発作を起こしたことのない方でも影響を受けることがあります。\r\n\n<color=red>異常を感じた場合は、すぐにプレイをやめて医師の診察を受けてください</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red><size=60>경고: 게임 전 주의 사항\r</color></size>\n\n이 게임에 포함된 번쩍이는 이미지, 조명 패턴 등의 시각 효과는 일부 플레이어에게 뇌전증 증상, 발작 또는 기타 문제를 일으킬 수 있습니다. 이전에 뇌전증 발작 병력이 없는 사람들도 영향을 받을 수 있습니다.\r\n\n<color=red>불편함을 느끼면 즉시 게임을 중단하고 의사와 상담하십시오</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red><size=60>警告：玩遊戲前請先閱讀\r</color></size>\n\n本遊戲包含閃爍影像、光影或其他視覺效果，可能會導致一小部分玩家出現癲癇症狀、發作或其他問題。即使以前沒有癲癇發作史的人也可能受到影響。\r\n\n<color=red>如果感到任何不適，請立即停止遊戲並諮詢醫生</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red><size=60>警告：玩前须知\r</color></size>\n\n本游戏包含闪烁图像、光带或其他视觉效果，可能导致一小部分玩家产生癫痫症状、痉挛发作或其他问题。即使无癫痫痉挛史者也可能受到影响。\r\n\n<color=red>若有任何不适反应，请立即停止游戏并咨询医生</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.PhotosensitivityWarning",
+  "internalEnabled": true,
+  "persistentID": 1452
+}

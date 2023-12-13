@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BullpupRifle Damage",
+  "Description": "I.e. how much damage you can deal with a bullpup rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil bullpup",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. Bullpup",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BullpupGewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil bullpup",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (укороченная винтовка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil bullpup",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu typu bullpup",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルパップライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불펍 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "犢牛式步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无托步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BullpupRifleDamageName",
+  "internalEnabled": true,
+  "persistentID": 575
+}

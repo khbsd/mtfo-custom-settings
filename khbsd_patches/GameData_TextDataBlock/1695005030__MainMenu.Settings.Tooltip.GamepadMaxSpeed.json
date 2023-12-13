@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The maximum gamepad camera look speed",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la vitesse de caméra maximum avec la manette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità massima del controller per la vista",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die maximale Kamerageschwindigkeit des Gamepads.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La velocidad de visión de cámara máxima con el mando.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Максимальная скорость геймпада при перемещении камеры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A velocidade máxima de vista da câmera do gamepad.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Maksymalna szybkość kamery przy rozglądaniu się.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッドでのカメラの最大移動速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드의 최대 시선 속도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器鏡頭觀看速度上限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄镜头最快查看速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.GamepadMaxSpeed",
+  "internalEnabled": true,
+  "persistentID": 1695005030
+}

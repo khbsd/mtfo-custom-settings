@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enemy Distance",
+  "Description": "An abbreviated description of a condition, i.e. the subject can't be \"close to an enemy\" in order for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Distance de l'ennemi",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Distanza dal nemico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Distanz zum Feind",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Distancia del enemigo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вдали от врага",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Distância do inimigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odległość od przeciwnika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵との距離",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 거리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "敵人距離",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "敌人距离",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.IsFarAwayFromEnemyName",
+  "internalEnabled": true,
+  "persistentID": 683
+}

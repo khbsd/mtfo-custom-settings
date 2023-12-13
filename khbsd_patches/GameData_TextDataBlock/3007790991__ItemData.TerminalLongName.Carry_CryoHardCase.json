@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Cryogenic Case (Insulin-like growth factor I, protein)",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Caisson cryogénique (facteur de croissance de type insulinique I, protéine)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Contenitore criogenico (fattore di crescita 1 insulino-simile, proteina)",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kryobehälter (Insulinähnlicher Wachstumsfaktor I, Protein)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Contenedor criogénico (factor de crecimiento insulínico I, proteína)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Криогенный контейнер (инсулиноподобный стимулятор роста I, протеин)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Caixa criogênica (fator I de crescimento como insulina, proteína)",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pojemnik kriogeniczny (insulinopodobny czynnik wzrostu I, białko)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "低温貯蔵ケース（インスリン様成長因子I、タンパク質）",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "극저온 케이스(인슐린 유사 성장 인자 I, 단백질)",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "低溫箱（類胰島素生長因子，蛋白質）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冷冻盒（胰岛素样生长因子I、蛋白质）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Carry_CryoHardCase",
+  "internalEnabled": true,
+  "persistentID": 3007790991
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I use voice",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "J'utilise le chat vocal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Uso la voce",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich nutze ein Mikrofon",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uso el chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я использую голосовой чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uso voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Używam głosu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성을 사용합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我使用語音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "本人使用语音",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.IUseVoice",
+  "internalEnabled": true,
+  "persistentID": 261
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The prisoner is carrying a heavy item",
+  "Description": "A description of a condition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le prisonnier porte un objet lourd.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il prigioniero sta trasportando un oggetto pesante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Der Gefangene trägt einen schweren Gegenstand",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El prisionero lleva encima un objeto pesado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенный должен нести тяжелый предмет.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O prisioneiro está carregando um item pesado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca trzyma ciężki przedmiot.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人は重いアイテムを運搬している",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자가 무거운 아이템을 운반합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯攜帶重型物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯正携带着重型物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingCarryItemDescription",
+  "internalEnabled": true,
+  "persistentID": 700
+}

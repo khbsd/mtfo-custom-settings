@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Choose the next sector to unlock by entering the corresponding security scan.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Choisissez le secteur suivant à déverrouiller en entrant l'analyse de sécurité correspondante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scegliere il settore successivo da sbloccare entrando nella relativa scansione di sicurezza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wählen Sie den nächsten Sektor, den Sie entriegeln möchten, indem Sie den entsprechenden Sicherheitsscan eingeben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escoge el siguiente sector que desbloquear introduciendo el escaneo de seguridad correspondiente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы разблокировать следующий сектор, запустите соответствующую проверку безопасности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escolha o próximo setor para desbloquear ao entrar no escaneamento de segurança correspondente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybierz kolejny sektor do odblokowania, przechodząc przez skanowanie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次にアンロックするセクターを選び、対応するセキュリティスキャンに入れ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해당하는 보안 스캔 장소에 들어가 개방할 다음 섹터를 선택하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輸入相應的安全掃描以選擇下一個要解鎖的分區。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入相应安全扫描以选择下一个要解锁的分区。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "ProgressionPuzzle.BulkheadKey.OnChoosePath",
+  "internalEnabled": true,
+  "persistentID": 1363
+}

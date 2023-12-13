@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "::Gather [COUNT_REQUIRED] Per#a654sonnel IDs and retu____rn the data to be proc54+essed.",
+  "Description": "Don't translate [COUNT_REQUIRED]\n\nThe sentence is supposed to be \"broken\" in the way it's written, kind of like it's been hacked. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "::Trouvez [COUNT_REQUIRED] ID de per#a654sonnel et rame___nez les données pour le tra54+îtement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "::Raccogliere [COUNT_REQUIRED] ID del per#a654sonale e recu____rare i dati da elab54+re.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "::Sammeln Sie [COUNT_REQUIRED] Per#a654sonal-IDs und überm____itteln Sie die Daten zur Verar54+beitung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "::Consigue [COUNT_REQUIRED] ID de per#a654sonal y recupe____ra los datos para que se proce54+sen.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "::Найдите [COUNT_REQUIRED] идентифика#a654 сотрудников и верни____те данные для 06ра+60тки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "::Colete [COUNT_REQUIRED] IDs de Pes#a654soal e tra____ga os dados para proc54+essamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "::Znajdź [COUNT_REQUIRED] identyfikatory pr#a654swnicze i przek____aż dane w celu prze54+tworzenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ":: [COUNT_REQUIRED]枚の個654人IDを収集し、処54+理のためデータを返____却しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "::개#a654인 ID [COUNT_REQUIRED]개를 수집하여 처54+리를 위해 데이터를 반____환할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "::收集[COUNT_REQUIRED]個人#a654員ID並帶____回資料進行處54+理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "::收集[COUNT_REQUIRED]个人#a654员ID并返____回数据进行处54+理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_7_With_Trickle.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 4210321074
+}

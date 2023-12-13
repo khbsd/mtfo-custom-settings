@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Makes the in game map always center on the player.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Centre la carte sur le joueur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fa sì che la mappa di gioco sia sempre centrata sul giocatore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sorgt dafür, dass die Karte im Spiel immer auf den Spieler zentriert ist.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra el mapa del juego siempre en el centro.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Всегда располагает игрока по центру игровой карты.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Posiciona o mapa do jogo sempre no centro.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mapa gry jest zawsze wyśrodkowana na graczu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲーム内マップを常にプレイヤーを中心にして表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 맵을 항상 플레이어 중앙에 배치합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使遊戲內地圖隨時以玩家為中心。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "让游戏内地图始终以玩家为中心。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.AutoCenterMapOnPlayer",
+  "internalEnabled": true,
+  "persistentID": 3451843669
+}

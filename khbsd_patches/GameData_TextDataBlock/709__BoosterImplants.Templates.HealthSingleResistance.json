@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PROTEC",
+  "Description": "The name of a category of boosters that affect the subject's resistance against different types of attacks.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROTECTION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PROTEZ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHUTZ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PROTECCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАЩИТА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PROTEÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCHRONA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プロテック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보호",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "保護",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "保护",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.HealthSingleResistance",
+  "internalEnabled": true,
+  "persistentID": 709
+}

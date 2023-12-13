@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stand On Jump",
+  "Description": "A game option that makes it so that if you press \"jump\" when crouching, the player character will stand up. If this option is disabled, the player character will remain crouched even if you press \"jump\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Se relever en cas de saut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rialzati con salto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aufstehen beim Springen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Levantarse al saltar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставать при прыжке",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Levantar-se ao saltar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stanie po skoku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ジャンプでしゃがみ解除",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점프 시 일어서기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按跳躍站起",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跳跃时站起",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.StandOnJump",
+  "internalEnabled": true,
+  "persistentID": 80
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Off",
+  "Description": "Refers to a graphic setting, such as \"motion blur\", being disabled.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откл.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wył.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オフ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Off",
+  "internalEnabled": true,
+  "persistentID": 182
+}

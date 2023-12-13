@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the location of [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Obtenez plus d'information sur l'emplacement du [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazione di [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über den Standort von [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila información sobre la ubicación del objeto [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении предмета ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre a localização de [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL]の場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL] 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集關於[ITEM_SERIAL]地點的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于[ITEM_SERIAL]位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.Location_R7C3_L2",
+  "internalEnabled": true,
+  "persistentID": 3434506585
+}

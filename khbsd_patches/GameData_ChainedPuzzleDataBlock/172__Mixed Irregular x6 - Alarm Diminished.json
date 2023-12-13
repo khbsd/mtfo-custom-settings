@@ -1,0 +1,37 @@
+{
+  "PublicAlarmName": "Class M VI Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 166,
+  "SurvivalWavePopulation": 42,
+  "SurvivalWaveAreaDistance": 1,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 9
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Irregular x6 - Alarm Diminished",
+  "internalEnabled": true,
+  "persistentID": 172
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Admission clearence authorized",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Autorisation d'habilitation accordée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ottenuta autorizzazione ammissione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugriffsfreigabe genehmigt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Admisión de autorización aceptada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверка на допуск пройдена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberação de entrada autorizada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostęp autoryzowany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "入場が許可された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "입장 허가 승인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已授權入內許可",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准入许可已授权",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.DoorUnlockedAfterScan_Header",
+  "internalEnabled": true,
+  "persistentID": 1528454072
+}

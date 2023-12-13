@@ -1,0 +1,36 @@
+{
+  "PerkSpecials": [],
+  "ModFirerate": {
+    "Active": true,
+    "Min": 1.0,
+    "Max": 1.05,
+    "Cost": 0.0
+  },
+  "ModDamage": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModReloadTime": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModRange": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModHandling": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "name": "FirerateBoost_v2_I",
+  "internalEnabled": true,
+  "persistentID": 6
+}

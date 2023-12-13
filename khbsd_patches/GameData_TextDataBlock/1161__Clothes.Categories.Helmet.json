@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Helmet",
+  "Description": "The type of cloth to select",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Casque",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Casco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Helm",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Casco",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Шлем",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Capacete",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hełm",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘルメット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "헬멧",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "頭盔",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "头盔",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Clothes.Categories.Helmet",
+  "internalEnabled": true,
+  "persistentID": 1161
+}

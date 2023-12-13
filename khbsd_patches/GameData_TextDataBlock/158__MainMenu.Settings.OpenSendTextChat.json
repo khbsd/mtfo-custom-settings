@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Open/Send Text Chat",
+  "Description": "Control key binding/mapping. This key is used to open the text chat in the HUD (in order to write messages) and then sending messages.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvrir/envoyer un message texte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apri/Invia chat testuale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Textchat öffnen/senden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abrir/Enviar chat de texto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открыть чат/отправить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrir/enviar chat de texto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwórz czat tekstowy / wyślij wiadomość",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "テキストチャットを開く/送る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "채팅 열기/보내기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開啟/傳送文字聊天",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "打开/发送文字聊天",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.OpenSendTextChat",
+  "internalEnabled": true,
+  "persistentID": 158
+}

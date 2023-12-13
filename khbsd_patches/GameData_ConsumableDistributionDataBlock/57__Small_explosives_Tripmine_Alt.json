@@ -1,0 +1,17 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 115,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 139,
+      "Weight": 3.0
+    }
+  ],
+  "name": "Small_explosives_Tripmine_Alt",
+  "internalEnabled": true,
+  "persistentID": 57
+}

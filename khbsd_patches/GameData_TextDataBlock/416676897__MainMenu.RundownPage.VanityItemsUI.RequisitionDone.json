@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "APPAREL REQUISITION COMPLETED",
+  "Description": "Players have completed all vanity item unlocks",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉQUISITION DE VÊTEMENTS TERMINÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "REQUISIZIONE ABBIGLIAMENTO COMPLETATA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KLEIDUNGSREQUISITION ABGESCHLOSSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENTREGA DE ARTÍCULOS COMPLETADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОЛУЧЕНИЕ ЭКИПИРОВКИ ЗАВЕРШЕНО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REQUISIÇÃO DE TRAJE CONCLUÍDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "REKWIZYCJA UBIORU DOKONANA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "外装要求完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "의복 조건 완료됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已完成徵用所有服裝",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "服装征用已完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.RequisitionDone",
+  "internalEnabled": true,
+  "persistentID": 416676897
+}

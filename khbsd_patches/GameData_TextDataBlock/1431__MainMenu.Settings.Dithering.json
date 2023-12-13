@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Dithering",
+  "Description": "A game setting that controls if noise should be added to the final screen image to counteract color banding.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Faux dégradé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dithering",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fehlerdiffusion",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tramado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дизеринг",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pontilhamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dithering",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ディザリング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "디더링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遞色",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "递色",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Dithering",
+  "internalEnabled": true,
+  "persistentID": 1431
+}

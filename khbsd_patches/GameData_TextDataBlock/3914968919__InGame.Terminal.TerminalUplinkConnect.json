@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ESTABLISH AN EXTERNAL UPLINK CONNECTION",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ÉTABLIR UNE CONNEXION DE LIAISON MONTANTE EXTERNE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "STABILIRE UNA CONNESSIONE UPLINK ESTERNA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXTERNE UPLINK-VERBINDUNG HERSTELLEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESTABLECE UNA CONEXIÓN DE UPLINK EXTERNA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСТАНОВИТЕ ВНЕШНЕЕ ПОДКЛЮЧЕНИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESTABELEÇA UMA CONEXÃO DE UPLINK EXTERNA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "USTANÓW POŁĄCZENIE ŁĄCZEM ZEWNĘTRZNYM",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "外部アップリンク接続を確立",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "외부 업링크 연결 설정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "建立外部上行鏈路連線",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "建立外部上行链路连接",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.TerminalUplinkConnect",
+  "internalEnabled": true,
+  "persistentID": 3914968919
+}

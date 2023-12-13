@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "A target framerate the game will attempt to stay under. Note that this is not a guarantee, and if Vertical Sync is enabled, this setting will do nothing.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la fréquence d'IPS du jeu. Notez que le résultat dépend de votre configuration et que, si vous activez la synchronisation verticale, ce paramètre n'aura aucun effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un framerate obiettivo sotto al quale il gioco tenterà di rimanere. Questa non è una garanzia e, se il V-Synch è abilitato, questa impostazione non ha alcun effetto.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das FPS-Limit, die das Spiel versucht, nicht zu überschreiten. Dies ist keine Garantie. Wenn Vertical Sync aktiviert ist, ist diese Einstellung wirkungslos.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El framerate en el que intentará mantenerse el juego. Recuerda que esto no se puede garantizar. Si la sincronización vertical está activada, esta configuración no servirá de nada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Частота кадров, которую система не будет превышать. Действие настройки не гарантируется. Если включена вертикальная синхронизация, настройка не будет иметь никакого эффекта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uma taxa de quadros desejada que o jogo tentará manter. Observe que isso não é uma garantia, e se a sincronização vertical estiver ativada, esta configuração não fará muita coisa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Docelowa liczba klatek na sekundę, w której gra będzie próbowała się mieścić. Uwaga: nie jest to wartość gwarantowana, a włączenie synchronizacji pionowej spowoduje wyłączenie tego ustawienia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームが目標として維持しようとするフレームレート。これは保証値ではなく、またVSYNCが有効な場合、この設定は効果がないことに注意してください。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임의 최대 프레임 속도입니다. 이 속도가 항상 보장되지는 않으며, 수직 동기화가 켜져 있으면 이 설정은 효과가 없습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遊戲將嘗試維持的目標畫面播放速率。請注意，這不是保證，如果啟用垂直同步，則此設定將沒有作用。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "游戏尝试维持的目标帧率。请注意，此设置不能保证最终结果，而且如果开启了垂直同步，此设置将不起作用。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.TargetFramerate",
+  "internalEnabled": true,
+  "persistentID": 753795311
+}

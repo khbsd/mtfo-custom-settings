@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Coordinates traced to approximate position. Prisoners dispatched to collect (3) Data Cubes. Irregular energy levels detected in related sector.  ",
+  "Description": "Don't localize Data Cubes.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Coordonnées vers la position approximative établies. Les prisonniers ont été envoyés pour récupérer (3) cubes de données [DATA_CUBE]. Niveaux d'énergie instables détectés dans le secteur concerné.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Coordinate tracciate fino a posizione approssimativa. Prigionieri inviati a raccogliere (3) cubi di dati [DATA_CUBE]. Rilevati livelli di energia irregolari nel relativo settore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Koordinaten zur ungefähren Position verfolgt. Gefangene entsandt, um (3) Datenwürfel [DATA_CUBE] zu finden. Abweichende Energiewerte im betreffenden Sektor festgestellt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Coordenadas rastreadas hasta ubicación aproximada. Prisioneros enviados en busca de (3) cubos de datos [DATA_CUBE]. Niveles de energía irregulares detectados en el sector correspondiente.  ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Получены координаты предположительного местоположения. Заключенным поручено извлечь (3) куба данных [DATA_CUBE]. В соответствующем секторе обнаружены отклонения в показателях энергии.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coordenadas traçadas até a posição aproximada. Prisioneiros despachados para coletar 3 cubos de dados [DATA_CUBE]. Níveis de energia irregulares detectados no setor relacionado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Współrzędne prześledzono do przybliżonej pozycji. Wysłano więźniów w celu zdobycia (3) kostek danych [DATA_CUBE]. W powiązanym sektorze wykryto odchylenia w odczytach energii.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "推測位置まで座標を追跡した。データキューブ[Data Cube]3個を回収するため囚人を派遣した。関連セクターで異常なエネルギーレベルを検知。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대략적인 위치로 좌표 추적됨. 데이터 큐브 [Data_Cube] (3)개 확보를 위해 수감자들 투입. 관련 섹터에서 불규칙한 에너지 레벨 감지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "座標追蹤到大約位置。派遣囚犯前往收集(3)個資料方塊[DATA_CUBE]。相關分區中偵測到異常能量水平。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "坐标追溯到大致位置。囚犯派去收集(3)个数据立方[DATA_CUBE]。相关分区中检测到异常能量水平。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_3_1.Description",
+  "internalEnabled": true,
+  "persistentID": 1547
+}

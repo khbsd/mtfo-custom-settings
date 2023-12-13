@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the intensity of camera shake effects.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle l’intensité des effets de tremblement de la caméra.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla l'intensità degli effetti di vibrazione della telecamera.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Intensität der Verwacklungseffekte.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la intensidad de las sacudidas de la cámara.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Управляет интенсивностью эффекта дрожания камеры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a intensidade dos efeitos de movimento da câmera.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za siłę drgań kamery",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カメラのシェイク効果の感度をコントロールする。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카메라 흔들림 효과의 강도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制鏡頭搖晃效果的強弱。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制镜头抖动效果的强度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.CameraShakeAmount",
+  "internalEnabled": true,
+  "persistentID": 2975496473
+}

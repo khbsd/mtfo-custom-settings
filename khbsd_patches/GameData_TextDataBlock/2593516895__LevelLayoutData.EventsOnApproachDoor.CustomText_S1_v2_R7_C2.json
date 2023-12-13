@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in [ZONE_4] and initialize ventilation sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal de la [ZONE_4] et initialisez la séquence de ventilation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale in [ZONE_4] e inizializzare sequenza ventilazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in [ZONE_4] und initialisieren Sie die Belüftungssequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localizar terminal en la [ZONE_4] e inicializar secuencia de ventilación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в [ZONE_4] и запустите цикл вентиляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize o terminal na [ZONE_4] e inicie a sequência de ventilação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w strefie 4 [ZONE_4] i uruchom sekwencję wentylacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_4]で端末を見つけて換気シークエンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_4]에서 터미널을 찾고 환기 절차 실행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位[ZONE_4]的終端並將通風序列初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位[ZONE_4]中的终端并初始化通风序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S1_v2_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 2593516895
+}

@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Scan",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 46
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "single x1 R8E1 Narrative lock",
+  "internalEnabled": true,
+  "persistentID": 247
+}

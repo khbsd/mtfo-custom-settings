@@ -1,0 +1,48 @@
+{
+  "Deprecated": false,
+  "PublicName": 708,
+  "Description": 0,
+  "DurationRange": {
+    "x": 2.0,
+    "y": 3.0,
+    "normalized": {
+      "x": 0.5547002,
+      "y": 0.8320503,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.60555124,
+    "sqrMagnitude": 13.0
+  },
+  "DropWeight": 2.0,
+  "Conditions": [],
+  "RandomConditions": [
+    5
+  ],
+  "Effects": [
+    {
+      "BoosterImplantEffect": 6,
+      "MinValue": 2.2,
+      "MaxValue": 2.5
+    }
+  ],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 41,
+        "MinValue": 0.9,
+        "MaxValue": 0.95
+      },
+      {
+        "BoosterImplantEffect": 34,
+        "MinValue": 0.85,
+        "MaxValue": 0.95
+      }
+    ]
+  ],
+  "ImplantCategory": 2,
+  "MainEffectType": 2,
+  "name": "Aggressive_Health_RegenSpeed",
+  "internalEnabled": true,
+  "persistentID": 40
+}

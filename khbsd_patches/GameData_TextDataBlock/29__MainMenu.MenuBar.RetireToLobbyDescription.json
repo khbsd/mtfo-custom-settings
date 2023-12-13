@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Retire this expedition and return ALL prisoners to the lobby\n\n<size=90%>All collected artifacts will be accounted for.</size>",
+  "Description": "\"Expedition\" is GTFO's word for \"mission\" or \"map\". \"Prisoner\" is GTFO's word for \"player\", because the player characters are prisoners.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Met fin à cette expédition et renvoie TOUS les prisonniers dans le salon.\n\n<size=90%>Tous les artefacts obtenus seront comptabilisés.</size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Annulla questa spedizione e riporta TUTTI i prigionieri alla lobby\n\n<size=90%>Tutti i manufatti raccolti saranno conteggiati.</size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Diese Expedition aufgeben und ALLE Gefangenen zur Lobby zurückschicken.\n\n<size=90%>Alle gesammelten Artefakte werden berücksichtigt.</size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Retírate de la expedición y devuelve a la sala a TODOS los prisioneros\n\n<size=90%>Conseguirás todos los artefactos reunidos.</size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вы завершите экспедицию. Все заключенные окажутся в лобби.\n\n<size=90%>Все собранные артефакты сохранятся.</size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Retire-se desta expedição e devolva TODOS os prisioneiros ao lobby\n\n<size=90%>Todos os artefatos coletados serão contabilizados.</size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wycofaj ekspedycję i przenieś WSZYSTKICH więźniów do lobby\n\n<size=90%>Wszystkie zebrane artefakty zostaną rozliczone.</size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このエクスペディションを中止して全ての囚人をロビーに戻します\n\n<size=90%>収集したアーティファクトは全て保有されます。</size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 탐사에서 후퇴하고 모든 수감자를 로비로 돌려보냅니다\n\n<size=90%>수집한 아티팩트는 모두 반영됩니다.</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出這次遠征並將「所有」囚犯送回大廳\n\n<size=90%>將會清點所有收集的寶物。</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出此任务并送所有囚犯回大厅\n\n<size=90%>将计入收集的所有红晶。</size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.RetireToLobbyDescription",
+  "internalEnabled": true,
+  "persistentID": 29
+}

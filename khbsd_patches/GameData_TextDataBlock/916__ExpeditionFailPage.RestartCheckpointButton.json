@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Restart from latest checkpoint",
+  "Description": "A button in the expedition failed screen, that restarts (loads) the game at the latest checkpoint.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Redémarrer depuis le dernier point de contrôle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricomincia dall'ultimo checkpoint",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neustart vom letzten Checkpoint.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciar desde el último punto de control",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начать с последнего чекпойнта",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reiniciar no último ponto de controle",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wznów od ostatniego punktu kontrolnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "最後のチェックポイントから再開",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마지막 체크포인트에서 다시 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從最近的重生點重新開始",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从最近的重生点重新开始",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionFailPage.RestartCheckpointButton",
+  "internalEnabled": true,
+  "persistentID": 916
+}

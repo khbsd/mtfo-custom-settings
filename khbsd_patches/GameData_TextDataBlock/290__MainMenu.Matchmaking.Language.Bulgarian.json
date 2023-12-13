@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bulgarian",
+  "Description": "A language spoken mainly in Bulgaria.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bulgare",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bulgaro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bulgarisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Búlgaro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Болгарский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Búlgaro",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bułgarski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルガリア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불가리아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "保加利亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "保加利亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Bulgarian",
+  "internalEnabled": true,
+  "persistentID": 290
+}

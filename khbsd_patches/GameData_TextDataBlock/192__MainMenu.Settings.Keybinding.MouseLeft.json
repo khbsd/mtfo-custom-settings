@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Left",
+  "Description": "The left mouse button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clic gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tasto sinistro mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus links",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón izquierdo del ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая кнопка мыши",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esquerdo do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy przycisk myszy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス左ボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 왼쪽 버튼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠左鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标左键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.MouseLeft",
+  "internalEnabled": true,
+  "persistentID": 192
+}

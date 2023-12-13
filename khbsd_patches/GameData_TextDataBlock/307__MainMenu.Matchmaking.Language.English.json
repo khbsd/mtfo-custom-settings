@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "English",
+  "Description": "A language spoken in the UK, the US, Australia and many other countries and regions.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Anglais",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inglese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Englisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inglés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Английский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inglês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Angielski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "英語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "영어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "英文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "英语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.English",
+  "internalEnabled": true,
+  "persistentID": 307
+}

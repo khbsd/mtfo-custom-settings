@@ -1,0 +1,49 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "IntensityMul": 0.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.622,
+        "g": 0.09885964,
+        "b": 0.07921698
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.254717,
+        "g": 0.188209713,
+        "b": 0.164604843
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Pitch_black_1",
+  "internalEnabled": true,
+  "persistentID": 23
+}

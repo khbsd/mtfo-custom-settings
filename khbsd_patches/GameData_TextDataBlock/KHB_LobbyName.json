@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SLOPPY",
+  "Description": "As in \"multiplayer lobby\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SALON",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "LOBBY",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LOBBY",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SALA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЛОББИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "LOBBY",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "LOBBY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.LobbyButton",
+  "internalEnabled": true,
+  "persistentID": 24
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make sure the Reactor is fully started before leaving",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Assurez-vous que le réacteur est en ligne avant de partir.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verificare l'avvio completo del reattore prima di partire.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellen Sie sicher, dass der Reaktor vollständig hochgefahren ist, bevor Sie gehen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Asegúrate de que el reactor está completamente arrancado antes de salir.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перед уходом убедитесь, что реактор запущен.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Garanta que o reator esteja totalmente iniciado antes de ir embora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przed wyruszeniem upewnij się, że reaktor jest w pełni uruchomiony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "離れる前にリアクターが完全に始動したか確かめろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "떠나기 전에 반응로를 완전히 가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確認反應器完全啟動後再離開",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "离开前确保反应堆完全启动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_10_HARD_R2D2.SubObjective_SolveItem",
+  "internalEnabled": true,
+  "persistentID": 838760391
+}

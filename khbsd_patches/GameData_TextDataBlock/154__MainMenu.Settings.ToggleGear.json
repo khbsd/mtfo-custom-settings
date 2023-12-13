@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle Gear",
+  "Description": "Control key binding/mapping. This key cycles through the player's inventory - each key press switches to the next piece of gear, like so: Melee weapon > primary weapon > special weapon > tool > resource pack > consumable > melee weapon",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Faire défiler l'équipement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scorri equipaggiamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ausrüstung wechseln",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar equipo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сменить предмет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alternar equipamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przełącz wyposażenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ギア切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "장비 전환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換裝備",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换装备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ToggleGear",
+  "internalEnabled": true,
+  "persistentID": 154
+}

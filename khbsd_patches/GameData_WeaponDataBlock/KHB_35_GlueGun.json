@@ -1,0 +1,130 @@
+{
+  "muzzleFlashFPS": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_FPS",
+  "muzzleFlash3RD": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_3RD",
+  "muzzleFlashFPSSpecial": "Effects/Weapon/MuzzleFlash/Submachine_MuzzleFlash_Gaus_FPS",
+  "muzzleFlash3RDSpecial": "Effects/Weapon/MuzzleFlash/Submachine_MuzzleFlash_Gaus_3RD",
+  "muzzleFeedback": "wpn_submachine_muzzle",
+  "shellType": 1,
+  "shellEjectFeedback": "wpn_submachine_shell",
+  "clipSize": 3,
+  "hasRotatingCylinder": false,
+  "reloadDuration": 1.0,
+  "EffectiveDamagePerSecond": "",
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -2.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.0,
+    "sqrMagnitude": 4.0
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "recoilPosShiftWeight": 0.001,
+  "recoilPosStiffness": 150.0,
+  "recoilPosDamping": 15.0,
+  "recoilPosImpulseWeight": 0.5,
+  "recoilCameraPosWeight": 0.002,
+  "recoilRotImpulse": {
+    "x": -80.0,
+    "y": 0.0,
+    "z": -10.0,
+    "normalized": {
+      "x": -0.9922779,
+      "y": 0.0,
+      "z": -0.12403474,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 80.6225739,
+    "sqrMagnitude": 6500.0
+  },
+  "recoilRotStiffness": 50.0,
+  "recoilRotDamping": 8.0,
+  "recoilRotImpulseWeight": 0.1,
+  "recoilCameraRotWeight": 0.1,
+  "recoilAimingWeight": 0.2,
+  "eventOnSemiFire2D": [
+    "SMGBBodySemiE2D, SMGBBodySemiD2D, SMGBBodySemiF2D",
+    "SMGBMechSemiE2D, SMGBMechSemiF2D, SMGBMechSemiD2D",
+    "SMGBNoiseSemiF2D, SMGBNoiseSemiD2D, SMGBNoiseSemiE2D",
+    "SMGBWetSemi2D"
+  ],
+  "eventOnBurstFire2D": [
+    "SMGBBodyBurstD2D, SMGBBodyBurstF2D, SMGBBodyBurstE2D",
+    "SMGBMechBurstF2D, SMGBMechBurstD2D, SMGBMechBurstE2D",
+    "SMGBNoiseBurstF2D, SMGBNoiseBurstD2D, SMGBNoiseBurstE2D",
+    "SMGBWetBurst2D"
+  ],
+  "eventOnAutoFireStart2D": [
+    "SMGBBodyD2D, SMGBBodyE2D, SMGBBodyF2D",
+    "SMGBMechD2D, SMGBMechF2D, SMGBMechE2D ",
+    "SMGBNoiseD2D, SMGBNoiseE2D, SMGBNoiseF2D ",
+    "SMGBWet2D "
+  ],
+  "eventOnAutoFireEnd2D": [
+    "SMGBEnd2D"
+  ],
+  "eventOnSpecialSemiFire2D": [],
+  "eventOnSpecialBurstFire2D": [],
+  "eventOnSpecialAutoFireStart2D": [],
+  "eventOnSpecialAutoFireEnd2D": [],
+  "eventOnSpecialChargeup2D": [
+    "WeaponChargeUpAlt3"
+  ],
+  "eventOnSpecialCooldown2D": [
+    "GaussPistolCooldown"
+  ],
+  "eventOnSpecialChargeupEnd2D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd2D": "WeaponCooldownEnd",
+  "eventOnSemiFire3D": [
+    "SMGBBodySemiE3D, SMGBBodySemiD3D, SMGBBodySemiF3D",
+    "SMGBMechSemiD3D, SMGBMechSemiF3D, SMGBMechSemiE3D",
+    "SMGBNoiseSemiD3D, SMGBNoiseSemiE3D, SMGBNoiseSemiF3D",
+    "SMGBWetSemi3D"
+  ],
+  "eventOnBurstFire3D": [
+    "SMGBBodyBurstE3D, SMGBBodyBurstD3D, SMGBBodyBurstF3D",
+    "SMGBMechBurstE3D, SMGBMechBurstF3D, SMGBMechBurstD3D",
+    "SMGBNoiseBurstF3D, SMGBNoiseBurstD3D, SMGBNoiseBurstE3D",
+    "SMGBWetBurst3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "SMGBBodyD3D, SMGBBodyE3D, SMGBBodyF3D",
+    "SMGBMechD3D, SMGBMechF3D, SMGBMechE3D ",
+    "SMGBNoiseD3D, SMGBNoiseE3D, SMGBNoiseF3D ",
+    "SMGBWet3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "SMGBEnd3D"
+  ],
+  "eventOnSpecialSemiFire3D": [],
+  "eventOnSpecialBurstFire3D": [],
+  "eventOnSpecialAutoFireStart3D": [],
+  "eventOnSpecialAutoFireEnd3D": [],
+  "eventOnSpecialChargeup3D": [
+    "WeaponChargeUpAlt3"
+  ],
+  "eventOnSpecialCooldown3D": [
+    "WeaponCooldownMedium1"
+  ],
+  "eventOnSpecialChargeupEnd3D": "WeaponChargeUpEnd",
+  "eventOnSpecialCooldownEnd3D": "WeaponCooldownEnd",
+  "eventClick": "SMGDryFire",
+  "eventReload": "SMGReload",
+  "useSemiAudioForBurstShots": false,
+  "name": "GlueGun",
+  "internalEnabled": true,
+  "persistentID": 35
+}

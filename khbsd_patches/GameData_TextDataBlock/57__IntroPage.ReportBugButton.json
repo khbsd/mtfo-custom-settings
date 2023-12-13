@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REPORT BUG",
+  "Description": "A button leading to our bug report form, where users can submit bug reports to help us polish the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SIGNALER UN BUG",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEGNALA BUG",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER MELDEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INFORMAR DE UN ERROR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СООБЩИТЬ ОБ ОШИБКЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RELATAR ERRO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZGŁOŚ BŁĄD",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バグを報告",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버그 신고",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "報告軟體錯誤",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "问题反馈",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.ReportBugButton",
+  "internalEnabled": true,
+  "persistentID": 57
+}

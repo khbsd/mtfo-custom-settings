@@ -1,0 +1,16 @@
+{
+  "range": 25.0,
+  "angle": 70.0,
+  "intensity": 0.25,
+  "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_02.tga",
+  "color": {
+    "a": 1.0,
+    "r": 1.0,
+    "g": 0.998,
+    "b": 0.916
+  },
+  "startupShard": 17,
+  "name": "Consumable_MediumFlashlight",
+  "internalEnabled": true,
+  "persistentID": 4
+}

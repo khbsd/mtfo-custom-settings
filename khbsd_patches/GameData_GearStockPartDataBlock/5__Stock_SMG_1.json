@@ -1,0 +1,21 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_SMG_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "RightHandGripAnim": "SMG_Front_4_Idle",
+    "AssetBundle": 40,
+    "BundleShard": 14
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_SMG_1",
+  "internalEnabled": true,
+  "persistentID": 5
+}

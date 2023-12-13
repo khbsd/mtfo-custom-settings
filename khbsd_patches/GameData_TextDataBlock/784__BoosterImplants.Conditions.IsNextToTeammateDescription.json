@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must be within 7 meters of another human for booster to be active.",
+  "Description": "A description of a condition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit être à moins de 7 mètres d'un autre humain pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve trovarsi a un massimo di 7 metri da un altro essere umano per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss sich im Umkreis von 7\u00A0Metern um einen anderen Menschen befinden, damit der Booster aktiv wird.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe estar a 7 metros de otro humano para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, находясь в радиусе <nobr>7 м</nobr> от человека.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve estar a no máximo sete metros de outro humano para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi się znajdować w odległości do 7 metrów od innego człowieka, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象は7メートル以内に他の人間がいる時のみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터가 활성화되려면 대상이 다른 사람과 7미터 이내에 있어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須在另一個人的7公尺範圍內才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者必须位于他人7米范围内，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsNextToTeammateDescription",
+  "internalEnabled": true,
+  "persistentID": 784
+}

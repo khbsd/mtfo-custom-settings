@@ -1,0 +1,208 @@
+{
+  "BundleName": 1,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Terminal_Floor.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/AirSupply_Floor.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/AirSupply_2x3.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mini_120x120x120/SM_mini_120x120x120_weak_box_01.prefab",
+      "Shard": 2
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mini_120x120x120/SM_mini_120x120x120_security_box_01.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_200x300x50_security_01.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_200x300x50_weak_01.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_07.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_08.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_09.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_10.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_11.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_12.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Temp/AirDecontaminator_Station.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_120x120x240/submarker_mining_cover_HSU_120x120x240_r.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_240x120x240/mining_storage_submarker_HSU_240x120x240_V08.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Hydrostasis_unit.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_400x400x35/mining_corpse_floor_400x400x35_V01.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_400x400x35/mining_corpse_floor_400x400x35_V02.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_400x400x35/mining_corpse_floor_400x400x35_V03.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_400x400x35/mining_corpse_floor_400x400x35_V04.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_400x400x35/mining_corpse_floor_400x400x35_V05.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Temp/BoxSecurityLock.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/loot/BoxWeakLock.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Tech_corpse_floor_85x195x35/tech_corpse_floor_85x195x35_05.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_120x120x240/submarker_mining_cover_disinfection_120x120x240_v.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_120x120x240/submarker_mining_cover_generator_120x120x240_u.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Bulkhead_Door_Controller.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_Pickup_200x300x50_01.prefab",
+      "Shard": 2
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_container_locker_200x300x50/mining_container_locker_Big_Pickup_200x300x50_01.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_01.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_02.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_03.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_04.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_05.prefab",
+      "Shard": 7
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/mining_corpse_floor_85x195x35_06.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_edge_75x135x90/mining_corpse_edge_75x135x90_01.prefab",
+      "Shard": 2
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_edge_75x135x90/mining_corpse_edge_75x135x90_02.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_edge_75x135x90/mining_corpse_edge_75x135x90_03.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_edge_75x135x90/mining_corpse_edge_75x135x90_04.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_bottom_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_1m_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_2m_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_4m_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_05m_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_top_01.prefab",
+      "Shard": 8
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/mining_corpse_floor_85x195x35/generic_ground_marker_01.prefab",
+      "Shard": 3
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/light_submarker_door_4x4/light_submarker_door_4x4_HA_01.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/light_submarker_door_4x4/light_submarker_door_4x4_HA_02.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Terminal_Mini.prefab",
+      "Shard": 6
+    }
+  ],
+  "name": "Shared Markers",
+  "internalEnabled": true,
+  "persistentID": 2
+}

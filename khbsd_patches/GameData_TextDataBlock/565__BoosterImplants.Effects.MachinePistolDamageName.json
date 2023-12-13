@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machine Pistol Damage",
+  "Description": "I.e. how much damage you can deal with a machine pistol.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de pistolet semi-auto",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da pistola mitragliatrice",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinenpistolen-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de pistola ametralladora",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (автоматический пистолет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de pistola-metralhadora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od pistoletu maszynowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マシンピストルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기관 권총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機關手槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冲锋手枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MachinePistolDamageName",
+  "internalEnabled": true,
+  "persistentID": 565
+}

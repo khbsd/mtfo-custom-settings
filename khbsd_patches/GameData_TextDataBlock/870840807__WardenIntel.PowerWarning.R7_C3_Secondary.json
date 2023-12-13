@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Redirection accepted. Preparing reactors for power transfer.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Redirection acceptée. Préparation des réacteurs pour le transfert d'énergie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Deviazione accettata. Preparazione reattori per trasferimento energia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Umleitung bestätigt. Reaktoren werden für die Energieübertragung vorbereitet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Redirección aceptada. Preparando reactores para transferir energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Осуществляется перенаправление. Идет подготовка реактора к передаче мощности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Redirecionamento aceito. Preparando reatores para transferência de energia.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekierowanie przyjęte. Przygotowywanie reaktorów do transferu mocy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "送電先変更を受理。送電のためリアクターを準備中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경로 재설정 승인. 반응로 전력 전송 준비 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已接受重新定向。正在準備反應器進行電力傳輸。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重定向已接受。正在准备反应堆进行电能传输。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenIntel.PowerWarning.R7_C3_Secondary",
+  "internalEnabled": true,
+  "persistentID": 870840807
+}

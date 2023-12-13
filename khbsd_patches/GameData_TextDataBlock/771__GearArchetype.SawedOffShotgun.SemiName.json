@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sawed-Off Shotgun",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à canon scié",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a canne mozze",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Abgesägte Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta recortada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обрез",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda serrada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrzyn",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ソードオフショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소드오프 샷건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "削短型霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "短管霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SawedOffShotgun.SemiName",
+  "internalEnabled": true,
+  "persistentID": 771
+}

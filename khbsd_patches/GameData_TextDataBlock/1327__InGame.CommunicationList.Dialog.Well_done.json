@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Well done",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bien joué",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ben fatto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gut gemacht",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bien hecho",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Так держать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Muito bom",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dobra robota",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "お見事",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "잘했어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "做得好",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "做得好",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Well_done",
+  "internalEnabled": true,
+  "persistentID": 1327
+}

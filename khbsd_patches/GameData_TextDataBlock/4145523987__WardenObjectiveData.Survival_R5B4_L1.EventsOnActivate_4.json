@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Air filtration system reaching critical levels",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: niveau critique de système de filtration d'air atteint",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: il sistema di filtrazione dell'aria sta raggiungendo livelli critici",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Luftfiltersystem erreicht kritische Werte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: El sistema de filtración de aire está alcanzando niveles críticos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ: система фильтрации воздуха достигла критического показателя.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Sistema de filtragem de ar atingindo níveis críticos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: system filtracji powietrza osiąga poziom krytyczny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：換気システムが危機的レベルに接近中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 공기 여과 시스템이 치명적 레벨에 도달하고 있습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：空氣過濾系統達到嚴重層級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：空气过滤系统达到危急水平",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_4",
+  "internalEnabled": true,
+  "persistentID": 4145523987
+}

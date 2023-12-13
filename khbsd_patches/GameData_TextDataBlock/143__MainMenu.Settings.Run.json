@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Run",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Courir",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Corri",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprinten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Correr",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бежать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Correr",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bieg",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "走る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "달리기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "跑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跑动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Run",
+  "internalEnabled": true,
+  "persistentID": 143
+}

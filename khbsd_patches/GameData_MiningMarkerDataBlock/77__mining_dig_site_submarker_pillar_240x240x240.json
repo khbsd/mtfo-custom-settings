@@ -1,0 +1,57 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_pillar_240x240x240/dig_site_submarker_pillar_240x240x240_HA_01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_pillar_240x240x240/dig_site_submarker_pillar_240x240x240_HA_02.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_pillar_240x240x240",
+    "BoundingVolume": 13824.0
+  },
+  "name": "mining_dig_site_submarker_pillar_240x240x240",
+  "internalEnabled": true,
+  "persistentID": 77
+}

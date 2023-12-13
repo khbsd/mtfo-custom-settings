@@ -1,0 +1,19 @@
+{
+  "General": {
+    "PublicName": "Gun Receiver 2",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_SMG_3.prefab",
+    "GearCategoryFilter": 1,
+    "AssetBundle": 30,
+    "BundleShard": 11
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_SMG_3",
+  "internalEnabled": true,
+  "persistentID": 2
+}

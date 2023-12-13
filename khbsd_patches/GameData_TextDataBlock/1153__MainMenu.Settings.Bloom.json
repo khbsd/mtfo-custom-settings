@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bloom",
+  "Description": "Adds a glow effect to pixels that are brighter than the screen can display.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flou lumineux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bagliore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bloom",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Brillo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Свечение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Incandescência",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efekt bloom",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルーム効果",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "입자 발광",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "光暈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "泛光",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Bloom",
+  "internalEnabled": true,
+  "persistentID": 1153
+}

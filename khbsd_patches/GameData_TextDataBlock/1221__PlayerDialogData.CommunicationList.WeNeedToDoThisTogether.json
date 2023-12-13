@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need to do this together!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Concertons-nous\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dobbiamo farlo insieme!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir müssen das zusammen tun!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Somos un equipo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действуем вместе!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos fazer isso juntos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Musimy zrobić to razem!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "協力してやろう！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다시 하자!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要一起合作！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们得一起上！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.WeNeedToDoThisTogether",
+  "internalEnabled": true,
+  "persistentID": 1221
+}

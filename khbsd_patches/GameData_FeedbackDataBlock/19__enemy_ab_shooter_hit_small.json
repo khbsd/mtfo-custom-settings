@@ -1,0 +1,26 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "ShooterLightProjectileHit"
+    }
+  ],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/EnemyAttack/E_RangedHitMedium",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_ab_shooter_hit_small",
+  "internalEnabled": true,
+  "persistentID": 19
+}

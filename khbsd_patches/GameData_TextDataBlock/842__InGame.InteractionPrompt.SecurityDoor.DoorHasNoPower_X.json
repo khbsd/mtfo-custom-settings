@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door has no Power, activate reserve power generator {0} to regain power",
+  "Description": "A text that informs the player that the door they're trying to open has no power (electricity) and that they will need to activate a reserve power generator in order for the door to work. \"{0}\" will be replaced by the ID of the power generator that needs to be activated, do not alter those characters; just make sure they are in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "La porte n'est pas alimentée. Activez le générateur d'énergie de réserve {0} pour l'alimenter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La porta non è alimentata, attiva il generatore elettrico di riserva {0} per ripristinare l'elettricità",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür hat keinen Strom, Reserve-Stromgenerator {0} aktivieren, um den Strom wieder einzuschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta no tiene energía. Activa el generador de reserva {0} para recuperar energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь не подключена к источнику питания. Включите резервный генератор {0}, чтобы подать питание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta sem energia; ative o gerador de energia reserva {0} para recuperá-la",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi są pozbawione zasilania, uruchom rezerwowy generator mocy {0}, aby je przywrócić",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアに電力が通っていない。予備発電機 {0} を起動して電力を復旧しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문에 전력이 공급되지 않습니다. {0} 예비 발전기를 작동해 전력을 공급하세요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "門沒有電源，啟用備用發電機{0}以恢復電力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "门没电了，激活备用发电机{0}以充电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.DoorHasNoPower_X",
+  "internalEnabled": true,
+  "persistentID": 842
+}

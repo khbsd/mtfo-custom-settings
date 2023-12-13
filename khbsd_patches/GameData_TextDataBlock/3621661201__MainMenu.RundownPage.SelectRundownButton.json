@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SELECT RUNDOWN",
+  "Description": "\"Rundown\" is GTFO's term for \"campaign\", i.e. a set of expeditions (missions/maps). This text is on a button that will send the player to a screen where they can choose what rundown to play.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SÉLECTIONNER LA CAMPAGNE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SELEZIONA PERLUSTRAZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RUNDOWN AUSWÄHLEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SELECCIONAR CAMPAÑA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВЫБРАТЬ КАМПАНИЮ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SELECIONAR CAMPANHA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYBIERZ EKSTRAKCJĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ランダウンを選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "런다운 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇遠征綱要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择行动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.SelectRundownButton",
+  "internalEnabled": true,
+  "persistentID": 3621661201
+}

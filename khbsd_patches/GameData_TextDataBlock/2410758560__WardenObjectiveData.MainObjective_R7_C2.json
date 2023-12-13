@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power up Central Generator Cluster to gain access to Sector Warp gate",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mettez la grappe de générateurs centrale sous tension pour accéder au portail de téléportation du secteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accendere gruppo elettrogeno centrale per accedere al portale di teletrasporto del settore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktivieren Sie den zentralen Generatorcluster, um Zugang zum Warp-Tor des Sektors zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alimenta el cluster de generadores central para acceder al sector de la puerta de curvatura.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запитайте центральный кластер генераторов, чтобы получить доступ к варп-вратам сектора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energize o grupo de geradores centrais para receber acesso ao portão de distorção do setor",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasil główny zespół generatorów, aby zyskać dostęp do sektora z portalem teleportacyjnym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中央発電機群を起動してセクターワープゲートへのアクセスを得ろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중앙 발전기 클러스터에 전력을 공급해 섹터 워프 게이트 접근하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動中央發電機叢集以進入傳送門分區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启动中央发电机集群以进入跃迁门分区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.MainObjective_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 2410758560
+}

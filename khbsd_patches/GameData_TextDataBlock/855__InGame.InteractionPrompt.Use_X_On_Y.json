@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use {0} on {1}",
+  "Description": "E.g. \"use your medipack on this teammate.\" This text string appears on screen when the player is standing close to a teammate, to indicate what action can be performed by pressing the appropriate keyboard key/button. The \"{0}\" is replaced by item being used, and \"{1}\" is replaced by the name of the teammate, do not alter those parts.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser {0} sur {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa {0} su {1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} bei {1} benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar {0} con {1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать предмет ({0}) на игроке {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar {0} em {1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj {0} na {1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} を {1}に使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{1}에게 {0} 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "對{1}使用{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给{1}使用{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Use_X_On_Y",
+  "internalEnabled": true,
+  "persistentID": 855
+}

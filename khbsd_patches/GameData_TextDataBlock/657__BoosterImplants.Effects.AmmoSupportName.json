@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Supply efficiency",
+  "Description": "Refers to the efficiency (skill level) at which the player can use ammo supplies. A high \"supply efficiency\" value means the player gets more out of ammo packs than other players.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Approvisionnement efficace",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Efficienza scorte",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versorgungseffizienz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Eficacia de suministros",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Количество припасов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eficiência de suprimentos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efektywność zaopatrzenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "補給効率",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보급 효율",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "補給效率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "补给效率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.AmmoSupportName",
+  "internalEnabled": true,
+  "persistentID": 657
+}

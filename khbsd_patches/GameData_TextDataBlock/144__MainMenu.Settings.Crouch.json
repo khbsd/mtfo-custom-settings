@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Crouch",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "S'accroupir",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbassati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ducken",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Agacharse",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Красться",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Agachar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kucanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しゃがむ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "앉기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "蹲伏",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蹲伏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Crouch",
+  "internalEnabled": true,
+  "persistentID": 144
+}

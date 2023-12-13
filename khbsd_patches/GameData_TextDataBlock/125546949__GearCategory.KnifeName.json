@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Knife",
+  "Description": "A category of melee weapons",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Couteau",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Coltello",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Messer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cuchillo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нож",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Faca",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nóż",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナイフ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나이프",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "刀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "刀",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.KnifeName",
+  "internalEnabled": true,
+  "persistentID": 125546949
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sneak your way to the next zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Faufilez-vous vers la zone suivante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Entrare di nascosto nella zona successiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schleichen Sie zur nächsten Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a la siguiente zona con sigilo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прокрадитесь в следующую зону.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá para a próxima zona sorrateiramente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekradnij się do następnej strefy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隠れて次のゾーンへ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 구역으로 은밀하게 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "悄悄前往下一區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "偷偷前往下一个区域",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveData.Tutorial.Zone2.SneakToNextZone",
+  "internalEnabled": true,
+  "persistentID": 919831745
+}

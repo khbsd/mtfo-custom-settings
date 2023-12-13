@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Menu",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Menu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Menu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Menü",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Menú",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Меню",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Menu",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Menu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニュー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選單",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "菜单",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Menu",
+  "internalEnabled": true,
+  "persistentID": 998
+}

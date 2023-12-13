@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Chat",
+  "Description": "A headline for voice chat related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chat vocal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chat vocale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachchat",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Голосовой чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chat de voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czat głosowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceChatButton",
+  "internalEnabled": true,
+  "persistentID": 66
+}

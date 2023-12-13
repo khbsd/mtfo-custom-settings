@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Health < 40%",
+  "Description": "An abbreviated description of a condition, i.e. the subject's health must be \"below 40%\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Santé <40\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ha salute < 40%",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesundheit < 40\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salud < 40\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Меньше 40% здоровья",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vida <40%",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zdrowie <40%",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "体力 < 40%",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체력 < 40%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生命值<40%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生命值<40%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasLowHealthName",
+  "internalEnabled": true,
+  "persistentID": 701
+}

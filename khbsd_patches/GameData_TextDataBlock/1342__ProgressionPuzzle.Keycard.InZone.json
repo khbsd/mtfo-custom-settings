@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the <color=orange>PING</color> command on a terminal in [KEYCARD_ZONE] to find [KEYCARD_NAME]",
+  "Description": "Don't localize PING, [KEYCARD_ZONE] and [KEYCARD_NAME]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>PING</color> sur un terminal dans [KEYCARD_ZONE] pour trouver [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando <color=orange>PING</color> su un terminale in [KEYCARD_ZONE] per trovare [KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=orange>PING</color> an einem Terminal in [KEYCARD_ZONE], um [KEYCARD_NAME] zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando <color=orange>PING</color> en una terminal en [KEYCARD_ZONE] para encontrar [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>PING</color> на терминале в [KEYCARD_ZONE] и найдите: [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando <color=orange>PING</color> em um terminal em [KEYCARD_ZONE] para encontrar [KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>PING</color> w terminalu w [KEYCARD_ZONE], aby znaleźć [KEYCARD_NAME].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>PING</color> コマンドを [KEYCARD_ZONE] の端末で使用して [KEYCARD_NAME]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[KEYCARD_ZONE] 터미널에서 <color=orange>PING</color> 명령을 사용해 [KEYCARD_NAME] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[KEYCARD_ZONE]的終端使用<color=orange>PING</color>指令來尋找[KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[KEYCARD_ZONE]的终端上使用<color=orange>PING</color>命令找到[KEYCARD_NAME]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.Keycard.InZone",
+  "internalEnabled": true,
+  "persistentID": 1342
+}

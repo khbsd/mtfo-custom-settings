@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal use",
+  "Description": "Refers to the player's skill with using terminals.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisation de terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzo terminali",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal-Nutzung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uso de terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использование терминала",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uso do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obsługa terminali",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終端使用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端使用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ComputerProcessingSpeedName",
+  "internalEnabled": true,
+  "persistentID": 629
+}

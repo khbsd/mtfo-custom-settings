@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Middle",
+  "Description": "The middle mouse button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Molette",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tasto centrale mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus Mitte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón central del ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Колесико мыши",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Meio do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Środkowy przycisk myszy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス中央ボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 가운데 버튼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠中鍵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标中键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.MouseMiddle",
+  "internalEnabled": true,
+  "persistentID": 194
+}

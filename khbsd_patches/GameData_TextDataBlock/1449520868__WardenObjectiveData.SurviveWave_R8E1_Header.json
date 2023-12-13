@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SURVIVE",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SURVIVEZ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SOPRAVVIVERE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ÜBERLEBEN SIE.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SOBREVIVE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВЫЖИВИТЕ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SOBREVIVA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZEŻYJ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生き残れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "생존",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生存",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "存活",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SurviveWave_R8E1_Header",
+  "internalEnabled": true,
+  "persistentID": 1449520868
+}

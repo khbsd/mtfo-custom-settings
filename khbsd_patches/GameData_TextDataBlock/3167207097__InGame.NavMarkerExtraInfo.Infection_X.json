@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Infection {0}%",
+  "Description": "Extra info displayed in the UI when you look directly at another player or bot.\n{0} is the players current infection level and will be a value between 0 and 100.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Infection {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Infezione {0}%",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Infektion: {0} %",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Infección {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инфицирование: {0}%",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Infecção {0}%",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zakażenie {0}%",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "感染 {0}%",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염 {0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "感染{0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "感染度{0}%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.NavMarkerExtraInfo.Infection_X",
+  "internalEnabled": true,
+  "persistentID": 3167207097
+}

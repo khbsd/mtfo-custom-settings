@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Deployable\nAutomatic enemy detection\nLow damage\nTungsten rounds\nStaggering effect\nOverpenetrating rounds",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployable\nDétection automatique des ennemis\nDégâts faibles\nBalles en tungstène\nEffet déstabilisant\nBalles ultra-pénétrantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schierabile\nRilevamento automatico nemici\nDanni scarsi\nRaffiche di tungsteno\nEffetto stordente\nColpi perforanti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsetzbar\nAutomatische Feinderkennung\nGeringer Schaden\nWolfram-Kugeln\nTorkel-Wirkung\nDurchschlagende Geschosse",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Implementable\nDetección automática del enemigo\nPoco daño\nBalas de tungsteno\nEfecto tambaleante\nBalas superperforantes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стационарное оружие\nАвтораспознавание врагов\nСлабый урон\nВольфрамовые пули\nЭффект оглушения\nВысокая пробивная способность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Possível alocar\nDetecção automática do inimigo\nBaixo dano\nMunição de tungstênio\nEfeito desestabilizante\nMunição altamente perfurante",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozstawiane\nAutomatyczne wykrywanie przeciwników\nMałe obrażenia\nPociski z rdzeniem wolframowym\nWywołuje zachwianie\nPociski nadpenetrujące",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "配置可能\n自動敵探知\n低ダメージ\nタングステン弾\nよろめき効果\n超貫通弾",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배치 가능\n자동 적 감지\n낮은 대미지\n텅스텐탄\n경직 효과\n고관통탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可部署\n自動敵人偵測\n低傷害\n鎢彈\n踉蹌效果\n超穿彈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可部署\n自动探测敌人\n低伤害\n钨弹\n踉跄效果\n过度穿透子弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.AutoStaggeringDescription",
+  "internalEnabled": true,
+  "persistentID": 780
+}

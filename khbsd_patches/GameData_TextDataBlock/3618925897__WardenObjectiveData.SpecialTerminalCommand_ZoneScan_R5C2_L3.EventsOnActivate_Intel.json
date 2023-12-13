@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY DOORS OPENING --- WARNING: BIOMASS DETECTED!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OUVERTURE DES PORTES DE SÉCURITÉ --- ALERTE\u00A0: BIOMASSE DÉTECTÉE\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "APERTURA PORTE DI SICUREZZA --- ATTENZIONE: RILEVATA BIOMASSA!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSTÜREN WERDEN GEÖFFNET – WARNUNG: BIOMASSE ENTDECKT!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "LAS PUERTAS DE SEGURIDAD SE ESTÁN ABRIENDO. ADVERTENCIA: ¡BIOMASA DETECTADA!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАЩИТНЫЕ ДВЕРИ ОТКРЫВАЮТСЯ. ВНИМАНИЕ! ОБНАРУЖЕНА БИОСИГНАТУРА!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PORTAS DE SEGURANÇA ABRINDO --- AVISO: BIOMASSA DETECTADA!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OTWIERANIE DRZWI – OSTRZEŻENIE: WYKRYTO BIOMASĘ!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティドア開放中 --- 警告：生体反応検知！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안문 개방 중 --- 경고: 바이오매스 감지됨!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在開啟安全門 --- 警告：偵測到生物質！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在打开安全门 --- 警告：探测到生物质！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_ZoneScan_R5C2_L3.EventsOnActivate_Intel",
+  "internalEnabled": true,
+  "persistentID": 3618925897
+}

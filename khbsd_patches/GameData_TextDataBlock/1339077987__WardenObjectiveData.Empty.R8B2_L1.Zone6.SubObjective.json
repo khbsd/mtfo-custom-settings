@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>SECURITY BREACH DETECTED!</color> DISABLE ALARM WITH SECURITY SCAN INTO <color=orange>ZONE 188.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>FAILLE DE SÉCURITÉ DÉTECTÉE\u00A0!</color> DÉSACTIVEZ L'ALARME EN EFFECTUANT UN SCAN DE SÉCURITÉ DANS LA <color=orange>ZONE\u00A0188</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>RILEVATA VIOLAZIONE DELLA SICUREZZA!</color> DISABILITARE ALLARME CON SCANSIONE DI SICUREZZA IN <color=orange>ZONE 188.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>SICHERHEITSLÜCKE ENTDECKT!</color> DEAKTIVIEREN SIE DEN ALARM MIT EINEM SICHERHEITSSCAN IN <color=orange>ZONE 188.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡BRECHA DE SEGURIDAD DETECTADO!</color> DESACTIVA LA ALARMA CON EL ANÁLISIS DE SEGURIDAD EN LA <color=orange>ZONA 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОБНАРУЖЕНО НАРУШЕНИЕ БЕЗОПАСНОСТИ!</color> ЧТОБЫ ОТКЛЮЧИТЬ СИГНАЛ ТРЕВОГИ, ПРОЙДИТЕ ПРОВЕРКУ БЕЗОПАСНОСТИ В <color=orange>ZONE 188.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>VIOLAÇÃO DE SEGURANÇA DETECTADA!</color> DESATIVE O ALARME COM ESCANEAMENTO DE SEGURANÇA DENTRO DA <color=orange>ZONE 188.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>WYKRYTO NARUSZENIE BEZPIECZEŃSTWA!</color> WYŁĄCZ ALARM, DOKONUJĄC SKANOWANIA <color=orange>STREFY 188 [ZONE_188].</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>セキュリティ違反を検知！</color><color=orange>ZONE 188</color>をセキュリティスキャンして警報を無効化しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>보안 침투 감지!</color> <color=orange>ZONE 188</color> 보안 스캔으로 경보를 최소화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>偵測到安全入侵！</color>對<color=orange>ZONE 188</color>執行安全掃描以關閉警報。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>检测到安全侵入！</color>对<color=orange>ZONE 188</color>执行安全扫描，以关闭警报。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone6.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 1339077987
+}

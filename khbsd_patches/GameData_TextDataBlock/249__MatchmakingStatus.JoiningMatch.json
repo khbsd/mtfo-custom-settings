@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "JOINING MATCH",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PRÉPARATION DU MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ACCESSO ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIEL WIRD BEIGETRETEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ACCEDIENDO A PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УЧАСТИЕ В ПОДБОРЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENTRANDO NA PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DOŁĄCZANIE DO GRY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチ参加中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치 참가 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加入配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在加入匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.JoiningMatch",
+  "internalEnabled": true,
+  "persistentID": 249
+}

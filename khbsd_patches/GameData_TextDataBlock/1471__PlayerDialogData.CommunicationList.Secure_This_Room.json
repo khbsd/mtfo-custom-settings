@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Secure this room.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Sécurisez cette pièce.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Conquistate questa stanza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Raum sichern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Protege esta sala.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Охраняем комнату.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Limpe a sala.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabezpieczyć pomieszczenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この部屋を確保しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 방 확보해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "保衛這個房間。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "守好这个房间。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Secure_This_Room",
+  "internalEnabled": true,
+  "persistentID": 1471
+}

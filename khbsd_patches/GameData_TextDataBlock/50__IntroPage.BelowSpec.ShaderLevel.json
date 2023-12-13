@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Did <color=red>NOT</color> detect support for DirectX 11",
+  "Description": "A comment on the user's PC specifications. Avoid translating the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Support DirectX 11 <color=red>NON</color> détecté.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Supporto per DirectX 11 <color=red>NON</color> rilevato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>KEINE</color> Unterstützung für DirectX 11 entdeckt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>No</color> se ha detectado compatibilidad con DirectX 11",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОТСУТСТВУЕТ</color> поддержка DirectX 11",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>NÃO</color> detectada compatibilidade com DirectX 11",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>NIE</color> wykryto obsługi grafiki DirectX 11",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "DirectX 11のサポートを <color=red>検出できませんでした</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "DirectX 11 지원 탐지되지 <color=red>않음</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>未</color>偵測到DirectX 11支援",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>未</color>检测到支持DirectX 11",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.BelowSpec.ShaderLevel",
+  "internalEnabled": true,
+  "persistentID": 50
+}

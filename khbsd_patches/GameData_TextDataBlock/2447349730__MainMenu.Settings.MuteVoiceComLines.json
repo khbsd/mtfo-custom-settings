@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mute Voice Communication Lines",
+  "Description": "A setting to mute the sounds of voice communication lines.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mettre en sourdine les lignes de communication vocale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattiva linee di comunicazione vocale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachkommunikation stummschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Silenciar líneas de comunicación por voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключить голосовую связь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Silenciar linhas de comunicação de voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wycisz komunikację głosową",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイス定型文をミュート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 통신 라인 음소거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音通訊靜音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "静音语音通讯行",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.MuteVoiceComLines",
+  "internalEnabled": true,
+  "persistentID": 2447349730
+}

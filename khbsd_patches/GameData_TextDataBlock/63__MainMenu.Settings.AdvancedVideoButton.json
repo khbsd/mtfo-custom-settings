@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Advanced Video",
+  "Description": "A headline for advanced video related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vidéo (avancé)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Imp. video avanzate",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fortschrittliches Video",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vídeo avanzado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Расширенные видеонастройки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vídeo avançado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaawansowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高度な動画",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고급 비디오",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進階視訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高级视频",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AdvancedVideoButton",
+  "internalEnabled": true,
+  "persistentID": 63
+}

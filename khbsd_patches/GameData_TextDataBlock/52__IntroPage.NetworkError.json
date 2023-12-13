@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<b><size=150%>Network Error: No Connection</b>\n\n<size=100%>You need to have an online connection to be able to play GTFO.\n\nPlease connect to the internet and restart the game.</size>",
+  "Description": "Network error message. Do not alter the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<b><size=150%>Erreur réseau\u00A0: aucune connexion.</b>\n\n<size=100%>GTFO nécessite une connexion à Internet.\n\nVeuillez vous reconnecter à Internet et redémarrer le jeu.</size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<b><size=150%>Errore di rete: connessione assente</b>\n\n<size=100%>È necessaria una connessione a Internet per giocare a GTFO.\n\nConnettiti a Internet e riavvia il gioco.</size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<b><size=150%>Netzwerkfehler: Keine Verbindung</b>\n\n<size=100%>Sie benötigen eine Online-Verbindung zum Spielen von GTFO.\n\nBitte stellen Sie eine Internetverbindung her und starten Sie das Spiel neu.</size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<b><size=150%>Error de red: Sin conexión</b>\n\n<size=100%>Necesitas una conexión a internet para jugar a GTFO.\n\nConéctate a internet y reinicia el juego.</size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<b><size=150%>Ошибка сети: отсутствует подключение.</b>\n\n<size=100%>Для игры в GTFO требуется подключение к Интернету.\n\nПопытка подключения...</size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<b><size=150%>Erro de rede: Sem conexão</b>\n\n<size=100%>Você precisa de uma conexão online para poder jogar GTFO.\n\nConecte-se à internet e reinicie o jogo.</size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<b><size=150%>Błąd sieci: Brak połączenia</b>\n\n<size=100%>Musisz mieć połączenie sieciowe, aby zagrać w GTFO.\n\nPołącz się z internetem i uruchom grę ponownie.</size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b><size=150%>ネットワークエラー：接続なし</b>\n\n<size=100%>GTFOをプレイするにはオンライン接続が必要です。\n\nインターネットに接続し、ゲームを再起動してください。</size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<b><size=150%>네트워크 오류: 연결 없음</b>\n\n<size=100%>GTFO를 플레이하려면 온라인에 연결해야 합니다.\n\n인터넷에 연결하고 게임을 다시 시작하십시오.</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<b><size=150%>網路錯誤：沒有連線</b>\n\n<size=100%>需要連到網路才能玩《GTFO》。\n\n請連到網路並重新啟動遊戲。</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<b><size=150%>网络错误：无连接</b>\n\n<size=100%>需要在线连接才能玩《GTFO》。\n\n请接入互联网后重启游戏。</size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "IntroPage.NetworkError",
+  "internalEnabled": true,
+  "persistentID": 52
+}

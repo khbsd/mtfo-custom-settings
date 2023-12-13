@@ -1,0 +1,39 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "music_tension"
+    }
+  ],
+  "m_SwitchesOnEnter": [
+    {
+      "switchGroup": "randomizer_tension_pulse",
+      "switchName": "tension_pulse_",
+      "randomCount": 2
+    },
+    {
+      "switchGroup": "randomizer_tension_drone",
+      "switchName": "tension_drone_",
+      "randomCount": 11
+    }
+  ],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "suspense",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "Tension",
+  "internalEnabled": true,
+  "persistentID": 5
+}

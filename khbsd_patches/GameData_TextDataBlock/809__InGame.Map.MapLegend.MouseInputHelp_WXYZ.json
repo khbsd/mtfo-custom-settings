@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} Hold and drag to pan over map\n{1} Draw on map\n{2} Zoom in and out on map\n{3} Enter chat mode and send chat message",
+  "Description": "A list of instructions regarding what the player can do on the map screen. The first line is about moving the map around so that you can see the outer edges of the area you have explored. The second line is about draw2ing lines on the map to show your ideas and intentions to your teammates. The third and fourth line should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} Maintenir et faire glisser pour déplacer la carte\n{1} Dessiner sur la carte\n{2} Faire un zoom avant et arrière sur la carte\n{3} Entrer en mode chat et envoyer un message",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} Tieni premuto e trascina per spostare la mappa\n{1} Disegna sulla mappa\n{2} Ingrandisci e riduci la mappa\n{3} Accedi alla modalità chat e invia messaggi di chat",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} Halten und ziehen, um über die Karte zu verschieben\n{1} Auf der Karte malen\n{2} Karte vergrößern und verkleinern\n{3} In den Chat-Modus wechseln und eine Chat-Nachricht senden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} Mantén pulsado y arrastra para desplazarte por el mapa\n{1} Traza líneas en el mapa\n{2} Acerca y aleja el mapa\n{3} Accede al chat y envía un mensaje",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} Удерживайте и тяните, чтобы перемещать карту.\n{1} Рисуйте на карте.\n{2} Меняйте масштаб.\n{3} Заходите в чат и отправляйте сообщения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} Segure e arraste a panorâmica pelo mapa\n{1} Desenhe no mapa\n{2} Aumente e diminua o zoom no mapa\n{3} Entre no modo Chat e envie mensagens",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} Przytrzymaj i przeciągnij, aby przesuwać mapę\n{1} Rysuj na mapie\n{2} Przybliż lub oddal mapę\n{3} Przejdź w tryb czatu i wyślij wiadomość",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} 長押しとドラッグで視点移動\n{1} マップに描画\n{2} 拡大と縮小\n{3} チャットモードに移行しチャットメッセージを送信",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 길게 드래그하여 맵 위로 이동\n{1} 맵에 그리기\n{2} 맵 확대 및 축소\n{3} 채팅 모드로 전환하고 채팅 메시지 보내기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}按住拖曳以平移地圖\n{1}在地圖上繪製\n{2}在地圖上放大與縮小\n{3}進入聊天模式並傳送聊天訊息",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0} 按住拖曳以扫视地图\n{1} 在地图上绘制\n{2} 缩放地图\n{3} 进入聊天模式并发送聊天消息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.MouseInputHelp_WXYZ",
+  "internalEnabled": true,
+  "persistentID": 809
+}

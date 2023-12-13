@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AT",
+  "Description": "Intermediate message of a Bioscan HUD message.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "À",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "A",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BEI",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "—",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POZIOM",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了率：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "-",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進度：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "数值",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.At",
+  "internalEnabled": true,
+  "persistentID": 1085
+}

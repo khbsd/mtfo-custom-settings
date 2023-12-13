@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0}Map - {1}Objectives & Boosters",
+  "Description": "A short instruction on how the player can access the \"map screen\" and the \"objectives & boosters\" screen. The \"{0}\" and \"{1}\" will be replaced with the names of the keys the player has chosen to associate those functions with.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} Carte - {1} Objectifs & boosters",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0}Mappa - {1}Obiettivi e potenziamenti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0}Karte – {1}Ziele & Booster",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} Mapa - {1} Objetivos y potenciadores",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} Карта — {1} Цели и усилители",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0}Mapa — {1}Objetivos e impulsos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0}Mapa – {1}Cele i wzmacniacze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}マップ - {1}目標とブースター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}맵 - {1}목표 및 부스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}地圖 - {1}目標與強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}地图 - {1}目标与强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.X_Map_Y_Objectives",
+  "internalEnabled": true,
+  "persistentID": 800
+}

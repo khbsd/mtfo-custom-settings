@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>ALT://</color>RUNDOWN #3.0\r\nTITLE: THE VESSEL",
+  "Description": "Don't translate the text in between the \"<>\" tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>ALT://</color>CAMPAGNE #3.0\r\nTITRE\u00A0: LE RÉCIPIENT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>ALT://</color>PERLUSTRAZIONE #3.0\r\nTITOLO: IL RECIPIENTE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>ALT://</color>RUNDOWN #3.0\r\nTITEL: DAS SCHIFF",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>ALT://</color>CAMPAÑA #3.0\r\nTÍTULO: LA NAVE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВАРИАНТ://</color>КАМПАНИЯ №\u00A03.0.\r\nНАЗВАНИЕ: СОСУД",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>ALT://</color>CAMPANHA #3.0\r\nTÍTULO: O RESERVATÓRIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>ALT://</color>EKSTRAKCJA #3.0\r\nTYTUŁ: NACZYNIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>別://</color>ランダウン#3.0\r\nタイトル：器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>대체://</color>런다운 #3.0\r\n타이틀: 용기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>替代://</color>遠征綱要#3.0\r\n標題：容器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ALT://</color>行动#3.0\r\n标题：容器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown003_RundownStorytelling_Title",
+  "internalEnabled": true,
+  "persistentID": 2624188180
+}

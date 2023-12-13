@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UNLOCKED",
+  "Description": "A text string indicating that a specific set of expeditions (missions/maps) is unlocked and accessible to the player.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "DÉBLOQUÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SBLOCCATE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FREIGESCHALTET",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESBLOQUEADO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТКРЫТО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DESBLOQUEADA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ODBLOKOWANE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アンロック済み",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.TierMarkerUnlocked",
+  "internalEnabled": true,
+  "persistentID": 19
+}

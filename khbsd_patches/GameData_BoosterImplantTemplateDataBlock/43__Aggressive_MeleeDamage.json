@@ -1,0 +1,43 @@
+{
+  "Deprecated": false,
+  "PublicName": 711,
+  "Description": 0,
+  "DurationRange": {
+    "x": 2.0,
+    "y": 3.0,
+    "normalized": {
+      "x": 0.5547002,
+      "y": 0.8320503,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.60555124,
+    "sqrMagnitude": 13.0
+  },
+  "DropWeight": 1.0,
+  "Conditions": [],
+  "RandomConditions": [
+    30
+  ],
+  "Effects": [
+    {
+      "BoosterImplantEffect": 49,
+      "MinValue": 1.5,
+      "MaxValue": 1.6
+    }
+  ],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 11,
+        "MinValue": 0.83,
+        "MaxValue": 0.9
+      }
+    ]
+  ],
+  "ImplantCategory": 2,
+  "MainEffectType": 1,
+  "name": "Aggressive_MeleeDamage",
+  "internalEnabled": true,
+  "persistentID": 43
+}

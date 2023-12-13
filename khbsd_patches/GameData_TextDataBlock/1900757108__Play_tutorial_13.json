@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\n6.5:Approaching hostile entities. Subject must observe stealth protocols. \r\n6:Stay low, turn flashlight off. \r\n5:When hostile glows or pulsates, stand still.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\n6.5\u00A0: Entités hostiles à proximité. Le sujet doit respecter les protocoles de furtivité. \r\n6\u00A0: Ne vous relevez pas et éteignez votre lampe torche. \r\n5\u00A0: Lorsque vos ennemis se mettent à pulser ou à briller, cessez de bouger.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\n6.5:Entità ostili in avvicinamento. Il soggetto deve osservare i protocolli stealth. \r\n6:Rimanere bassi, torcia spenta. \r\n5:Quando il nemico si illumina o pulsa, rimanere fermi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\n6.5:Annäherung an feindliche Einheiten. Die Versuchsperson wird aufgefordert, die Tarnungsprotokolle zu beachten. \r\n6:Halten Sie sich bedeckt, schalten Sie die Taschenlampe aus. \r\n5:Wenn die feindliche Einheit leuchtet oder pulsiert, bleiben Sie stehen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\n6.5:Elementos hostiles en las inmediaciones. El sujeto debe obedecer los protocolos de sigilo. \r\n6:Agáchate y apaga la linterna. \r\n5:Cuando el elemento hostil brille o palpite, no te muevas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\n6.5: Субъект приближается к враждебным сущностям. Необходимо соблюдать скрытность.\r\n6: Держитесь незаметно, выключите фонарик.\r\n5: Если враждебная сущность мерцает или пульсирует, не двигайтесь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\n6.5:Aproximando-se de entidades hostis. O indivíduo deve se atentar aos protocolos de furtividade. \r\n6:Fique abaixado, apague a lanterna. \r\n5:Quando o ser hostil brilhar ou pulsar, não se mexa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\n6.5:Nieprzyjaciel w pobliżu. Wymagane protokoły skrywania. \r\n6:Schyl się, wyłącz latarkę. \r\n5:Kiedy nieprzyjaciel świeci się lub pulsuje, nie poruszaj się.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n6.5:敵意を持つ存在が接近中。対象はステルスプロトコルを実行しなければならない。\r\n6:身を低くし、フラッシュライトを消せ。\r\n5:敵対存在が発光もしくは脈動している場合、直立し静止せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n6.5:적대 개체 접근 중. 대상은 은신 프로토콜을 시행해야 합니다. \r\n6:몸을 숨기고 플래시를 끄십시오. \r\n5:적이 빛을 내거나 진동해도 정지 상태를 유지하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n6.5：靠近敵對物體。實驗對象必須遵循隱匿行蹤協定。\r\n6：低身前進，關閉手電筒。\r\n5：敵對物體發光或搏動時，保持不動。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n6.5:正在接近敌对实体。实验体必须遵守潜行协议。\r\n6:保持低调，关闭手电筒。\r\n5:当敌人发光或搏动时，静止不动。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Play_tutorial_13",
+  "internalEnabled": true,
+  "persistentID": 1900757108
+}

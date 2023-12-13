@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Key & Mouse Mapping",
+  "Description": "A headline for key and mouse mapping related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clavier & souris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Configurazione tasti e mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tasten- und Mausbelegung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Teclado y ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мышь и клавиатура",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Teclado e mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sterowanie – klawiatura i mysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーとマウスのマッピング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키 & 마우스 매핑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "鍵盤滑鼠對應",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "键鼠映射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.KeyAndMouseMappingButton",
+  "internalEnabled": true,
+  "persistentID": 67
+}

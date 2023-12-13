@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.7,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.5711629,
+        "g": 0.55651474,
+        "b": 0.6981132
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.7,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 0.0,
+        "r": 0.3590709,
+        "g": 0.3517711,
+        "b": 0.8773585
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 1.0,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 1.0,
+        "r": 0.5566038,
+        "g": 0.2809274,
+        "b": 0.362377226
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.75,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.8301887,
+        "g": 0.207547173,
+        "b": 0.39590916
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.4,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 0.352112681,
+        "b": 0.0
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.992156863,
+        "g": 0.6431373,
+        "b": 0.2
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.4,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.7924528,
+        "g": 0.7924528,
+        "b": 0.7924528
+      },
+      "IntensityMul": 0.9,
+      "Weight": 1.0
+    }
+  ],
+  "name": "PurpleToBrown",
+  "internalEnabled": true,
+  "persistentID": 40
+}

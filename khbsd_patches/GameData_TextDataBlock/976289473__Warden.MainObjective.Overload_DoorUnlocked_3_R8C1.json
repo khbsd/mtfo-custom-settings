@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to <color=orange>ZONE 373</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la <color=orange>ZONE\u00A0373</color>\r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>ZONE 373</color>\r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>ZONE 373</color>.\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta la <color=orange>ZONE 373</color>.\r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в <color=orange>ZONE 373</color>.\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prosseguir para a <color=orange>ZONE 373</color>\r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange>ZONE 373</color>\r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 373</color>へ進め\r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 373</color>로 이동\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 373</color>\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 373</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 0,
+  "name": "Warden.MainObjective.Overload_DoorUnlocked_3_R8C1",
+  "internalEnabled": true,
+  "persistentID": 976289473
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Move Right",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento a destra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nach rechts bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover a la derecha",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вправо",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover para direita",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ruch w prawo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右に移動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向右移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MoveRight",
+  "internalEnabled": true,
+  "persistentID": 132
+}

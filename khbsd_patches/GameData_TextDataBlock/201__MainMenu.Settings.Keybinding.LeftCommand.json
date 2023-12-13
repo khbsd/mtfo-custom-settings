@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Command",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commande gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando sinistro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linke Befehlstaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando izquierdo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая клавиша Command",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Command esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy Command",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左Cmd",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 Command",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左Command",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左Command键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.LeftCommand",
+  "internalEnabled": true,
+  "persistentID": 201
+}

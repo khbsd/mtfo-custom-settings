@@ -1,0 +1,143 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        2,
+        6,
+        7
+      ],
+      [],
+      [],
+      [],
+      [
+        2,
+        6,
+        7
+      ],
+      [
+        2,
+        6,
+        7
+      ],
+      [],
+      [
+        2,
+        6,
+        7
+      ],
+      [
+        2,
+        6,
+        7
+      ],
+      [
+        2,
+        6,
+        7
+      ],
+      [],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V04.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V05.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V06.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V07.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V08.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V09.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_wall_400x60x500/Lab_submarker_wall_400x60x500_V10.prefab",
+        "function": 0,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/SM_Lab_wall_400x60x500",
+    "BoundingVolume": 12000.0
+  },
+  "name": "Lab_submarker_wall_400x60x500",
+  "internalEnabled": true,
+  "persistentID": 58
+}

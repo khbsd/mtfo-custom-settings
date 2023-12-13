@@ -1,0 +1,7 @@
+{
+  "Type": 1,
+  "GearJSON": "{\"Ver\":1,\"Name\":\"D-tek Optron IV\",\"Packet\":{\"Comps\":{\"Length\":9,\"a\":{\"c\":2,\"v\":9},\"b\":{\"c\":3,\"v\":28},\"c\":{\"c\":4,\"v\":10},\"d\":{\"c\":27,\"v\":10},\"e\":{\"c\":30,\"v\":3},\"f\":{\"c\":33,\"v\":3},\"g\":{\"c\":40,\"v\":2},\"h\":{\"c\":42,\"v\":3}},\"MatTrans\":{\"tDecalA\":{\"scale\":0.1},\"tDecalB\":{\"scale\":0.1},\"tPattern\":{\"scale\":0.1}},\"publicName\":{\"data\":\"D-tek Optron IV\"}}}",
+  "name": "Bio_Tracker",
+  "internalEnabled": true,
+  "persistentID": 18
+}

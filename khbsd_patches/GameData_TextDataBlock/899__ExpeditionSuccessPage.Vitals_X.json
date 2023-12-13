@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Vitals: {0}",
+  "Description": "I.e. \"health status.\" A medical evaluation of the prisoner's vitals. \"{0}\" will be replaced by a word that sums up the prisoner's health status, do not alter these characters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Fonctions vitales\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Condizioni vitali: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vitalwerte: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Constantes vitales: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Общее состояние: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sinais vitais: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Funkcje życiowe: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "健康状態: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "신체 상태: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生命跡象：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "身体状况：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.Vitals_X",
+  "internalEnabled": true,
+  "persistentID": 899
+}

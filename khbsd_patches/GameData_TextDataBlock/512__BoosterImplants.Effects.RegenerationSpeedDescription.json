@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will regenerate health faster.",
+  "Description": "Describes the advantage of having a good \"regeneration speed\" value. Essentially this means that when the subject's own health is regenerating, it will go faster than usual.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet régénère sa santé plus rapidement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La salute del soggetto migliorerà più rapidamente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson regeneriert Gesundheit schneller.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto recuperará salud más rápido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здоровье восстанавливается быстрее.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo regenera saúde mais rápido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie szybciej regenerował zdrowie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の体力リジェネが早くなる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 체력이 더 빨리 회복됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象生命值恢復速度較快。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生命值恢复速度加快。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RegenerationSpeedDescription",
+  "internalEnabled": true,
+  "persistentID": 512
+}

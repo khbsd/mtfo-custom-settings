@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search server database for <color=orange>Unexplored</color> Membrane",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Consultez la base de données du serveur pour trouver une membrane <color=orange>inexplorée</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare membrana <color=orange>inesplorata</color> nel database del server",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Durchsuchen Sie die Datenbank des Servers nach <color=orange>unerforschten</color> Membranen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca la base de datos del servidor para encontrar la membrana <color=orange>sin explorar</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>неисследованную</color> мембрану в базе данных сервера.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procurar membrana <color=orange>inexplorada</color> no banco de dados do servidor",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poszukaj w bazie danych serwera <color=orange>niezbadanej</color> membrany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サーバーデータベースを探して<color=orange>未探索</color>の膜を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서버 데이터베이스에서 <color=orange>미탐사</color> 멤브레인찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在伺服器資料庫中搜尋<color=orange>未探索</color>的膜面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在服务器数据库中搜索<color=orange>未探索</color>的位面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.SubObjective.Insight.Zone08_R8C1",
+  "internalEnabled": true,
+  "persistentID": 337308193
+}

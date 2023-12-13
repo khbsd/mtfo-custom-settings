@@ -1,0 +1,54 @@
+{
+  "publicName": "Flare",
+  "LocalizedName": 0,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 2,
+  "inventorySlot": 5,
+  "FPSSettings": 23,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 0,
+  "ConsumableAmmoMax": 0,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare_payload.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare_payload.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare_Pickup.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare_payload.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/Flare/Consumable_Flare.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "Consumable_Flare",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "Consumable_Flare",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_Flare",
+  "internalEnabled": true,
+  "persistentID": 113
+}

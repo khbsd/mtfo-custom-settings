@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hide Syringe Needles\n<size=70%><color=red>(REQUIRES RESTART!)</color></size>",
+  "Description": "A game option that hides the syringes in the game, for people who have Trypanophobia (i.e. an extreme fear of medical procedures involving injections or hypodermic needles.) Do not alter the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cacher l'aiguille des seringues\n<size=70%><color=red>(NÉCESSITE UN REDÉMARRAGE\u00A0!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nascondi aghi da siringa\n<size=70%><color=red>(NECESSITA DI RIAVVIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Injektionsnadel ausblenden\n<size=70%><color=red>(ERFORDERT NEUSTART!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ocultar agujas de jeringuillas\n<size=70%><color=red>(HAY QUE REINICIAR EL JUEGO)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скрыть шприцы\n<size=70%><color=red>(ТРЕБУЕТСЯ ПЕРЕЗАГРУЗКА)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esconder agulhas de seringa\n<size=70%><color=red>(REINÍCIO NECESSÁRIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ukryj igły strzykawek\n<size=70%><color=red>(WYMAGANE PONOWNE URUCHOMIENIE!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "注射器の針を隠す\n<size=70%><color=red>（再起動が必要です！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주사 바늘 숨기기\n<size=70%><color=red>(재시작 필요!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "隱藏注射器針頭\n<size=70%><color=red>（需要重新啟動！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "隐藏注射器针头\n<size=70%><color=red>（需要重启！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HideSyringeNeedles",
+  "internalEnabled": true,
+  "persistentID": 79
+}

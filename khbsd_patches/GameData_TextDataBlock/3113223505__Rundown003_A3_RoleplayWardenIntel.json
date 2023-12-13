@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..They keep coming..!\r\n<size=200%><color=red>>..keep firing..! </color></size>\r\n>..wait..what the hell is this?! ..spread out and search!\r\n",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... Il y en a partout\u00A0! \r\n<size=200%><color=red>>... continuez à tirer\u00A0! </color></size>\r\n>... attendez, c'est quoi ce truc\u00A0?! ... On se sépare pour le chercher\u00A0!\r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...Continuano ad arrivare...!\r\n<size=200%><color=red>>...continua a sparare...! </color></size>\r\n>...un attimo...che diavolo è questo?! ...sparpagliamoci e perlustriamo!\r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Da kommen immer mehr …!\r\n<size=200%><color=red>>… Hört nicht auf zu schießen …! </color></size>\r\n>… Wartet … Was zur Hölle ist das?! … Ausschwärmen und suchen!\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> ¡No dejan de salir!\r\n<size=200%><color=red>> ¡Sigue disparando! </color></size>\r\n> ¿Eh? ¡¿Qué narices es esto?! ¡Hay que separarse y empezar a buscar!\r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Они приближаются!\r\n<size=200%><color=red>>...Стреляй! </color></size>\r\n>...Стой. Это что за ерунда? Всем рассредоточиться и обыскать местность!\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">.. Eles não acabam..!\r\n<size=200%><color=red>>.. continuem atirando..! </color></size>\r\n>.. calma.. que merda é essa?! .. vamos nos dividir e procurar!\r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...Wciąż się zlatują...!\r\n<size=200%><color=red>>...strzelać dalej...! </color></size>\r\n>...chwila.. co to, do cholery?! ...rozdzielić się i szukać!\r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..あいつらがどんどんやって来る..!\r\n<size=200%><color=red>>..射撃をやめるな..！ </color></size>\r\n>..待て..こいつは何なんだ！？ ..手分けして探せ！\r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..놈들이 계속 온다..!\r\n<size=200%><color=red>>..계속 쏴..! </color></size>\r\n>..잠깐... 이게 뭐야?! 흩어져서 수색해!\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…一直出現……！\r\n<size=200%><color=red>>…繼續開火……！</color></size>\r\n>…等等……這到底是什麼？！散開搜查！\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..它们没完没了啊……！\r\n<size=200%><color=red>>..继续开火……！</color></size>\r\n>..等等……这是什么鬼东西？！分散搜索！\r\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_A3_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3113223505
+}

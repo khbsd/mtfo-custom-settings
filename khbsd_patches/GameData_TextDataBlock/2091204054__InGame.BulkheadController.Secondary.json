@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECONDARY",
+  "Description": "Secondary objective level",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SECONDAIRE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SECONDARIO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SEKUNDÄR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECUNDARIO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВТОР.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SECUNDÁRIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POBOCZNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadController.Secondary",
+  "internalEnabled": true,
+  "persistentID": 2091204054
+}

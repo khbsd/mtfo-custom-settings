@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "C-foam portion",
+  "Description": "I.e. how much C-foam a person can get out of a C-foam launcher. A user who has a high value on their \"C-foam portion\" attribute, you will get more C-foam out of a C-foam launcher than others.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Portion de mousse C",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dose di schiuma C",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "C-Foam-Menge",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Porción de espuma-C",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Объем пены",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porção de espuma de carbono",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Porcja pianki konstrukcyjnej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Cフォーム量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "C-폼 용량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "C-Foam量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "结沫分量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.GlueEfficiencyName",
+  "internalEnabled": true,
+  "persistentID": 589
+}

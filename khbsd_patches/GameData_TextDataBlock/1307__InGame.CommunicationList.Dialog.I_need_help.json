@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I need help",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "J'ai besoin d'aide",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mi serve aiuto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich brauche Hilfe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesito ayuda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужна помощь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preciso de ajuda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebuję pomocy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "手を貸してくれ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 좀 도와줘",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我需要幫忙",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我需要帮助",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_need_help",
+  "internalEnabled": true,
+  "persistentID": 1307
+}

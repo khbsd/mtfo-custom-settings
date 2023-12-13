@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PING SUCCESS. {0} found in {1} {2}",
+  "Description": "{0} is an item name. Example: HSU_123\n{1} is the zone, ZONE_123\n{2} is the area, AREA_A",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "REQUÊTE PING RÉUSSIE. {0} trouvé(e) dans la {1} {2}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PING RIUSCITO. {0} trovato in {1} {2}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PING ERFOLGREICH. {0} in {1}, {2} gefunden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ÉXITO DE PING. {0} encontrado en {1} {2}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Успешный пинг. Предмет {0} найден: зона {1}, область {2}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SUCESSO DE PING. encontrou {0} em {1} {2}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POWODZENIE OZNACZANIA. {0} – znaleziono w strefie {1}, {2}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PING成功。{0}が{1} {2}で見つかった",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑 성공. {1} {2}에서 {0} 발견",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記成功。在{1} {2}找到{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记成功。在{1} {2}中找到{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.PING_SUCCESS_X_found_in_Y_Z",
+  "internalEnabled": true,
+  "persistentID": 363196258
+}

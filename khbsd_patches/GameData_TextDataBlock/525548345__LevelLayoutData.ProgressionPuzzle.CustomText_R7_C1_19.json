@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners dispatched to locate Glucagon peptide hormone vials. Limited vision due to unknown gas. Exit route blocked.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Prisonniers déployés pour localiser les fioles d’hormone peptidique Glucagon. Visibilité limitée en raison de la présence d’un gaz inconnu. Voie de sortie bloquée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati a cercare le fiale dell'ormone peptidico glucagone. Visione limitata a causa di gas sconosciuto. Via di uscita bloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gefangene entsandt, um Ampullen mit Glucagon-Peptidhormonen zu lokalisieren. Eingeschränkte Sicht aufgrund von unbekanntem Gas. Fluchtweg blockiert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prisioneros destinados a buscar viales de hormona peptídica glucagón. Visión limitada debido a gas desconocido. Salida bloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным приказано отыскать емкости с глюкагоноподобным пептидом-1. Видимость ограничена из-за неизвестного газа. Маршрут отхода заблокирован.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros despachados para localizar tubos de hormônio peptídeo Glicagina. Visão limitada devido a gás desconhecido. Rota de saída bloqueada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Więźniowie wysłani w celu odnalezienia fiolek z hormonem peptydu glukagonowego. Nieznany gaz ogranicza widoczność. Zablokowana droga wyjścia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人たちはグルカゴンホルモンの小瓶を探すために派遣された。正体不明のガスにより視界不良。出口は塞がれている。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 글루카곤 펩타이드 호르몬 바이알 수색에 배치됨. 알 수 없는 가스로 시야 제한. 출구 경로 차단.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已派出囚犯前往定位升糖素肽賀爾蒙藥瓶。不知名氣體瀰漫，視野有限，撤離路線受阻。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "派囚犯去寻找胰高血糖素样肽激素瓶。未知气体导致视野受限。出口路线受阻。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_19",
+  "internalEnabled": true,
+  "persistentID": 525548345
+}

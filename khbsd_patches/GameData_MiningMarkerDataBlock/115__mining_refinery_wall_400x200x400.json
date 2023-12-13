@@ -1,0 +1,140 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        8
+      ],
+      [
+        0,
+        4,
+        1,
+        2,
+        5
+      ],
+      [],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2,
+        5,
+        3,
+        4
+      ],
+      [
+        0,
+        4,
+        2,
+        5,
+        1
+      ],
+      [],
+      [
+        1,
+        2,
+        5,
+        0,
+        4
+      ],
+      [
+        0,
+        4,
+        1,
+        2,
+        5
+      ],
+      [
+        0,
+        4,
+        1,
+        2,
+        5
+      ],
+      [],
+      [],
+      [
+        0,
+        4
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_01.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_02.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_03.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_04.prefab",
+        "function": 7,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_05.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_06.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_HA_07.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1E-06,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_wall_4x2x4/refinery_wall_4x2x4_bulk_V01.prefab",
+        "function": 0,
+        "Shard": 14
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_wall_4x2x4",
+    "BoundingVolume": 32000.0
+  },
+  "name": "mining_refinery_wall_400x200x400",
+  "internalEnabled": true,
+  "persistentID": 115
+}

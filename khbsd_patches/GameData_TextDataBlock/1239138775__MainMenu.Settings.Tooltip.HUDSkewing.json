@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the amount of curve on your HUD ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle l'effet de courbe de l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la quantità di curvatura sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Krümmung auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la cantidad de curva de la interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует степень искажения HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a quantidade de curva na interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za stopień przekrzywienia elementów interfejsu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUDの曲がり具合を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD의 굴곡 정도를 제어합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制抬頭顯示器的曲線量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制平视显示上的弯曲量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HUDSkewing",
+  "internalEnabled": true,
+  "persistentID": 1239138775
+}

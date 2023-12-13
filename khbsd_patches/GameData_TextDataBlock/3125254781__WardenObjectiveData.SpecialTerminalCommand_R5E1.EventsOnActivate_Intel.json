@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Step into the extraction bioscan",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrez dans le bioscan d'extraction",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Entrare nel bio-scanner di estrazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Betreten Sie den Extraktion-Bioscan.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Adéntrate en el bioescáner de extracción",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Войдите в биосканер точки выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entre no bioescâner de extração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wejdź do bioskanu ewakuacyjnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脱出バイオスキャンに足を踏み入れろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탈출 바이오스캔에 들어가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "踏入撤離生物掃描範圍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "踏入撤离生物扫描范围",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R5E1.EventsOnActivate_Intel",
+  "internalEnabled": true,
+  "persistentID": 3125254781
+}

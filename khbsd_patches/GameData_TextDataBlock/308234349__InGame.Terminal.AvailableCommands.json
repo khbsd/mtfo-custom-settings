@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Available Commands:",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Commandes disponibles\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comandi disponibili:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verfügbare Befehle:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comandos disponibles:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доступные команды:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comandos disponíveis:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostępne polecenia:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "利用可能なコマンド：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사용 가능 명령:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可用指令：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可用命令：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.AvailableCommands",
+  "internalEnabled": true,
+  "persistentID": 308234349
+}

@@ -1,0 +1,134 @@
+{
+  "localPosHip": {
+    "x": 0.088,
+    "y": -0.09,
+    "z": 0.35,
+    "normalized": {
+      "x": 0.236593351,
+      "y": -0.241970479,
+      "z": 0.9409962,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.371946216,
+    "sqrMagnitude": 0.13834399
+  },
+  "localRotHip": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": -5.0,
+  "localPosRelaxed": {
+    "x": 0.056,
+    "y": -0.12,
+    "z": 0.32,
+    "normalized": {
+      "x": 0.1617012,
+      "y": -0.346502572,
+      "z": 0.9240069,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.346317768,
+    "sqrMagnitude": 0.119936
+  },
+  "localRotRelaxed": {
+    "x": 8.0,
+    "y": -15.33,
+    "z": -30.5,
+    "normalized": {
+      "x": 0.228175133,
+      "y": -0.4372406,
+      "z": -0.8699177,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 35.0607872,
+    "sqrMagnitude": 1229.25891
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": -0.05,
+    "z": 0.5,
+    "normalized": {
+      "x": 0.0,
+      "y": -0.09950372,
+      "z": 0.995037138,
+      "normalized": {
+        "x": 0.0,
+        "y": -0.0995037258,
+        "z": 0.9950372,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 0.5024938,
+    "sqrMagnitude": 0.2525
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 10.0,
+    "z": 0.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 10.0,
+    "sqrMagnitude": 100.0
+  },
+  "ItemCameraFOVDefault": 34,
+  "ItemCameraFOVZoom": 15,
+  "LookCameraFOVZoom": 50,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 2.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 1,
+  "RecoilAnimation": 26,
+  "IdleAnimation": 21,
+  "WalkAnimation": 9,
+  "RunAnimation": 16,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 7.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 20.0
+  },
+  "name": "Sniper",
+  "internalEnabled": true,
+  "persistentID": 5
+}

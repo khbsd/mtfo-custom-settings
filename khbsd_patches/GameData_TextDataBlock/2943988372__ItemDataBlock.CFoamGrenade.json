@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "C-Foam Grenade",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Grenade à mousse C",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Granata schiuma C",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "C-Foam-Granate",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Granada de espuma-C",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пенная граната",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Granada de espuma de carbono",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Granat C-Foam",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Cフォームグレネード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "C-폼 수류탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "C-Foam榴彈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "结沫榴弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.CFoamGrenade",
+  "internalEnabled": true,
+  "persistentID": 2943988372
+}

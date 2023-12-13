@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Collect Microdrive",
+  "Description": "I.e. \"collect the microdrive here\" A text that appears on screen when the player is standing close to a prop (the microdrive) that they can pick up.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez le microdisque",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere microdrive",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie das Mikrolaufwerk ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoge microdrive",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заберите микродиск.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coletar Microdrive",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz mikronapęd",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マイクロドライブを回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마이크로드라이브 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集微型硬碟[Microdrive]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集微型硬盘[Microdrive]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.PickUpFlashDrive_R8C1",
+  "internalEnabled": true,
+  "persistentID": 419977286
+}

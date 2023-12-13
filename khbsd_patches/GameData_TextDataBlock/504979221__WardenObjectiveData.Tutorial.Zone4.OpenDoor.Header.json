@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Extraction point",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Point d'évacuation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Punto di estrazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Extraktionspunkt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Punto de extracción",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Точка выхода",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ponto de extração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Punkt ewakuacyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脱出地点",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탈출 지점",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Tutorial.Zone4.OpenDoor.Header",
+  "internalEnabled": true,
+  "persistentID": 504979221
+}

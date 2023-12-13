@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Please",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "S’il vous plaît",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Per favore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bitte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Por favor",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пожалуйста",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Por favor",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Proszę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "頼む",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부탁한다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拜託",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拜托",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.CommunicationList.Dialog.Please",
+  "internalEnabled": true,
+  "persistentID": 1528636081
+}

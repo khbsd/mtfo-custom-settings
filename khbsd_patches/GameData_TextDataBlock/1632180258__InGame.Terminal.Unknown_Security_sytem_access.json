@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unknown Security sytem access, Reverting user access to default security protocol",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Accès au système de sécurité non reconnu. Rétablissement du protocole de sécurité par défaut pour l'accès utilisateur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso al sistema di sicurezza sconosciuto, ripristino accesso utente al protocollo di sicurezza predefinito.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Unbekannter Zugriff auf Sicherheitssystem, Benutzerzugriff wird auf Standard-Sicherheitsprotokoll zurückgesetzt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso al sistema de seguridad desconocido, revirtiendo acceso del usuario al protocolo de seguridad por defecto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Попытка неавторизованного доступа к системе безопасности. Уровень доступа пользователя возвращен к протоколу безопасности по умолчанию.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso de sistema de segurança desconhecido; revertendo acesso do usuário para o protocolo de segurança padrão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nieznany dostęp do systemu zabezpieczeń, przywracanie domyślnego protokołu bezpieczeństwa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不明なセキュリティシステムアクセス、ユーザーアクセスをデフォルトセキュリティプロトコルに復帰中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알 수 없는 보안 시스템 접속. 사용자 접속을 기본 보안 프로토콜로 복구",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未知安全系統存取，正在將使用者存取權還原為預設安全協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未知安全系统权限，正在将用户权限还原为默认安全协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Unknown_Security_sytem_access",
+  "internalEnabled": true,
+  "persistentID": 1632180258
+}

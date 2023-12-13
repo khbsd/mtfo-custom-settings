@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lockdown disengaged - door to <color=orange>[ZONE 44]</color> unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage désactivé - Porte vers la <color=orange>[ZONE\u00A044]</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento disattivato - Porta per <color=orange>zona 44 [ZONE_44]</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelung deaktiviert – Tür zu <color=orange>[ZONE 44]</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia desactivado. La puerta a la <color=orange>[ZONE 44]</color> está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим изоляции выключен. Дверь в <color=orange>[ZONE 44]</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento removido - porta para a <color=orange>[ZONE 44]</color> destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada wyłączona – drzwi do <color=orange>strefy 44 [ZONE 44]</color> odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックダウン解除 - <color=orange>[ZONE 44]</color>へのドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 해제 - <color=orange>[ZONE 44]</color> 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封鎖已解除 - 通往<color=orange>44區[ZONE_44]</color>的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封锁已解除 - <color=orange>44区[ZONE_44]</color>门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.TerminalGather_3_R5A3_L1.EventsOnGotoWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 737498421
+}

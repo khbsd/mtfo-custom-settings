@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Read more (external link)",
+  "Description": "The button text that open up a webpage about The General Data Protection Regulation (GDPR)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "En savoir plus (lien externe)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Leggi di più (link esterno)",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mehr Infos (Externer Link)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Leer más (vínculo externo)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подробнее (external link)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leia mais (link externo)",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czytaj więcej (zewnętrzne łącze)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "詳細を見る（外部リンク）",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자세히 보기(외부 링크)",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "閱讀更多（外部連結）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阅读更多（外部链接）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.UnityPrivacy_ReadMore",
+  "internalEnabled": true,
+  "persistentID": 1453
+}

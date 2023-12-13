@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Players Only",
+  "Description": "category name for player handled by a person, not a computer.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Joueurs uniquement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Solo giocatori",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nur Spieler",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Solo jugadores",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Только игроки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Apenas jogadores",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tylko gracze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーのみ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플레이어 한정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "僅限玩家",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "仅玩家",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Permissions.Human",
+  "internalEnabled": true,
+  "persistentID": 1150
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY CLEARANCE",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "HABILITATION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AUTORIZZAZIONE SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSFREIGABE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "AUTORIZACIÓN DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "LIBERAÇÃO DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UPRAWNIENIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティクリアランス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 인가",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全許可",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全许可",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SECURITY_CLEARANCE",
+  "internalEnabled": true,
+  "persistentID": 3050360610
+}

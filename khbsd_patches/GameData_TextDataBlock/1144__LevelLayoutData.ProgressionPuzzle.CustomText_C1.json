@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown. Reset security protocol at a nearby terminal to operate.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. Réinitialisez le protocole de sécurité sur un terminal proche pour déverrouiller.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. Reimpostare protocollo di sicurezza in un terminale vicino per azionarla.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Setzen Sie das Sicherheitsprotokoll an einem nahegelegenen Terminal zurück, um sie zu öffnen.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta en cierre de emergencia. Reinicia el protocolo de seguridad en una terminal cercana para operar.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Для разблокировки обнулите протокол безопасности на ближайшем терминале.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento de emergência. Reinicie o protocolo de segurança em um terminal próximo para operá-la.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Aby sterować, zresetuj protokół bezpieczeństwa w pobliskim terminalu.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアは緊急封鎖中。作動させるには付近の端末でセキュリティプロトコルをリセット。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 비상 폐쇄 상태입니다. 작동하려면 근처의 터미널에서 보안 프로토콜을 초기화하십시오.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態。在附近的終端重設安全協定以進行操作。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁中。在附近终端上重置安全协议以操作。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_C1",
+  "internalEnabled": true,
+  "persistentID": 1144
+}

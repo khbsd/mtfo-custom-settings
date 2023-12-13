@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PROVISION",
+  "Description": "The name of a category of boosters that affect the subject's health.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROVISION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCORTE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PROVIANT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ABASTECIMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОДОВОЛЬСТВИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SUPRIMENTOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZAOPATRZENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プロビジョン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보급",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "給養",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生命",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.HealthSupportRevive",
+  "internalEnabled": true,
+  "persistentID": 706
+}

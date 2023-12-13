@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Sentry",
+  "Description": "A sentry gun category. A \"burst sentry\" will fire in bursts at targets.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tourelle rafale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torretta a raffica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoß-Sentry",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centinela de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пулеметная турель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sentinela explosiva",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Salwowe działko wartownicze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストセントリー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버스트 센트리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.BurstName",
+  "internalEnabled": true,
+  "persistentID": 777
+}

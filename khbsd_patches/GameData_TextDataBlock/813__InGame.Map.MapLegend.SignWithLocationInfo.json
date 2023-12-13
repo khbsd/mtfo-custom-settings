@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sign with location info",
+  "Description": "Part of the map \"legend\" (icon explanations.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Panneau d'information",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cartello con info posizione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schild mit Zoneninfo",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Señal con información de ubicación",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Знак с данными о локации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Placa com informações do local",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znak z danymi lokalizacyjnymi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "場所情報記号",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "위치 정보 표지판",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "地點資訊標誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "地点信息标志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.SignWithLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 813
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Stick Up",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick gauche (haut)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Levetta sinistra su",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linker Stick nach oben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Stick izquierdo arriba",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левый мини-джойстик вверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direcional esquerdo para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy drążek w górę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左スティック上",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "L 스틱 위",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左搖桿上",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左摇杆向上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.LeftStickUp",
+  "internalEnabled": true,
+  "persistentID": 973
+}

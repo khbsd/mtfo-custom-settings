@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gamepad",
+  "Description": "The headline for gamepad related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Manette",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controller",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gamepad",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mando",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Геймпад",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Gamepad",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kontroler",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GamepadHeading",
+  "internalEnabled": true,
+  "persistentID": 81
+}

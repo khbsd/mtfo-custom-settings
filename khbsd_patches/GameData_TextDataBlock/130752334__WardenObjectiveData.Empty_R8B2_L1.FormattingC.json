@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Format Data Cubes <color=orange>2</color>/<color=orange>3</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Formatez les cubes de données [DATA_CUBE]\u00A0: <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Formattare i cubi di dati [DATA_CUBE]: <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Datenwürfel [DATA_CUBE] formatieren <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Formateo de cubos de datos [DATA CUBE] <color=orange>2</color>/<color=orange>3</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отформатируйте кубы данных [DATA_CUBE] (<color=orange>2</color>/<color=orange>3</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Formatar Cubos de Dados [DATA_CUBE] <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sformatuj kostki danych [DATA_CUBES] <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]をフォーマットしろ <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 포맷 <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "格式化資料方塊[DATA_CUBE] <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "格式化数据立方[DATA_CUBE] <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.FormattingC",
+  "internalEnabled": true,
+  "persistentID": 130752334
+}

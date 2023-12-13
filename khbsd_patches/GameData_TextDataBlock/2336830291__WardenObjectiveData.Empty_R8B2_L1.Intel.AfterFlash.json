@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING:</color> <color=yellow>Security Breach. Alarm activated.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0:</color> <color=yellow>Faille de sécurité. Alarme enclenchée.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE:</color> <color=yellow>violazione della sicurezza. Allarme attivato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG:</color> <color=yellow>Sicherheitslücke. Alarm aktiviert.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA:</color> <color=yellow>Brecha de seguridad. Alarma activada</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> <color=yellow>Нарушение безопасности. Включен сигнал тревоги.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO:</color> <color=yellow>Violação de segurança. Alarme desativado.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE:</color> <color=yellow>naruszenie bezpieczeństwa. Alarm aktywowany.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：</color><color=yellow>セキュリティ違反。警報が作動。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color> <color=yellow>보안 침입 발생. 경보 활성화됨.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color><color=yellow>安全入侵。警報已啟動。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color><color=yellow>安全侵入。警报已启动。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.Intel.AfterFlash",
+  "internalEnabled": true,
+  "persistentID": 2336830291
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Zone 193</color> Security disabled.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Niveau de sécurité de la <color=orange>zone\u00A0193</color> diminué.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sicurezza <color=orange>ZONE 193</color> disattivata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsstufe von <color=orange>Zone 193</color> herabgesetzt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seguridad de la <color=orange>Zone 193</color> desactivada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система безопасности в <color=orange>зоне 193</color> отключена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segurança da <color=orange>Zone 193</color> reduzida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyłączono zabezpieczenia <color=orange>strefy 193 [ZONE_193]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 193</color>セキュリティ無効。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 193</color> 보안 비활성화됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>Zone 193</color>安全系統已停用。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 193</color>安全措施已禁用。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Intel.Security.Disabled_R7D1",
+  "internalEnabled": true,
+  "persistentID": 1869294549
+}

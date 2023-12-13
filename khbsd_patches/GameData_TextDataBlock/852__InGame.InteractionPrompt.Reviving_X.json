@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reviving {0}",
+  "Description": "I.e. \"reviving the teammate\", i.e. helping a downed teammate back up. This text is shown on screen as the player carries out the action.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réanimation de\u00A0{0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rianimazione: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wird wiederbelebt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resucitando a {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОЗРОЖДЕНИЕ...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Revivendo {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Reanimujesz: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} を復活中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 소생 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在幫{0}復活",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在复活{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.Reviving_X",
+  "internalEnabled": true,
+  "persistentID": 852
+}

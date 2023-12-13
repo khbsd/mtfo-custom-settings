@@ -1,0 +1,281 @@
+{
+  "officialForRelease": false,
+  "publicName": "[RR] TechMan Defense [SP] [AT] Rifle [TP] ",
+  "baseItemID": 54,
+  "weaponPersonalityID": 3,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": true,
+      "archetypeID": 1,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 7,
+      "partName": "Rifle_AR15_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [
+    {
+      "allowed": true,
+      "ID": 9,
+      "partName": "AR15_Stock",
+      "macroText": ""
+    },
+    {
+      "allowed": true,
+      "ID": 4,
+      "partName": "AKM_Stock"
+    },
+    {
+      "allowed": true,
+      "ID": 74,
+      "partName": "FNC_Stock",
+      "macroText": ""
+    }
+  ],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": true,
+      "ID": 5,
+      "partName": "AR15_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 6,
+      "partName": "AR15_Barrel_ModA"
+    },
+    {
+      "allowed": true,
+      "ID": 75,
+      "partName": "AR15_Mod_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 77,
+      "partName": "Rifle_Makeshift_OverhandGrip_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": true,
+      "ID": 8,
+      "partName": "AR15_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 20,
+      "partName": "GasParts_Receiver_a"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight",
+      "macroText": "Hi Power Light"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "flashlight_small_halogen",
+      "macroText": "Halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "flashlight_small_incandescent",
+      "macroText": "Incandscent"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "flashlight_small_led",
+      "macroText": "LED"
+    },
+    {
+      "allowed": true,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    },
+    {
+      "allowed": false,
+      "ID": 137,
+      "partName": "Tool_FlashlightSmall_b"
+    },
+    {
+      "allowed": true,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 52,
+      "partName": "WPN_NavTech_Sight",
+      "macroText": "NAVTech"
+    },
+    {
+      "allowed": true,
+      "ID": 47,
+      "partName": "FlipUpSight_a_rear",
+      "macroText": "Hopper"
+    },
+    {
+      "allowed": true,
+      "ID": 48,
+      "partName": "FlipUpSight_b_rear",
+      "macroText": "Skipper"
+    },
+    {
+      "allowed": true,
+      "ID": 49,
+      "partName": "FlipUpSight_c_rear",
+      "macroText": "Japper"
+    },
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    },
+    {
+      "allowed": true,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    },
+    {
+      "allowed": true,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    },
+    {
+      "allowed": true,
+      "ID": 81,
+      "partName": "Sight_Rear_Makeshift_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": true,
+      "ID": 114,
+      "partName": "Grip_Straight_a"
+    },
+    {
+      "allowed": false,
+      "ID": 5,
+      "partName": "Rifle_AR15_Barrel"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": true,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": true,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": true,
+      "ID": 107,
+      "partName": "muzzle_c"
+    },
+    {
+      "allowed": true,
+      "ID": 109,
+      "partName": "muzzle_d"
+    },
+    {
+      "allowed": true,
+      "ID": 110,
+      "partName": "muzzle_e"
+    },
+    {
+      "allowed": true,
+      "ID": 111,
+      "partName": "muzzle_f"
+    },
+    {
+      "allowed": true,
+      "ID": 112,
+      "partName": "muzzle_silencer_a"
+    }
+  ],
+  "magazinesAllowed": [
+    {
+      "allowed": true,
+      "ID": 139,
+      "partName": "magazine_rifle_angled_medium"
+    },
+    {
+      "allowed": true,
+      "ID": 140,
+      "partName": "magazine_rifle_bent_medium"
+    },
+    {
+      "allowed": true,
+      "ID": 141,
+      "partName": "magazine_rifle_bent_medium_quick"
+    },
+    {
+      "allowed": true,
+      "ID": 142,
+      "partName": "magazine_rifle_curved_large"
+    },
+    {
+      "allowed": true,
+      "ID": 143,
+      "partName": "magazine_rifle_curved_medium"
+    },
+    {
+      "allowed": true,
+      "ID": 144,
+      "partName": "magazine_rifle_drum_large"
+    }
+  ],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": false,
+  "allowEmptyMagazineSlot": false,
+  "name": "Basic_AR15",
+  "internalEnabled": true,
+  "persistentID": 1
+}

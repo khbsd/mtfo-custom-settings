@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quarantine lifted. Proceed through <color=orange>ZONE 27</color> to the forward exit.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Levée de la quarantaine. Passez par la <color=orange>ZONE\u00A027</color> pour atteindre la sortie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Quarantena revocata. Procedere attraverso la <color=orange>ZONE 27</color> fino all'uscita anteriore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Quarantäne aufgehoben. Passieren Sie <color=orange>ZONE 27</color> und begeben Sie sich zum vorderen Ausgang.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cuarentena eliminada. Continúa por la <color=orange>ZONE 27</color> hasta la salida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Карантин снят. Проследуйте в <color=orange>ZONE 27</color> к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Quarentena removida. Avance para a <color=orange>ZONE 27</color> para alcançar a saída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kwarantanna zniesiona. Przejdź przez <color=orange>strefę 27 [ZONE_27]</color> do wysuniętego punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隔離解除。<color=orange>ZONE 27</color>の先の出口へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "격리 해제됨. <color=orange>ZONE 27</color>로 진입해 전방 출구로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "隔離已解除。由<color=orange>ZONE 27</color>前往前進出口。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "隔离已解除。通过<color=orange>ZONE 27</color>去往前出口。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_11",
+  "internalEnabled": true,
+  "persistentID": 1065744766
+}

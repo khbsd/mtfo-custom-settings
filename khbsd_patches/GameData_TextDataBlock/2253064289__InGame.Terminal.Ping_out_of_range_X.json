@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ping out of range. Get to {0} to get close enough to find the item.",
+  "Description": "{0} is the zone the item is located in.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Ping hors de portée. Rendez-vous dans la {0} pour vous rapprocher de l'objet recherché.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ping fuori portata. Raggiungere {0} per avvicinarsi abbastanza da trovare l'oggetto.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ping außer Reichweite. Gehen Sie zu {0}, um die Distanz zu verringern und das Ziel zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ping fuera del alcance. Ve a {0} para acercarte lo bastante como para encontrar el objeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вне зоны пинга. Отправляйтесь в {0}, чтобы сократить расстояние и найти предмет.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marcação fora do alcance. Chegue a {0} para ficar perto o suficiente e encontrar o item.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poza zasięgiem oznaczania. Przejdź do strefy {0} w celu zbliżenia się wystarczająco, aby znaleźć przedmiot.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PING範囲外。{0}へ行き、十分に近づいてアイテムを見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑 범위 벗어남. {0}(으)로 이동해 아이템을 찾을 수 있을 만큼 접근하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記超出範圍。前往{0}縮短距離以找到物品。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记超出范围。前往{0}以缩短距离，从而找到物品。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Ping_out_of_range_X",
+  "internalEnabled": true,
+  "persistentID": 2253064289
+}

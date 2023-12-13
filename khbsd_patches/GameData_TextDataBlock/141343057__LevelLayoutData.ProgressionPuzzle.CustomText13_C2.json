@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Disinfection station in <color=orange>ZONE 127</color> detected. Proceed through zone to decontaminate.",
+  "Description": "Don't localize FOG_TURBINE and ZONE_119.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Station de désinfection détectée dans <color=orange>ZONE\u00A0127</color>. Passez par la zone pour décontaminer.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilevata stazione di disinfezione nella <color=orange>ZONE 127</color>. Procedere attraverso la zona da decontaminare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Desinfektionsstation in <color=orange>ZONE 127</color> entdeckt. Durchqueren Sie zum Dekontaminieren die Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puesto de desinfección <color=orange>ZONE 127</color> detectado. Avanza por la zona para eliminar la polución.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В <color=orange>ZONE 127</color> обнаружена станция дезинфекции. Проследуйте в зону, чтобы пройти процедуру обеззараживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estação de desinfecção detectada na <color=orange>ZONE 127</color>. Continue pela zona para descontaminar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykryto stację odkażania w <color=orange>strefie 127 [ZONE_127]</color>. Przejdź do strefy w celu poddania się dekontaminacji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 127</color> に浄化ステーションを検出。ゾーンを進み浄化しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 127</color>의 오염 제거 스테이션이 탐지됐습니다. 해당 구역으로 이동해 오염을 제거하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>ZONE 127</color>偵測到消毒站。繼續通過該區進行淨化。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 127</color>检测到消毒站。穿过区域进行净化。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText13_C2",
+  "internalEnabled": true,
+  "persistentID": 141343057
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unity Privacy Option",
+  "Description": "The title of a button that will open up a webpage about The General Data Protection Regulation (GDPR)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Option de confidentialité d'Unity",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Opzione Privacy Unity",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Datenschutzoptionen von Unity",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Opción de privacidad de Unity",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Настройки конфиденциальности Unity",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Opção de privacidade da Unity",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Polityka prywatności Unity",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Unityプライバシーオプション",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Unity 개인정보 보호 옵션",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Unity隱私權選項",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Unity隐私选项",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.UnityPrivacyOption",
+  "internalEnabled": true,
+  "persistentID": 1442
+}

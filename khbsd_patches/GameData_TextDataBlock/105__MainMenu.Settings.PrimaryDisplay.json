@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Primary Display\n<size=70%><color=red>(REQUIRES RESTART!)</color></size>",
+  "Description": "A game setting that controls what monitor (if the user has multiple) is the primary one. Don't alter the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Écran principal\n<size=70%><color=red>(NÉCESSITE UN REDÉMARRAGE\u00A0!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schermo principale\n<size=70%><color=red>(NECESSITA DI RIAVVIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primäre Anzeige\n<size=70%><color=red>(ERFORDERT NEUSTART!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla principal\n<size=70%><color=red>(HAY QUE REINICIAR EL JUEGO)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Основной экран\n<size=70%><color=red>(ТРЕБУЕТСЯ ПЕРЕЗАГРУЗКА)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Monitor primário\n<size=70%><color=red>(REINÍCIO NECESSÁRIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ekran główny\n<size=70%><color=red>(WYMAGANE PONOWNE URUCHOMIENIE!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メインディスプレイ\n<size=70%><color=red>（再起動が必要です！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 디스플레이\n<size=70%><color=red>(재시작 필요!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要顯示器\n<size=70%><color=red>（需要重新啟動！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主显示器\n<size=70%><color=red>（需要重启！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PrimaryDisplay",
+  "internalEnabled": true,
+  "persistentID": 105
+}

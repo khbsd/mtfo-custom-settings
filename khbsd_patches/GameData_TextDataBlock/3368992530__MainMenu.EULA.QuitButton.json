@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quit",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quitter",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esci",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verlassen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выйти",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sair",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyjdź",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Quit",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.EULA.QuitButton",
+  "internalEnabled": true,
+  "persistentID": 3368992530
+}

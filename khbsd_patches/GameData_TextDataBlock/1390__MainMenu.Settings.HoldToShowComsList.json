@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hold to show Coms list",
+  "Description": "A gameplay setting for players",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Maintenir pour afficher les interactions",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tieni premuto per lista comunicazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halten, um Kommandoliste anzuzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mantén pulsado para ver el menú de interacción",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удерживать, чтобы показать список команд",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segurar para mostrar lista de frases",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przytrzymaj, aby wyświetlić listę komunikatów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "長押しで定型文リストを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "길게 누르기: 통신 목록 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按住以顯示通訊清單",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住以显示通讯列表",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.HoldToShowComsList",
+  "internalEnabled": true,
+  "persistentID": 1390
+}

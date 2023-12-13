@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Extract data-core on local system and transfer data to portable unit.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Extraie le noyau de données sur le système local et transfère les données vers l'unité portable.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estrarre nucleo dati su sistema locale e trasferirli all'unità portatile.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Extrahieren Sie den Datenkern an einem lokalen System und übertragen Sie die Daten auf ein tragbares Gerät.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extrae el núcleo de datos del sistema local y transfiere los datos a una unidad portátil.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлеките ядро данных на локальной системе и передайте данные на портативное устройство.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extraia o núcleo de dados no sistema local e transfira os dados para a unidade portátil.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wypakuj rdzeń danych w lokalnym systemie i przenieś dane na jednostkę przenośną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカルシステムでデータコアを抽出し、データを携帯ユニットへ転送しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로컬 시스템에서 데이터 코어를 추출하고 휴대 유닛으로 데이터 이전",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在本地系統擷取資料核，將資料傳輸到攜帶式裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在本地系统上提取数据核，将数据传输到便携单元。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.GatherTerminalCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 2347745459
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Invert Mouse",
+  "Description": "A headline for the game setting where you invert the mouse Y axis.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inverser la souris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inverti mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus umkehren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Invertir ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инверсия мыши",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inverter mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odwrócenie kierunków myszy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス反転",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 반전",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反轉滑鼠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反转鼠标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.InvertMouse",
+  "internalEnabled": true,
+  "persistentID": 89
+}

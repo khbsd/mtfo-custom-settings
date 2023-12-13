@@ -1,0 +1,24 @@
+{
+  "General": {
+    "PublicName": "Gun Stock 2",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Precision_4.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Precision_2_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 1,
+    "RightHandGripAnim": "DefaultGrip",
+    "AssetBundle": 40,
+    "BundleShard": 11
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_Precision_4",
+  "internalEnabled": true,
+  "persistentID": 2
+}

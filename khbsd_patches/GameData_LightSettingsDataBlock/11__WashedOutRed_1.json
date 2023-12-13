@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.7,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 0.0,
+        "r": 0.7254902,
+        "g": 0.600280643,
+        "b": 0.593450963
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.853000045,
+        "g": 0.6778507,
+        "b": 0.542508
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.783000052,
+        "g": 0.7317738,
+        "b": 0.635013044
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.6,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.858823538,
+        "b": 0.5921569
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.6,
+      "ChanceBroken": 0.05,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.858823538,
+        "b": 0.5921569
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.9265239,
+        "b": 0.7877358
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.7,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.868000031,
+        "g": 0.811580062,
+        "b": 0.703080058
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    }
+  ],
+  "name": "WashedOutRed_1",
+  "internalEnabled": true,
+  "persistentID": 11
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PRISONER EVALUATION:",
+  "Description": "A headline for a medical evaluation of the prisoner's vitals: E.g. infection level, mental status, etc.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ÉVALUATION DU PRISONNIER\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VALUTAZIONE PRIGIONIERO:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GEFANGENER-BEWERTUNG:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EVALUACIÓN DEL PRISIONERO:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СОСТОЯНИЕ ЗАКЛЮЧЕННОГО:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVALIAÇÃO:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BADANIE WIĘŹNIÓW:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人の評価:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 평가:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯評估：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯评估：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.PrisonerEvaluation",
+  "internalEnabled": true,
+  "persistentID": 898
+}

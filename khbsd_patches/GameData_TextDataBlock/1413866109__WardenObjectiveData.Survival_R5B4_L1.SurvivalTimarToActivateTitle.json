@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING!</color> Warden Protocol <color=orange>E.v1</color> will commence in: ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0!</color> Le protocole <color=orange>E.v1</color> du gardien commencera dans\u00A0: ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE!</color> Il protocollo Guardiano <color=orange>E.v1</color> inizierà tra: ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG!</color> Aufseher-Protokoll <color=orange>E.v1</color> beginnt in: ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡ADVERTENCIA!</color> El protocolo del guardián de\u00A0<color=orange>E.v1</color> comenzará en: ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> Протокол смотрителя <color=orange>E.v1</color> будет запущен через: ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO!</color> Protocolo de guarda <color=orange>E.v1</color> começando em: ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE!</color> Protokół strażnika <color=orange>E.v1</color> rozpocznie się za: ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告！</color>ウォーデンプロトコル<color=orange>E.v1</color>開始まで： ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고!</color> 교도관 프로토콜 <color=orange>E.v1</color> 발동까지: ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告！</color>典獄長協定<color=orange>E.v1</color>開始時間： ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告！</color>督察协议<color=orange>E.v1</color>开始倒计时： ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.SurvivalTimarToActivateTitle",
+  "internalEnabled": true,
+  "persistentID": 1413866109
+}

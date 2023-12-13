@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Page Up",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Page haut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pag Su",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Seite nach oben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Re Pág",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Page Up",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Page Up键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.PageUp",
+  "internalEnabled": true,
+  "persistentID": 224
+}

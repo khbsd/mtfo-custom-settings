@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..are we really putting it in that.. thing..?\r\n>..just shut up and get on with it already! \r\n<size=200%><color=red>>We've got ..INCOMING!!</color></size>\r\n [gunfire]\r\n",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... On doit vraiment le mettre dans ce... truc...\u00A0?\r\n>... Fermez-la et faites-le\u00A0!\r\n<size=200%><color=red>> On a encore... ATTENTION\u00A0!</color></size>\r\n [coups de feu]\r\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...dobbiamo davvero metterlo in quella... cosa...?\r\n>...stai zitto e vai avanti! \r\n<size=200%><color=red>>Abbiamo... OSTILI!</color></size>\r\n [spari]\r\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Leges wir es wirklich in dieses … Ding …?\r\n>… Halt einfach die Klappe und mach schon!\r\n<size=200%><color=red>>… Achtung … ANGRIFF!!</color></size>\r\n[Schüsse]\r\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> ¿De verdad lo vamos a meter en esa... cosa?\r\n> ¡Venga, hazlo de una vez! \r\n<size=200%><color=red>> ¡¡Vamos allá!!</color></size>\r\n [disparos]\r\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Мы и правда сунем его в эту... штуку?\r\n>Заткнись и выполняй приказ!\r\n<size=200%><color=red>>Мы же... В УКРЫТИЕ!</color></size>\r\n [выстрелы]\r\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">.. a gente vai colocar ele mesmo naquela.. coisa..?\r\n>.. cale a boca e coloque logo! \r\n<size=200%><color=red>>Temos .. CHEGANDO!!</color></size>\r\n [tiros]\r\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...na pewno chcemy je tam... włożyć...?\r\n>...przestań paplać i bierz się do roboty! \r\n<size=200%><color=red>>...NADCHODZĄ!</color></size>\r\n [strzały]\r\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..本当にそれを.. その中に入れるのか..?\r\n>..黙って手を動かせ！\r\n<size=200%><color=red>>またあいつらが ..来る！！</color></size>\r\n [銃声]\r\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..저걸... 정말 넣는다고..?\r\n>..닥치고 빨리 하기나 해! \r\n<size=200%><color=red>>...온다!</color></size>\r\n [총성]\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…真的要放進那個……東西裡嗎？\r\n>…閉嘴，快照做！\r\n<size=200%><color=red>>…有人……進攻！</color></size>\r\n[槍聲]\r\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..我们真的要把它放在那……玩意儿里面？\r\n>..闭嘴，赶紧干活！\r\n<size=200%><color=red>>有东西……来了！！</color></size>\r\n [炮火声]\r\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_B2_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3103540076
+}

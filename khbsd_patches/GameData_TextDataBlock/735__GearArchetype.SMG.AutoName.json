@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SMG",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SMG",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mitra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MP",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Subfusil",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пистолет-пулемет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Submetralhadora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabinek automatyczny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "SMG",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "SMG",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "衝鋒槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冲锋枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.AutoName",
+  "internalEnabled": true,
+  "persistentID": 735
+}

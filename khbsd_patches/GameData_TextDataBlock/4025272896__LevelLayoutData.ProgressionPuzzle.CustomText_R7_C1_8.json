@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Clearance failed. </color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>Habilitation refusée.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Autorizzazione fallita. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Freigabe fehlgeschlagen.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Autorización fallida. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Проверка не пройдена.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Falha na liberação. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Brak uprawnień. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>クリアランス失敗</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>승인 실패 </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>許可失敗。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>许可失败。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_8",
+  "internalEnabled": true,
+  "persistentID": 4025272896
+}

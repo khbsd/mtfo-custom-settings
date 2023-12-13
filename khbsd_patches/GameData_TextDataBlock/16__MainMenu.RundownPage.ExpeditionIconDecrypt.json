@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "://err: UNABLE TO DECRYPT; QP_%: 66,1‬",
+  "Description": "An error message of sorts. Only translate the words \"UNABLE TO DECRYPT\".",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "‬",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 0,
+  "name": "MainMenu.RundownPage.ExpeditionIconDecrypt",
+  "internalEnabled": true,
+  "persistentID": 16
+}

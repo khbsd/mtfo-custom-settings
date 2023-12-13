@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] GLP-1 canisters and return the point of entrance.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rassemblez [COUNT_REQUIRED]\u00A0bombes de GLP-1 et retournez au point d’entrée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] bombole GLP-1 e tornare al punto d'ingresso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] GLP-1-Kanister und kehren Sie zum Eintrittspunkt zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] recipientes de GLP-1 y vuelve al punto de entrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите канистры с ГПП-1 ([COUNT_REQUIRED]) и возвращайтесь к месту начала экспедиции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] recipientes GLP-1 e retorne ao ponto de entrada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz kanistry GLP-1 ([COUNT_REQUIRED]) i powróć do punktu wejścia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]個のGLP-1缶を集め、入口へ戻れ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "GLP-1 용기 [COUNT_REQUIRED]개를 수집해 진입점으로 복귀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集[COUNT_REQUIRED]GLP-1罐並返回入口。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]个GLP-1罐并返回入口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.MainObjective_R7B2_L2",
+  "internalEnabled": true,
+  "persistentID": 675660474
+}

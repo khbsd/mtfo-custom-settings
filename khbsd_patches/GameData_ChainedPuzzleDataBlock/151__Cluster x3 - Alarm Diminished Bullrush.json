@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Cluster Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 126,
+  "SurvivalWavePopulation": 13,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 15.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 9
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Cluster x3 - Alarm Diminished Bullrush",
+  "internalEnabled": true,
+  "persistentID": 151
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">Artifact Heat at {0}, potential booster results:{1}",
+  "Description": "An text string that informs the player of the \"artifact heat\" on the current expedition/mission. \"{0]\" is a placeholder for the \"artifact heat\" value, and \"{1}\" is a placeholder for a word that sums up the probability of the player being rewarded with a booster, e.g. \"poor\", \"strong\" etc.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": ">Intensité d'artefact\u00A0: {0}, résultats de booster potentiels\u00A0: {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">Probabilità manufatto a {0}, possibile esito potenziamento:{1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">Artefakt-Hitze bei {0}, mögliche Booster-Ergebnisse:{1}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">Calor de artefacto en {0}, posibles resultados del potenciador:{1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество <nobr>артефактов — {0}.</nobr> Потенциал <nobr>усилителя — {1}</nobr>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">Probabilidade de artefato em {0}, possíveis resultados de impulso:{1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">Ciepło artefaktów wynosi {0}, potencjalny współczynnik wzmacniaczy:{1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "> {0} でアーティファクトヒート、ブースター入手可能性:{1}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">아티팩트 온도 {0}, 잠재적 부스터 결과:{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">寶物熱度為{0}，可能強化劑結果：{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">红晶热力值为{0}，获得强化剂可能性：{1}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.ElevatorRide.ArtifactHeat_X_Result_Y",
+  "internalEnabled": true,
+  "persistentID": 802
+}

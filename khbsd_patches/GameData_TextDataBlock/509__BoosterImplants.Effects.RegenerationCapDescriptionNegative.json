@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject's health regeneration cap is lowered.",
+  "Description": "Describes the disadvantage of having a poor \"regeneration cap\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le plafond de régénération de santé du sujet est réduit.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il livello massimo di rigenerazione del soggetto è diminuito.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesundheitsregeneration-Obergrenze der Versuchsperson wird gesenkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reduce el límite de regeneración de salud del sujeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Макс. уровень регенерации понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O limite de regeneração de vida do indivíduo é reduzido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Limit regeneracji zdrowia biorcy zostaje obniżony.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の体力リジェネ上限が下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 체력 재생 한도가 낮아졌습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的生命值恢復上限已降低。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生命值恢复上限降低。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RegenerationCapDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 509
+}

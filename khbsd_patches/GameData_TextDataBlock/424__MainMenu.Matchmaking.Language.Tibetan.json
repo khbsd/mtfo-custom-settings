@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tibetan",
+  "Description": "A language spoken in the Tibet Autonomous Region of China.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tibétain",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tibetano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tibetisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tibetano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тибетский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tibetano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tybetański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チベット語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "티벳어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "藏文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "藏语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Tibetan",
+  "internalEnabled": true,
+  "persistentID": 424
+}

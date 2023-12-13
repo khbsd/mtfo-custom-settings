@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scale",
+  "Description": "A game setting determining the size of a HUD element.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scala",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Skalierung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Размер",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escala",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozmiar",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スケール",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비율 크기 조정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "缩放",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDScale",
+  "internalEnabled": true,
+  "persistentID": 130
+}

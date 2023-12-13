@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_5] unlocked by startup sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_5] déverrouillée par la séquence de démarrage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_5] sbloccata da sequenza avvio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_5] durch Startsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la [ZONE_5] está desbloqueada con una secuencia de arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска разблокировал дверь в [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_5] destrancada pela sequência de inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 5 [ZONE_5] odblokowane przez sekwencję rozruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5] へのドアが始動シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시동 절차에 의해 [ZONE_5] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_5]的門已由啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往[ZONE_5]的门已由启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_6_FAST_R4E1_L2.Reactor_Wave_4.Warden_Intel_1",
+  "internalEnabled": true,
+  "persistentID": 3008887862
+}

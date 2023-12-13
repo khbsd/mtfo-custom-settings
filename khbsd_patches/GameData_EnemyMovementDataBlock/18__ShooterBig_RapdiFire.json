@@ -1,0 +1,23 @@
+{
+  "ForceDisableAnimator": false,
+  "AnimationControllers": -4080,
+  "MoveSlowerWhenInPlayerRoom": false,
+  "MoveSlowerWithinTargetDistance": 20.0,
+  "GlobalAnimSpeedMulti": 1.5,
+  "PathMoveAnimSpeedMulti": 1.0,
+  "RotationLerp": 3.0,
+  "RotationLerpWhenNotMoving": 0.0,
+  "BlendIntoAttackAnim": 0.4,
+  "BlendIntoScreamAnim": 0.15,
+  "AllowMovmentBlendOutOfPathMove": false,
+  "PathMoveAnimDampTime": 0.05,
+  "AllowClimbDownLadders": false,
+  "LocomotionPathMove": 2,
+  "LocomotionHitReact": 7,
+  "LocomotionDead": 11,
+  "LocomotionShooterAttack": 18,
+  "LocomotionScream": 16,
+  "name": "ShooterBig_RapdiFire",
+  "internalEnabled": true,
+  "persistentID": 18
+}

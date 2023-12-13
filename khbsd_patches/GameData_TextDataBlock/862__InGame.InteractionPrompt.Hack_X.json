@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hack {0}",
+  "Description": "I.e. \"hack this locker.\" This text string appears on screen when the player is standing near a prop (e.g. a box or a locker) with a lock that can be hacked. The \"{0}\" will be replaced with the word for the prop, don't alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pirater {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Forza {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} hacken",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hackear {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Взломать {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Hackear {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hakuj: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}をハッキング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 해킹",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "破解{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "侵入{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Hack_X",
+  "internalEnabled": true,
+  "persistentID": 862
+}

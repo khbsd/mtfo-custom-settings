@@ -1,0 +1,84 @@
+{
+  "eventOnSemiFire2D": [
+    "PrecisionBodyA2D",
+    "PrecisionMechA2D",
+    "PrecisionNoiseA2D",
+    "PrecisionWet2D",
+    "sniper_kick_semi_a"
+  ],
+  "eventOnBurstFire2D": [
+    "PrecisionBodyA2D",
+    "PrecisionMechA2D",
+    "PrecisionNoiseA2D",
+    "PrecisionWet2D"
+  ],
+  "eventOnAutoFireStart2D": [
+    "PrecisionBodyAutoA2D",
+    "PrecisionMechAutoA2D ",
+    "PrecisionNoiseAutoA2D ",
+    "PrecisionWetAuto2D"
+  ],
+  "eventOnAutoFireEnd2D": [
+    "PrecisionAutoEnd2D"
+  ],
+  "eventOnBurstFireOneShot2D": [],
+  "eventOnChargeup2D": [
+    "PrecisionChargeUp"
+  ],
+  "eventOnCooldown2D": [
+    "PrecisionChargeUpEnd"
+  ],
+  "eventOnChargeupEnd2D": "PrecisionChargeUpEnd",
+  "eventOnCooldownEnd2D": "PrecisionCooldownEnd",
+  "eventOnSemiFire3D": [
+    "PrecisionBodyA3D",
+    "PrecisionMechA3D",
+    "PrecisionNoiseA3D",
+    "PrecisionWet3D"
+  ],
+  "eventOnBurstFire3D": [
+    "PrecisionBodyA3D",
+    "PrecisionMechA3D",
+    "PrecisionNoiseA3D",
+    "PrecisionWet3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "PrecisionBodyAutoA3D",
+    "PrecisionBodyMechA3D",
+    "PrecisionBodynoiseA3D",
+    "PrecisionBodyAutoA3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "PrecisionAutoEnd3D"
+  ],
+  "eventOnChargeup3D": [
+    "PrecisionChargeUp"
+  ],
+  "eventOnCooldown3D": [
+    "PrecisionCooldown"
+  ],
+  "eventOnChargeupEnd3D": "PrecisionChargeUpEnd",
+  "eventOnCooldownEnd3D": "PrecisionCooldownEnd",
+  "eventOnSyncedBurstFirePerShot3D": [
+    "PrecisionBodyA3D",
+    "PrecisionMechA3D",
+    "PrecisionNoiseA3D",
+    "PrecisionWet3D"
+  ],
+  "eventOnSyncedAutoFirePerShot3D": [
+    "PrecisionBodyA3D",
+    "PrecisionMechA3D",
+    "PrecisionNoiseA3D",
+    "PrecisionWet3D"
+  ],
+  "eventClick": "PrecisionDryFire",
+  "eventReload": "PrecisionReload",
+  "TriggerBurstAudioForEachShot": true,
+  "TriggerAutoAudioForEachShot": false,
+  "eventEquip": "PrecisionEquip",
+  "eventZoomIn": "PrecisionZoomIn",
+  "eventZoomOut": "PrecisionZoomOut",
+  "name": "Sniper",
+  "internalEnabled": true,
+  "persistentID": 36
+}

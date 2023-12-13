@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Audio playback done, exiting..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Lecture du fichier audio terminée, fermeture...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riproduzione audio terminata. Uscita.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Audiowiedergabe abgeschlossen, beende ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reproducción de audio terminada, saliendo...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Воспроизведение закончено. Выход...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reprodução de áudio concluída; saindo..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odtwarzanie dźwięku zakończone, zamykanie..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "音声再生完了、終了中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오디오 재생 완료. 종료 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "音訊播放完成，正在退出……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "音频播放完成，正在退出……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Audio_playback_done_exiting",
+  "internalEnabled": true,
+  "persistentID": 969391738
+}

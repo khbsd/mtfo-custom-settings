@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machine translation complete:",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Traduction automatique terminée\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Traduzione automatica completata:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinenübersetzung abgeschlossen:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Traducción automática completada:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Машинный перевод выполнен:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tradução automática concluída:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tłumaczenie maszynowe ukończone:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "機械翻訳完了:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기계 번역 완료:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機器翻譯完成：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "机器翻译完成：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Machine_translation_complete",
+  "internalEnabled": true,
+  "persistentID": 3629828109
+}

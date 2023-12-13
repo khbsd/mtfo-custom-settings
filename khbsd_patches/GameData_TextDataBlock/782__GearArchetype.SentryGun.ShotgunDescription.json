@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deployable\nAutomatic enemy detection\nShort range\nIncreased efficacy for biotracked targets",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployable\nDétection automatique des ennemis\nCourte portée\nEfficacité accrue sur les cibles du bio-traceur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schierabile\nRilevamento automatico nemici\nGittata breve\nMaggiore efficacia per i bersagli bio-localizzati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsetzbar\nAutomatische Feinderkennung\nKurze Reichweite\nErhöhte Effizienz für mit dem Biotracker überwachte Ziele",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Implementable\nDetección automática del enemigo\nCorto alcance\nEficacia aumentada para objetivos biorrastreados",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стационарное оружие\nАвтораспознавание врагов\nМалая дальность\nПовышенная эффективность против биологически отслеживаемых целей",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Possível alocar\nDetecção automática do inimigo\nCurto alcance\nEficácia aumentada para alvos biorrastreados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozstawiana\nAutomatyczne wykrywanie przeciwników\nKrótki zasięg\nWiększa skuteczność przeciw biowykrywanym celom",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "配置可能\n自動敵探知\n近距離\nバイオトラックターゲットに対する増大した効果",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배치 가능\n자동 적 감지\n단거리\n생체 추적 대상에 대한 효력 증가",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可部署\n自動敵人偵測\n短程\n生物追蹤目標效率提高",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可部署\n自动探测敌人\n近程\n对生物追踪目标的效果提升",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.SentryGun.ShotgunDescription",
+  "internalEnabled": true,
+  "persistentID": 782
+}

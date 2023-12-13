@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Power",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leistung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encendido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Питание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Power",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Power",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "パワー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "파워",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Power",
+  "internalEnabled": true,
+  "persistentID": 1002
+}

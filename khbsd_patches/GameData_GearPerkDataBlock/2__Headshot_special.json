@@ -1,0 +1,43 @@
+{
+  "PerkSpecials": [
+    {
+      "Type": 0,
+      "TypeValue1": 2.0,
+      "TypeValue2": 0.0,
+      "TypeValue3": 0.0
+    }
+  ],
+  "ModFirerate": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModDamage": {
+    "Active": true,
+    "Min": 0.9,
+    "Max": 0.9,
+    "Cost": 0.0
+  },
+  "ModReloadTime": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModRange": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "ModHandling": {
+    "Active": false,
+    "Min": 0.0,
+    "Max": 0.0,
+    "Cost": 0.0
+  },
+  "name": "Headshot_special",
+  "internalEnabled": true,
+  "persistentID": 2
+}

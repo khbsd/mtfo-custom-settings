@@ -1,0 +1,17 @@
+{
+  "FeedbackMeleeHitNormal": 54,
+  "FeedbackMeleeHitHard": 55,
+  "InitialFoley": 2073762258,
+  "SwishRegularLeft": 2890166778,
+  "SwishRegularRight": 3458054257,
+  "SwishRegularDelay": 0.0,
+  "SwishHeavy": 927521118,
+  "ShoveHit": 3798843809,
+  "Charge": 4190435732,
+  "Charged": 2182337294,
+  "ChargedCancelWarning": 746759770,
+  "PlayerCancelCharge": 2073762258,
+  "name": "Spear",
+  "internalEnabled": true,
+  "persistentID": 3
+}

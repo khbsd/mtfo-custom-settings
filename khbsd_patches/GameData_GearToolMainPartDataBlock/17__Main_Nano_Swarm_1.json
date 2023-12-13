@@ -1,0 +1,21 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Main/Main_Nano_Swarm_1.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 80,
+    "BundleShard": 0
+  },
+  "Aligns": [
+    {
+      "AlignType": 15,
+      "AlignName": "Geo_Tracker_1_Targeting"
+    },
+    {
+      "AlignType": 16,
+      "AlignName": "Geo_Tracker_1_Screen"
+    }
+  ],
+  "name": "Main_Nano_Swarm_1",
+  "internalEnabled": true,
+  "persistentID": 17
+}

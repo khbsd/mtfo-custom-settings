@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Confirms a timed verification connection.\nExample: CONFIRM_TIMED_CONNECTION 811, will confirm the incoming connection from Terminal_811.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Confirme une connexion de vérification limitée.\nExemple\u00A0: CONFIRM_TIMED_CONNECTION 811 confirmera la connexion entrante du Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Conferma una connessione di verifica temporizzata.\nEsempio: CONFIRM_TIMED_CONNECTION 811 confermerà la connessione in entrata da Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bestätigt eine zeitlich begrenzte Verifizierungsverbindung.\nBeispiel: CONFIRM_TIMED_CONNECTION 811 bestätigt die eingehende Verbindung von Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Confirma una conexión de verificación cronometrada.\nEjemplo: CONFIRM_TIMED_CONNECTION 811 confirmará la conexión entrante desde Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подтверждает синхронизированное соединение верификации.\nНапример, команда CONFIRM_TIMED_CONNECTION 811 подтвердит входящее соединение от терминала Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confirma uma conexão de verificação cronometrada.\nExemplo: CONFIRM_TIMED_CONNECTION 811 confirma a conexão de entrada do Terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdza czasowe połączenie weryfikacyjne.\nPrzykład: polecenie CONFIRM_TIMED_CONNECTION 811 potwierdzi połączenie przychodzące z terminal_811.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証接続を確認する。\n例 CONFIRM_TIMED_CONNECTION 811は、Terminal_811から受ける接続を確認する",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 검증 연결 확인\n예: CONFIRM_TIMED_CONNECTION 811, 터미널_811에서 받는 연결을 확인합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確認定時驗證連線。\n範例：CONFIRM_TIMED_CONNECTION 811，將確認來自終端Terminal_811的連線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "确认定时验证连接。\n例：“CONFIRM_TIMED_CONNECTION 811”将确认来自终端Terminal_811的连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ConfirmTimedConnectionHelp",
+  "internalEnabled": true,
+  "persistentID": 3204120238
+}

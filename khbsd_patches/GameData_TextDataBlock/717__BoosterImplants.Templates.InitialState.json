@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SOLID",
+  "Description": "The name of a category of boosters that affect how much resources the subject carries at the start of an expedition/mission.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SOLIDE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SOLIDITÀ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SOLIDE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ROBUSTEZ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВМЕСТИТЕЛЬНОСТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CARGA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UDŹWIG",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ソリッド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "튼튼함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "牢固",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "充足",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.InitialState",
+  "internalEnabled": true,
+  "persistentID": 717
+}

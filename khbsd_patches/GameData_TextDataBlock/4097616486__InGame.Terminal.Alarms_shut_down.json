@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Alarms shut down.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Alarmes désactivées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Allarmi spenti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alarme deaktiviert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alarmas desactivadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сигнализация отключена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alarmes desligados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Alarmy wyłączone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警報シャットダウン完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경보가 꺼졌습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警報已關閉。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警报已关闭。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Alarms_shut_down",
+  "internalEnabled": true,
+  "persistentID": 4097616486
+}

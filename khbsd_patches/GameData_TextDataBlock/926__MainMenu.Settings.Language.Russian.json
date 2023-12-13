@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Русский",
+  "Description": "The language they speak in Russia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Русский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Language.Russian",
+  "internalEnabled": true,
+  "persistentID": 926
+}

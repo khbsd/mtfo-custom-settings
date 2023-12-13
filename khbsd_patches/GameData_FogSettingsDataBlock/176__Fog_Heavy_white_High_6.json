@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.03137255,
+    "r": 0.6167675,
+    "g": 0.791291356,
+    "b": 0.7924528
+  },
+  "FogDensity": 0.02,
+  "FogAmbience": 0.0001,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "DensityNoiseSpeed": 0.1,
+  "DensityNoiseScale": 0.131,
+  "DensityHeightAltitude": 18.75,
+  "DensityHeightRange": 0.05,
+  "DensityHeightMaxBoost": 0.0175,
+  "Infection": 0.0,
+  "name": "Fog_Heavy_white_High_6",
+  "internalEnabled": true,
+  "persistentID": 176
+}

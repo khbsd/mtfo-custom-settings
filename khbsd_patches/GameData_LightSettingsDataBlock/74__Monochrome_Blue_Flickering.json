@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.7,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.539153,
+        "g": 0.6495059,
+        "b": 0.804
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.6,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.329411775,
+        "g": 0.423421621,
+        "b": 0.6901961
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.656937063,
+        "g": 0.7113734,
+        "b": 0.783000052
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.539153,
+        "g": 0.6495059,
+        "b": 0.804
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.804285,
+        "g": 0.834937334,
+        "b": 0.879
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 1.0,
+        "g": 0.266666681,
+        "b": 0.266666681
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.279412,
+        "g": 0.3886275,
+        "b": 0.475999981
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.5,
+      "ChanceBroken": 1.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.2784314,
+        "g": 0.507810056,
+        "b": 0.7607843
+      },
+      "IntensityMul": 0.8,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Monochrome_Blue_Flickering",
+  "internalEnabled": true,
+  "persistentID": 74
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for zone connections on doors to find [ZONE_7] ",
+  "Description": "Don't localize [ZONE_7]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Cherchez les connections de zone sur les portes pour trouver la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare le connessioni di zona sulle porte per trovare [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie nach Zonenverbindungen an Türen [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca conexiones de zona en las puertas para encontrar la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разыщите обозначения зон на дверях и найдите [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure as conexões de ZONE nas portas para encontrar a [ZONE_7] ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź połączenia stref na drzwiach, aby znaleźć strefę 7 [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアのゾーン接続を探して [ZONE_7] を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문의 구역 연결부를 이용해 [ZONE_7] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "查看門上的連接區以尋找[ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在门上寻找区域关联以找到[ZONE_7] ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_GoToZone_Help",
+  "internalEnabled": true,
+  "persistentID": 1437
+}

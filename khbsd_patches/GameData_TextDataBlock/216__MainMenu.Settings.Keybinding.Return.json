@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retour",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Invio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eingabe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Intro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Return",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enter",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Return",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Enter",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Return",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Enter",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Return键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Return",
+  "internalEnabled": true,
+  "persistentID": 216
+}

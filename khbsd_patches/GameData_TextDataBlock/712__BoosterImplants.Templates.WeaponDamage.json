@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "STIM SHOT",
+  "Description": "The name of a category of boosters that affect how much damage the subject can deal with firearms.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "STIMULANT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INIEZ. STIMOL.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STIM-SCHUSS",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DISPARO ESTIMULANTE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УБОЙНОСТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESTIMULANTES",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STYMULANT",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スティムショット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스팀 샷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "興奮劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "火力",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.WeaponDamage",
+  "internalEnabled": true,
+  "persistentID": 712
+}

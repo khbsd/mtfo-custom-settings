@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Player Shadows",
+  "Description": "Controls whether player models cast shadows or not.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ombres des joueurs",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ombre giocatori",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spielerschatten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sombras del jugador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тени игрока",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sombras de jogador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cienie graczy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーの影",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플레이어 그림자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "玩家陰影",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "玩家阴影",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PlayerShadows",
+  "internalEnabled": true,
+  "persistentID": 1458
+}

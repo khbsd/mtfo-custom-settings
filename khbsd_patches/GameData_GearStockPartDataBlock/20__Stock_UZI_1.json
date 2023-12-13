@@ -1,0 +1,32 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_UZI_1.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_UZI_1_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Stock_UZI_1",
+    "RightHandGripAnim": "Stock_UZI_1",
+    "AssetBundle": 40,
+    "BundleShard": 8
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand_Stock"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_UZI_1",
+  "internalEnabled": true,
+  "persistentID": 20
+}

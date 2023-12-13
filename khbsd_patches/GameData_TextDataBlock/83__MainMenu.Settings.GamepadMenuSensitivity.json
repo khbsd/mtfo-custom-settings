@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gamepad Menu Sensitivity",
+  "Description": "A headline for the game setting where you choose how sensitive the gamepad is in the game's menus.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sensibilité de la manette (menu)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità controller nel menu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gamepad-Menüempfindlichkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sensibilidad en menús (mando)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность геймпада в меню",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sensibilidade de menu do gamepad",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość w menu – kontroler",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッドメニュー感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 메뉴 감도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器選單靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄菜单灵敏度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GamepadMenuSensitivity",
+  "internalEnabled": true,
+  "persistentID": 83
+}

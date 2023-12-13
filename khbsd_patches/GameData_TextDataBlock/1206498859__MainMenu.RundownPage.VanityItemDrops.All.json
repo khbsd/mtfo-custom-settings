@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ALL",
+  "Description": "Refers to ALL sectors being completed/cleared.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TOUS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TUTTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ALLE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TODOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВСЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TUDO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WSZYSTKIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全て",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전체",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全部",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "所有",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemDrops.All",
+  "internalEnabled": true,
+  "persistentID": 1206498859
+}

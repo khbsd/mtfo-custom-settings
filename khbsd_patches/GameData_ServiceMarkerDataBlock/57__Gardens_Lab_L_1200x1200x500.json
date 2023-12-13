@@ -1,0 +1,112 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        1,
+        3,
+        2,
+        0
+      ],
+      [],
+      [],
+      [
+        1,
+        3,
+        2,
+        0
+      ],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [],
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        3,
+        2,
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        1,
+        2,
+        3
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_L_1200x1200x500/Gardens_Lab_L_1200x1200x500_V01.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_L_1200x1200x500/Gardens_Lab_L_1200x1200x500_V02.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_L_1200x1200x500/Gardens_Lab_L_1200x1200x500_V04.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Lab_L_1200x1200x500/Gardens_Lab_L_1200x1200x500_V05.prefab",
+        "function": 0,
+        "Shard": 11
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 4.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Gardens_Lab_L_1200x1200x1000",
+    "BoundingVolume": 720000.0
+  },
+  "name": "Gardens_Lab_L_1200x1200x500",
+  "internalEnabled": true,
+  "persistentID": 57
+}

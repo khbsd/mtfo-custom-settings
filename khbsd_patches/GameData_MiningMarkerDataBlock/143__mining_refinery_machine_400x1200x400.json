@@ -1,0 +1,141 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        6,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [],
+      [
+        6
+      ],
+      [
+        6
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        6,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        6,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        6,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [],
+      [],
+      [
+        6
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V01.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V02.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V03.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V04.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V05.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V06.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_machine_400x1200x400/refinery_machine_400x1200x400_V07.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 14
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_machine_400x1400x400",
+    "BoundingVolume": 192000.0
+  },
+  "name": "mining_refinery_machine_400x1200x400",
+  "internalEnabled": true,
+  "persistentID": 143
+}

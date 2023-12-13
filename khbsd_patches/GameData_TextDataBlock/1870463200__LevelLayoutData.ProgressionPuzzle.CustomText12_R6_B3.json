@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency power supply unit: <color=orange>ONLINE.</color> Door to <color=orange>ZONE 186</color> unlocked.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Unité d'alimentation de secours\u00A0: <color=orange>EN LIGNE</color>. Porte vers la <color=orange>ZONE\u00A0186</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimentatore di emergenza: <color=orange>ONLINE.</color> Porta per <color=orange>ZONE 186</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notstromversorgungseinheit: <color=orange>ONLINE</color> Tür zu <color=orange>ZONE 186</color> entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Unidad eléctrica de apoyo: <color=orange>ACTIVADA.</color> La puerta a la <color=orange>ZONE 186</color> se ha desbloqueado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аварийный источник питания: <color=orange>ВКЛЮЧЕН</color>. Дверь в <color=orange>ZONE 186</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Unidade de fornecimento elétrico de emergência: <color=orange>ONLINE</color> Porta para a <color=orange>ZONE 186</color> destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Awaryjna jednostka zasilająca: <color=orange>WŁĄCZONA.</color> Drzwi do <color=orange>strefy 186 [ZONE_186]</color> odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急電力供給ユニット：<color=orange>オンライン。</color> <color=orange>ZONE 186</color>へのドアの封鎖を解除。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 파워 서플라이 유닛: <color=orange>온라인</color> <color=orange>ZONE 186</color> 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緊急電源裝置：<color=orange>上線</color>。<color=orange>ZONE 186</color>的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "应急电源装置：<color=orange>在线</color>。<color=orange>ZONE 186</color>门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText12_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 1870463200
+}

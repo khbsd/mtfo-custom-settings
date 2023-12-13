@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Gun",
+  "Description": "A firearm category. \"HEL\" stands for \"Hybrid Electrothermal Light-gas\", which is the propulsion system that launches the weapon's projectiles.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Canon HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пушка HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Arma HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.HELGunName",
+  "internalEnabled": true,
+  "persistentID": 737
+}

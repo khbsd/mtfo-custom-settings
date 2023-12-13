@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III S Cluster Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 250,
+  "SurvivalWavePopulation": 17,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 20.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 16
+    },
+    {
+      "PuzzleType": 16
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Sustained Far Separated x3 - Alarm Reduced Bullrush Mix_R5D1",
+  "internalEnabled": true,
+  "persistentID": 233
+}

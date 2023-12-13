@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Caps Lock",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verr. maj",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bloc Maiusc",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feststelltaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bloq Mayús",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Caps Lock",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大写锁定键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.CapsLock",
+  "internalEnabled": true,
+  "persistentID": 240
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Effects",
+  "Description": "A headline for a text informing the reader about the effects of a booster (a performance enhancing drug). Effects can be both positive and negative.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Effets",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Effetti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Effekte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Efectos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффект",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Efeitos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efekty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "効果",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "효과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "效果",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "效果",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Effects",
+  "internalEnabled": true,
+  "persistentID": 503
+}

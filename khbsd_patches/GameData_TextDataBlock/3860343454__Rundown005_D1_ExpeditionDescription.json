@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security protocol prohibiting sub-level exploration. Prisoners sent to install override executable in local reactor. High resource loss expected. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le protocole de sécurité empêche l'accès aux niveaux inférieurs. Prisonniers envoyés pour installer un exécutable de neutralisation dans le réacteur local. Taux de mortalité\u00A0: élevé. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il protocollo di sicurezza vieta l'esplorazione del livello inferiore. Prigionieri inviati per installare l'eseguibile di override nel reattore locale. Prevista elevata perdita di risorse. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsprotokoll verbietet Erkundung von Unterebenen. Gefangene entsandt, um Override-Datei im lokalen Reaktor zu installieren. Hohe Ressourcenverluste erwartet. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El protocolo de seguridad prohíbe la exploración del nivel inferior. Prisioneros destinados para instalar un reemplazo ejecutable en el reactor local. Se espera una elevada pérdida de recursos. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Протокол безопасности препятствует исследованию подуровня. Заключенным поручено установить обход блокировки на локальном реакторе. Ожидается существенная потеря ресурсов. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Protocolo de segurança proibindo exploração de subnível. Prisioneiros enviados para instalar substituição executável no reator local. Alta perda de recursos esperada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Protokół bezpieczeństwa uniemożliwiający eksplorację podpoziomów. Wysłano więźniów w celu zainstalowania pliku wykonywalnego w lokalnym reaktorze. Spodziewana duża utrata zasobów. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティプロトコルにより、下位レベル探索禁止。現場リアクターのオーバーライド実行装置設置のため囚人を派遣。高リソース損失が予想される。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하위 레벨 탐사를 금지하는 보안 프로토콜. 수감자들을 보내 로컬 반응로에 재정의 실행 파일을 설치하도록 했습니다. 높은 자원 손실이 예상됩니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全協定禁止下層探索。已派遣囚犯將覆蓋可執行程式安裝到本地反應器。預計資源損失率高。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全协议在阻止下层探索。囚犯派去将覆盖可执行程序安装到本地反应堆中。预计资源损失率高。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_D1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 3860343454
+}

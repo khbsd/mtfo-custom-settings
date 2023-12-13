@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 228,
+  "SurvivalWavePopulation": 47,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 11.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 4
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Small Cluster x3 - Alarm Bullrush - R1C2",
+  "internalEnabled": true,
+  "persistentID": 195
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subsurface Scattering",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Transluminescence",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Diffusione traslucenza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Untergrund-Streuung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dispersión subsuperficial",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подповерхностное рассеивание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dispersão de subsuperfície",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpraszanie podpowierzchniowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サブサーフェススキャタリング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서브서피스 스캐터링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "地下散射",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次表面散射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SubsurfaceScattering",
+  "internalEnabled": true,
+  "persistentID": 919
+}

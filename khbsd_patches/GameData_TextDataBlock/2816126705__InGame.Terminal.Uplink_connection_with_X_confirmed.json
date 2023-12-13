@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Uplink connection with {0} confirmed. Starting Uplink.",
+  "Description": "{0} is the name of a terminal, like TERMINAL_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Connexion de liaison montante avec {0} confirmée. Initialisation de la liaison montante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Connessione uplink con {0} confermata. Avvio di uplink.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Uplink-Verbindung mit {0} bestätigt. Uplink wird initiiert ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Conexión de uplink con {0} confirmada. Iniciando uplink.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установка подключения к терминалу {0} подтверждена. Начинается подключение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Conexão de uplink com {0} confirmada. Iniciando uplink.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdzono połączenie z {0}. Rozpoczęcie połączenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}とのアップリンク接続を確認。アップリンク開始中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 업링크 연결 확인됨. 업링크 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "與{0}的上行鏈路連線已確認。正在啟動上行鏈路。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "与{0}的上行链路连接已确认。正在启动上行链路。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Uplink_connection_with_X_confirmed",
+  "internalEnabled": true,
+  "persistentID": 2816126705
+}

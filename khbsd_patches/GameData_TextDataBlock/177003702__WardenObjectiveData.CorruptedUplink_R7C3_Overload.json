@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate reactor power transfer on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez le transfert d'énergie du réacteur depuis le terminal\u00A0[ITEM_SERIAL]. Utilisez la commande de sécurité suivante\u00A0: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializzare deviazione energia reattore su terminale [ITEM_SERIAL]. Utilizzare il seguente comando di sicurezza: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Reaktorenergieübertragung an Terminal [ITEM_SERIAL]. Nutzen Sie den folgenden Sicherheitsbefehl: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia transferencia de energía del reactor en el terminal [ITEM_SERIAL]. Usa el siguiente comando de seguridad: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите передачу мощности реактора на терминале [ITEM_SERIAL]. Используйте следующую команду безопасности: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie a transferência de energia do reator no terminal [ITEM_SERIAL]. Use o comando de segurança a seguir: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom transfer mocy reaktora w terminalu [ITEM_SERIAL]. Użyj następującego polecenia zabezpieczenia: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末[ITEM_SERIAL]でリアクター電力転送を開始。次のセキュリティコマンドを使用: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 [ITEM_SERIAL]에서 반응로 전력 전송 시행. 다음 보안 명령 사용: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端[ITEM_SERIAL]啟動反應器電力傳輸。使用以下安全指令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端[ITEM_SERIAL]上发起反应堆电能传输。使用以下安全命令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 0,
+  "ImportVersion": 0,
+  "name": "WardenObjectiveData.CorruptedUplink_R7C3_Overload",
+  "internalEnabled": true,
+  "persistentID": 177003702
+}

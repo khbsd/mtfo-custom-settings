@@ -1,0 +1,115 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        4,
+        5,
+        0,
+        1
+      ],
+      [],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        0,
+        1,
+        4,
+        5
+      ],
+      [
+        4,
+        5,
+        0,
+        1
+      ],
+      [],
+      [
+        0,
+        1,
+        4,
+        5
+      ],
+      [
+        4,
+        5,
+        0,
+        1
+      ],
+      [
+        4,
+        5,
+        0,
+        1
+      ],
+      [],
+      [],
+      [
+        4,
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_01.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_02.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_03.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_04.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_05.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_4x7x20/refinery_equipment_4x7x20_06.prefab",
+        "function": 0,
+        "Shard": 12
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_equipment_4x7x20",
+    "BoundingVolume": 560000.0
+  },
+  "name": "mining_refinery_equipment_400x700x2000",
+  "internalEnabled": true,
+  "persistentID": 108
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Advance to [ZONE_1]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Continuez vers la [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avanzare a [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rücken Sie vor zu [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza a [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Двигайтесь к [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Avance para [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 1 [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_1]へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_1] 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone0.OnTrigger.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 1811104577
+}

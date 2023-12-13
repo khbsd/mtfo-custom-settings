@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red> Urgent. </color>Use <u>Uplink Terminals</u> [ALL_ITEMS] to return to Garganta and confirm status of <color=red>Unit 27.</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red> Urgent. </color>Utilisez des <u>terminaux de liaison montante</u> [ALL_ITEMS] pour retourner à Garganta et confirmer l'état de l'<color=red>unité\u00A027.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> Urgente. </color>Usare i <u>terminali di uplink</u> [ALL_ITEMS] per tornare a Garganta e confermare lo stato dell'<color=red>Unità 27.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Dringend.</color> Benutzen Sie <u>Uplink-Terminals</u> [ALL_ITEMS], um nach Garganta zurückzukehren und bestätigen Sie den Status von <color=red>Einheit 27</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> Urgente. </color>Usa los <u>terminales de uplink</u> [ALL_ITEMS] para volver a Garganta y confirmar el estado de la <color=red>unidad 27.</color> ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание!</color> Используйте <u>терминалы подключения</u> ([ALL_ITEMS]), чтобы вернуться к Гарганте и подтвердить статус <color=red>объекта 27</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> Urgente. </color>Use <u>terminais de uplink</u> [ALL_ITEMS] para voltar à Garganta e confirmar o status da <color=red>Unidade 27.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> Pilne. </color>Użyj <u>terminali łącza</u> [ALL_ITEMS], aby powrócić do Garganty i potwierdzić stan <color=red>okazu nr 27.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>緊急。</color><u>アップリンク端末</u>[ALL_ITEMS]を使用してガルガンタに戻り、<color=red>ユニット27</color>の状況を確認しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red> 긴급. </color> <u>업링크 터미널</u>[ALL_ITEMS]을 사용해 가르간타로 복귀하고 <color=red>유닛 27</color>의 상태를 확인할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>緊急。</color>使用<u>上行終端</u>[ALL_ITEMS]返回加甘塔並確認<color=red>27號單位。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>紧急</color>。使用<u>上行链路终端</u>[ALL_ITEMS]返回加尔甘塔，确认<color=red>单位27</color>的状态。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjective.SubObjective.DX.TerminalWarning",
+  "internalEnabled": true,
+  "persistentID": 4179262129
+}

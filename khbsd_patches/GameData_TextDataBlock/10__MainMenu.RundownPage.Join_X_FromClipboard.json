@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "JOIN {0} FROM CLIPBOARD",
+  "Description": "In GTFO, another player can generate a unique \"lobby ID\" (a series of numbers) and send it to you. After you've copied it to your Windows clipboard, you can press the \"JOIN FROM CLIPBOARD\" button to join that other player's lobby.\n{0} represents the \"lobby Id\" which is a series of numbers.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "REJOINDRE {0} AVEC LE PRESSE-PAPIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ACCEDI A {0} DAGLI APPUNTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} AUS ZWISCHENABLAGE BEITRETEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ACCEDER A {0} DESDE EL PORTAPAPELES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОЙТИ ПО ID {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENTRAR EM {0} PELA ÁREA DE TRANSFERÊNCIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DOŁĄCZ DO {0} ZE SCHOWKA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クリップボードから {0} に参加",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "클립보드에서 {0}에 참가",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從剪貼簿加入{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从剪贴板加入{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.Join_X_FromClipboard",
+  "internalEnabled": true,
+  "persistentID": 10
+}

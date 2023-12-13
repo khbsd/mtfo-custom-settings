@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "POWER CELL FOR BACKUP GENERATOR",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PILE À COMBUSTIBLE POUR GÉNÉRATEUR DE SECOURS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CELLA DI ENERGIA PER GENERATORE DI BACKUP",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ENERGIEZELLE FÜR NOTSTROMGENERATOR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CÉLULA DE ENERGÍA PARA EL GENERADOR DE APOYO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БАТАРЕЯ РЕЗЕРВНОГО ГЕНЕРАТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "POWER CELL PARA GERADOR RESERVA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OGNIWO ZASILAJĄCE DO GENERATORA REZERWOWEGO",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備発電機用パワーセル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 발전기용 파워 셀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "備用發電機電池[CELL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备用发电机电池",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Carry_Generator_PowerCell",
+  "internalEnabled": true,
+  "persistentID": 2741714271
+}

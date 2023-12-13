@@ -1,0 +1,17 @@
+{
+  "Type": 6,
+  "Difficulty": 6,
+  "SpawnPlacementType": 0,
+  "MaxScore": 2.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 8,
+      "Distribution": 5
+    }
+  ],
+  "name": "Squid Boss Children",
+  "internalEnabled": true,
+  "persistentID": 68
+}

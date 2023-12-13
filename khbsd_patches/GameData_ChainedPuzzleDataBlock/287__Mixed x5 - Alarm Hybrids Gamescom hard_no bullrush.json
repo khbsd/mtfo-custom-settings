@@ -1,0 +1,34 @@
+{
+  "PublicAlarmName": "Class V Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 289,
+  "SurvivalWavePopulation": 54,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 9
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x5 - Alarm Hybrids Gamescom hard_no bullrush",
+  "internalEnabled": true,
+  "persistentID": 287
+}

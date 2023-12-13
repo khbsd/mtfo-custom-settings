@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring the <color=orange>Data Sphere</color> with you to the extraction point in <color=orange>[EXTRACTION_ZONE]</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Transportez la <color=orange>sphère de données</color> jusqu'au point d'évacuation de la <color=orange>[EXTRACTION_ZONE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare <color=orange>sfera dati</color> al punto di estrazione in <color=orange>[EXTRACTION_ZONE]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die <color=orange>Datenkugel</color> zum Extraktionspunkt in <color=orange>[EXTRACTION_ZONE]</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la <color=orange>esfera de datos</color> contigo al punto de extracción en la <color=orange>[EXTRACTION_ZONE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите <color=orange>сферу данных</color> к точке выхода в <color=orange>[EXTRACTION_ZONE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Levar a <color=orange>esfera de dados</color> consigo até o ponto de extração na <color=orange>[EXTRACTION_ZONE]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabierz <color=orange>sferę danych</color> do punktu ewakuacyjnego w strefie <color=orange>[EXTRACTION_ZONE]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>データスフィア</color>を<color=orange>[EXTRACTION_ZONE]</color>の脱出地点へ持ってこい",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[EXTRACTION_ZONE]</color>의 탈출 지점으로 <color=orange>데이터 스피어</color> 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "帶著<color=orange>資料球</color>前往<color=orange>[EXTRACTION_ZONE]</color>撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "带上<color=orange>数据球</color>前往<color=orange>[EXTRACTION_ZONE]</color>撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "Gamescom_GoToWinCondition",
+  "internalEnabled": true,
+  "persistentID": 974149531
+}

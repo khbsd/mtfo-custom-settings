@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Melee",
+  "Description": "The name of the \"melee\" category of weapons.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mêlée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Corpo a corpo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nahkampf",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cuerpo a cuerpo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ближний бой",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Golpe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Walka wręcz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近接武器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "밀치기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "近戰",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近战",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.MeleeName",
+  "internalEnabled": true,
+  "persistentID": 821
+}

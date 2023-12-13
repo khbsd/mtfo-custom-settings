@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Essential systems offline. Prisoners to perform system reboot in central quadrant. Prisoner safety deprioritized.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Systèmes essentiels hors-ligne. Prisonniers envoyés pour procéder au redémarrage du système dans le quadrant central. Sécurité des prisonniers réduite.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistemi essenziali offline. Prigionieri inviati per eseguire il riavvio del sistema nel quadrante centrale. La sicurezza dei prigionieri ha perso priorità.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Essentielle Systeme offline. Gefangene sollen das System im zentralen Quadranten neu starten. Sicherheit der Gefangenen hat keine Priorität.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistemas esenciales desactivados. Los prisioneros tienen que realizar un reinicio del sistema en el cuadrante central. La seguridad de los prisioneros deja de ser una prioridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ключевые системы не отвечают. Заключенным необходимо перезапустить систему в центральном секторе. Безопасность заключенных не является приоритетом.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistemas essenciais offline. Prisioneiros devem executar reinicialização do sistema no quadrante central. Segurança dos prisioneiros não priorizada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podstawowe systemy wyłączone. Więźniowie mają dokonać ponownego uruchomienia systemu w centralnym kwadrancie. Usunięto priorytet bezpieczeństwa więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "必須システムオフライン。囚人は中央四分円でシステム再起動。囚人の安全の優先度低下。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "필수 시스템 오프라인. 수감자들은 중앙 사분면에서 시스템 재부팅을 수행합니다. 수감자 안전이 우선시되지 않습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關鍵系統離線。已派遣囚犯至中央象限執行系統重啟。囚犯安全優先順序下調。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关键系统离线。囚犯派去中央象限执行系统重启。囚犯安全优先级下降。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_C2_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1224627372
+}

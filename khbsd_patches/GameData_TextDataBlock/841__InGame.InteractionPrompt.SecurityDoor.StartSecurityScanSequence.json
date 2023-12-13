@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start Security Scan Sequence",
+  "Description": "A text that informs the player that if they pull the lever they're standing in front of, it will initiate a security scan sequence.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrer la séquence d'analyse de sécurité",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia sequenza scansione di sicurezza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsscan-Sequenz starten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciar secuencia de escáner de seguridad",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начать проверку безопасности",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar sequência de escaneamento de segurança",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij sekwencję skanowania bezpieczeństwa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンシークエンスを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動安全掃描序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始安全扫描序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.StartSecurityScanSequence",
+  "internalEnabled": true,
+  "persistentID": 841
+}

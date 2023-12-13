@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insufficient power in [R2C] for RISE equipment triangulation. Resources sent to divert pow@65error- ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alimentation insuffisante dans [R2C] pour la triangulation de l'équipement RISE. Des ressources ont été envoyées pour détourner l'al@65erreur- ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Potenza insufficiente in [R2C] per triangolazione equipaggiamento SALITA. Risorse inviate a deviare elettr@65errore-",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nicht genügend Energie in [R2C] für die Triangulation der Ausrüstung für RISE. Ressourcen gesendet zur Umleitung von Ener@65fehler-",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No hay suficiente energía en [R2C] para la triangulación de equipo de DESPERTAR. Recursos destinados a para distraer pow@65error- ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нехватка питания в [R2C] для триангуляции оборудования RISE. Ресурсы направлены для отвода пит@65ошибка-",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energia insuficiente em [R2C] para triangulação de equipamentos RISE. Recursos enviados para redirecionar erro@65elétrico- ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Niewystarczające zasilanie w sekcji [R2C] do triangulacji wyposażenia POWSTANIA. Wysłano zasoby w celu przekierowania bł@d65mocy- ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[R2C]内の、RISE装備三角測量のための電力不十分。pow@65error-転用のため、リソースが送られた",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "RISE 장비 삼각 측량을 위한 [R2C] 동력 부족 pow@65error- 우회를 위해 자원 전송",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[R2C]用於復甦裝備三角測量的功率不足。已傳送資源以轉移電@65故障-",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[R2C]电力不足，无法进行升起装备三角测量。资源派去转移pow@65error-",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown002_B2_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 4062171764
+}

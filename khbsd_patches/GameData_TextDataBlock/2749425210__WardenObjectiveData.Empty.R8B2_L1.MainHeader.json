@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Wipe the Data Cubes",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Effacez les cubes de données [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cancellare i cubi di dati [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Löschen Sie die Datenwürfel.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Elimina los cubos de datos [DATA CUBE]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Уничтожьте информацию на кубах данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Apagar cubos de dados [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyczyść kostki danych [DATA_CUBES]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]のデータを削除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브의 데이터 삭제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抹除資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "抹除数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.MainHeader",
+  "internalEnabled": true,
+  "persistentID": 2749425210
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Distribute Power Cells from the elevator cargo container to [ALL_ITEMS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Distribuez les piles à combustible [CELL] du conteneur de l'ascenseur à [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Distribuire celle di energia [CELL] da container ascensore a [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verteilen Sie die Energiezellen aus dem Aufzugscontainer auf [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Distribuye las células de energía [CELL] desde el contenedor de carga del ascensor a [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перенесите батареи из грузового отсека подъемника к: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Distribua as Power Cells do contêiner de carga do elevador para [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekaż ogniwa zasilające z pojemnika ładunkowego windy do: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エレベータの荷物コンテナのパワーセルを[ALL_ITEMS]に分配しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "엘리베이터 화물 컨테이너에서 [ALL_ITEMS](으)로 파워 셀 배포",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將電池[CELL]從電梯貨櫃分配到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将电池[CELL]从电梯货物集装箱分发到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Distribute_Powercells_4_R2B2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 4115099696
+}

@@ -1,0 +1,13 @@
+{
+  "SpawnsPerZone": 1,
+  "ChanceToSpawnInResourceContainer": 1.0,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 2.0
+    }
+  ],
+  "name": "Tiny_fog",
+  "internalEnabled": true,
+  "persistentID": 34
+}

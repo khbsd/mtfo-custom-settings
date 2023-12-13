@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will start off with more ammo for their main weapon.",
+  "Description": "Describes the advantage of having a good \"main ammo\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet commence avec plus de munitions pour son arme principale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto comincerà con più munizioni per l'arma principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson startet mit mehr Munition für die Primärwaffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto empezará con más munición para su arma principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На начало экспедиции количество боеприпасов для основного оружия больше.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo começa com mais munição para sua arma principal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zaczynał z większą ilością amunicji do broni głównej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の開始時のメイン武器の弾薬が増える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 주 무기의 탄약을 더 많이 가지고 시작합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始時，實驗對象的主要武器有較多彈藥。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的主武器一开始的弹药数量增多。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InitialAmmoStandardDescription",
+  "internalEnabled": true,
+  "persistentID": 634
+}

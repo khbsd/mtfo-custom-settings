@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Four Team Members Alive",
+  "Description": "An abbreviated description of a condition, i.e. the subject\\s team must have \"four team members alive\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quatre coéquipiers en vie",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Quattro compagni di squadra in vita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vier Teammitglieder leben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cuatro compañeros con vida",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Четыре напарника живы",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Quatro aliados vivos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "4 żywych członków drużyny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームメンバー4人生存",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원 4명 생존",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "四名隊友存活",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "四名队友存活",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsTeamAliveFourName",
+  "internalEnabled": true,
+  "persistentID": 689
+}

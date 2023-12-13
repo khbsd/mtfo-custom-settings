@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Links",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左边",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Left",
+  "internalEnabled": true,
+  "persistentID": 1292
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The quality of the screen-space ambient occlusion effect, which darkens corners to give a more realistic image.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit la qualité de l'effet d'occlusion ambiante à l'écran, qui assombrit les angles pour un rendu d'image plus réaliste.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La qualità dell'effetto SSAO, che scurisce gli angoli per offrire un'immagine più realistica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Qualität des Ambient-Occlusion-Effekts auf dem Bildschirm, der die Ecken verdunkelt, um ein realistischeres Bild zu erzeugen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La calidad del efecto de oclusión ambiental del espacio de pantalla, que oscurece las esquinas para producir una imagen más realista.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Степень окружающего освещения в экранном пространстве. Затемняет углы и создает более реалистичное изображение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A qualidade do efeito de oclusão de ambiente entre tela e espaço, o que escurece os cantos para criar uma imagem mais realista.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość efektu okluzji otoczenia na ekranie, który przyciemnia narożniki w celu uzyskania bardziej realistycznego obrazu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コーナーを暗くさせ、よりリアルなイメージを作り出すスクリーンスペース・アンビエント・オクルージョン効果のクオリティ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "가장자리를 어둡게 해 더 실제 같은 이미지의 느낌을 주는 화면 공간 앰비언트 오클루전 효과의 품질입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "畫面空間環境遮擋效果品質，使角落變暗以提供更逼真的影像。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "屏幕空间环境光遮蔽效果的质量，这种效果可以加深角落颜色，让画面更加逼真。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SSAO",
+  "internalEnabled": true,
+  "persistentID": 2267057608
+}

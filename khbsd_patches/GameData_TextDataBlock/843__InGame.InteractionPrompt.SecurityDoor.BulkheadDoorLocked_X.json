@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bulkhead Door locked, can only be unlocked with {0}",
+  "Description": "Don't localize Bulkhead Door.\nA text that appears on screen when the player is standing next to a locked bulkhead door, informing them that it can only be unlocked with a certain key. \"{0}\" will be replaced by the ID of the key, do not alter those characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte à cloison [BULKHEAD_DOOR] verrouillée. Requis\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta stagna [BULKHEAD_DOOR] bloccata, può essere sbloccata solo con {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schotttür [BULKHEAD_DOOR] verriegelt, kann nur mit {0} entriegelt werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta de contención [BULKHEAD_DOOR] bloqueada. Solo se puede desbloquear con {0}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ворота заблокированы. Требуется: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta protetora [BULKHEAD_DOOR] trancada; possível abrir apenas com {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gródź [BULKHEAD_DOOR] zablokowana, odblokowanie możliwe tylko za pomocą {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Bulkhead Doorはロックされている。 {0}でのみ開錠できる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[BULKHEAD_DOOR] 격벽 문이 잠겨 {0}로만 개방할 수 있습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "艙門[BULKHEAD_DOOR]已上鎖，只能以{0}開鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "舱壁门[BULKHEAD_DOOR]已锁上，使用{0}才能解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.SecurityDoor.BulkheadDoorLocked_X",
+  "internalEnabled": true,
+  "persistentID": 843
+}

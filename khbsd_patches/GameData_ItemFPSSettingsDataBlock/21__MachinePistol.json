@@ -1,0 +1,134 @@
+{
+  "localPosHip": {
+    "x": 0.06,
+    "y": -0.08,
+    "z": 0.55,
+    "normalized": {
+      "x": 0.107331261,
+      "y": -0.143108338,
+      "z": 0.9838699,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.559017,
+    "sqrMagnitude": 0.3125
+  },
+  "localRotHip": {
+    "x": -2.0,
+    "y": -3.6,
+    "z": -0.75,
+    "normalized": {
+      "x": -0.4777844,
+      "y": -0.860011935,
+      "z": -0.179169148,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 4.18598843,
+    "sqrMagnitude": 17.5225
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 10.0,
+  "localPosRelaxed": {
+    "x": 0.064,
+    "y": -0.14,
+    "z": 0.5,
+    "normalized": {
+      "x": 0.122333609,
+      "y": -0.267604738,
+      "z": 0.9557313,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 0.5231596,
+    "sqrMagnitude": 0.273696
+  },
+  "localRotRelaxed": {
+    "x": 7.0,
+    "y": -8.0,
+    "z": -10.0,
+    "normalized": {
+      "x": 0.47963208,
+      "y": -0.548150957,
+      "z": -0.6851887,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 14.59452,
+    "sqrMagnitude": 213.0
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.5,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.5,
+    "sqrMagnitude": 0.25
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.05,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.05,
+    "sqrMagnitude": 0.00250000018
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 38,
+  "ItemCameraFOVZoom": 40,
+  "LookCameraFOVZoom": 50,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 29,
+  "IdleAnimation": 14,
+  "WalkAnimation": 9,
+  "RunAnimation": 10,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 7.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 1.0,
+    "aperture": 1.0,
+    "focalLength": 6.3
+  },
+  "name": "MachinePistol",
+  "internalEnabled": true,
+  "persistentID": 21
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Format Data Cubes from <color=orange>ZONE 188</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Formatez les cubes de données [DATA_CUBE] de la <color=orange>ZONE\u00A0188</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Formattare i cubi di dati [DATA_CUBE] da <color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Formatieren Sie Datenwürfel [DATA_CUBE] aus <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Formatea cubos de datos [DATA CUBE] de la <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отформатируйте кубы данных [DATA_CUBE] из <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Formatar cubos de dados [DATA_CUBE] da <color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sformatuj kostki danych w <color=orange>strefie 188 [ZONE_188]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 188</color>のデータキューブ[DATA CUBE]をフォーマットしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 188</color>에서 [DATA_CUBE] 데이터 큐브 포맷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "格式化來自<color=orange>ZONE 188</color>的資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "格式化来自<color=orange>ZONE 188</color>的数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.MainSubObjective",
+  "internalEnabled": true,
+  "persistentID": 3622080734
+}

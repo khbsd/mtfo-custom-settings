@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tool refill here",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Voilà une recharge d'outil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricarica per strumenti qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Werkzeug-Nachfüllpaket",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hay que reponer herramientas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь припасы для устройства",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recarga de ferramentas aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Narzędzia, tutaj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツールのリフィルをくれ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 도구다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "補充工具，這裡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有工具补给",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Tool_refill_here",
+  "internalEnabled": true,
+  "persistentID": 1333
+}

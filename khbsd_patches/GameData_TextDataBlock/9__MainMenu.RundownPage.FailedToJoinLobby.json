@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Failed to join lobby",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Impossible de rejoindre le salon.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impossibile accedere alla lobby",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fehler beim Lobby-Beitritt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error al unirse a la sala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Не удалось войти в лобби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha ao entrar no lobby",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie można dołączyć do lobby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロービーへの参加失敗",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 참가 실패",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加入大廳失敗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加入大厅失败",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.FailedToJoinLobby",
+  "internalEnabled": true,
+  "persistentID": 9
+}

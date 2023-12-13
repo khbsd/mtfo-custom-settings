@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deal more damage when using melee weapons.",
+  "Description": "Describes the advantage of having a good \"melee damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet inflige plus de dégâts avec des armes de mêlée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto infliggerà danni maggiori utilizzando armi da mischia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verursacht mehr Schaden mit Nahkampfwaffen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto infligirá más daño al usar armas cuerpo a cuerpo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый в ближнем бою, повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo causa mais danos ao usar armas corpo a corpo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zadawał więcej obrażeń bronią do walki wręcz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の近接武器使用時のダメージが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 근접 무기를 사용할 때 더 많은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象在使用近戰武器時會造成較多傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者通过近战武器造成的伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MeleeWeaponDamageDescription",
+  "internalEnabled": true,
+  "persistentID": 582
+}

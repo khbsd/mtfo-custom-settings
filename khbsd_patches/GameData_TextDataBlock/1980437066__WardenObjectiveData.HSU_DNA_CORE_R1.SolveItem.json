@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to collect the DNA sample from [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez l'échantillon d'ADN sur [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere con raccolta del campione di DNA da [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie die DNA-Probe von [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza para recoger la muestra de ADN del objeto [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлеките образец ДНК из предмета ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para coletar a amostra de DNA de [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz próbkę DNA z [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "先へ進んで [ITEM_SERIAL] からDNAサンプルを回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL]에서 DNA 샘플을 확보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續收集[ITEM_SERIAL]的DNA樣本",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续从[ITEM_SERIAL]收集DNA样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.HSU_DNA_CORE_R1.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 1980437066
+}

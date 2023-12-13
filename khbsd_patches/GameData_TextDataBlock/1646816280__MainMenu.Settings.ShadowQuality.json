@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shadow Quality",
+  "Description": "Controls the filtering of shadow textures.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Qualité des ombres",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualità ombre",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schattenqualität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Calidad de sombras",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество теней",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade de sombreamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość cieni",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "影のクオリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그림자 품질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "陰影品質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阴影质量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.ShadowQuality",
+  "internalEnabled": true,
+  "persistentID": 1646816280
+}

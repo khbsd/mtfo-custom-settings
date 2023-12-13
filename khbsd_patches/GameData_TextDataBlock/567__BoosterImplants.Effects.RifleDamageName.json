@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Rifle Damage",
+  "Description": "I.e. how much damage you can deal with a rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da fucile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (винтовка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RifleDamageName",
+  "internalEnabled": true,
+  "persistentID": 567
+}

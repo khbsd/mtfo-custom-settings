@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aggressive",
+  "Description": "\"Aggressive\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient is \"aggressive\", which makes it very potent/powerful and potentially dangerous to ingest.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Agressif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aggressivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aggressiv",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Agresivo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Агрессивный",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Agressivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Agresywny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "激烈",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공격적",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "侵略性",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "特效",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.Aggressive",
+  "internalEnabled": true,
+  "persistentID": 472
+}

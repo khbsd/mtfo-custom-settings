@@ -1,0 +1,28 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupImplantDetonationExplosion",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 1.0,
+      "EffectPrefab": "Effects/Mockup/MockupImplantDetonationDebris",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "PIMP_Detonate",
+  "internalEnabled": true,
+  "persistentID": 26
+}

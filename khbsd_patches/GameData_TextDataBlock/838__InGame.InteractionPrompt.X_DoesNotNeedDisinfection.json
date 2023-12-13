@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} DOES NOT NEED DISINFECTION",
+  "Description": "This text appears on screen when the player tries to give disinfection to a teammate whose infection level is at 0. The \"{0}\" is replaced by the name of the teammate, do not alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} N'A PAS BESOIN DE DÉSINFECTION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} NON HA BISOGNO DI DISINFEZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} BENÖTIGT KEINE DESINFEKTION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} NO NECESITA DESINFECCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИГРОКУ {0} НЕ ТРЕБУЕТСЯ ДЕЗИНФЕКЦИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} NÃO PRECISA DE DESINFECÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} NIE POTRZEBUJE ODKAŻANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} には消毒は不要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}에게는 감염 제거가 필요하지 않습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}不需要消毒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}无需消毒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.X_DoesNotNeedDisinfection",
+  "internalEnabled": true,
+  "persistentID": 838
+}

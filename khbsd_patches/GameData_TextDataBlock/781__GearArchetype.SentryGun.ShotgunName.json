@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shotgun Sentry",
+  "Description": "A sentry gun category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tourelle à fusil à pompe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torretta fucile a pompa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schrotflinten-Sentry",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centinela escopeta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Турель-дробовик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sentinela-espingarda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzelba wartownicza",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ショットガンセントリー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "샷건 센트리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "霰彈槍自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "霰弹哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.ShotgunName",
+  "internalEnabled": true,
+  "persistentID": 781
+}

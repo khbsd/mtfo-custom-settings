@@ -1,0 +1,51 @@
+{
+  "publicName": "Long Range Flashlight",
+  "LocalizedName": 266638396,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 1,
+  "inventorySlot": 5,
+  "FPSSettings": 29,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": false,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": false,
+  "GUIShowAmmoTotalRel": false,
+  "GUIShowAmmoInfinite": true,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 3,
+  "ConsumableAmmoMax": 5,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FlashlightMedium/Consumable_FlashlightFirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/FlashlightMedium/Consumable_MediumFlashlight.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FlashlightMedium/Consumable_FlashlightThirdPerson.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/FlashlightMedium/Consumable_MediumFlashlight.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/FlashlightMedium/Consumable_MediumFlashlight_Pickup.prefab"
+  ],
+  "InstancePrefabs": [],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 1,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "FlashlightMedium",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "FlashlightMedium",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_FlashlightMedium",
+  "internalEnabled": true,
+  "persistentID": 30
+}

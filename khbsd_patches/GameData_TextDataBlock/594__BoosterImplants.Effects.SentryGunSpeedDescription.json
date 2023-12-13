@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will overclock its sentry gun, giving it increased detection, rotation and firing speed.",
+  "Description": "Describes the advantage of having a good \"sentry CPU speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet overclocke sa tourelle, ce qui augmente sa portée de détection, sa rotation et sa cadence de tir.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto potenzierà la sua torretta automatica, migliorandone il rilevamento, la rotazione e la cadenza di tiro.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Versuchsperson übertaktet ihr Sentry-Geschütz und sie erhält eine erhöhte Erkennungs-, Rotations- und Feuergeschwindigkeit.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto sobrecarga su centinela, lo que incrementará su capacidad de detección, rotación y cadencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установка турели с улучшенной системой обнаружения, наведения и высокой скоростью стрельбы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo acelera sua arma sentinela, dando a ela detecção, rotação e cadência de tiro melhores.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca podkręci działo wartownicze, zwiększając jego wykrywalność, obroty i szybkostrzelność.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象はセントリーガンをオーバークロックし、探知・回転・発射速度が向上する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 센트리 건을 오버클럭하여 탐지, 회전 및 발사 속도를 높입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象可將自動砲台超頻，增加偵測、旋轉與射速。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者将加速运行其哨戒炮，提高探测、旋转和发射速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunSpeedDescription",
+  "internalEnabled": true,
+  "persistentID": 594
+}

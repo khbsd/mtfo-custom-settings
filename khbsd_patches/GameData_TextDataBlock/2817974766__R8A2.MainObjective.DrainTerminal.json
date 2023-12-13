@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use Control Room <color=orange>terminal</color> to drain the cooling tanks",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez le <color=orange>terminal</color> de la salle de commande pour drainer les réservoirs de refroidissement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il <color=orange>terminale</color> della sala controllo per svuotare i serbatoi di raffreddamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie das <color=orange>Terminal</color> im Schaltraum, um die Kühltanks zu leeren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el <color=orange>terminal</color> de la sala de control para drenar los tanques de refrigeración.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте <color=orange>терминал</color> в пункте управления, чтобы слить воду из емкостей охлаждения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar o <color=orange>terminal</color> da Sala de Controle para drenar os tanques de resfriamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj <color=orange>terminalu</color> w sterowni, aby opróżnić zbiorniki chłodzące",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "制御室の<color=orange>端末</color>を使い、冷却タンクを排水しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "제어실 <color=orange>터미널</color>을 사용해 냉각 탱크 배수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "利用控制室<color=orange>終端</color>排空冷卻槽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "利用控制室<color=orange>终端</color>排干冷却罐",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "R8A2.MainObjective.DrainTerminal",
+  "internalEnabled": true,
+  "persistentID": 2817974766
+}

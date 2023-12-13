@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Chat Microphone Volume",
+  "Description": "A game setting that allows the user to set the sensitivity of the voice chat microphone.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume du microphone (chat vocal)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume microfono chat vocale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mikrofonlautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen del micrófono del chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Громкость микрофона для голосового чата",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume do microfone do chat de voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność mikrofonu czatu głosowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャットマイク音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅 마이크 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天麥克風音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天麦克风音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceChatMicrophoneVolume",
+  "internalEnabled": true,
+  "persistentID": 112
+}

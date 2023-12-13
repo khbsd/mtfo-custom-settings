@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search Alpha Two for [ITEM_SERIAL]",
+  "Description": "Don't localize [ITEM_SERIAL]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Cherchez Alpha Deux pour [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare [ITEM_SERIAL] in Alfa Due",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie in Alpha Two nach [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inspecciona Alfa-2 en busca del [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите в Альфа-Два: [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure o Alfa Dois para [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeszukaj Alfa 2 w poszukiwaniu: [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アルファ2で [ITEM_SERIAL]を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알파 2를 수색해 [ITEM_SERIAL] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在Alpha Two搜尋[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在阿尔法二搜寻[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_InZone_FIndItem",
+  "internalEnabled": true,
+  "persistentID": 1438
+}

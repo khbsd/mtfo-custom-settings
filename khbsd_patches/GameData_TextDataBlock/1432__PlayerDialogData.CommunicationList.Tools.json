@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tools",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Outils",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Strumenti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Werkzeuge",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Herramientas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Устройства",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ferramentas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Narzędzia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツール",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Tools",
+  "internalEnabled": true,
+  "persistentID": 1432
+}

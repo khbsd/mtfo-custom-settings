@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'll stay close to you",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je reste près de vous.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ti starò vicino",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich bleibe in der Nähe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No me separaré de ti.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Держусь рядом",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vou ficar perto de você",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Będę trzymać się blisko.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "すぐ近くにいるよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "네 가까이 있겠다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我會緊跟著你",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我会紧靠着你",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Ill_Stay_Close_To_You",
+  "internalEnabled": true,
+  "persistentID": 1506
+}

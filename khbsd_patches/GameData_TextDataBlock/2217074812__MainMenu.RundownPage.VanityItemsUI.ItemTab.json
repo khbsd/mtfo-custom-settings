@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ITEM",
+  "Description": "Referring to a singular vanity item.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJET",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OGGETTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GEGENSTAND",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРЕДМЕТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ITEM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZEDMIOT",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아이템",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.ItemTab",
+  "internalEnabled": true,
+  "persistentID": 2217074812
+}

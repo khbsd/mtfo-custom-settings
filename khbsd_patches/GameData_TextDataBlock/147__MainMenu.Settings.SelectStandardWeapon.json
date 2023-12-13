@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Main Weapon",
+  "Description": "Control key binding/mapping. This key equips the player's main firearm.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner l'arme principale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona arma principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primärwaffe wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar arma principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать основное оружие",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar arma principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór broni głównej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メイン武器を選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 무기 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇主要武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择主武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectStandardWeapon",
+  "internalEnabled": true,
+  "persistentID": 147
+}

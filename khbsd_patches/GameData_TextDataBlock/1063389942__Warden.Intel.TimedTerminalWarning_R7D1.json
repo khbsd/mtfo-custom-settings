@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hsu Preperation systems online.. Local terminals ready, secondary terminals In zone 194 and 195 on standby.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Systèmes de préparation des HSU en ligne. Terminaux locaux prêts, terminaux secondaires des zones 194 et 195 en attente.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistemi di preparazione HSU online. Terminali locali pronti, terminali secondari nelle ZONE 194 e 195 in attesa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HSU-Vorbereitungssysteme online … Lokale Terminals bereit, sekundäre Terminals in Zonen 194 und 195 auf Standby.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistemas de preparación de HSU activados. Terminales locales preparados. Terminales secundarios de las zonas 194 y 195 en espera.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Системы подготовки HSU запущены... Локальные терминалы готовы, второстепенные терминалы в зонах 194 и 195 в режиме ожидания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistemas de preparação de HSU online... Terminais locais prontos, terminais secundários nas Zones 194 e 195 em espera.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Moduły przygotowawcze HSU uruchomione… terminale lokalne w gotowości, terminale pomocnicze w strefach 194 i 195 w stanie wstrzymania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HSU準備システムオンライン... ローカル端末準備完了。Zone 194および195のセカンダリ端末スタンバイ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HSU 준비 시스템 온라인. 내부 터미널 준비 완료, ZONE 194와 195 보조 터미널 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HSU準備系統已上線……本地終端就緒，Zone 194及195次要終端待命中。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HSU准备系统在线。本地终端就绪，ZONE 194和ZONE 195二级终端待机。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Intel.TimedTerminalWarning_R7D1",
+  "internalEnabled": true,
+  "persistentID": 1063389942
+}

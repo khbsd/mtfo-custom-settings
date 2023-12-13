@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate timed writing sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez la séquence d'écriture chronométrée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviare sequenza di scrittura a tempo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Schreibsequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la secuencia escrita calculada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите синхронизированный цикл записи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar sequência de gravação cronometrada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom czasową sekwencję zapisu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "時限書き込みシーケンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시간제 작성 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動定時撰寫序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启动定时书写序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.MainObjective.Overload_CustomHeader_R8C1",
+  "internalEnabled": true,
+  "persistentID": 3975971631
+}

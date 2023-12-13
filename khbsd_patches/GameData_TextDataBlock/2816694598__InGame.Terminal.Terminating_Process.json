@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminating Process",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Interruption du processus",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiusura processo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Prozess wird beendet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminando proceso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершение процесса",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encerrando processo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerywanie procedury",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プロセスを終了中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "처리 종료 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在終止程序",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在终止进程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Terminating_Process",
+  "internalEnabled": true,
+  "persistentID": 2816694598
+}

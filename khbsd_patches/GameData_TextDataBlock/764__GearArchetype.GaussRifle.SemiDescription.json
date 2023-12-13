@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hybrid Electrothermal\nLight-gas rifle\nOverpenetrating rounds\nLong range\nShort charge-up\n",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Arme électrothermique hybride\nCanon à gaz léger\nBalles ultra-pénétrantes\nLongue portée\nTemps de charge court\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a gas leggero\nibrido elettrotermico\nColpi perforanti\nGittata lunga\nCaricamento rapido\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hybride Elektrothermie\nLeichtgas\nDurchschlagende Geschosse\nGroße Reichweite\nKurzes Aufladen\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Híbrido electrotérmico\nFusil de gas ligero\nBalas superperforantes\nLargo alcance\nCarga predisparo corta\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Гибридное электротермальное оружие\nГазовая винтовка\nВысокая пробивная способность\nБольшая дальность\nСредняя скорость перезарядки\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Híbrida eletrotermal\nFuzil de gás leve\nMunição altamente perfurante\nLongo alcance\nCarga pré-disparo curta\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hybrydowy elektrotermiczny\nKarabin na lekki gaz\nPociski nadpenetrujące\nDługi dystans\nKrótkie ładowanie\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイブリッド・エレクトロサーマル・\nライトガスライフル\n超貫通弾\n長距離\n短いチャージアップ\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전열 혼합식\n경량 가스총\n고관통탄\n장거리\n빠른 충전\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "混合電熱\n輕氣步槍\n超穿彈\n長程\n充能時間短\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "复合电热\n轻气步枪\n过度穿透子弹\n远程\n短暂蓄力\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.GaussRifle.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 764
+}

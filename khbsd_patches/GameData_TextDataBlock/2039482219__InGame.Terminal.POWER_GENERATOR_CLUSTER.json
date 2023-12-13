@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "POWER GENERATOR CLUSTER",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "GRAPPE DE GÉNÉRATEURS D'ÉNERGIE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "GRUPPO ELETTROGENO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STROMGENERATORCLUSTER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CLÚSTER DE GENERADORES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КЛАСТЕР ГЕНЕРАТОРОВ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "GRUPO DE GERADORES DE ENERGIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZESPÓŁ GENERATORÓW MOCY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発電機群",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 발전기 클러스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "發電機叢集",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发电机集群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.POWER_GENERATOR_CLUSTER",
+  "internalEnabled": true,
+  "persistentID": 2039482219
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners sent to Alpha Two for Data Cube coordinates. Unknown environmental conditions detected.",
+  "Description": "Don't localize Data Cube.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Les prisonniers ont été dans Alpha Deux pour obtenir les coordonnées du cube de données [DATA_CUBE]. Conditions environnementales inconnues.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati ad Alfa Due per coordinate del cubo di dati [DATA_CUBE]. Rilevate condizioni ambientali sconosciute.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gefangene nach Alpha Two entsandt, um die Koordinaten des Datenwürfels [DATA_CUBE] zu extrahieren. Unbekannte Umweltbedingungen entdeckt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prisioneros destinados a Alfa-2 en busca de las coordenadas del cubo de datos [DATA_CUBE]. Condiciones ambientales desconocidas detectadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным поручено извлечь координаты куба данных [DATA_CUBE] в Альфа-Два. Неизвестные условия среды.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros enviados para o Alfa Dois atrás das coordenadas do cubo de dados [DATA_CUBE]. Condições ambientais desconhecidas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wysłano więźniów do Alfa 2 w celu pozyskania współrzędnych kostki danych [DATA_CUBE]. Wykryto nieznane warunki środowiskowe.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[Data Cube]座標のため、アルファ2へ囚人を派遣した。未知の環境状況を検知。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 큐브 [Data_Cube] 좌표 확보를 위해 수감자들을 알파 2로 투입. 알 수 없는 환경 조건 감지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "派遣囚犯前往Alpha Two取得資料方塊[DATA_CUBE]座標。偵測到未知環境狀況。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯派去阿尔法二获取数据立方[DATA_CUBE]坐标。检测到未知环境状况。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_2_1.Description",
+  "internalEnabled": true,
+  "persistentID": 1544
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ventilation system status: <color=orange>ON</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "État du système de ventilation\u00A0: <color=orange>ACTIVÉ</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato sistema ventilazione: <color=orange>ATTIVO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Status des Belüftungssystems: <color=orange>AN</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado del sistema de ventilación: <color=orange>ENCENDIDO</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус системы вентиляции: <color=orange>ВКЛ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status do sistema de ventilação: <color=orange>LIG</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stan systemu wentylacyjnego: <color=orange>WŁĄCZONY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "換気システムの状態： <color=orange>オン</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "환기 시스템 상태: <color=orange>켜짐</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通風系統狀態：<color=orange>開啟</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通风系统状态：<color=orange>开</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText7_C2",
+  "internalEnabled": true,
+  "persistentID": 1416
+}

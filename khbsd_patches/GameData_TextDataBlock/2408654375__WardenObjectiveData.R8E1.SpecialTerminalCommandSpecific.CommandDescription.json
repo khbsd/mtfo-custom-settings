@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ": Approve generator power redirection",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ": Approuvez le réacheminement du courant du générateur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ": Approve generator power redirection",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ": Bestätigen Sie die Umleitung der Energie des Generators.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ": Aceptar la redirección de energía del generador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ": Подтвердите перенаправление питания генератора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ": Aprovar redirecionamento da energia do gerador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ": Zatwierdź przekierowanie zasilania z generatorów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ": Approve generator power redirection",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ": Approve generator power redirection",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "：批准發電機電力重新定向",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "：准许发电机电能重定向",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.R8E1.SpecialTerminalCommandSpecific.CommandDescription",
+  "internalEnabled": true,
+  "persistentID": 2408654375
+}

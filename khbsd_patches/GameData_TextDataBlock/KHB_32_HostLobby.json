@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HOST SLOPPY",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "HÉBERGER UN SALON",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CREA LOBBY",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HOST-LOBBY",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CREAR SALA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СОЗДАТЬ ЛОББИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CRIAR UM LOBBY",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "HOSTUJ LOBBY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーをホスト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 만들기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主持大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "创建大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.HostLobbyButton",
+  "internalEnabled": true,
+  "persistentID": 32
+}

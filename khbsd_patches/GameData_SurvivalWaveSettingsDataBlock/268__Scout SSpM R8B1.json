@@ -1,0 +1,30 @@
+{
+  "m_pauseBeforeStart": 1.0,
+  "m_pauseBetweenGroups": 3.0,
+  "m_wavePauseMin_atCost": 1.0,
+  "m_wavePauseMax_atCost": 10.0,
+  "m_wavePauseMin": 1.0,
+  "m_wavePauseMax": 20.0,
+  "m_populationFilter": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "m_filterType": 0,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 0.1,
+  "m_overrideWaveSpawnType": false,
+  "m_survivalWaveSpawnType": 0,
+  "m_populationPointsTotal": 8.0,
+  "m_populationPointsPerWaveStart": 25.0,
+  "m_populationPointsPerWaveEnd": 25.0,
+  "m_populationPointsMinPerGroup": 15.0,
+  "m_populationPointsPerGroupStart": 15.0,
+  "m_populationPointsPerGroupEnd": 15.0,
+  "m_populationRampOverTime": 120.0,
+  "name": "Scout SSpM R8B1",
+  "internalEnabled": true,
+  "persistentID": 268
+}

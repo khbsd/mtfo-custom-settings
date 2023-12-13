@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Shotgun",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil à pompe HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a pompa HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дробовик HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzelba HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 산탄총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.HELShotgun.AutoName",
+  "internalEnabled": true,
+  "persistentID": 4180792222
+}

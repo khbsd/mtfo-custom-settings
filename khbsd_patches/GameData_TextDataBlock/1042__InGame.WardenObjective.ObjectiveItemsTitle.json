@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OBJECTIVE ITEMS",
+  "Description": "If the objective is to pick up a certain number of items (e.g. \"DNA samples\"), this headline serves as the indicator of how many of those objective related items the player(s) have collected so far.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "OBJETS D'OBJECTIF",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OGGETTI DELL'OBIETTIVO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MISSIONZIELGEGENSTÄNDE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETOS DEL OBJETIVO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ТРЕБУЕМЫЕ ПРЕДМЕТЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ITENS DO OBJETIVO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZEDMIOTY POWIĄZANE Z CELAMI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標アイテム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 아이템",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目標物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.ObjectiveItemsTitle",
+  "internalEnabled": true,
+  "persistentID": 1042
+}

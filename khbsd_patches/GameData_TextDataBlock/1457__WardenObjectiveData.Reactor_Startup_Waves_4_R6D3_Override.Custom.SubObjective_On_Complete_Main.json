@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "All life support and air ventilation systems booting up... ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Démarrage de tous les systèmes de survie et de ventilation...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvio sistemi supporto vitale e ventilazione aerea...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle Lebenserhaltungs- und Belüftungssysteme werden gestartet …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciando todos los sistemas de soporte vital y ventilación...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Системы вентиляции и жизнеобеспечения включаются...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Todos os sistemas de suporte de vida e ventilação aéreo sendo inicializados...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchamianie systemów podtrzymywania życia i wentylacji powietrza...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全ての生命維持システムと換気システムを起動中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전 생명 유지 및 환기 시스템 시동 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "所有生命支持與通風系統正在啟動……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "所有生命支持和空气通风系统即将开启……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_On_Complete_Main",
+  "internalEnabled": true,
+  "persistentID": 1457
+}

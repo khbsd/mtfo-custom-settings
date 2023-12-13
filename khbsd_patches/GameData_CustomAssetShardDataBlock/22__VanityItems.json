@@ -1,0 +1,544 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear001/Headgear001.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001/Torso001.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso002Hackett/Torso002Hackett.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs001/Legs001.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs002Hackett/Legs002Hackett.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack001/Backpack001.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack002Hackett/Backpack002Hackett.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette002Hackett.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack004Dauda/Backpack004Dauda.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs004Dauda/Legs004Dauda.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso004Dauda/Torso004Dauda.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack003Woods/Backpack003Woods.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003Woods/Legs003Woods.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso003Woods/Torso003Woods.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear005Bishop/Headgear005Bishop.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear004Dauda/Headgear004Dauda.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002Hackett/Headgear002Hackett.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear003Woods/Headgear003Woods.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette003Woods.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette004Dauda.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette008.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette009.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette010.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs005Bishop/Legs005Bishop.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack005Bishop/Backpack005Bishop.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso005Bishop/Torso005Bishop.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear007/Headgear007.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear008/Headgear008.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear009/Headgear009.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack007/Backpack007.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack008/Backpack008.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack009/Backpack009.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001b/Torso001b.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001c/Torso001c.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002HackettB/Headgear002HackettB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs005BishopB/Legs005BishopB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002HackettOriginal/Headgear002HackettOriginal.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear003WoodsOriginal/Headgear003WoodsOriginal.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear004DaudaOriginal/Headgear004DaudaOriginal.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear005BishopOriginal/Headgear005BishopOriginal.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003WoodsB/Legs003WoodsB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette011OverloadSix.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette012Longsword.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette013Heat.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette014Overdrive.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette015Miracle.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette016Overalls.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette017Eightball.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette018Lugubrious.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette019Destination.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette020pSon-EA.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear010/Headgear010.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear011/Headgear011.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear012/Headgear012.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs007Security/Legs007Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso006/Torso006.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack013Security/Backpack013Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso007Security/Torso007Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear006/Headgear006.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs006/Legs006.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso008Construction/Torso008Construction.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs008Construction/Legs008Construction.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack010/Backpack010.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack011Lab/Backpack011Lab.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso009Lab/Torso009Lab.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs009Lab/Legs009Lab.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear013Lab/Headgear013Lab.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack014Security/Backpack014Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack015Construction/Backpack015Construction.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack012Garden/Backpack012Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear014Garden/Headgear014Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear015Construction/Headgear015Construction.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear016Security/Headgear016Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso010Garden/Torso010Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs010Garden/Legs010Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003Woods/Legs003WoodsNew.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003WoodsB/Legs003WoodsBNew.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs006/Legs006_New.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette023Construction.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette021Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette022Security.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs011Garden/Legs011Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso011Garden/Torso011Garden.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso004Dauda/Torso004DaudaGamescom.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs004Dauda/Legs004DaudaGamescom.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack004Dauda/Backpack004DaudaGamescom.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette025Red.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear016SecurityHalloween/Headgear016SecurityHalloween.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette024Black.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear011/Headgear011Black.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear013LabB/Headgear013LabB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear014GardenB/Headgear014GardenB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear015ConstructionB/Headgear015ConstructionB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs007SecurityB/Legs007SecurityB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso007SecurityB/Torso007SecurityB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack013SecurityB/Backpack013SecurityB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette026Camo.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear016SecurityB/Headgear016SecurityB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear015ConstructionSantonian/Headgear015ConstructionSantonian.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette027Santonian.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack014SecurityB/Backpack014SecurityB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack015ConstructionSantonian/Backpack015ConstructionSantonian.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear012B/Headgear012B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette028Camo2.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear022/Headgear022.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003WoodsC/Legs003WoodsC.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso003WoodsB/Torso003WoodsB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso005BishopB/Torso005BishopB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette029.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette030.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette031.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette032.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette033.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear011/Headgear011Split.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear012C/Headgear012C.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear022B/Headgear022B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear022C/Headgear022C.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack012GardenB/Backpack012GardenB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack011LabB/Backpack011LabB.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear014GardenC/Headgear014GardenC.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear013LabC/Headgear013LabC.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear012D/Headgear012D.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs005BishopC/Legs005BishopC.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear017/Headgear017.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear018/Headgear018.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear019/Headgear019.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear020/Headgear020.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear021/Headgear021.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear017B/Headgear017B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear018B/Headgear018B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear019B/Headgear019B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear020B/Headgear020B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear021B/Headgear021B.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette034.prefab",
+      "Shard": 0
+    }
+  ],
+  "name": "VanityItems",
+  "internalEnabled": true,
+  "persistentID": 22
+}

@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV Diminished Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 211,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 1,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 12.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 2
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x4 - Alarm Diminished_1AreaSpawn",
+  "internalEnabled": true,
+  "persistentID": 182
+}

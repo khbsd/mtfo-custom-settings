@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification {0} needed! Use public key <color=orange>{1}</color> to obtain the code.",
+  "Description": "{0} is a number out of a maximum. Example: 1/4\n{1} is a code the players have to input.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Vérification\u00A0{0} requise\u00A0! Utilisez la clé publique <color=orange>{1}</color> pour obtenir le code.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica {0} richiesta! Usare chiave pubblica <color=orange>{1}</color> per ottenere il codice.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung {0} erforderlich! Nutzen Sie den öffentlichen Schlüssel <color=orange>{1}</color>, um den Code zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación de {0} necesaria! Usa la clave pública <color=orange>{1}</color> para obtener el código.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется верификация {0}! Для получения кода используйте публичный ключ <color=orange>{1}</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Verificação {0} necessária! Use a chave pública <color=orange>{1}</color> para obter o código.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagana weryfikacja {0}! Aby uzyskać kod, użyj klucza publicznego <color=orange>{1}</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証{0}が必要！パブリックキー<color=orange>{1}</color>を使用してコードを取得。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 {0} 필요. <color=orange>{1}</color> 공개 키를 사용해 코드를 받으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要驗證{0}！使用公開金鑰<color=orange>{1}</color>取得驗證碼。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要验证{0}！使用公共密钥<color=orange>{1}</color>获取代码。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Verification_X_needed_Use_public_key_Y",
+  "internalEnabled": true,
+  "persistentID": 4269617288
+}

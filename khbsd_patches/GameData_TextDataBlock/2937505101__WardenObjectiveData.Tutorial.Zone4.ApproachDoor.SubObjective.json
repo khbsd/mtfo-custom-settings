@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make sure the door behind you is closed and place your <color=orange>turret tool</color> towards it",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vérifiez que la porte derrière vous est bien fermée et placez votre <color=orange>outil tourelle</color> dans sa direction.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Assicurarsi che la porta dietro sia chiusa e puntare lo <color=orange>strumento torretta</color> verso di essa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellen Sie sicher, dass die Tür hinter Ihnen geschlossen ist und richten Sie Ihr <color=orange>Geschütz</color> darauf.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Asegúrate de que la puerta que tienes a tu espalda está cerrada y coloca tu <color=orange>herramienta de torreta</color> mirando hacia ella.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Убедитесь, что дверь позади вас заперта, и разместите перед ней <color=orange>турель</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Garanta que a porta atrás de você está fechada e posicione sua <color=orange>ferramenta de torreta</color> em direção a ela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upewnij się, że drzwi za tobą są zamknięte, i umieść <color=orange>narzędzie wieżyczki</color> przy niej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "背後のドアが閉じていることを確認し、<color=orange>タレットツール</color>をドアに向けて配置しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "등 뒤 문이 닫힌 것을 확인한 후 문을 향하여 <color=orange>포탑 도구</color> 설치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確保後方的門已關上，並朝向門放置<color=orange>砲塔工具</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "确保你背后的门已关上，并对着它布置你的<color=orange>炮塔工具</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Tutorial.Zone4.ApproachDoor.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 2937505101
+}

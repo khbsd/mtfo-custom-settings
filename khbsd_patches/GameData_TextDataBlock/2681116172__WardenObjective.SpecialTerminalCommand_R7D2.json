@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mainframe Security Control",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commandes de sécurité de l’ordinateur central",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controllo di sicurezza del mainframe",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitskontrolle am Hauptrechner",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Control de seguridad de la unidad central",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Контроль безопасности центрального компьютера",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controle de Segurança do Mainframe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Panel bezpieczeństwa superkomputera",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メインフレームセキュリティコントロール",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메인프레임 보안 제어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主機電腦：資安管控",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主机安全控制",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.SpecialTerminalCommand_R7D2",
+  "internalEnabled": true,
+  "persistentID": 2681116172
+}

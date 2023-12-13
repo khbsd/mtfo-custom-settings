@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! - Short accelerated sequence starting! High probabillity for restart!",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! - Lancement de la séquence de démarrage accélérée\u00A0! Risque de redémarrage élevé\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Avvio sequenza accelerata breve! Alta probabilità di riavvio!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – Kurze beschleunigte Startsequenz! Hohe Wahrscheinlichkeit für einen Neustart!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! ¡Comienza la secuencia corta acelerada! ¡Altas probabilidades de reinicio!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Запуск ускоренного цикла! Высокая вероятность перезагрузки!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! — Sequência acelerada curta sendo iniciada! Alta probabilidade de reinício!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – rozpoczęcie krótkiej sekwencji przyspieszenia! Istotne prawdopodobieństwo ponownego uruchomienia!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ - 短期加速シークエンス開始中！再起動の可能性大！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! - 단기 가속 절차 가동 중! 재시작 확률 높음!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！- 短加速序列開始！有高機率重啟！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！ - 短加速序列正在启动！大概率重启！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.Wave_5",
+  "internalEnabled": true,
+  "persistentID": 1429
+}

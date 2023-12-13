@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "D993__<oor to [ZONE_19] unlxXX%ocked by st||<artup sequ<12ence",
+  "Description": "Door to [ZONE_19] unlocked by startup sequence",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "D993__<orte vers la [ZONE_19] dévXX%ouillée par la sé||<quence de dé<12rrage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "P993__<orta per [ZONE_19] sblxXX%occata da sequ<12enza av||<vio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "T993__<0ür zu [ZONE_19] entxXX%riegelt du%_>rch St||<artsequ<12enz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "P993__<uerta a [ZONE_19] abxXX%ierta por secu<12encia de ini||<cialización",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дв993__<ерь в [ZONE_19] открxXX%ыта в ци<12кле зап||<уска",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "P993__<orta para [ZONE_19] destxXX%rancada pela seq||<uência de iniciali<12zação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "D993__<rzwi do strefy 19 [ZONE_19] odblxXX%kowane przez sekw<12encję roz||<ruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_19]へ993__<のドア ス||<タートアップ シーク<12エンスにより開xXX%錠",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "D993__<[ZONE_19] 문이 unlxXX%잠겼 st||<작 절차<12ence",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通住__<[ZONE_19]白勺門已田開女台序歹角金肖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "D993__通往[ZONE_19]的<门已通过启||<动序<12列解xXX%锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.ReactorStartup.R7E1.ReactorWave1.Start",
+  "internalEnabled": true,
+  "persistentID": 2075813565
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Flashlights",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activez les torches",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torce",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Linternas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Свет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Lanternas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Latarki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手电筒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Flashlights",
+  "internalEnabled": true,
+  "persistentID": 1287
+}

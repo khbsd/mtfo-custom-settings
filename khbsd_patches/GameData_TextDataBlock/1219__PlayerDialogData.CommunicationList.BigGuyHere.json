@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Big guy here!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Boss localisé\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bestione qui!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Großer Typ hier!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Aquí hay uno de los grandes!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Какое тут чудище!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Um dos grandes aqui!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Olbrzym, tutaj!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "デカいのがいるぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 큰 놈이 있다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大個子在這裡！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "有个大家伙！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.BigGuyHere",
+  "internalEnabled": true,
+  "persistentID": 1219
+}

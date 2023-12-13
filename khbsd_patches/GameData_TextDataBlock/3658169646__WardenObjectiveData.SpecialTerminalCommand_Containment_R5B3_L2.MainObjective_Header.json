@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Biomass containment override.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillage du confinement de biomasse.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Override contenimento biomassa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Override der Biomasse-Eindämmung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Anulación de contención de biomasa.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обход системы сдерживания биосигнатур.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Substituição de contenção de biomassa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obejście izolacji biomasy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生体反応封鎖オーバーライド。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오매스 격리 재정의.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生物質遏制覆蓋。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生物质控制覆盖。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Containment_R5B3_L2.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 3658169646
+}

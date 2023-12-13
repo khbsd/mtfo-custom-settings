@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in <color=orange>Alpha Two</color> and extract Data Cube coordinates.",
+  "Description": "Don't localize Data Cube.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Localisez le terminal dans <color=orange>Alpha Deux</color> et récupérez les coordonnées du cube de données [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Individuare il terminale in <color=orange>Alfa Due</color> ed estrarre le coordinate del cubo di dati [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in <color=orange>Alpha Two</color> und extrahieren Sie die Koordinaten des Datenwürfels [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra una terminal en <color=orange>Alfa-2</color> y extrae las coordenadas del cubo de datos [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в <color=orange>Альфа-Два</color> и извлеките координаты куба данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize o terminal no <color=orange>Alfa Dois</color> e extraia as coordenadas do cubo de dados [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w <color=orange>Alfa 2</color> i pozyskaj współrzędne kostki danych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>アルファ2</color> で端末を見つけ、データキューブ[DATA_CUBE]の座標を抽出しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>알파 2</color>에서 터미널을 찾아 [DATA_CUBE] 데이터 큐브 좌표를 확보할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位<color=orange>Alpha Two</color>的終端並撤離資料方塊[DATA_CUBE]座標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>阿尔法二</color>找到终端并提取数据立方[DATA_CUBE]坐标。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.Mainobjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1434
+}

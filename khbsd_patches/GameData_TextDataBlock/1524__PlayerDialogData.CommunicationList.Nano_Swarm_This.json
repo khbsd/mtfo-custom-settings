@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Nano swarm this.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Lancez un nano-essaim ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nano-sciame qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nanoschwarm auf das hier.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa un nanoenjambre en esto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нанорой туда.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enxame-nano aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nanorój na to.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "これにナノスウォームを使ってくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 나노봇을 살포해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用奈米機群。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给这个发纳米机群。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Nano_Swarm_This",
+  "internalEnabled": true,
+  "persistentID": 1524
+}

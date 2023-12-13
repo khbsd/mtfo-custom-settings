@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>ALT://</color>RUNDOWN #2.0\r\nTITLE: INFECTION",
+  "Description": "ALT is short for alternate. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>ALT://</color>CAMPAGNE #2.0\r\nTITRE : ÉCART",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>ALT://</color>PERLUSTRAZIONE #2.0\r\nTITOLO: INFEZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>ALT://</color>RUNDOWN #2.0\r\nTITEL: INFEKTION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>ALT://</color>CAMPAÑA #2.0\r\nTÍTULO: INFECCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВАРИАНТ://</color>КАМПАНИЯ №\u00A02.0.\r\nНАЗВАНИЕ: ИНФИЦИРОВАНИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>ALT://</color>CAMPANHA #2.0\r\nTÍTULO: INFECÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>ALT://</color>EKSTRAKCJA #2.0\r\nTYTUŁ: ZAKAŻENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>別://</color>ランダウン#2.0\r\nタイトル：感染",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>대체://</color>런다운 #2.0\r\n타이틀: 감염",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>替代://</color>遠征綱要#2.0\r\n標題：感染",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>替代://</color>行动#2.0\r\n标题：感染",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown002_StorytellingData_Title",
+  "internalEnabled": true,
+  "persistentID": 702143784
+}

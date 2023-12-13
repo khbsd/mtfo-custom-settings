@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Translocation tether resolving. Wait.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Résolution de lien de translocation en cours. Veuillez patienter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risoluzione legame trasferimento. Attendere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Dimensionsverbindung wird getrennt. Bitte warten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Espera a que se desconecten los vínculos dimensionales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Изменение пространственной связи. Ожидайте.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resolução de tirante de translocalização. Aguarde.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozwiązywanie uwięzi translokacji. Oczekuj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移転テザー解決中。待機。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전위 억제 해결 중. 대기할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "移位鏈解除中。等待。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "易位系连正在解析，请等待。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_WaitForTeleportBack",
+  "internalEnabled": true,
+  "persistentID": 1169
+}

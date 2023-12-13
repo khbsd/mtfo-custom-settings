@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY SCAN - FULL TEAM",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE DE SÉCURITÉ - ÉQUIPE COMPLÈTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE SICUREZZA - SQUADRA COMPLETA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN – GESAMTES TEAM",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANÁLISIS DE SEGURIDAD (EQUIPO COMPLETO)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА БЕЗОПАСНОСТИ\u00A0— ВСЯ КОМАНДА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO DE SEGURANÇA — EQUIPE INTEIRA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIE – PEŁNA DRUŻYNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャン - 全チーム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 - 전체 팀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全掃描 - 全隊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全扫描 - 全队",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.SecurityScanFullTeam",
+  "internalEnabled": true,
+  "persistentID": 1093
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deactivate alarms on security terminal in <color=#3299a8>ZONE 42</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivez les alarmes depuis le terminal de sécurité de la <color=#3299a8>ZONE\u00A042</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattivare allarmi su terminale di sicurezza in <color=#3299a8>ZONE 42</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Deaktivieren Sie Alarme am Sicherheitsterminal in <color=#3299a8>ZONE\u00A042</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactiva las alarmas del terminal de seguridad en la <color=#3299a8>ZONE 42</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключите системы сигнализации на терминале безопасности в <color=#3299a8>ZONE 42</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desativar alarmes no terminal de segurança na <color=#3299a8>ZONE 42</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywuj alarm poprzez terminal bezpieczeństwa w <color=#3299a8>strefie 42 [ZONE_42]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>ZONE 42</color>のセキュリティ端末の警報を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>ZONE 42</color>의 보안 터미널 경보 비활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉<color=#3299a8>ZONE 42</color>安全終端的警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=#3299a8>ZONE 42</color>中的安全终端上关闭警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_S4",
+  "internalEnabled": true,
+  "persistentID": 2820207469
+}

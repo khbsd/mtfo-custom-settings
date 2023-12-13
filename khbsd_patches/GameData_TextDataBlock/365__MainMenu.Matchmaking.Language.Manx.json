@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Manx",
+  "Description": "A language spoken on Isle of Man.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Manx",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mannese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Manx",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Manés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мэнский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Manx",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Manx",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マン島語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맨 섬어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "曼島文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "马恩语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Manx",
+  "internalEnabled": true,
+  "persistentID": 365
+}

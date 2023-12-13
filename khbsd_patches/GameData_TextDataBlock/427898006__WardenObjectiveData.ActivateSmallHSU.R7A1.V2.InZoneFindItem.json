@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ITEM_SERIAL] inside [ITEM_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [ITEM_SERIAL] dans la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ITEM_SERIAL] in [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ITEM_SERIAL] in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra [ITEM_SERIAL] en la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ITEM_SERIAL]) в зоне [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ITEM_SERIAL] dentro de [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ITEM_SERIAL] w strefie [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL]を[ITEM_ZONE]の中で見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE] 내부에서 [ITEM_SERIAL] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ITEM_ZONE]內找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ITEM_ZONE]内找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.V2.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 427898006
+}

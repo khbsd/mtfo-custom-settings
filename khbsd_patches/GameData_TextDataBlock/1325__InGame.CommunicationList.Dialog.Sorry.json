@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sorry",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pardon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scusa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tut mir leid",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lo siento",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прости",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sinto muito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybacz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "すまない",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "미안",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抱歉",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "抱歉",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Sorry",
+  "internalEnabled": true,
+  "persistentID": 1325
+}

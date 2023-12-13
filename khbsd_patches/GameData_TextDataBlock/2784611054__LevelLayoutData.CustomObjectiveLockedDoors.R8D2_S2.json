@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=#3299a8>Survive</color> until the door opens",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=#3299a8>Survivez</color> jusqu'à l'ouverture de la porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=#3299a8>Sopravvivere</color> finché la porta non si apre",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=#3299a8>Überleben Sie</color>, bis sich die Türen öffnen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=#3299a8>Sobrevive</color> hasta que se abra la puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=#3299a8>Продержитесь</color> до открытия двери.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=#3299a8>Sobreviver</color> até a porta abrir",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=#3299a8>Przeżyj</color> do czasu otwarcia drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアが開くまで<color=#3299a8>生き延びろ</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문의 열릴 때까지 <color=#3299a8>생존</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=#3299a8>存活</color>到門打開時",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=#3299a8>存活</color>到门打开时",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_S2",
+  "internalEnabled": true,
+  "persistentID": 2784611054
+}

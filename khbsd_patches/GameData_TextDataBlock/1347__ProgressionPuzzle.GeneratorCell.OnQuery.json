@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to [CELL_ZONE] and look for [CELL_NAME]",
+  "Description": "Don't localize [CELL_ZONE] and [CELL_NAME]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Allez à [CELL_ZONE] et cherchez [CELL_NAME].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [CELL_ZONE] e cercare [CELL_NAME]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [CELL_ZONE] und suchen Sie nach [CELL_NAME].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a [CELL_ZONE] y busca [CELL_NAME].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в [CELL_ZONE] и найдите: [CELL_NAME].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá até [CELL_ZONE] e procure [CELL_NAME]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do [CELL_ZONE] i odnajdź [CELL_NAME]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[CELL_ZONE] へ移動して [CELL_NAME]を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[CELL_ZONE](으)로 가서 [CELL_NAME] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[CELL_ZONE]並尋找[CELL_NAME]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[CELL_ZONE]寻找[CELL_NAME]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.GeneratorCell.OnQuery",
+  "internalEnabled": true,
+  "persistentID": 1347
+}

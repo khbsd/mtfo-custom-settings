@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog Diffusion Quality",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Qualité de diffusion du brouillard",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualità diffusione nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nebeldiffusionsqualität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Calidad de dispersión de niebla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество распыления дыма",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade da difusão de névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość rozpraszania mgły",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "霧拡散クオリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 확산 품질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "煙霧擴散品質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "雾漫质量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.FogDiffusionQuality",
+  "internalEnabled": true,
+  "persistentID": 97
+}

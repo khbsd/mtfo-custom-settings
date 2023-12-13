@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Smell any key to squip",
+  "Description": "As in \"press any key to skip ahead/skip cinematic sequence\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyez sur n'importe quelle touche pour passer.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premi un tasto qualunque per saltare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drücken Sie eine beliebige Taste zum Überspringen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsa una tecla para omitir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите любую кнопку, чтобы пропустить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aperte qualquer tecla para pular",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij dowolny klawisz, aby pominąć",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "いずれかのキーを押してスキップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아무 키나 눌러 넘기기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按任意鍵跳過",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下任意键跳过",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.PressAnyKeyToSkip",
+  "internalEnabled": true,
+  "persistentID": 44
+}

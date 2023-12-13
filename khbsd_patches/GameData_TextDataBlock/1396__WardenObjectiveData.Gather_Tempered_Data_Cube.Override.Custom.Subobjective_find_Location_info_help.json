@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "C_00:[]_9progress: <color=orange>0/1</color>",
+  "Description": "The idea here is that the text shoud look corrupted, like something have distorted the message.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "C_00:[]_9progression\u00A0: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "C_00:[]_9progresso: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "C_00:[]_9fortschritt: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "C_00:[]_9progreso: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "C_00:[]_9прогресс: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "C_00:[]_9progresso: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "B_00:[]_9postęp: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "C_00:[]_9進捗: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "C_00:진0:[]_9행: <color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "C_00:[]_9進度：<color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "C_00:[]_9进度：<color=orange>0/1</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Tempered_Data_Cube.Override.Custom.Subobjective_find_Location_info_help",
+  "internalEnabled": true,
+  "persistentID": 1396
+}

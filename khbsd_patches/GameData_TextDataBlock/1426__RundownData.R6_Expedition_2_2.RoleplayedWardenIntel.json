@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... Shoot me then, 'cause I'm not going in there.  \r\n... Look, there's no time– \r\n... [gunshot]  \r\n... <size=200%><color=red>Start scanning.\r</color></size>",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... Alors bute-moi, pas moyen que j'aille là-dedans.  \r\n... Allez, on n'a pas le temps de... \r\n... [coup de feu] \r\n... <size=200%><color=red>Commence le scan.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… Allora sparami, perché io non ci entro lì dentro. \r\n… Senti, non c'è tempo… \r\n… [sparo] \r\n… <size=200%><color=red>Avvia la scansione.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… Dann erschieß mich doch. Ich gehe da nicht rein.\r\n… Wir haben keine Zeit zum–\r\n… [Schuss]\r\n… <size=200%><color=red>Starte den Scan.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... Pues ya me puedes pegar un tiro, porque yo ahí no me meto.  \r\n... Mira, no tenemos tiempo... \r\n... [disparo]  \r\n... <size=200%><color=red>A escanear.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Хочешь — стреляй, а я в эту дыру не полезу.\r\n... У нас нет времени...\r\n[выстрел]\r\n... <size=200%><color=red>Начинай сканировать.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Atire em mim então, porque eu vou entrar. \r\n... Cara, não tem tempo... \r\n... [tiros] \r\n... <size=200%><color=red>Iniciar escaneamento.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…W takim razie poślij mi kulkę, bo tam nie wlezę.  \r\n…Słuchaj, nie mamy czasu…\r\n[strzał]\r\n…<size=200%><color=red>Rozpocząć skanowanie.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... じゃあ俺を撃て。あそこには行かないからな。  \r\n... なあ、そんなこと言ってる時間は– \r\n... [銃声]  \r\n... <size=200%><color=red>スキャンを開始しろ。\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 그럼 날 쏴. 난 저기 안 들어가.  \r\n... 야, 시간 없... \r\n... [총 소리]  \r\n... <size=200%><color=red>스캔 시작.\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……那就殺了我吧，反正我不要進去。\r\n……聽著，現在沒有時間—\r\n……[槍擊聲]\r\n……<size=200%><color=red>開始掃描。\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……那就崩了我吧，反正我不要进去。\r\n……听着，现在没有时间——\r\n……[枪击声]\r\n……<size=200%><color=red>开始扫描。\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_2_2.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1426
+}

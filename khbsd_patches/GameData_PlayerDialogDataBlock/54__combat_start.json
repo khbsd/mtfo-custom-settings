@@ -1,0 +1,48 @@
+{
+  "priority": 300,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 1,
+  "randomDelay": {
+    "x": 0.5,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.242535636,
+      "y": 0.970142543,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 2.06155276,
+    "sqrMagnitude": 4.25
+  },
+  "tensionLimit": 2,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 717493063,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "combat_start",
+  "internalEnabled": true,
+  "persistentID": 54
+}

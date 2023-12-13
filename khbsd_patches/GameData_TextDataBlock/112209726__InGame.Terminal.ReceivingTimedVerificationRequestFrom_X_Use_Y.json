@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RECEIVING TIMED VERIFICATION REQUEST FROM <color=orange>{0}</color>. USE <color=orange>{1}</color> TO VERIFY.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉCEPTION DE LA DEMANDE DE VÉRIFICATION CHRONOMÉTRÉE DE <color=orange>{0}</color>. UTILISEZ <color=orange>{1}</color> POUR VÉRIFIER.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICEZIONE RICHIESTA DI VERIFICA A TEMPO DA <color=orange>{0}</color>. USARE <color=orange>{1}</color> PER VERIFICARE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ANFRAGE FÜR ZEITGESTEUERTE VERIFIZIERUNG VON <color=orange>{0}</color> ERHALTEN. NUTZEN SIE <color=orange>{1}</color> ZUR VERIFIZIERUNG.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECIBIENDO SOLICITUD DE VERIFICACIÓN CRONOMETRADA DE <color=orange>{0}</color>. USA <color=orange>{1}</color> PARA VERIFICAR.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОЛУЧЕН ЗАПРОС СИНХРОНИЗИРОВАННОЙ ВЕРИФИКАЦИИ: <color=orange>{0}</color>. ДЛЯ ВЕРИФИКАЦИИ ИСПОЛЬЗУЙТЕ: <color=orange>{1}</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECEBENDO SOLICITAÇÃO DE VERIFICAÇÃO CRONOMETRADA <color=orange>{0}</color>. USE <color=orange>{1}</color> PARA VERIFICAR.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OTRZYMANO ŻĄDANIE WERYFIKACJI CZASOWEJ OD <color=orange>{0}</color>. UŻYJ <color=orange>{1}</color>, ABY DOKONAĆ WERYFIKACJI.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>{0}</color>から同期認証リクエストを受信中。認証のため<color=orange>{1}</color>を使用せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>{0}</color>의 시한 승인 요청 수신 중. <color=orange>{1}</color>을(를) 사용해 승인할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在接收來自<color=orange>{0}</color>的限時驗證要求。使用<color=orange>{1}</color>來進行驗證。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在接收来自<color=orange>{0}</color>的定时验证请求。使用<color=orange>{1}</color>进行验证。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ReceivingTimedVerificationRequestFrom_X_Use_Y",
+  "internalEnabled": true,
+  "persistentID": 112209726
+}

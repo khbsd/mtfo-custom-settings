@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate a terminal and use the QUERY command to locate the item",
+  "Description": "Don't localize QUERY, it is a command used in the game's terminals.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Localisez un terminal et utilisez la commande QUERY pour localiser l'objet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare un terminale e usare il comando QUERY per trovare l'oggetto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie ein Terminal und nutzen Sie den Befehl QUERY, um den Gegenstand zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra una terminal y usa el comando QUERY para localizar el objeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал и используйте команду QUERY, чтобы определить положение предмета.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize um terminal e use o comando QUERY para localizar o item.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal i użyj polecenia QUERY, aby znaleźć przedmiot.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を見つけてQUERYコマンドを使い、アイテムを探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널을 찾아 QUERY 명령을 사용해 아이템 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位終端並使用QUERY指令定位物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到一台终端并使用QUERY命令定位物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.FindLocationInfoHelp",
+  "internalEnabled": true,
+  "persistentID": 1049
+}

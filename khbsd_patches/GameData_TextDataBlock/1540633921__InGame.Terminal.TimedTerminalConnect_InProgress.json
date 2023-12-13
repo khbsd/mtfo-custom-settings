@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Timed verification sequence already in progress.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Séquence de vérification chronométrée en cours.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sequenza di verifica a tempo già in corso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeitgesteuerte Verifizierungssequenz bereits im Gange.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Secuencia de verificación cronometrada en curso.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Синхронизированный цикл верификации уже начался",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sequência de verificação cronometrada já em andamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sekwencja weryfikacji czasowej jest już w toku.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証シークエンスは既に進行中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 승인 절차가 이미 진행 중입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "限時驗證序列已在進行中。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "时间验证序列已在进行中。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalConnect_InProgress",
+  "internalEnabled": true,
+  "persistentID": 1540633921
+}

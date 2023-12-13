@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Compass",
+  "Description": "A headline for game settings related to the HUD compass.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Boussole",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bussola",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kompass",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Brújula",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Компас",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bússola",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kompas",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンパス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나침반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "指南針",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "罗盘",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Compass",
+  "internalEnabled": true,
+  "persistentID": 123
+}

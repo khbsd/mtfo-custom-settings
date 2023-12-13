@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ITEM_SERIAL] somewhere inside",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [ITEM_SERIAL] quelque part à l'intérieur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ITEM_SERIAL] da qualche parte nella zona.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ITEM_SERIAL] irgendwo in der Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el objeto [ITEM_SERIAL] en algún lugar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ITEM_SERIAL]) в зоне.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ITEM_SERIAL] no interior",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ITEM_SERIAL] wewnątrz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL]を中のどこかで見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내부 어딘가에서 [ITEM_SERIAL] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在內部某處找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在区内某处找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_One_Terminal_R2B3.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 825546802
+}

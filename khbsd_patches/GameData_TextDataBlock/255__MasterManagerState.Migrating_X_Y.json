@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Migrating : [{0},{1}]",
+  "Description": "Network lingo. If the player who is Master leaves/quits, the game will migrate another player to be the new Master.\n{0} and {1} is the state and substate of the migration process.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Migration\u00A0: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Migrazione: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Migrieren: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Migrando: [{0}, {1}]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Передача прав: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Migrando: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Migracja: [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移行中 : [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이전 : [{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "移轉：[{0},{1}]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在迁移：[{0}，{1}]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.Migrating_X_Y",
+  "internalEnabled": true,
+  "persistentID": 255
+}

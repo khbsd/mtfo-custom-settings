@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECONDARY OBJECTIVE",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIF SECONDAIRE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVO SECONDARIO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SEKUNDÄRZIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVO SECUNDARIO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВТОРОСТЕПЕННАЯ ЦЕЛЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVO SECUNDÁRIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CEL POBOCZNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.SecondaryObjective",
+  "internalEnabled": true,
+  "persistentID": 319600558
+}

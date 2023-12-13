@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RedCap",
+  "Description": "\"Cap\" is a reference to the lid of the vial that a specific drug is packaged/stored in. \"RedCap\" means that the vial has a red lid/cap. It is a way for the PC to identify/categorize the drug.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouchon rouge",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TappoRosso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RoteKappe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tapón rojo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Красная крышка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TampaVerm",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czerwone.Wieko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "レッドキャップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "레드캡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "紅蓋",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "红盖",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.RedCap",
+  "internalEnabled": true,
+  "persistentID": 666
+}

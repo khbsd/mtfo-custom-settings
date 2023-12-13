@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [CELL_NAME] in [CELL_ZONE], [CELL_AREA]. Use the <color=orange>PING</color> command on a terminal.",
+  "Description": "Don't localize PING, [CELL_ZONE] and [CELL_NAME]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez [CELL_NAME] dans [CELL_ZONE], [CELL_AREA] et utilisez la commande <color=orange>PING</color> sur un terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [CELL_NAME] in [CELL_ZONE], [CELL_AREA]. Usare il comando <color=orange>PING</color> su un terminale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [CELL_NAME] in [CELL_ZONE], [CELL_AREA]. Nutzen Sie den Befehl <color=orange>PING</color> an einem Terminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca [CELL_NAME] en [CELL_ZONE], [CELL_AREA]. Usa el comando <color=orange>PING</color> en una terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идите в [CELL_ZONE], [CELL_AREA] и найдите: [CELL_NAME]. Используйте команду <color=orange>PING</color> на терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [CELL_NAME] em [CELL_ZONE], [CELL_AREA]. Use o comando <color=orange>PING</color> em um terminal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [CELL_NAME] w [CELL_ZONE], [CELL_AREA]. Użyj polecenia <color=orange>PING</color> w terminalu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[CELL_NAME] を [CELL_ZONE]、 [CELL_AREA] で見つけろ。端末で <color=orange>PING</color> コマンドを使用しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[CELL_ZONE], [CELL_AREA]에서 [CELL_NAME] 찹기. 터미널에서 <color=orange>PING</color> 명령 사용.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[CELL_ZONE][CELL_AREA]中尋找[CELL_NAME]。在終端使用<color=orange>PING</color>指令。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[CELL_ZONE]、[CELL_AREA]找到[CELL_NAME]。在终端上使用<color=orange>PING</color>命令。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.GeneratorCell.OnPing",
+  "internalEnabled": true,
+  "persistentID": 1455
+}

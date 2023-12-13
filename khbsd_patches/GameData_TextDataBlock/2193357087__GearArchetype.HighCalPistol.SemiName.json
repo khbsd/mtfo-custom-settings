@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "High Caliber Pistol",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pistolet de gros calibre",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola di calibro elevato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Großkalibrige Pistole",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pistola de gran calibre",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пистолет большого калибра",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pistola de alto calibre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pistolet wielkokalibrowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "大口径ピストル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대구경 권총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大口徑手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大口径手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.HighCalPistol.SemiName",
+  "internalEnabled": true,
+  "persistentID": 2193357087
+}

@@ -1,0 +1,17 @@
+{
+  "LightColor": {
+    "a": 1.0,
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0
+  },
+  "PlanetAlbedo": {
+    "a": 1.0,
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3
+  },
+  "name": "Atmosphere_Earth",
+  "internalEnabled": true,
+  "persistentID": 1
+}

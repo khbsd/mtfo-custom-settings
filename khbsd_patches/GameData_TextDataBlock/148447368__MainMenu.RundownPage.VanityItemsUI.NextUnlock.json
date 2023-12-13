@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NEXT UNLOCK",
+  "Description": "Header for the UI element that shows which the next vanity item unlock is. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROCHAIN DÉVERROUILLAGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PROSSIMO SBLOCCO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NÄCHSTE FREISCHALTUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SIGUIENTE DESBLOQUEO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БУДЕТ ОТКРЫТО:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRÓXIMO DESBLOQUEIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NAST. DO ODBLOKOWANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "次のアンロック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다음 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "下一個解鎖物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下一个解锁物",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.NextUnlock",
+  "internalEnabled": true,
+  "persistentID": 148447368
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Current progress: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+  "Description": "Don't translate  [COUNT_CURRENT] / [COUNT_REQUIRED]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Progression actuelle : [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Progresso attuale: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktueller Fortschritt: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Progreso actual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Текущий прогресс: [COUNT_CURRENT] / [COUNT_REQUIRED].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Progresso atual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bieżący postęp: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "現在の進行状況: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "현재 진행도: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目前進度：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "当前进度：[COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Partial_Decoders_R1C2.FindLocationInfoHelp",
+  "internalEnabled": true,
+  "persistentID": 987261349
+}

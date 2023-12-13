@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RESOURCES EXPENDED",
+  "Description": "I.e. \"you survived the expedition.\" A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is the equivalent of the phrase \"mission clear\" or \"mission successful\" in GTFO.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "RESSOURCES DÉPENSÉES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RISORSE SPESE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RESSOURCEN AUFGEWENDET",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECURSOS GASTADOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РЕСУРСЫ ИСПОЛЬЗОВАНЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECURSOS DESCARTADOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZASOBY ZUŻYTE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースを使い果たしました",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 확장됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已消耗資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源已消耗",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.Header_ResourcesExpended",
+  "internalEnabled": true,
+  "persistentID": 3278343405
+}

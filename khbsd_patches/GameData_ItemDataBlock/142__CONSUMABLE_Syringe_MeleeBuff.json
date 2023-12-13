@@ -1,0 +1,51 @@
+{
+  "publicName": "IIx Syringe",
+  "LocalizedName": 4060161095,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 3,
+  "inventorySlot": 5,
+  "FPSSettings": 35,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": false,
+  "GUIShowAmmoTotalRel": false,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 12,
+  "ConsumableAmmoMax": 12,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Syringe/Consumable_Syringe_MeleeBuff_FirstPerson.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Syringe/Consumable_Syringe_MeleeBuff_ThirdPerson.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Syringe/Consumable_Syringe_MeleeBuff_Pickup.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Syringe/Consumable_Syringe.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "Needle",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "Needle",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_Syringe_MeleeBuff",
+  "internalEnabled": true,
+  "persistentID": 142
+}

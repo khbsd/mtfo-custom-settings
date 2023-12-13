@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ITEM_ZONE] and start the Reactor",
+  "Description": "Don't translate [ITEM_ZONE] ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ITEM_ZONE] et démarrez le réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ITEM_ZONE] e avviare il reattore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ITEM_ZONE] und fahren Sie den Reaktor hoch.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la [ITEM_ZONE] y arranca el reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ITEM_ZONE] и включите реактор.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até [ITEM_ZONE] e inicie o reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy [ITEM_ZONE] i uruchom reaktor",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]でリアクターを起動しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE](으)로 이동해 반응로 작동시킬 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ITEM_ZONE]並開啟反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ITEM_ZONE]并启动反应堆",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R1C1.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 2721251557
+}

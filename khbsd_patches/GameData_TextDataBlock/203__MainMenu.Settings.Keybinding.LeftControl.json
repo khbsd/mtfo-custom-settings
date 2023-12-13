@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Control",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CTRL gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Control sinistro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linke Strg-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ctrl Izq",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая клавиша Ctrl",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Control esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy Ctrl",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左Ctrl",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 Ctrl",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左Ctrl",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左Control键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.LeftControl",
+  "internalEnabled": true,
+  "persistentID": 203
+}

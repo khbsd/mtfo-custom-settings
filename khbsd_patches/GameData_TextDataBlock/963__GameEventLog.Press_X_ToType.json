@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Press {0} to type",
+  "Description": "This is a helper text for the in-game chat. \"{0}\" represents the designated key for starting to type chat messages.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyez sur {0} pour écrire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premi {0} per digitare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drücken Sie {0} zum Tippen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsa {0} para escribir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите {0}, чтобы написать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aperte {0} para digitar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij {0}, aby pisać",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} を押して入力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}: 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按{0}輸入",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下{0}打字",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.Press_X_ToType",
+  "internalEnabled": true,
+  "persistentID": 963
+}

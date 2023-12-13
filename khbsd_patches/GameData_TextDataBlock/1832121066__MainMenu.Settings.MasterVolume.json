@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Master Volume",
+  "Description": "Controls the volume of all sounds in the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesamtlautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen general",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Общая громкость",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume geral",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność ogólna",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マスター音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마스터 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.MasterVolume",
+  "internalEnabled": true,
+  "persistentID": 1832121066
+}

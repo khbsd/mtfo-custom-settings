@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Data Cube coordinates acquired.",
+  "Description": "Don't localize Data Cube.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Coordonnées du cube de données [DATA_CUBE]\u00A0extraites.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Coordinate del cubo dati [DATA_CUBE] acquisite.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Koordinaten des Datenwürfels [DATA_CUBE] ermittelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Coordenadas del cubo de datos [DATA_CUBE] adquiridas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Получены координаты куба данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coordenadas do cubo de dados [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pozyskano współrzędne kostki danych [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA_CUBE]の座標を取得。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 좌표 확보함.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "取得資料方塊[DATA_CUBE]座標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "数据立方[DATA_CUBE]坐标已获取。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_GoToWin_ConditionElevator",
+  "internalEnabled": true,
+  "persistentID": 1440
+}

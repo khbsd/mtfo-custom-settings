@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The method to use when smoothing out aliased edges. TAA smoothes the image over time, which enables better anti-aliasing but can result in the image \"ghosting\".",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le mode de lissage des textures. L'anticrénelage temporel (TAA) lisse les textures au fil du temps, ce qui offre un meilleur effet, mais peut entraîner un effet d'image \"fantôme\".",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il metodo da usare per smussare i bordi con l'antialiasing. TAA uniforma l'immagine nel tempo, il che consente un antialiasing migliore, ma può provocare l'effetto \"ghosting\" dell'immagine.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Methode zum Glätten von Kanten mit Aliasing. TAA glättet das Bild über einen längeren Zeitraum, was ein besseres Anti-Aliasing ermöglicht, aber zu Ghosting-Effekten führen kann.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El método que se usa para suavizar bordes. La imagen se suaviza gradualmente, lo que favorece al anti-aliasing, aunque puede difuminar demasiado la imagen.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Метод сглаживания неровных краев. TAA обеспечивает лучшее сглаживание за счет постепенной обработки, но может создавать эффект шлейфа.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O método de uso ao suavizar as extremidades. TAA suaviza a imagem com o tempo, o que gera melhor suavização, mas pode resultar em imagem \"fantasma\".",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stosowana metoda przy wygładzaniu krawędzi. TAA wygładza obraz w czasie, co zapewnia lepsze wygładzanie krawędzi, ale może powodować efekt ghostingu obrazu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エイリアシングが起きているエッジをなめらかにする時に使用する方法。TAAは時間の経過と共にイメージをなめらかにし、アンチエイリアシング効果がより高いが、イメージの\"ゴースト\"を生むことがある。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "거친 외곽선을 다듬는 방식입니다. TAA는 점진적으로 이미지를 부드럽게 만들어 안티앨리어싱 효과가 높지만, 희미한 이미지 이중 현상이 나타날 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "平滑鋸齒邊緣時使用的方法。TAA會隨時間平滑影像，進而有更好的消除鋸齒效果，但會導致「疊影」。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "消除锯齿边缘时所用的方法。TAA基于时间柔化图像，从而达到更好的抗锯齿效果，但可能会产生图像“重影”。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.Anti-Aliasing",
+  "internalEnabled": true,
+  "persistentID": 985592083
+}

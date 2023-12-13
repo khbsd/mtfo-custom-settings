@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bot",
+  "Description": "A friendly player character controller by the computer.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bot",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bot",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bot",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bot",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Robô",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bot",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "봇",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機器人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "机器人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerBot.Bot",
+  "internalEnabled": true,
+  "persistentID": 1372
+}

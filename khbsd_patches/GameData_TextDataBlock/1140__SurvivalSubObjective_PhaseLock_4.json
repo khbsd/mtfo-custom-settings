@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to <color=orange>ZONE 178</color> and Extract.",
+  "Description": "Don't localize ZONE 178",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous dans la <color=orange>Zone\u00A0178</color> et évacuez.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>ZONE 178</color> per estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>ZONE 178</color> und extrahieren Sie.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta la <color=orange>ZONE 178</color> y finaliza la expedición.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь к точке выхода в <color=orange>ZONE 178</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para a <color=orange>ZONE 178</color> e vá para o ponto de extração.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange>strefy 178 [ZONE_178]</color> i dokonaj ewakuacji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 178</color> へ進み脱出しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 178</color>로 이동해 탈출할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 178</color>並撤離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 178</color>并撤离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalSubObjective_PhaseLock_4",
+  "internalEnabled": true,
+  "persistentID": 1140
+}

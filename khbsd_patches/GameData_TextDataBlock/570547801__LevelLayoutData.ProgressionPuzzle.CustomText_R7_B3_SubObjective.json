@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Push through to [ZONE_5] or explore for options",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Continuez jusqu'à la [ZONE_5] ou cherchez une alternative.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_5] o cercare opzioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erreichen Sie [ZONE_5] oder suchen Sie nach Optionen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ábrete camino hasta la [ZONE_5] o explora en busca de opciones.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пробейтесь в [ZONE_5] или поищите другие варианты.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atravesse para a [ZONE_5] ou desvende outras opções",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przebij się przez strefę [ZONE_5] lub wypróbuj inne opcje",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]へ進むかオプションを探索",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5]로 강행하거나 다른 대안 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強行前往[ZONE_5]或探索選項",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "努力前往[ZONE_5]或探索选项",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B3_SubObjective",
+  "internalEnabled": true,
+  "persistentID": 570547801
+}

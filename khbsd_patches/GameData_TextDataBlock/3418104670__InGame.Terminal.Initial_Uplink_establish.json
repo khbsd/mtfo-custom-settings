@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initial Uplink establish, awaiting verification key",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Liaison montante initiale établie, clé de vérification en attente...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Uplink iniziale stabilito, in attesa di chiave di verifica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initialer Uplink hergestellt, warte auf Verifizierungsschlüssel ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uplink inicial establecido, esperando clave de verificación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идет установка подключения. Ожидание ключа верификации.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uplink inicial estabelecido; aguardando chave de verificação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wstępne połączenie ustanowione, oczekiwanie na klucz weryfikacyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "初期アップリンク確立、認証キーを待機中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초기 업링크 설정. 인증 키 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "初始上行鏈路已建立，正在等待驗證金鑰",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "初步上行链路已建立，正在等待验证密钥",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Initial_Uplink_establish",
+  "internalEnabled": true,
+  "persistentID": 3418104670
+}

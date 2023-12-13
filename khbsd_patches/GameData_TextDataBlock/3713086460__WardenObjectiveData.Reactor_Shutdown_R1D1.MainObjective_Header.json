@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reactor Shutdown",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Extinction du réacteur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spegnimento reattore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Reaktorabschaltung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Apagado del reactor",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выключение реактора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desligamento de reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyłączenie reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターシャットダウン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 정지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Shutdown_R1D1.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 3713086460
+}

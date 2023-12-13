@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The device you want to use as a microphone in voice chat.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit le microphone utilisé pour le chat vocal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il dispositivo che desideri utilizzare come microfono nella chat vocale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das Gerät, das Sie im Sprachchat als Mikrofon verwenden möchten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El dispositivo que quieres usar como micrófono para el chat de voz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Устройство, используемое в качестве микрофона в голосовом чате.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O dispositivo que você deseja usar como microfone no chat de voz.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Urządzenie do stosowania jako mikrofon w czacie głosowym.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャットでマイクとして使用したいデバイス。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅에서 마이크로 쓰려는 기기입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在語音聊天中作為麥克風的裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你想要在语音聊天中用作麦克风的设备。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VoiceChatMicrophone",
+  "internalEnabled": true,
+  "persistentID": 1006618019
+}

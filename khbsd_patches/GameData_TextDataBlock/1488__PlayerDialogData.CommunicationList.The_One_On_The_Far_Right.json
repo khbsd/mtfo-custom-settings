@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...the one on the far right.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... celui tout à droite.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...quello più a destra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… den ganz rechts.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... del que está al extremo de la derecha.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...враг в дальнем правом углу.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... o que está à extrema direita.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tego najdalej po prawej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...右端の奴は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...오른쪽 멀리 있는 거.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…最右邊那個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……最右边的那个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.The_One_On_The_Far_Right",
+  "internalEnabled": true,
+  "persistentID": 1488
+}

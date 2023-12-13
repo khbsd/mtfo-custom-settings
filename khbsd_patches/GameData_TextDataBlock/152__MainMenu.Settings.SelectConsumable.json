@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Consumable",
+  "Description": "Control key binding/mapping. This key equips the player's \"consumable\" (i.e. a type of resource the player has found during the expedition, that can only be utilized during that same expedition.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner le consommable",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona consumabile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbrauchsgegenstand wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar consumible",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать расходник",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar consumível",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór przedmiotu jednorazowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消耗品を選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소모품 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇消耗品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择消耗品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectConsumable",
+  "internalEnabled": true,
+  "persistentID": 152
+}

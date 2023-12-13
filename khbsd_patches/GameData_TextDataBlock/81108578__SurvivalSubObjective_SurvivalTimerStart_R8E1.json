@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>ALERT.</color> Radioactive release in:",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>ALERTE.</color> Émissions radioactives dans\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>AVVISO.</color> Fuoriuscita radioattiva tra:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>ACHTUNG.</color> Radioaktive Strahlung in:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ALERTA.</color> Liberación radioactiva en:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ТРЕВОГА!</color> Выброс радиоактивных веществ через:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ALERTA.</color> Liberação radioativa em:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>ALARM.</color> Emisja radioaktywna za:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>注意。</color>放射性物質の放出まで：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경보.</color> 방사선 누출까지:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。</color>輻射釋放倒數計時：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告。</color>放射性物质释放倒计时：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "SurvivalSubObjective_SurvivalTimerStart_R8E1",
+  "internalEnabled": true,
+  "persistentID": 81108578
+}

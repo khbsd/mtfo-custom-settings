@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gameplay",
+  "Description": "A headline for gameplay related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Gameplay",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gioco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gameplay",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Juego",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Игровой процесс",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Experiência de jogo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozgrywka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームプレイ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 플레이",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遊戲玩法",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "玩法",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GameplayButton",
+  "internalEnabled": true,
+  "persistentID": 61
+}

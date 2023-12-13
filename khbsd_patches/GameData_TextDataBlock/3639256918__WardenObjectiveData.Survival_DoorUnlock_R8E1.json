@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>ERROR:</color> Connection to <color=yellow>ZONE 515</color> lost. Door unlocked.",
+  "Description": "Don't localize [Zone 515]. It is replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>ERREUR\u00A0:</color> Connexion à la <color=yellow>ZONE\u00A0515</color> perdue. Porte déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ERRORE:</color> connessione a <color=yellow>ZONE 515</color> persa. Porta sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>FEHLER:</color> Verbindung zu <color=yellow>ZONE 515</color> unterbrochen. Tür entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ERROR:</color> Se ha perdido la conexión con la <color=yellow>ZONE 515</color>. Puerta abierta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОШИБКА.</color> Соединение с <color=yellow>ZONE 515</color> потеряно. Дверь разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ERRO:</color> Conexão perdida com <color=yellow>ZONE 515</color>. Porta destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>BŁĄD:</color> Połączenie ze <color=yellow>strefą 515 [ZONE_515]</color> utracone. Drzwi odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラー：</color><color=yellow>ZONE 515</color>への接続が失われた。ドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>오류:</color> <color=yellow>ZONE 515</color> 연결 손실. 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯誤：</color>失去與<color=yellow>ZONE 515</color>的連線。門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错误：</color><color=yellow>ZONE 515</color>连接已断开。门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "WardenObjectiveData.Survival_DoorUnlock_R8E1",
+  "internalEnabled": true,
+  "persistentID": 3639256918
+}

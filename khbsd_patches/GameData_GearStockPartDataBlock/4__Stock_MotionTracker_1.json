@@ -1,0 +1,25 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_MotionTracker_c.prefab",
+    "GearCategoryFilter": 9,
+    "LeftHandGripAnim": "mapper_c_fp_arms",
+    "RightHandGripAnim": "mapper_c_fp_arms",
+    "AssetBundle": 40,
+    "BundleShard": 13
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_MotionTracker_1",
+  "internalEnabled": true,
+  "persistentID": 4
+}

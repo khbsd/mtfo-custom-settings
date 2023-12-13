@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ASK FOR HELP TO UNLOCK THE DOOR",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DEMANDEZ DE L'AIDE POUR DÉVERROUILLER LA PORTE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CHIEDERE AIUTO PER SBLOCCARE LA PORTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BITTEN SIE UM HILFE, UM DIE TÜR ZU ENTRIEGELN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PIDE AYUDA PARA DESBLOQUEAR LA PUERTA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОПРОСИТЕ О ПОМОЩИ, ЧТОБЫ ОТКРЫТЬ ДВЕРЬ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PEÇA AJUDA PARA DESTRAVAR A PORTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POPROŚ O POMOC, ABY ODBLOKOWAĆ DRZWI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアのロック解除に援助を要請しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "지원을 요청해 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋求幫助以將門解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "寻求帮助以把门解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_H1",
+  "internalEnabled": true,
+  "persistentID": 1231241299
+}

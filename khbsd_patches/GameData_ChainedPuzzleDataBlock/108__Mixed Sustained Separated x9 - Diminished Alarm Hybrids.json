@@ -1,0 +1,46 @@
+{
+  "PublicAlarmName": "Class IX M Diminished Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 57,
+  "SurvivalWavePopulation": 8,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 15.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 16
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 16
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Sustained Separated x9 - Diminished Alarm Hybrids",
+  "internalEnabled": true,
+  "persistentID": 108
+}

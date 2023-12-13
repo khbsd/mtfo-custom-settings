@@ -1,0 +1,120 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        3,
+        2
+      ],
+      [],
+      [
+        0,
+        1,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        3,
+        2
+      ],
+      [
+        0,
+        1,
+        3,
+        2
+      ],
+      [],
+      [
+        1,
+        2,
+        0,
+        3
+      ],
+      [
+        0,
+        1,
+        3
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        1,
+        2,
+        0,
+        3
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_large_corridor_half_800/storage_large_corridor_half_800_HA_01.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_large_corridor_half_800/storage_large_corridor_half_800_HA_02.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_large_corridor_half_800/storage_large_corridor_half_800_HA_03.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_large_corridor_half_800/storage_large_corridor_half_800_HA_04.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 2.0,
+        "function": 0,
+        "Shard": 4
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 2,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_storage_large_corridor_half_800",
+    "BoundingVolume": 0.0
+  },
+  "name": "mining_storage_large_corridor_half_800",
+  "internalEnabled": true,
+  "persistentID": 120
+}

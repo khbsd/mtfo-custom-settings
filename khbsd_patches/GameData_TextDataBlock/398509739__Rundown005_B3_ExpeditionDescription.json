@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners sent to initiate hisec crate processing. Motile biomass detected. Adjusting prisoner casualty tolerance.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Prisonniers envoyés pour initier le traitement des caisses HISEC. Biomasse mobile détectée. Niveau de tolérance à la perte de prisonniers augmenté.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati per avviare l'elaborazione della cassa HISEC. Rilevata biomassa mobile. Regolazione della tolleranza alla perdita di prigionieri.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gefangene entsandt, um die Verarbeitung der [HISEC]-Kiste einzuleiten. Bewegliche Biomasse entdeckt. Toleranz für Gefangenenverluste angepasst.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prisioneros destinados a iniciar el procesado de cajas de HISEC. Biomasa móvil detectada. Ajustando la tolerancia a bajas de prisioneros.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным поручена обработка контейнера HISEC. Обнаружены подвижные биосигнатуры. Оценка ожидаемых потерь среди заключенных обновлена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros enviados para iniciar processamento de caixa HISEC. Biomassa móvel detectada. Ajustando tolerância a baixas de prisioneiros.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wysłano więźniów w celu rozpoczęcia przetwarzania skrzyni podwyższonego bezpieczeństwa. Wykryto biomasę w ruchu. Korygowanie tolerancji na straty wśród więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HISECクレート処理開始のため、囚人を派遣。運動性生体反応検知。囚人の犠牲許容数調整。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자들을 보내 하이섹 상자 처리를 시작합니다. 운동성 바이오매스가 감지되었습니다. 수감자 사상자 허용치를 조정 중입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已派遣囚犯啟動HISEC箱處理。偵測到活動生物質。正在調整囚犯傷亡容限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯派去发起HISEC箱处理。检测到活动生物质。正在调整囚犯伤亡容限。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_B3_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 398509739
+}

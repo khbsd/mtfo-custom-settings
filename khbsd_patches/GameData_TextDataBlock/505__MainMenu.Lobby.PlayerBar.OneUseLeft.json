@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[1 use left]",
+  "Description": "Counting how many uses are left of a multi-dose booster (a performance enhancing drug).",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "[1\u00A0dose restante]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[1 utilizzo rimasto]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[1 Nutzung übrig]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[1 uso restante]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[1 р. остался]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[1 uso restante]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[1 pozostałe użycie]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[残り使用回数: 1]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[1회분 남음]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[剩下1次]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[还剩1次用量]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.OneUseLeft",
+  "internalEnabled": true,
+  "persistentID": 505
+}

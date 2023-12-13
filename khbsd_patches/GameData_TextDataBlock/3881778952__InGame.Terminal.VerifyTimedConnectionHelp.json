@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verifies a timed connection. <b>OBS:</b> Will prompt the connected terminal to verify within a few seconds!",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Vérifie une connexion limitée.<b>OBS\u00A0:</b>Invite le terminal connecté à effectuer la vérification en quelques secondes\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica una connessione temporizzata. <b>OBS:</b> chiederà al terminale collegato una verifica entro pochi secondi!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifiziert eine zeitlich begrenzte Verbindung.<b>OBS:</b> Das verbundene Terminal wird innerhalb weniger Sekunden zur Verifizierung aufgefordert!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Verifica una conexión cronometrada. <b>OBS:</b> ¡Hará que el terminal conectado verifique en pocos segundos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верифицирует синхронизированное соединение. <b>OBS:</b> подключенный терминал должен будет пройти верификацию в течение нескольких секунд!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Verifica uma conexão cronometrada. <b>OBS.:</b> Vai solicitar que o terminal conectado faça a verificação em poucos segundos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja połączenia czasowego. <b>OBS:</b> w ciągu kilku sekund wyświetli monit o weryfikację terminalu!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期接続を認証する。<b>OBS:</b>接続された端末に数秒以内に認証するよう指示する！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 연결 승인. <b>OBS:</b> 연결된 터미널을 촉발하여 몇 초 내로 승인합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證定時連線。<b>OBS：</b>將提示連線的終端以在數秒內進行驗證！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证定时连接。<b>OBS:</b>将提示连接的终端以在数秒内进行验证！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.VerifyTimedConnectionHelp",
+  "internalEnabled": true,
+  "persistentID": 3881778952
+}

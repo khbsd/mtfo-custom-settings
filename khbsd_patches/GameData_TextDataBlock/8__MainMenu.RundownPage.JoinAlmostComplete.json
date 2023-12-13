@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Join almost complete",
+  "Description": "As in \"the action of joining (the intended lobby) is almost complete\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Connexion au salon...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso in corso di completamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beitritt fast abgeschlossen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso casi completado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вход почти выполнен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entrada quase concluída",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dołączanie prawie zakończone",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "参加完了間近",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "참가 거의 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "即將完成加入",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加入即将完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.JoinAlmostComplete",
+  "internalEnabled": true,
+  "persistentID": 8
+}

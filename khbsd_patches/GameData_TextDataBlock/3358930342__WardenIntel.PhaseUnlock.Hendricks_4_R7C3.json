@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone 171 Access status: <color=orange>Granted</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État d'accès de la zone\u00A0171\u00A0: <color=orange>autorisé</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato accesso Zone 171: <color=orange>autorizzato</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugangsstatus Zone 171: <color=orange>Gewährt</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado de acceso a Zone 171: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус доступа зоны 171: <color=orange>открыт</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status do acesso à Zone 171: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strefa 171 [ZONE_171] – stan dostępu: <color=orange>przyznany</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 171のアクセス状況: <color=orange>許可済み</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 171 접근 상태: <color=orange>허가됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ZONE 171進入狀態：<color=orange>允許</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 171权限状态：<color=orange>允许</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenIntel.PhaseUnlock.Hendricks_4_R7C3",
+  "internalEnabled": true,
+  "persistentID": 3358930342
+}

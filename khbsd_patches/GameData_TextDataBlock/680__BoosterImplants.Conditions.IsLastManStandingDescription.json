@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is last man standing with at least one other team member.",
+  "Description": "A description of condition, i.e. the subject must be the \"last man standing\" and have at least one other player on the team.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dernier survivant avec au moins un autre coéquipier.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "È l'ultimo soggetto in vita con almeno un altro compagno di squadra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ist mit mindestens einem weiteren Teammitglied der letzte Überlebende.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El último sujeto en pie con otro compañero como mínimo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В живых должен остаться субъект и хотя бы один напарник.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "É o último vivo com pelo menos um outro aliado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi być ostatnim na polu walki, mając jeszcze jednego członka drużyny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自チームは自分以外ダウンしていて、他チームに1人以上残っている。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다른 팀원 최소 한 명과 함께 최후 생존자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "與至少一名隊友一起堅持到最後。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拥有至少一名队友情况下的唯一存活者。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsLastManStandingDescription",
+  "internalEnabled": true,
+  "persistentID": 680
+}

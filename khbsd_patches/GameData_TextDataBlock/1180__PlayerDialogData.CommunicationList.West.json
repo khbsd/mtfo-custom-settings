@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "West!",
+  "Description": "As in \"to the west!\" A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ouest\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ovest!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Westen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al oeste!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На запад!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Oeste!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zachód!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "西だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서쪽으로!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "西！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "往西！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.West",
+  "internalEnabled": true,
+  "persistentID": 1180
+}

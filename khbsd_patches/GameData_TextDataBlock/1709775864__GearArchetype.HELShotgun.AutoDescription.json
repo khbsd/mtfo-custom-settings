@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully Automatic\nShort range\nWide blast cone\nOverpenetrating rounds",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCourte portée\nLarge explosion en cône\nBalles ultra-pénétrantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nGittata breve\nRosa ampia\nColpi perforanti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nKurze Reichweite\nGroßer Sprengkegel\nDurchschlagende Geschosse",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nCorto alcance\nCono de descarga amplio\nBalas superperforantes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nМалая дальность\nШирокий сектор поражения\nВысокая пробивная способность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nCurto alcance\nCone explosivo amplo\nMunição altamente perfurante",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynna\nKrótki zasięg\nSzeroki stożek ostrzału\nPociski nadpenetrujące",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n近距離\n広拡散\n超貫通弾",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n단거리\n확산 범위 넓음\n고관통탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n短程\n寬爆炸錐\n超穿彈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n近程\n宽锥形弹幕\n过度穿透子弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "GearArchetype.HELShotgun.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 1709775864
+}

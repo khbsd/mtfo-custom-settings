@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use <color=orange>\"Extract_Decryption_Key\"</color> command to transfer data to portable unit.",
+  "Description": "Don't localize Extract_Decryption_Key",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>Extract_Decryption_Key</color> pour transférer les données sur l'unité portable.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando <color=orange>EXTRACT_DECRYPTION_KEY</color> per trasferire i dati all'unità portatile.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=orange>Extract_Decryption_Key</color>, um Daten auf ein tragbares Gerät zu übertragen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Utiliza el comando <color=orange>«Extract_Decryption_Key»</color> para transferir los datos a una unidad portátil.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>EXTRACT_DECRYPTION_KEY</color>, чтобы передать данные на портативное устройство.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando <color=orange>EXTRACT_DECRYPTION_KEY</color> para transferir os dados para a unidade portátil.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecania <color=orange>EXTRACT_DECRYPTION_KEY</color>, aby przetransferować dane na jednostkę przenośną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>\"Extract_Decryption_Key\"</color> コマンドを使用し、データを携帯ユニットに転送しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Extract_Decryption_Key</color> 명령을 사용해 휴대 유닛으로 데이터 이전",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用<color=orange>Extract_Decryption_Key</color>指令將資料傳輸到攜帶式裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>EXTRACT_DECRYPTION_KEY</color>命令将数据传输到便携单元。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_3_D2.Override.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 1567
+}

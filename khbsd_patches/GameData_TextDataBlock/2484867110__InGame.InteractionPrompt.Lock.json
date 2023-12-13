@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lock",
+  "Description": "A weak hackable lock found on doors, boxes and lockers.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrou",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Serratura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schloss",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cerradura",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Замок",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fechadura",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zamek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자물쇠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "普通鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Lock",
+  "internalEnabled": true,
+  "persistentID": 2484867110
+}

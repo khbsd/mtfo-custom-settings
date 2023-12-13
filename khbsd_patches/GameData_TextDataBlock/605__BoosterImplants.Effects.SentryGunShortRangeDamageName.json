@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SR sentry damage",
+  "Description": "\"SR\" stands for \"short range\". The \"SR sentry damage\" refers to how much damage a sentry gun deals against short range targets.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de tourelle CD",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da torr. a gitt. breve",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Nahschaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de centinela (CA)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (турель, ближнее действие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de sentinela próxima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia działka wartowniczego na krótkim dystansie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近距離セントリーダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "SR 센트리 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "近距自動砲台傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近程哨戒炮伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunShortRangeDamageName",
+  "internalEnabled": true,
+  "persistentID": 605
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//:End of warden transmission",
+  "Description": "The footer of a message from the Warden. This is displayed in the HUD.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "//:Fin de transmission du gardien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//:Fine della trasmissione del guardiano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//:Ende der Übertragung des Aufsehers",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//:Fin de transmisión del guardián",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//:Конец передачи смотрителя",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//:Fim da transmissão da guarda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//:Zakończenie transmisji strażnika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//:ウォーデンの通信終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//:교도관 통신 종료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//:典獄長傳輸結束",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//:督察传输结束",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.EndOfWardenTransmission",
+  "internalEnabled": true,
+  "persistentID": 1064
+}

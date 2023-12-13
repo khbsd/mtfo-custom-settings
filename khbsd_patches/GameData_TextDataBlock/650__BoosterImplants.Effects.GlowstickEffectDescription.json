@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glow sticks distributed by Subject will shine brighter and last longer.",
+  "Description": "Describes the advantage of having a good \"glow stick power\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les bâtons lumineux placés par le sujet brillent plus et durent plus longtemps.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gli starlight utilizzati dal soggetto saranno più luminosi e dureranno più a lungo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Von der Versuchsperson verteilte Knicklichter leuchten heller und länger.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las barras luminosas que lance el sujeto brillarán con más intensidad y durarán más.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Светящаяся палочка горит ярко и долго.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bastões fluorescentes distribuídos pelo indivíduo brilham mais forte e duram mais tempo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozmieszczane przez biorcę światło chemiczne będzie świecić mocniej i dłużej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が使用したグロースティックの明るさと持続時間が向上する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 배치한 글로우 스틱의 밝기와 지속 시간이 올라갑니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象發射的螢光棒會較亮，持續時間較長。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者投掷的发光棒的照明度提高，持续时间延长。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.GlowstickEffectDescription",
+  "internalEnabled": true,
+  "persistentID": 650
+}

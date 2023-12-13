@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return the Data Sphere to the point of entrance in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramenez la sphère de données au point d'entrée de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare la Sfera dati al punto d'ingresso in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die Datenkugel zum Eintrittspunkt in [EXTRACTION_ZONE] zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Devuelve la esfera de datos al punto de entrada en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верните сферу данных к месту начала экспедиции в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Devolva a esfera de dados ao ponto de entrada na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś sferę danych do punktu wejścia w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データスフィアを[EXTRACTION_ZONE]の入口に戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 스피어를 [EXTRACTION_ZONE]의 진입점으로 돌려보내기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "把資料球帶回[EXTRACTION_ZONE]的入口",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据球送回到[EXTRACTION_ZONE]的入口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R4C1_L1.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 3078792832
+}

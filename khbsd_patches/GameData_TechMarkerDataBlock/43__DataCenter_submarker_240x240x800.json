@@ -1,0 +1,107 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        4
+      ],
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [],
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_submarker_240x240x800/DataCenter_submarker_240x240x800_V01.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_submarker_240x240x800/DataCenter_submarker_240x240x800_V02.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_submarker_240x240x800/DataCenter_submarker_240x240x800_V03.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_submarker_240x240x800/DataCenter_submarker_240x240x800_V04.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_submarker_240x240x800/DataCenter_submarker_240x240x800_V05.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 2
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/SM_DataCenter_240x240x800",
+    "BoundingVolume": 46080.0
+  },
+  "name": "DataCenter_submarker_240x240x800",
+  "internalEnabled": true,
+  "persistentID": 43
+}

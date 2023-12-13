@@ -1,0 +1,86 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [
+        2,
+        1,
+        0
+      ],
+      [],
+      [
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0
+      ],
+      [
+        2,
+        1,
+        0
+      ],
+      [],
+      [],
+      [
+        1,
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_800x400x500/Floodways_800x400x500_V01.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_800x400x500/Floodways_800x400x500_V02.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_800x400x500/Floodways_800x400x500_V03.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 1
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 13,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Floodways_800x400x500",
+    "BoundingVolume": 160000.0
+  },
+  "name": "Floodways_800x400x500",
+  "internalEnabled": true,
+  "persistentID": 12
+}

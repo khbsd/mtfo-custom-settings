@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Terminal in zone and activate maintenance mode to proceed to next zone.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le terminal de la zone et activez le mode maintenance pour accéder à la zone suivante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare terminale in zona e attivare la modalità di manutenzione per procedere alla zona successiva.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Terminal in der Zone und aktivieren Sie den Wartungsmodus, um zur nächsten Zone zu gelangen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el terminal en la zona y activa el modo de mantenimiento para pasar a la siguiente zona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы перейти к следующей зоне, найдите терминал и активируйте режим техобслуживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal na zona e ative o modo de manutenção para continuar para a próxima zona.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal w strefie i aktywuj tryb serwisowy, aby przejść do kolejnej strefy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゾーンで端末を見つけ、メンテナンスモードを起動して次のゾーンに進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "구역 내 터미널을 찾고 점검 모드를 활성화하여 다음 구역으로 진행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在區域中找到終端，並啟用維護模式以前往下一區。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在区域中找到终端，并激活维护模式以前往下一个区域。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjective.Mainframe_Update_1_R7D2",
+  "internalEnabled": true,
+  "persistentID": 3218720058
+}

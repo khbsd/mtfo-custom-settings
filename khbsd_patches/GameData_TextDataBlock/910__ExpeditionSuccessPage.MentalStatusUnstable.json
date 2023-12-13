@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "unstable",
+  "Description": "A summary of the player's medical status. I.e. \"Medical status: unstable.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "instable",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Instabile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "instabil",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inestable",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "нестабильное",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "instável",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "niestabilny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不安定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불안정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "不穩定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "不稳定",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MentalStatusUnstable",
+  "internalEnabled": true,
+  "persistentID": 910
+}

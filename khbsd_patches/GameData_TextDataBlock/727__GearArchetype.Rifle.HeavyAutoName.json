@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Heavy Assault Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil d'assaut lourd",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile d'assalto pesante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schweres Sturmgewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de asalto pesado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ручной пулемет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil pesado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ciężki karabin szturmowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘビーアサルトライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중돌격소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重型突擊步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重型突击步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.HeavyAutoName",
+  "internalEnabled": true,
+  "persistentID": 727
+}

@@ -1,0 +1,21 @@
+{
+  "SpawnsPerZone": 10,
+  "ChanceToSpawnInResourceContainer": 0.7,
+  "SpawnData": [
+    {
+      "ItemID": 174,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 3.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Stealth_Tech_Alt",
+  "internalEnabled": true,
+  "persistentID": 78
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Show this command list",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche la liste des commandes.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra questo elenco di comandi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Befehlsliste anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra esta lista de comandos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает данный список команд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mostre esta lista de comandos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pokaż listę poleceń",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このコマンドリストを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명령 목록 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示此指令清單",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示此命令列表",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.CommandsCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3869896648
+}

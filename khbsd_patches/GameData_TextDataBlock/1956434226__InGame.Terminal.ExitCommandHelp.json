@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exit the terminal screen",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Quitte l'écran du terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esce dalla schermata del terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminalbildschirm verlassen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sale de la pantalla del terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выход с экрана терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Saia da tela do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Opuść ekran terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末の画面を閉じる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 화면 나감",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出終端畫面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出终端界面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ExitCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 1956434226
+}

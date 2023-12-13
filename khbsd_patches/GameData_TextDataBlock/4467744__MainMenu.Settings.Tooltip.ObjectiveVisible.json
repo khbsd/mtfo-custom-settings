@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables objectives on your HUD",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active les objectifs sur l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra gli obiettivi sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert Ziele auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa los objetivos de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает цели в HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa os objetivos na interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza cele w interfejsie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD上に目標を表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD에 목표를 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在抬頭顯示器上啟用目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在平视显示上开启目标。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.ObjectiveVisible",
+  "internalEnabled": true,
+  "persistentID": 4467744
+}

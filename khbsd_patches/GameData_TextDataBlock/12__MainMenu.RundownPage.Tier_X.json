@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TIER {0}",
+  "Description": "The \"rundown\" (campaign) in GTFO is divided into \"tiers\", equivalent to levels or stories in a building. The game takes place in an underground complex, and the deeper you go (the deeper the tier), the harder the game gets. The tiers are named \"A\", \"B\", \"C\", etc.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PALIER {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "LIVELLO {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STUFE {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CATEGORÍA {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УРОВЕНЬ {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CATEGORIA {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KONDYGNACJA {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ティア {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "티어 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "第{0}層",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}层",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.Tier_X",
+  "internalEnabled": true,
+  "persistentID": 12
+}

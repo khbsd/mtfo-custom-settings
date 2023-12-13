@@ -1,0 +1,28 @@
+{
+  "m_pauseBeforeStart": 3.0,
+  "m_pauseBetweenGroups": 180.0,
+  "m_wavePauseMin_atCost": 1.0,
+  "m_wavePauseMax_atCost": 10.0,
+  "m_wavePauseMin": 1.0,
+  "m_wavePauseMax": 20.0,
+  "m_populationFilter": [
+    1,
+    2,
+    3
+  ],
+  "m_filterType": 0,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 0.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 0.0,
+  "m_overrideWaveSpawnType": true,
+  "m_survivalWaveSpawnType": 6,
+  "m_populationPointsTotal": -1.0,
+  "m_populationPointsPerWaveStart": 3.0,
+  "m_populationPointsPerWaveEnd": 3.0,
+  "m_populationPointsMinPerGroup": 3.0,
+  "m_populationPointsPerGroupStart": 3.0,
+  "m_populationPointsPerGroupEnd": 3.0,
+  "m_populationRampOverTime": 600.0,
+  "name": "Trickle 3-180 SpMBB",
+  "internalEnabled": true,
+  "persistentID": 201
+}

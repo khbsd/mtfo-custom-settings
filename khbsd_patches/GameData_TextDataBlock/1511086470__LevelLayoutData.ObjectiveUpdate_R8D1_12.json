@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access <color=orange>ZONE 425</color> through terminals in <s>[ZONE_8]</s> and [ZONE_9]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la <color=orange>ZONE\u00A0425</color> en utilisant les terminaux de la <s>[ZONE_8]</s> et de la [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedere a <color=orange>ZONE 425</color> tramite i terminali in <s>[ZONE_8]</s> e [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erhalten Sie über die Terminals in <s>[ZONE_8]</s> und [ZONE_9] Zugang zu <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Accede a la <color=orange>ZONE 425</color> a través de los terminales en la <s>[ZONE_8]</s> y la [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Получите доступ к <color=orange>ZONE 425</color> с помощью терминала в <s>[ZONE_8]</s> и [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar <color=orange>ZONE 425</color> usando os terminais em <s>[ZONE_8]</s> e [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dotrzyj do <color=orange>strefy 425 [ZONE_425]</color> przez terminale w strefie 8 <s>[ZONE_8]</s> i strefie 9 [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<s>[ZONE_8]</s>と[ZONE_9]の端末から<color=orange>ZONE 425</color>にアクセスしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<s>[ZONE_8]</s> 및 [ZONE_9]의 터미널을 사용해 <color=orange>ZONE 425</color>에 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<s>[ZONE_8]</s>和[ZONE_9]的終端進入<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过<s>[ZONE_8]</s>和[ZONE_9]的终端访问<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_12",
+  "internalEnabled": true,
+  "persistentID": 1511086470
+}

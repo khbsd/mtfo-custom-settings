@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Conditions",
+  "Description": "Headline for a text that informs the reader about a booster's (a performance enhancing drug's) conditions (requirements). For example, a booster might not activate until the subject's health is below 40%.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Conditions",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Condizioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bedingungen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Condiciones",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требования",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Condições",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Warunki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "条件",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "條件",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "条件",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Conditions",
+  "internalEnabled": true,
+  "persistentID": 502
+}

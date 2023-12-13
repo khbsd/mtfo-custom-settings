@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>INTEL</color>",
+  "Description": "Short for \"intelligence\", as in \"gathered information\". Pressing this button will open up a text box with information about the game campaign. Do not alter the RichText tags.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>INFOS</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>INFO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>INTEL</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>INFORMACIÓN</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ДАННЫЕ</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>INFORMAÇÕES</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>DANE</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>情報</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>정보</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>情報</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>情报</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.IntelButton",
+  "internalEnabled": true,
+  "persistentID": 34
+}

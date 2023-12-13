@@ -1,0 +1,18 @@
+{
+  "AttachToAlign": 0,
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_A.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 0,
+    "BundleShard": 12
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Spot"
+    }
+  ],
+  "name": "Silencer_1",
+  "internalEnabled": true,
+  "persistentID": 1
+}

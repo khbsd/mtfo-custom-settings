@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the navigational beacon and the information in the surroundings to find the exit point",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la balise de navigation et les informations disponibles pour trouver le point d'évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il segnale di navigazione e le informazioni nei dintorni per trovare il punto d'estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie die Navigationsbake und die Informationen in der Umgebung, um den Austrittspunkt zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa la baliza de navegación y la información del entorno para encontrar la salida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте метку и сведения об окружении, чтобы найти точку выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o sinalizador de navegação e as informações nas redondezas para encontrar o ponto de saída",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj nadajnika lokalizacyjnego oraz informacji w otoczeniu, aby znaleźć punkt ewakuacyjny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "案内ビーコンと周囲の情報を使って脱出地点を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐색 신호기와 주변 정보를 사용해 탈출구 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用導航信標和四周的資訊來找到撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用导航标记和周围环境中的信息找到出口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_One_Terminal_R2B3.GoToWinConditionHelp_CustomGeo",
+  "internalEnabled": true,
+  "persistentID": 1719746494
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BACKUP POWER GENERATOR",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "GROUPE ÉLECTROGÈNE DE SECOURS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "GENERATORE DI BACKUP",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BACKUP-STROMGENERATOR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "GENERADOR ELÉCTRICO DE APOYO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РЕЗЕРВНЫЙ ГЕНЕРАТОР",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "GERADOR DE ENERGIA DE RESERVA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "REZERWOWY GENERATOR MOCY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備発電機",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 파워 발전기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "備用發電機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备用发电机",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.BACKUP_POWER_GENERATOR",
+  "internalEnabled": true,
+  "persistentID": 2088533942
+}

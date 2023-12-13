@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Low",
+  "Description": "A text string indicating that a particular game setting is set to \"low\". It could, for example, refer to \"shadow resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Faible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bassa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gering",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Baja",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Низк.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nisk.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "낮음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Low",
+  "internalEnabled": true,
+  "persistentID": 169
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=green>Security protocol deactivated.</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=green>Protocole de sécurité désactivé.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=green>Protocollo di sicurezza disattivato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=green>Sicherheitsprotokoll deaktiviert.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=green>Protocolo de seguridad desactivado.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=green>Протокол безопасности отключен</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=green>Protocolo de segurança desativado.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=green>Dezaktywowano protokół bezpieczeństwa.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=green>セキュリティプロトコルを停止。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=green>보안 프로토콜 비활성화됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=green>安全協定已停用。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=green>安全协议已关闭。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Security_protocol_deactivated",
+  "internalEnabled": true,
+  "persistentID": 3524097561
+}

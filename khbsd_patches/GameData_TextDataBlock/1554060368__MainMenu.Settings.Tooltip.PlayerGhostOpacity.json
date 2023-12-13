@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the transparency of your teammates outline.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la transparence du contour des coéquipiers.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla la trasparenza delle sagome dei compagni di squadra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Transparenz des Umrisses Ihrer Teammitglieder.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla la transparencia de la silueta de tus compañeros.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует прозрачность очертаний напарников.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla a transparência do contorno dos seus aliados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za przezroczystość obrysu członków drużyny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームメイトの輪郭の透明度を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원 외곽선 투명도를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制隊友輪廓透明度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制队友轮廓的透明度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.PlayerGhostOpacity",
+  "internalEnabled": true,
+  "persistentID": 1554060368
+}

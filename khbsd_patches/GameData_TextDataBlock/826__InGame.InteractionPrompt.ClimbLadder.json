@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Climb Ladder",
+  "Description": "I.e. \"climb this ladder (up or down.)\" When the player stands close to a ladder, this text string appears on screen to indicate what action can be performed by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Grimper à l'échelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa scala",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auf Leiter steigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escalera",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подняться по лестнице",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Subir a escada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj drabiny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "梯子を登る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사다리 오르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "爬梯",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "爬梯",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.ClimbLadder",
+  "internalEnabled": true,
+  "persistentID": 826
+}

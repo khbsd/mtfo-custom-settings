@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tier 4 Security PID required to reboot power grid. Prisoners sent to gather all PIDs from designated area. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pièce d’identité de niveau 4 nécessaire pour redémarrer le circuit d’alimentation. Les prisonniers ont été envoyés pour récupérer toutes les pièces d’identité de la zone appropriée. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesto PID di sicurezza di livello 4 per il riavvio della rete elettrica. Prigionieri inviati a raccogliere tutti i PID dall'area designata. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheits-PID der Stufe 4 erforderlich, um das Stromnetz neu zu starten. Gefangene losgeschickt, um alle PIDs aus dem angegebenen Gebiet zu sammeln. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se necesita ID de personal de seguridad de categoría 4 para reiniciar la red eléctrica. Prisioneros destinados a reunir todas las ID de la zona designada. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для перезагрузки электросети требуется идентификатор сотрудника службы безопасности уровня\u00A04. Заключенным поручено собрать идентификаторы в указанной области. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ID-P de segurança de categoria 4 necessária para reinicializar a rede elétrica. Prisioneiros enviados para coletar todos os ID-Ps da área determinada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagany identyfikator pracowniczy 4. stopnia w celu ponownego uruchomienia sieci energetycznej. Wysłano więźniów, aby zebrać wszystkie identyfikatory w wyznaczonym obszarze. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電力系統の再起動にはティア4の個人IDが必要。指定エリアからすべての個人IDを収集するため、囚人を派遣した。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력망 재부팅에 티어 4 보안 개인 ID 필요. 지정 지역에서 개인 ID를 모두 수거하기 위해 수감자 배치. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要第4層保全人員ID才能重新啟動電力網。已派出囚犯前往指定區段收集所有人員ID。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要4层安全人员ID才能重启电网。囚犯派去收集指定区域的所有人员ID。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown001_B1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1272994097
+}

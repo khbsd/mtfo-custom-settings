@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR SECURITY VERIFICATION REQUIRED",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "VÉRIFICATION DE SÉCURITÉ DU RÉACTEUR REQUISE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICHIESTA VERIFICA SICUREZZA REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ÜBERPRÜFUNG DER REAKTORSICHERHEIT ERFORDERLICH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "VERIFICACIÓN DE SEGURIDAD DEL REACTOR NECESARIA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ТРЕБУЕТСЯ ПРОВЕРКА БЕЗОПАСНОСТИ РЕАКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFICAÇÃO DE SEGURANÇA DE REATOR NECESSÁRIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYMAGANA WERYFIKACJA ZABEZPIECZEŃ REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターセキュリティ認証が必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 보안 인증 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要反應器安全驗證",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要进行反应堆安全验证",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.SecurityVerificationRequired",
+  "internalEnabled": true,
+  "persistentID": 1081
+}

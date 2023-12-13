@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is wielding Main Weapon",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have their \"main weapon equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Équipé d'une arme principale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Arma principale impugnata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzt die Hauptwaffe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva el arma principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С основным оружием",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está empunhando a arma principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzyma broń główną",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メイン武器使用中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 무기 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用主要武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在使用主武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.IsWieldingStandardWeaponName",
+  "internalEnabled": true,
+  "persistentID": 690
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "High",
+  "Description": "A text string indicating that a particular game setting is set to \"high\". It could, for example, refer to \"shadow resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Élevé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hoch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Высок.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wys.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "높음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.High",
+  "internalEnabled": true,
+  "persistentID": 171
+}

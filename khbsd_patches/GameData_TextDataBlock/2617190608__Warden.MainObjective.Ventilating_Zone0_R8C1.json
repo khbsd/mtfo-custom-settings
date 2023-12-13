@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Peripheral propellers engaged. Ventilating sector. Door to [ZONE_1] unlocked. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Hélices périphériques engagées. Ventilation du secteur activée. Porte vers la [ZONE_1] déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Eliche periferiche attivate. Ventilazione settore in corso. Porta per [ZONE_1] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Periphere Propeller aktiviert. Belüfte Sektor. Tür zu [ZONE_1] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hélices periféricas activadas. Ventilando sector. La puerta a la [ZONE_1] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включены периферийные пропеллеры. Вентиляция сектора. Дверь в зону [ZONE_1] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Propulsores periféricos ativados. Setor de ventilação. Porta para [ZONE_1] destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wiatraki peryferyjne uruchomione. Wentylowanie sektora. Drzwi do strefy 1 [ZONE_1] odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "周辺のプロペラが作動。換気セクター。[ZONE_1]へのドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주변 프로펠러 작동. 환기 섹터. [ZONE_1] 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "外圍螺旋槳已啟用。將分區通風。通往[ZONE_1]的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "外围推进器已启用。正在给分区通风。[ZONE_1]门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Warden.MainObjective.Ventilating_Zone0_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2617190608
+}

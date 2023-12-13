@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PERSONNEL GENDER: {0}",
+  "Description": "{0} is either MALE or FEMALE",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "SEXE DU PERSONNEL\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "GENERE PERSONALE: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GESCHLECHT DES PERSONALS: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SEXO DEL PERSONAL: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОЛ СОТРУДНИКА: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "GÊNERO DE PESSOAL: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PŁEĆ ZAŁOGANTA: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "個人の性別: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개인 성별: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "人員性別：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "人员性别：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.PERSONNEL_GENDER_X",
+  "internalEnabled": true,
+  "persistentID": 3168600610
+}

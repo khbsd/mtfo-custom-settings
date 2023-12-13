@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SmEAR",
+  "Description": "\"Gear\" as in \"equipment\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ÉQUIPEMENT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "EQUIPAGGIAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AUSRÜSTUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EQUIPO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКИПИРОВКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EQUIPAMENTOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYPOSAŻENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ギア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "裝備",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "装备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Gear",
+  "internalEnabled": true,
+  "persistentID": 486
+}

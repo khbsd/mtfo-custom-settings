@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Opening log file {0}",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Ouverture du fichier journal {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apertura file di registro {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Protokolldatei {0} wird geöffnet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abriendo archivo de registro {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открытие файла журнала {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abrindo arquivo de registro {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwieranie pliku dziennika {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ログファイルを展開中{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 로그 파일 여는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在開啟日誌檔案{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在打开日志文件“{0}”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Opening_logfile_X",
+  "internalEnabled": true,
+  "persistentID": 485422647
+}

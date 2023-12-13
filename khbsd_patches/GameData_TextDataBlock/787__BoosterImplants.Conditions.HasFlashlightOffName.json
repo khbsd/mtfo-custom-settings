@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Has Flashlight Off",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have their \"flashlight turned off\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Torche désactivée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torcia spenta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampe ist aus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Linterna apagada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выключенный фонарик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está com a lanterna desligada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyłączona latarka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライトオフ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시 꺼짐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手电筒关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasFlashlightOffName",
+  "internalEnabled": true,
+  "persistentID": 787
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_5] and [ZONE_9] unlocked",
+  "Description": "Don't localize [ZONE_5] or [ZONE_9]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Porte vers la [ZONE_5] et la [ZONE_9] débloquées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_5] e [ZONE_9] sbloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_5] und [ZONE_9] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las puertas de [ZONE_5] y [ZONE_9] están desbloqueadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [ZONE_5] и [ZONE_9] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_5] e [ZONE_9] destrancada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy [ZONE_5] i strefy [ZONE_9] odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5] と [ZONE_9] へのドアがロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5] 및 [ZONE_9] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_5]與[ZONE_9]的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_5]和[ZONE_9]的门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Tempered_Data_Cube.Override.Custom.Subobjective_Unlock_door",
+  "internalEnabled": true,
+  "persistentID": 1410
+}

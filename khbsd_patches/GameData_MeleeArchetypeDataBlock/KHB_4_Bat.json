@@ -1,0 +1,48 @@
+{
+  "PublicName": "Bat",
+  "NoiseLevel": 0,
+  "ChargedAttackDamage": 30.0,
+  "LightAttackDamage": 12.0,
+  "LightStaggerMulti": 5.0,
+  "ChargedStaggerMulti": 7.0,
+  "LightPrecisionMulti": 3.0,
+  "ChargedPrecisionMulti": 3.0,
+  "LightEnvironmentMulti": 5.0,
+  "ChargedEnvironmentMulti": 5.0,
+  "LightBackstabberMulti": 3.0,
+  "ChargedBackstabberMulti": 3.0,
+  "LightSleeperMulti": 3.0,
+  "ChargedSleeperMulti": 3.0,
+  "SkipLimbDestruction": false,
+  "CameraDamageRayLength": 1.75,
+  "AttackSphereRadius": 0.8,
+  "PushDamageSphereRadius": 0.7,
+  "CanHitMultipleEnemies": true,
+  "EvaluateHoldBeforeAttack": true,
+  "PlayImpactEffect": true,
+  "AllowRunningWhenCharging": true,
+  "PlayerRunSpeedMultiWhileCharging": 2.0,
+  "MeleeAnimationSet": 4,
+  "MeleeSFXSet": 4,
+  "ChargedAttackStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": true,
+    "resetRestingTimerOutOfCombat": true
+  },
+  "LightAttackStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": false,
+    "resetRestingTimerOutOfCombat": false
+  },
+  "PushStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": false,
+    "resetRestingTimerOutOfCombat": false
+  },
+  "name": "Bat",
+  "internalEnabled": true,
+  "persistentID": 4
+}

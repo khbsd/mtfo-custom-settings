@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Maximized Window",
+  "Description": "The graphic setting \"full screen mode\", controls the behavior of the game application window, can have this setting.\nWith Maximized Window, the game will also cover the whole screen, but still have a border and the Windows TaskBar visible.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fenêtre agrandie",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Finestra massima estensione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maximiertes Fenster",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ventana maximizada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Большое окно",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Janela maximizada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Okno zmaksymalizowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "最大化ウィンドウ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "최대 크기 창",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "最大化視窗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "最大窗口",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MaximizedWindow",
+  "internalEnabled": true,
+  "persistentID": 185
+}

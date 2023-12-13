@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Data-core extraction complete.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Extraction du noyau de données terminée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estrazione nucleo dati completata!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Datenkernextraktion abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extracción de núcleo de datos completada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлечение ядра данных завершено.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extração de núcleo de dados concluída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wypakowywanie rdzenia danych ukończone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データコア抽出完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 코어 추출 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資料核擷取完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "数据核提取完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.GatherTerminalDownloadCompleteText",
+  "internalEnabled": true,
+  "persistentID": 2410856699
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Prisoners dispatched to deliver Data Cubes to KDS Deep and then Escape.",
+  "Description": "Explaining the objective of the expedition",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Prisonniers chargés de livrer des cubes de données [DATA_CUBE] dans les profondeurs du KDS, puis de s'échapper.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prigionieri inviati per consegnare i cubi di dati [DATA_CUBE] a Profondità KDS e poi fuggire.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gefangene entsandt, um die Datenwürfel [DATA_CUBE] zu KDS zu bringen und dann zu fliehen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Prisioneros enviados para entregar los cubos de datos [DATA CUBE] a las profundidades de KDS y después escapa.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным поручено доставить кубы данных [DATA_CUBE] к СЗК и эвакуироваться.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros despachados para entregar os cubos de dados [DATA_CUBE] no fundo KDS e fugir em seguida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wysłano więźniów w celu dostarczenia kostek danych do jądra KDS i ucieczki.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "KDS深部にデータキューブ[DATA CUBE]を運び、その後脱出するために派遣された囚人たち。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브를 KDS 딥으로 전달한 후 탈출하기 위해 수감자들이 파견됐습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已派遣囚犯將資料方塊[DATA_CUBE]送往KDS深處，隨後逃離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯派去将数据立方[DATA_CUBE]送往KDS深处，随后逃离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "R8E1.ExpeditionDescription_Deprecated",
+  "internalEnabled": true,
+  "persistentID": 1298303346
+}

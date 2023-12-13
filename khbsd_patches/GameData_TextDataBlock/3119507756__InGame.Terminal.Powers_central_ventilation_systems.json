@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Powers central ventilation systems",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Alimente les systèmes de ventilation centraux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimenta i sistemi di ventilazione centralizzata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Betreibt die zentralen Belüftungssysteme.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alimenta los sistemas de ventilación centrales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Питает центральные системы вентиляции",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alimenta os sistemas de ventilação centrais",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasila centralny system wentylacyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中心換気システムに電力供給",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 중앙 환기 시스템",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中央通風系統供電",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给中央通风系统供电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Powers_central_ventilation_systems",
+  "internalEnabled": true,
+  "persistentID": 3119507756
+}

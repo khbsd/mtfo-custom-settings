@@ -1,0 +1,17 @@
+{
+  "FeedbackMeleeHitNormal": 56,
+  "FeedbackMeleeHitHard": 57,
+  "InitialFoley": 2073762258,
+  "SwishRegularLeft": 1654350800,
+  "SwishRegularRight": 3801928103,
+  "SwishRegularDelay": 0.15,
+  "SwishHeavy": 482109888,
+  "ShoveHit": 537356063,
+  "Charge": 2360028946,
+  "Charged": 2182337294,
+  "ChargedCancelWarning": 746759770,
+  "PlayerCancelCharge": 2073762258,
+  "name": "Bat",
+  "internalEnabled": true,
+  "persistentID": 4
+}

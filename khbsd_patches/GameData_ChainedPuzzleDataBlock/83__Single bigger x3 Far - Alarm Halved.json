@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 36,
+  "SurvivalWavePopulation": 8,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 20.0,
+  "WantedDistanceBetweenPuzzleComponents": 7.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 8
+    },
+    {
+      "PuzzleType": 8
+    },
+    {
+      "PuzzleType": 8
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single bigger x3 Far - Alarm Halved",
+  "internalEnabled": true,
+  "persistentID": 83
+}

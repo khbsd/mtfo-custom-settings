@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in [ZONE_9]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal dans la [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare terminale in [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el terminal en la [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar terminal na [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w strefie 9 [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_9]で端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_9]에서 터미널 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位[ZONE_9]中的終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[ZONE_9]中的终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_18",
+  "internalEnabled": true,
+  "persistentID": 4236755666
+}

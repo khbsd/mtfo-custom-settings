@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Awaiting terminal unlock command..",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commande de déverrouillage du terminal en attente...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa del comando di sblocco del terminale…",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erwarte Befehl zum Entriegeln des Terminals …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando comando de desbloqueo del terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание команды для разблокировки терминала...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando comando de desbloqueio de terminal...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na polecenie odblokowania terminalu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末ロック解除コマンドを待機中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 개방 명령 대기 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在等待終端解鎖指令……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待终端解锁命令……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "TERMINAL_INFO_UNLOCK_R8B4_1",
+  "internalEnabled": true,
+  "persistentID": 3345122641
+}

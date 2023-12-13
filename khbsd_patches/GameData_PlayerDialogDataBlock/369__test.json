@@ -1,0 +1,160 @@
+{
+  "priority": 200,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3409998570,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2620422495,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3048408072,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 1350930042,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3387336103,
+            "A": false,
+            "B": false,
+            "C": true,
+            "D": false,
+            "UNI": false,
+            "exit": 1.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 318897959,
+            "A": false,
+            "B": false,
+            "C": false,
+            "D": true,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 2,
+        "conditions": []
+      },
+      "ActorB": {
+        "charFilter": 4
+      },
+      "ActorC": {
+        "charFilter": 8
+      },
+      "ActorD": {
+        "charFilter": 16
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 106816883,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2468391768,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 6
+      },
+      "ActorB": {
+        "charFilter": 4
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 2552000261,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 16
+      }
+    }
+  ],
+  "name": "test",
+  "internalEnabled": true,
+  "persistentID": 369
+}

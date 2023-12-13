@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert the <color=orange>BULKHEAD KEY</color> in a <color=orange>BULKHEAD CONTROLLER</color> to unlock the door",
+  "Description": "Don't localize BULKHEAD KEY and BULKHEAD CONTROLLER",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Insérez la <color=orange>CLÉ DE CLOISON</color> [BULKHEAD_KEY] dans un <color=orange>CONTRÔLEUR DE CLOISON</color> [BULKHEAD_CONTROLLER] pour déverrouiller la porte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire la <color=orange>BULKHEAD KEY</color> in un <color=orange>BULKHEAD CONTROLLER</color> per sbloccare la porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fügen Sie den <color=orange>BULKHEAD KEY</color> in einen <color=orange>BULKHEAD CONTROLLER</color> ein, um die Tür zu entriegeln.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta la <color=orange>llave de contención [BULKHEAD_KEY]</color> en un <color=orange>controlador de contención [BULKHEAD_CONTROLLER]</color> para desbloquear la puerta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы открыть дверь, вставьте <color=orange>BULKHEAD KEY</color> в <color=orange>BULKHEAD CONTROLLER</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a <color=orange>chave de segurança [BULKHEAD_KEY]</color> em um <color=orange>controle de portas de segurança [BULKHEAD_CONTROLLER]</color> para destrancar a porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź <color=orange>klucz do grodzi [BULKHEAD_KEY] do <color=orange>kontrolera grodzi [BULKHEAD_CONTROLLER]</color>, aby odblokować drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>BULKHEAD KEY</color> を <color=orange>BULKHEAD CONTROLLER</color> に挿入し、ロックを解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[BULKHEAD_CONTROLLER] <color=orange>격벽 컨트롤러</color>에 [BULKHEAD_KEY] <color=orange>격벽 키</color>를 넣어 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<color=orange>艙門鑰匙[BULKHEAD_KEY]</color>插入<color=orange>艙門控制器[BULKHEAD_CONTROLLER]</color>來解鎖門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<color=orange>BULKHEAD KEY</color>插入到<color=orange>BULKHEAD CONTROLLER</color>中把门解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.BulkheadKey.FoundKey",
+  "internalEnabled": true,
+  "persistentID": 1361
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Neural Imprinting Protocols retrieved. Proceed towards [EXTRACTION_ZONE]",
+  "Description": "Don't localize [EXTRACTION_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Protocoles d'imprégnation neuronale récupérés. Rendez-vous dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Protocolli di imprinting neurale recuperati. Raggiungere [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neuronale Prägungsprotokolle abgerufen. Begeben Sie sich zu [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se han recuperado los protocolos de impresión neural. Avanza hasta la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлечены протоколы нейронного отпечатка. Проследуйте в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Protocolos de gravação neural recuperados. Vá para a [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pozyskano protokoły imprintingu neuronowego. Przejdź do punktu ewakuacyjnego w [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ニューラルインプリンティングプロトコルを回収。 [EXTRACTION_ZONE]へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "신경 각인 프로토콜 검색됨. [EXTRACTION_ZONE](으)로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "取得神經印記協定。繼續前往[EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "神经印记协议已取回，继续前往[EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CorruptedUplink_D2_L2.Override.GoToExit",
+  "internalEnabled": true,
+  "persistentID": 1576
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sector lost! --- evacuate immediately through [ZONE_11]!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Secteur perdu\u00A0! --- évacuez immédiatement par la [ZONE_11]\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Settore perso! --- Evacuare immediatamente tramite zona 11 [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sektor verloren! – Evakuieren Sie sofort über [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Sector perdido! ¡Evacuar inmediatamente por la [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сектор потерян! Немедленно эвакуируйтесь через [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Setor perdido! --- evacue imediatamente pela [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sektor utracony – wymagana niezwłoczna ewakuacja przez strefę [ZONE_11]!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セクター喪失！ --- [ZONE_11]を通り、即座に避難せよ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터 손실! --- [ZONE_11]을 통해 즉시 대피할 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "分區失陷！-- 立即由[ZONE_11]撤離！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "分区失陷！--- 立即通过[ZONE_11]撤离！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R5D2_L1.ReactorWave_Intel_11",
+  "internalEnabled": true,
+  "persistentID": 3809199656
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..Wait.. What could The Warden possibly do with this..?\r\n<size=200%><color=red>>..do you really want to know..?</color></size>",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... Attendez... qu'est-ce que le gardien compte faire avec ça...\u00A0?\r\n<size=200%><color=red>>... Vous voulez vraiment le savoir...\u00A0?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...Un attimo... Cosa vuole farci il guardiano con questo...?\r\n<size=200%><color=red>>...vuoi saperlo davvero...?</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Wartet … Was will der Aufseher damit …?\r\n<size=200%><color=red>>… Willst du das wirklich wissen …?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> Un momento... ¿Qué habrá hecho el guardián con esto?\r\n<size=200%><color=red>> ¿De verdad lo quieres saber?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Погоди. Для чего это смотрителю?\r\n<size=200%><color=red>>...Ты правда хочешь знать?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">.. Espere.. O que a guarda faria com isso..?\r\n<size=200%><color=red>>.. quer mesmo saber..?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...Chwila... Co strażnik miałby niby z tym zrobić...?\r\n<size=200%><color=red>>...naprawdę śpieszy ci się dowiedzieć?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..待て.. ウォーデンはこいつでいったい何をしようと..？\r\n<size=200%><color=red>>..本当に知りたいのか..？</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..잠깐... 교도관은 이걸로 뭘 하려고..?\r\n<size=200%><color=red>>..정말 알고 싶나..?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…等等……典獄長要用這個做什麼……？\r\n<size=200%><color=red>>…你真的想知道嗎……？</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..等等……督察会用这个做什么？\r\n<size=200%><color=red>>..你真的想知道吗？</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_B1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3753879062
+}

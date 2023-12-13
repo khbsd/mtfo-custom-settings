@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must be at least 20 meters away from an enemy for booster to be active.",
+  "Description": "An abbreviated description of a condition, the subject must be at a certain distance from an enemy in order for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit être à au moins 20\u00A0mètres d'un ennemi pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve trovarsi ad almeno 20 metri da un nemico per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss mindestens 20\u00A0Metern von einem Feind entfernt sein, damit der Booster aktiv wird.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe estar al menos a 20 metros de un enemigo para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, находясь на расстоянии не менее <nobr>20 м</nobr> от врага.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve estar pelo menos a 20 metros de um inimigo para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi się znajdować w odległości co najmniej 20 metrów od przeciwnika, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象は敵から20メートル以上離れている時のみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터가 활성화되려면 대상이 적으로부터 최소 20m 떨어져 있어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須在敵人的20公尺範圍外才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者必须在敌人至少20米开外，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.IsFarAwayFromEnemyDescription",
+  "internalEnabled": true,
+  "persistentID": 3952044459
+}

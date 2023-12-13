@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reach the forward exit point in <color=orange>ZONE 75</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Atteignez le point de sortie de la <color=orange>ZONE\u00A075</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere il punto d'estrazione anteriore nella <color=orange>ZONE 75</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erreichen Sie den vorderen Austrittspunkt in <color=orange>ZONE 75</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega al punto de evacuación en la <color=orange>ZONE 75</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до точки выхода в <color=orange>ZONE 75</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chegue ao ponto de saída na <color=orange>ZONE 75</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dotrzyj do wysuniętego punktu ewakuacyjnego w <color=orange>strefie 75 [ZONE_75]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 75</color>の先の脱出地点へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 75</color>의 탈출구에 도달할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "到達<color=orange>ZONE 75</color>的前進撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "到达<color=orange>ZONE 75</color>的前出口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveData.Tutorial.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 4040196499
+}

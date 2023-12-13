@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Incorrect security code!",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Code de sécurité incorrect\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Codice di sicurezza errato!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Falscher Sicherheitscode!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Código de seguridad incorrecto!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Неверный код безопасности!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Código de segurança incorreto!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nieprawidłowy kod bezpieczeństwa!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティコード相違！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "올바르지 않은 보안 코드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全碼不正確！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全码不正确！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Incorrect_security_code",
+  "internalEnabled": true,
+  "persistentID": 2195342028
+}

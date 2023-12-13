@@ -1,0 +1,69 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_ceiling_7x6x3/refinery_equipment_ceiling_7x6x3_HA_01.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_ceiling_7x6x3/refinery_equipment_ceiling_7x6x3_HA_02.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_ceiling_7x6x3/refinery_equipment_ceiling_7x6x3_HA_03.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersRefinery/Props/refinery_equipment_ceiling_7x6x3/refinery_equipment_ceiling_7x6x3_HA_04.prefab",
+        "function": 0,
+        "Shard": 14
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 14
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_refinery_ceiling_7x6x3",
+    "BoundingVolume": 126000.0
+  },
+  "name": "mining_refinery_equipment_ceiling_700x600x300",
+  "internalEnabled": true,
+  "persistentID": 113
+}

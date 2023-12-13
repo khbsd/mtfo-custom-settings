@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlock <color=#3299a8>ZONE 494</color> through terminal in <color=#3299a8>ZONE 493</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillez la <color=#3299a8>ZONE\u00A0494</color> à l'aide du terminal de la <color=#3299a8>ZONE\u00A0493</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccare <color=#3299a8>ZONE 494</color> tramite terminale in <color=#3299a8>ZONE 493</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Geben Sie <color=#3299a8>ZONE 494</color> über ein Terminal in <color=#3299a8>ZONE\u00A0493</color> frei.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloquea la <color=#3299a8>ZONE 494</color> a través del terminal en la <color=#3299a8>ZONE 493</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откройте доступ к <color=#3299a8>ZONE 494</color> с помощью терминала в <color=#3299a8>ZONE 493</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desbloquear a <color=#3299a8>ZONE 494</color> pelo terminal na <color=#3299a8>ZONE 493</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokuj <color=#3299a8>strefę 494 [ZONE_494]</color> przez terminal w <color=#3299a8>strefie 493 [ZONE_493]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>ZONE 493</color>の端末から<color=#3299a8>ZONE 494</color>をロック解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>ZONE 493</color> 터미널을 통해 <color=#3299a8>ZONE 494</color> 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<color=#3299a8>ZONE 493</color>中的終端解鎖<color=#3299a8>ZONE 494</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过<color=#3299a8>ZONE 493</color>中的终端解锁<color=#3299a8>ZONE 494</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8E2_LevelLayoutData.ObjectiveUpdate_04",
+  "internalEnabled": true,
+  "persistentID": 53627503
+}

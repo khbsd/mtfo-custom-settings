@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>ERROR://</color> This command only allows one use. Command has already been called.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>ERREUR\u00A0://</color> Commande à usage unique. Cette commande a déjà été exécutée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ERRORE://</color> questo comando è utilizzabile una sola volta. Il comando è già stato inviato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>:FEHLER://</color> Dieser Befehl kann nur einmal verwendet werden. Der Befehl wurde bereits ausgeführt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ERROR://</color> Este comando solo permite un uso. El comando ya se ha ejecutado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОШИБКА://</color> Эту команду можно использовать только один раз. Команда уже использовалась.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ERRO://</color> Este comando só permite um uso. O comando já foi utilizado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>BŁĄD://</color> To polecenie może być użyte tylko raz. Polecenie zostało już wykonane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラー://</color>このコマンドの使用許可回数は1回のみ。コマンドは既に使用済み。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>오류://</color> 이 명령은 한 번만 사용 가능합니다. 명령이 이미 호출되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯誤://</color>此指令只允許使用一次。指令已調用過。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错误://</color>此命令只允许使用一次。命令已调用过。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.CommandAlreadyUsed",
+  "internalEnabled": true,
+  "persistentID": 3978649922
+}

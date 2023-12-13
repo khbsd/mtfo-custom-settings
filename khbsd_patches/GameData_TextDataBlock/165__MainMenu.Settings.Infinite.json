@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Infinite",
+  "Description": "The highest possible \"target framerate\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Infini",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Infinito",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Unendlich",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Infinito",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бесконечная",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Infinito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nieograniczona",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "無限",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "제한 없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无限",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Infinite",
+  "internalEnabled": true,
+  "persistentID": 165
+}

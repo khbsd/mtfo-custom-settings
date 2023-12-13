@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I can't place it there.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je ne peux placer ça ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non posso metterlo lì.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das kann ich da nicht platzieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No puedo colocarlo aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Невозможно установить.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não dá para colocar aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie mogę rozstawić tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここには置けない。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "거긴 못 놔둬.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "不能放在那裡。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我放不过去。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.I_Cant_Place_It_There",
+  "internalEnabled": true,
+  "persistentID": 1505
+}

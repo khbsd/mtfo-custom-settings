@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] Hard Drives and return the data to be processed.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez [COUNT_REQUIRED] disques durs et rapportez les données pour traitement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] dischi rigidi e consegnare i dati da elaborare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] Festplatten [HARD_DRIVE] und geben Sie die zu verarbeitenden Daten ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] discos duros y trae los datos para procesarlos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите жесткие диски ([COUNT_REQUIRED]) и принесите данные для обработки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] discos rígidos e insira os dados para processamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz [COUNT_REQUIRED] szt. dysków twardych i przekaż dane do przetwarzania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]個のハードドライブを収集し、処理用のデータを回収しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하드 드라이브 [COUNT_REQUIRED]개를 수집해 처리할 데이터 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集[COUNT_REQUIRED]個硬碟，並交回資料進行處理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]个硬盘并返回数据进行处理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Harddriver_6_R4A1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3277911004
+}

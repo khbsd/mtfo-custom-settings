@@ -1,0 +1,53 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Tech_container_locker_200x300x50/Tech_locker_terminal_200x300x50_01.prefab",
+        "function": 7,
+        "Shard": 19
+      },
+      {
+        "weight": 50.0,
+        "function": 0,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 10,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_container_locker_200x300x50",
+    "BoundingVolume": 3000.0
+  },
+  "name": "Tech_Terminal_Only_200x300x50",
+  "internalEnabled": true,
+  "persistentID": 77
+}

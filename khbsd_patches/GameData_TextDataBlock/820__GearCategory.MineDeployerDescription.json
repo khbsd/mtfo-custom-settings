@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Laser triggered explosion\nShaped charge",
+  "Description": "A short description of what the mine deployer tool is used for. I.e. it places a mine which is laser triggered (meaning it detonates when its laser beam detects an enemy) and it has a shape charge functionality (meaning that the force of the explosion is focused in a certain direction rather than spreading evenly in all directions.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Explosion à activation par laser\nCharge directionnelle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esplosione a innesco laser\nImpatto direzionato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lasergesteuerte Explosion\nHohlladung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explosión activada por láser\nCarga hueca",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Лазерная система обнаружения\nНаправленный взрыв",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Explosão acionada por laser\nAlcance direcionado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybuch wywoływany przez laser\nŁadunek kumulacyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "レーザー式爆発\n偏向火薬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "레이저 작동 폭발\n지향성 폭발",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "雷射觸發爆炸\n定向進攻",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激光触发爆炸\n定向爆开",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.MineDeployerDescription",
+  "internalEnabled": true,
+  "persistentID": 820
+}

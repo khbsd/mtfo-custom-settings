@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ALL_ITEMS] somewhere inside <color=orange>ZONE 20</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [ALL_ITEMS] quelque part à l'intérieur de la <color=orange>ZONE\u00A020</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ALL_ITEMS] da qualche parte nella <color=orange>zona 20 [ZONE_20]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ALL_ITEMS] irgendwo in <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el objeto [ALL_ITEMS] en algún lugar de la <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ALL_ITEMS]) в <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ALL_ITEMS] dentro da <color=orange>ZONE 20</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ALL_ITEMS] gdzieś wewnątrz <color=orange>strefy 20 [ZONE 20]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 20</color>内部のどこかで[ALL_ITEMS]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 20</color> 내부 어딘가에서 [ALL_ITEMS] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>20區[ZONE_20]</color>內找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>20区[ZONE_20]</color>内某处找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_1_Cargo_R5A2_L1.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 1170078590
+}

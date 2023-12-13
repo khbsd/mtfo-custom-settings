@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminal localisé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Terminal",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Terminal",
+  "internalEnabled": true,
+  "persistentID": 1337
+}

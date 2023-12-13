@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">..it’s ..changed...\r\n<size=150%><color=red>>..shut up and keep your eyes open!</color></size>\r\n>..[unintelligible]\r",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... il a ... changé ...\r\n<size=150%><color=red>>... Fermez-la et gardez les yeux ouverts\u00A0!</color></size>\r\n>... [inintelligible]\r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...è... cambiato...\r\n<size=150%><color=red>>...taci e tieni gli occhi aperti!</color></size>\r\n>...[incomprensibile]\r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Es hat sich … verändert …\r\n<size=150%><color=red>>… Halt die Klappe und deine Augen offen!</color></size>\r\n>… [unverständlich]\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> Ha cambiado...\r\n<size=150%><color=red>> ¡Cierra el pico y no bajes la guardia!</color></size>\r\n>... [ininteligible]\r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">Оно меняется...\r\n<size=150%><color=red>>Заткнись и смотри в оба!</color></size>\r\n>[неразборчиво]\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">.. ele .. mudou...\r\n<size=150%><color=red>>.. cale a boca e fique de olhos bem abertos!</color></size>\r\n>..[indistinguível]\r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...to się ...zmieniło...\r\n<size=150%><color=red>>...milcz i rozglądaj się!</color></size>\r\n>..[niezrozumiałe]\r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">..こいつ ..変わった...\r\n<size=150%><color=red>>..黙って目を開けておけ！</color></size>\r\n>..[内容不明な声]\r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">..변했어...\r\n<size=150%><color=red>>..닥치고 눈 똑바로 떠!</color></size>\r\n>..[이해 불가]\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…出現了變化……\r\n<size=150%><color=red>>…閉嘴，張大眼睛！</color></size>\r\n>…[無法辨識]\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">..这个……变了……\r\n<size=150%><color=red>>..闭嘴，眼睛放亮点！</color></size>\r\n>..[模糊音]\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown003_C1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 261939357
+}

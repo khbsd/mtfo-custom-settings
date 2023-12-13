@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... [silence] / It's... it... / [whimper] \r\n... Run.  \r\n... <size=200%><color=red>[primal roar]\r</color></size>",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... [silence] / C'est... c'est... / [gémissement] \r\n... Courez\u00A0! \r\n... <size=200%><color=red>[rugissement primitif]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… [silenzio] / È… è… / [gemito] \r\n… Via. \r\n… <size=200%><color=red>[ruggito primordiale]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… [Stille] / Das ist … Das … / [Wimmern]\r\n… Lauf.\r\n… <size=200%><color=red>[Urgebrüll]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... [silencio] / Ahí está... / [gemido] \r\n... Corre.  \r\n... <size=200%><color=red>[rugido salvaje]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... [тишина] Это... это же... [всхлип]\r\n... Бежим!\r\n<size=200%><color=red>[первобытный рев]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... [silêncio] / Ele está... ele... / [lamúria] \r\n... Corram. \r\n... <size=200%><color=red>[rugido primitivo]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "... [cisza] / Czy... to... / [cichy jęk] \r\n…W nogi.  \r\n<size=200%><color=red>[pierwotny skowyt]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... [沈黙] / あれ... あれは... / [うめき声] \r\n... 逃げろ。  \r\n... <size=200%><color=red>[原始的な咆哮]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... [고요함] / 그건... 그... / [훌쩍임] \r\n... 도망가.  \r\n... <size=200%><color=red>[원시적 외침]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……[沉默]/這……它……/[嗚咽聲]\r\n……跑。\r\n……<size=200%><color=red>[原始咆哮]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……[沉默]/这……它……/[呜咽声]\r\n……跑。\r\n……<size=200%><color=red>[原始吼叫]\r</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_4_1.Roleplayed_Warden_Intel",
+  "internalEnabled": true,
+  "persistentID": 1551
+}

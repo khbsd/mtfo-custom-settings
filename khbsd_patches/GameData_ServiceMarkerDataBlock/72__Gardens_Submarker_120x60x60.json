@@ -1,0 +1,91 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        2,
+        6
+      ],
+      [],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        3,
+        6
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Service_function_submarker_120x60x60/Service_function_submarker_120x60x60_secbox_02.prefab",
+        "function": 11,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Service_function_submarker_120x60x60/Service_function_submarker_120x60x60_weakbox_01.prefab",
+        "function": 10,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item.prefab",
+        "function": 8,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Big_Pickup_Item.prefab",
+        "function": 12,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_120x60x60/Gardens_Submarker_120x60x60_V01.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 7.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_120x60x60/Gardens_Submarker_120x60x60_V02.prefab",
+        "function": 0,
+        "Shard": 8
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Floodways_submarker_120x60x60",
+    "BoundingVolume": 432.0
+  },
+  "name": "Gardens_Submarker_120x60x60",
+  "internalEnabled": true,
+  "persistentID": 72
+}

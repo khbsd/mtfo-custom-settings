@@ -1,0 +1,120 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_MachineGun_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Machinegun_1_idle",
+    "AssetBundle": 20,
+    "BundleShard": 14
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "rig:a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Machinegun_1_fire"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Machinegun_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Machinegun_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Machinegun_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_out"
+    },
+    {
+      "TriggerTime": 0.6,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.8,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.95,
+      "Type": 5,
+      "StringData": "cannon_reload_grab_mag"
+    },
+    {
+      "TriggerTime": 0.96,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.7,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_in"
+    },
+    {
+      "TriggerTime": 1.81,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 2.15,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.3,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 2.66,
+      "Type": 7
+    }
+  ],
+  "name": "Front_MachineGun_1",
+  "internalEnabled": true,
+  "persistentID": 18
+}

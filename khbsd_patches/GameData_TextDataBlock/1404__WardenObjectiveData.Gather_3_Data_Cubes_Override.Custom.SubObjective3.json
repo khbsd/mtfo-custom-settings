@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Survive</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>Survivez</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Sopravvivi</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Überleben Sie</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Sobrevive</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Выживите</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Sobreviva</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Przeżyj</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>生き残れ</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>생존할 것</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>生存</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>存活</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_3_Data_Cubes_Override.Custom.SubObjective3",
+  "internalEnabled": true,
+  "persistentID": 1404
+}

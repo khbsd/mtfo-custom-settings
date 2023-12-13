@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shadow Updates Per Frame",
+  "Description": "A game setting that controls how many shadow updates are allowed per frame.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Actualisations des ombres par image",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aggiornamenti ombre per fotogramma",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schattenaktualisierungen pro Frame",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Refresco de sombras por fotograma",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Частота обновления теней",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atualização de sombra por quadro",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odświeżenia cieni na klatkę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フレームごとの影の更新",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "프레임당 그림자 업데이트",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "每幀陰影更新",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "每帧阴影更新",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.ShadowUpdatesPerFrame",
+  "internalEnabled": true,
+  "persistentID": 710924358
+}

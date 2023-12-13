@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_7] is locked. Shuttlebox located nearby.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_7] verrouillée. Boîte à navette localisée à proximité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La porta per [ZONE_7] è chiusa. Scatola di trasferimento nelle vicinanze.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_7] ist verriegelt. Die Transferbox befindet sich in der Nähe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta a la [ZONE_7] bloqueada. Hay una caja de ida y vuelta cerca.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [ZONE_7] заблокирована. Поблизости расположен подъемник.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A porta para a [ZONE_7] está travada. Caixa de vaivém nas proximidades.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 7 [ZONE_7] są zamknięte. W pobliżu znajduje się skrzynka transportowa.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_7]へのドアが封鎖。付近にシャトルボックスを発見",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_7] 문 잠김. 근처에 셔틀 박스 위치함.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_7]的門已鎖。附近的穿梭箱已定位。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_7]的门已锁定。附近发现穿梭箱。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 9,
+  "ImportVersion": 9,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B1_Header_1",
+  "internalEnabled": true,
+  "persistentID": 2624745674
+}

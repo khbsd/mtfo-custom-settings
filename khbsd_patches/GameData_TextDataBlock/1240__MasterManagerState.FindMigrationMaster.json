@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FindMigrationMaster",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "TrouverHôteMigration",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trova migrazione master",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MigrationsmasterFinden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Buscar maestro de migración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поиск резервного организатора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EncontrarMestreDeMigração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZnajdźPołączenieGłówneMigracji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移行マスターを発見",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통합마스터찾는중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找移轉主機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "寻找迁移主机",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.FindMigrationMaster",
+  "internalEnabled": true,
+  "persistentID": 1240
+}

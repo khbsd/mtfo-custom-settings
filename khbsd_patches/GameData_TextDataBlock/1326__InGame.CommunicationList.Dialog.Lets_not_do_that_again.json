@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lets not do that again",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Évitons ça la prochaine fois",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non facciamolo più",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das darf nicht wieder vorkommen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Será mejor no repetir eso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы больше такого не повторялось",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não vamos mais fazer assim",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie róbmy tego ponownie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "もう二度としないようにしよう",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다신 하지 말자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們不要再那樣了",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "别再这样了",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Lets_not_do_that_again",
+  "internalEnabled": true,
+  "persistentID": 1326
+}

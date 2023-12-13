@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tool ammo",
+  "Description": "Refers to the amount of \"ammunition\" (or whatever resource the tool consumes) available for the player's tool.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Munitions d'outil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risorse strumento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Werkzeugmunition",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Munición de herramienta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заряд (устройство)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Munição da ferramenta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Amunicja narzędzi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツール弾薬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 탄약",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "工具彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "工具弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InitialToolAmmoName",
+  "internalEnabled": true,
+  "persistentID": 641
+}

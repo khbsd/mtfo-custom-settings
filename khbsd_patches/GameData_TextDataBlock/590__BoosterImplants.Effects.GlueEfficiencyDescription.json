@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will render more C-foam blobs from their C-foam ammo.",
+  "Description": "Describes the advantage of having a good \"C-foam portion\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet génère plus de blobs de mousse C avec les munitions de mousse C.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto emetterà un quantitativo maggiore di schiuma C con le relative munizioni.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verteilt mehr C-Foam-Kügelchen aus seiner C-Foam-Munition.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto soltará más gotas de espuma-C de su munición.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Количество распыляемой пены увеличивается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo consegue mais bolhas de espuma com sua munição.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie tworzył więcej brył z pianki konstrukcyjnej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象がCフォーム弾薬から生成するCフォームの量が増える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 C-폼 탄약에서 더 많은 C-폼 거품을 생성합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的C-Foam彈藥會射出較多結構泡沫。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的结沫弹生成的结沫团增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.GlueEfficiencyDescription",
+  "internalEnabled": true,
+  "persistentID": 590
+}

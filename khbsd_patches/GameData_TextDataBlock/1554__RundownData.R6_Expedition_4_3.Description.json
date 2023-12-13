@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insufficient power supply for PGD decryption. Prisoners sent to activate quadrant reactor. ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Alimentation insuffisante pour le décryptage du PGD. Prisonniers envoyés pour activer le réacteur du quadrant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimentazione insufficiente per decrittazione PGD. Prigionieri inviati ad attivare reattore quadrante.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Unzureichende Energieversorgung für die PGD-Entschlüsselung. Gefangene entsandt, um den Quadrantenreaktor zu aktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Energía insuficiente para descifrar BDGP. Prisioneros destinados a activar el reactor del cuadrante. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нехватка питания для расшифровки PGD. Заключенным поручено включить реактор сектора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fornecimento de energia insuficiente para decodificação de dados. Prisioneiros enviados para ativar reator do quadrante.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Niedostateczna moc do przeprowadzenia deszyfracji. Wysłano więźniów w celu aktywacji reaktora w kwadrancie. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PGD解読用の電力が不足。四分リアクター起動のため囚人を派遣した。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "PGD 해독에 필요한 전력 부족. 사분면 반응로 가동을 위해 수감자 파견.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "PGD解密電力供應不足。派遣囚犯前往啟動象限反應器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "PGD解密电力供应不足。囚犯派去启动象限反应堆。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_4_3.Description",
+  "internalEnabled": true,
+  "persistentID": 1554
+}

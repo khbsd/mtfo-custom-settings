@@ -1,0 +1,26 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Bullpop_1.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Bullpop_1_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Stock_Bullpop_1",
+    "AssetBundle": 30,
+    "BundleShard": 8
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Bullpop_1",
+  "internalEnabled": true,
+  "persistentID": 20
+}

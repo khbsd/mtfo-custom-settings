@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bat",
+  "Description": "A category of melee weapons",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Batte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bastone",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Keule",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bate",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бита",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Taco",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kij",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "방망이",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "棍棒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "棍棒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.BatName",
+  "internalEnabled": true,
+  "persistentID": 4233525490
+}

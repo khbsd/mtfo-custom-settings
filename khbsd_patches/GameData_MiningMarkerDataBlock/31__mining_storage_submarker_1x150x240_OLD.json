@@ -1,0 +1,52 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 0.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_sheet_1x150x240/submarker_mining_cover_sheet_1x150x240_a.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_sheet_1x150x240/submarker_mining_cover_sheet_1x150x240_b.prefab",
+        "function": 0,
+        "Shard": 1
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 5,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_cover_sheet_1x150x240",
+    "BoundingVolume": 36.0
+  },
+  "name": "mining_storage_submarker_1x150x240_OLD",
+  "internalEnabled": true,
+  "persistentID": 31
+}

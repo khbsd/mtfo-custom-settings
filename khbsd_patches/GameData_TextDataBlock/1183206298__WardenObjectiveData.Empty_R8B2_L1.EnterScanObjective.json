@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enter Bioscan to disable alarm",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrez dans le bioscan pour désenclencher l'alarme",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Entrare nel bio-scanner per disattivare l'allarme",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Betreten Sie den Bioscan, um den Alarm zu deaktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el bioescáner para desactivar la alarma.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите биосканер, чтобы отключить сигнал тревоги.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inserir bioescâner para desativar o alarme",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wejdź do bioskanera, aby wyłączyć alarm",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオスキャンに進入し、警報を無効化しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오스캔에 들어가 경보 해제하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進入生物掃描以關閉警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入生物扫描以关闭警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.EnterScanObjective",
+  "internalEnabled": true,
+  "persistentID": 1183206298
+}

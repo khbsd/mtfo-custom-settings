@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is wielding Special Weapon",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"in the proximity of a human\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Équipé d'une arme spéciale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Arma speciale impugnata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzt die Spezialwaffe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva un arma especial",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С особым оружием",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está empunhando uma arma especial",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzyma broń specjalną",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特殊武器使用中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "특수 무기 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用特殊武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在使用特殊武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingSpecialWeaponName",
+  "internalEnabled": true,
+  "persistentID": 688
+}

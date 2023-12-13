@@ -1,0 +1,21 @@
+{
+  "CoverageTexture": "Assets/Modules/ExteriorRendering/Clouds/Resources/Textures/CloudNoise.psd",
+  "CoverageSize": 10000.0,
+  "Altitude": 450.0,
+  "Height": 40.0,
+  "Center": 0.4,
+  "Belly": 0.5,
+  "Crown": 0.5,
+  "Anvil": 0.0,
+  "Softness": 0.5,
+  "NoiseTexture": "Assets/Modules/ExteriorRendering/Clouds/Resources/Textures/CloudDetailNoise.asset",
+  "NoiseScale1": 16.0,
+  "NoiseIntensity1": 0.5,
+  "NoiseScale2": 64.0,
+  "NoiseIntensity2": 0.25,
+  "AmbientOcclusion": 0.5,
+  "startupShard": 0,
+  "name": "Stratocumulus",
+  "internalEnabled": true,
+  "persistentID": 2
+}

@@ -1,0 +1,193 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [],
+      [
+        3,
+        4,
+        5,
+        6,
+        0,
+        1,
+        2,
+        7
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [
+        3,
+        4,
+        5,
+        6,
+        0,
+        1,
+        2,
+        7
+      ],
+      [],
+      [
+        3,
+        4,
+        5,
+        6,
+        0,
+        1,
+        2,
+        7
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        5
+      ],
+      [],
+      [
+        1,
+        4
+      ],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_b.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_a.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_b.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_c.prefab",
+        "function": 13,
+        "Shard": 3
+      },
+      {
+        "weight": 0.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_AS_a.prefab",
+        "function": 13,
+        "Shard": 4
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_d.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_e.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_open_1000x2000x800/storage_open_1000x2000x800_HA_f.prefab",
+        "function": 0,
+        "Shard": 2
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 2,
+    "FunctionPotential": 15.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_storage_open_1000x2000x800",
+    "BoundingVolume": 1600000.0
+  },
+  "name": "mining_storage_open_1000x2000x800",
+  "internalEnabled": true,
+  "persistentID": 38
+}

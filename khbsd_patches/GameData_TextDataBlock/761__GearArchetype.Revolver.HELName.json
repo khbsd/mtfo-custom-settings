@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Revolver",
+  "Description": "A firearm category. \"HEL\" stands for \"Hybrid Electrothermal Light-gas\", which is the propulsion system that launches the weapon's projectiles.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Revolver HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Revolver HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Revolver",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Revólver de HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Револьвер HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Revólver HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rewolwer HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELリボルバー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 리볼버",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL左輪手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL左轮手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Revolver.HELName",
+  "internalEnabled": true,
+  "persistentID": 761
+}

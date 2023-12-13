@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for Partial Decoders in the complex",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez des décodeurs partiels dans le complexe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare decodificatori parziali nel complesso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach Teildekodern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca descodificadores parciales en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите неполные дешифраторы в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure decodificadores parciais no complexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź dekodery parcjalne w kompleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内でパーシャルデコーダーを探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 부분 해독기 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施中尋找局部解碼器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找局部解码器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Partial_Decoders_R1C2.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 2051242425
+}

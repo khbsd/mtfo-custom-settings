@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Storing of nav data requires (3) Data Cubes. Contact with items may result in subject projection. Prisoners dispatched.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "(3)\u00A0cubes de données requis pour l'enregistrement des données de navigation. Tout contact avec des objets peut entraîner la projection du sujet. Prisonniers déployés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La memorizzazione dei dati di navigazione richiede (3) cubi di dati. Il contatto con gli oggetti può provocare la proiezione del soggetto. Prigionieri inviati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das Speichern von Navigationsdaten erfordert (3)\u00A0Datenwürfel. Kontakt mit Gegenständen führt womöglich zu einer Versuchsperson-Projektion. Gefangene entsendet.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El almacenamiento de navegación de datos necesita (3) cubos de datos. El contacto con los objetos puede resultar en la proyección de sujetos. Prisioneros enviados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для хранения навигационных данных требуется (3) куба данных [DATA_CUBE]. Взаимодействие с предметами может спровоцировать проекцию субъекта. Задание поручено заключенным.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O armazenamento de dados de nav requer (3) cubos de dados [DATA_CUBE]. O contato com itens pode resultar em projeção de indivíduos. Prisioneiros enviados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przechowanie danych nawigacyjnych wymaga (3) kostek danych. Styczność może wywołać projekcję biorców. Wysłano więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナビデータの保存にはデータキューブ（3個）が必要。アイテムに接触した場合、対象の投影を引き起こす可能性あり。囚人を派遣。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내비게이션 데이터를 저장하려면 [DATA_CUBE] 데이터 큐브 (3)개가 필요합니다. 물체와 접촉하면 피험자가 투영될 수 있습니다. 수감자들이 파견되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "儲存導航資料需要（3）個資料方塊[DATA_CUBE]。接觸物品可能會導致實驗對象投影。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "存储导航数据需要（3）个数据立方[DATA_CUBE]。接触物品可能会导致实验体投射。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R8B1.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1501044468
+}

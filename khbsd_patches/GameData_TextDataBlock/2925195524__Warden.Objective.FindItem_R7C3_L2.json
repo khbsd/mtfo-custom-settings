@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ITEM_SERIAL] somewhere inside [ITEM_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [ITEM_SERIAL] quelque part à l'intérieur de la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ITEM_SERIAL] da qualche parte in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ITEM_SERIAL] irgendwo in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el objeto [ITEM_SERIAL] en algún lugar de la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ITEM_SERIAL]) в зоне [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ITEM_SERIAL] dentro de [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ITEM_SERIAL] gdzieś wewnątrz [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL] を [ITEM_ZONE]の中のどこかで見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE] 내부 어딘가에서 [ITEM_SERIAL] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ITEM_ZONE]內部某處找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ITEM_ZONE]内某处找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.FindItem_R7C3_L2",
+  "internalEnabled": true,
+  "persistentID": 2925195524
+}

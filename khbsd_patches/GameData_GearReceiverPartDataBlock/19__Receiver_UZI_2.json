@@ -1,0 +1,18 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_UZI_2.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 30,
+    "BundleShard": 7
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_UZI_2",
+  "internalEnabled": true,
+  "persistentID": 19
+}

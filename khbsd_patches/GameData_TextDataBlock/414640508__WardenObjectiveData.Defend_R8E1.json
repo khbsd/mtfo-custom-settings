@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Defend the Data Cubes",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Défendez les cubes de données [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Difendere i cubi di dati [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verteidigen Sie die Datenwürfel [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Protege los cubos de datos [DATA CUBE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Защитите кубы данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Defender os cubos de dados [DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Chroń kostek danych [DATA_CUBES]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": " データキューブ[DATA CUBE]を防衛しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 보호",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "防禦資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "守卫数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Defend_R8E1",
+  "internalEnabled": true,
+  "persistentID": 414640508
+}

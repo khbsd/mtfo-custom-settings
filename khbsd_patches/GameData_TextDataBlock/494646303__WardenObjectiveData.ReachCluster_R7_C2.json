@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate Power Cells to power up the Generator Cluster in [ZONE_1]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez des piles à combustible pour mettre la grappe de générateurs de la [ZONE_1] sous tension.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare celle di energia per accendere il gruppo elettrogeno in [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie Energiezellen, um den Generatorcluster in [ZONE_1] zu betreiben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza células de energía para alimentar cluster de generadores en la [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите батареи и запитайте от них кластер генераторов в [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize as Power Cells para abastecer o grupo de geradores na [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj ogniwa zasilające i zasil zespół generatorów w strefie 1 [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "パワーセルを見つけ、[ZONE_1]の発電機群を起動しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "파워 셀을 찾아 [ZONE_1] 발전기 클러스터에 전력 공급하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位電池[CELL]以啟動[ZONE_1]的發電機叢集",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位电池[CELL]以启动[ZONE_1]中的发电机集群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.ReachCluster_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 494646303
+}

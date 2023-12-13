@@ -1,0 +1,17 @@
+{
+  "Type": 1,
+  "Difficulty": 0,
+  "SpawnPlacementType": 0,
+  "MaxScore": 6.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Sneak Easy",
+  "internalEnabled": true,
+  "persistentID": 20
+}

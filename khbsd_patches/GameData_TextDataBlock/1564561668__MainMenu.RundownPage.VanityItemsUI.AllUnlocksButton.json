@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ALL UNLOCKS",
+  "Description": "Button that takes players to a menu that shows all vanity items they can unlock.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TOUS LES DÉVERROUILLAGES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TUTTI GLI SBLOCCHI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ALLE FREISCHALTUNGEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TODOS LOS DESBLOQUEOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "МОЖНО ОТКРЫТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TODOS OS DESBLOQUEIOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WSZYSTKIE DO ODBLOKOWANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全てアンロック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전체 해제 아이템",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "所有解鎖物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "所有解锁物",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.AllUnlocksButton",
+  "internalEnabled": true,
+  "persistentID": 1564561668
+}

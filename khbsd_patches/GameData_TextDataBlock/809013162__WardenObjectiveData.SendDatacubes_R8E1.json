@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Transfer Data Cubes to the <color=orange>Shuttlebox</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Transférez les cubes de données [DATA_CUBE] dans la <color=orange>boîte à navette</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trasferire i cubi di dati [DATA_CUBE] nella <color=orange>scatola di trasferimento</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Transferieren Sie die Datenwürfel [DATA_CUBE] in die <color=orange>Transferbox</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Transfiere los cubos de datos [DATA CUBE] a la <color=orange>caja de ida y vuelta</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите кубы данных [DATA_CUBE] к <color=orange>подъемнику</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Transferir cubos de dados [DATA_CUBE] para a <color=orange>caixa de vaivém</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś kostki danych do <color=orange>skrzynki transportowej</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]を<color=orange>シャトルボックス</color>に転送しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>셔틀 박스</color>로 [DATA_CUBE] 데이터 큐브 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將資料方塊[DATA_CUBE]送到<color=orange>穿梭箱</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据立方[DATA_CUBE]送到<color=orange>穿梭箱</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.SendDatacubes_R8E1",
+  "internalEnabled": true,
+  "persistentID": 809013162
+}

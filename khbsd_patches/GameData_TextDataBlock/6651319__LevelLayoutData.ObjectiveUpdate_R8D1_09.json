@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power routed to ZONE 41. Proceed with main objective.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Courant réacheminé vers la ZONE\u00A041. Continuez vers l'objectif principal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Energia deviata a ZONE 41. Procedere con l'obiettivo principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Strom zu ZONE 41 geleitet. Fahren Sie mit dem Primärziel fort.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Energía dirigida a la ZONE 41. Continuar con el objetivo principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Питание направлено в ZONE 41. Продолжите выполнение главной цели.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energia roteada para a ZONE 41. Prossiga com o objetivo principal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekierowano zasilanie do strefy 41 [ZONE_41]. Kontynuuj realizację celu głównego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ZONE 41に電力が供給された。主目標を遂行せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 41로 전력이 공급됩니다. 주요 목표로 이동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ZONE 41已通電。繼續執行主要目標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 41已通电。继续执行主要目标。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_09",
+  "internalEnabled": true,
+  "persistentID": 6651319
+}

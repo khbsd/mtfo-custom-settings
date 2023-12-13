@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Are you ready",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Prêts\u00A0?",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Siete pronti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bereit?",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¿Todo listo?",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Погнали",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pronto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gotowość",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備はいいか",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비됐나",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "準備好了嗎",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备好了吗",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Are_you_ready",
+  "internalEnabled": true,
+  "persistentID": 1302
+}

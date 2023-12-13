@@ -1,0 +1,96 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        2
+      ],
+      [],
+      [],
+      [
+        2
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [],
+      [],
+      [
+        2,
+        4
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_170x340x280/Destroyed_170x340x280_V01.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_170x340x280/Destroyed_170x340x280_V02.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_170x340x280/Destroyed_170x340x280_V03.prefab",
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 2.0,
+        "function": 0,
+        "Shard": 12
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_240x120x240/mining_storage_submarker_HSU_240x120x240_V08.prefab",
+        "function": 15,
+        "Shard": 12
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_Destroyed_170x340x280",
+    "BoundingVolume": 16184.0
+  },
+  "name": "Destroyed_170x340x280",
+  "internalEnabled": true,
+  "persistentID": 67
+}

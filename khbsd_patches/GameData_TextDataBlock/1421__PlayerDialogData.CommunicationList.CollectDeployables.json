@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pack up",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramassez",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccolta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsammeln",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoge",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднимайте",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegue",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pakować się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しまう",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "짐 싸기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "带走",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.CollectDeployables",
+  "internalEnabled": true,
+  "persistentID": 1421
+}

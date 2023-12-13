@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPLETE {0} MAIN SECTORS",
+  "Description": "Vanity item condition: completing a number of main sectors",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER {0}\u00A0SECTEURS PRINCIPAUX",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COMPLETA {0} SETTORI PRINCIPALI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHLIESSEN SIE {0} PRIMÄRSEKTOREN AB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COMPLETA {0} SECTORES PRINCIPALES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОЙДИТЕ ГЛАВНЫЕ СЕКТОРЫ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUA {0} SETORES PRINCIPAIS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UKOŃCZ {0}× SEKTOR GŁÓWNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了{0}主セクター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메인 섹터 {0}개 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成{0}個主要分區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成{0}个主要分区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.CompleteMainSectors",
+  "internalEnabled": true,
+  "persistentID": 353087154
+}

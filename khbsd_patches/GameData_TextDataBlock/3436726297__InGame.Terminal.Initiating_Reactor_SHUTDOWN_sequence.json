@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiating Reactor SHUTDOWN sequence",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Lancement de la séquence d'ARRÊT du réacteur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializzazione sequenza SPEGNIMENTO reattore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Reaktorabschaltsequenz wird initiiert ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciando secuencia de CIERRE del reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начинается цикл ВЫКЛЮЧЕНИЯ реактора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciando a sequência de DESLIGAMENTO de reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchamianie sekwencji WYŁĄCZENIA reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター停止シークエンスを開始中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 정지 절차 시작 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在啟動反應器關閉序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在发起反应堆关闭序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Initiating_Reactor_SHUTDOWN_sequence",
+  "internalEnabled": true,
+  "persistentID": 3436726297
+}

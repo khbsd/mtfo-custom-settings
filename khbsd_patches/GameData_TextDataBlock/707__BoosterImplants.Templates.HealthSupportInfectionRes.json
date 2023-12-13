@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DETOX",
+  "Description": "The name of a category of boosters that have to do with infection.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉTOX",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DEPURAZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ENTGIFTUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESINFECCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "АНТИДОТЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DETOX",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DETOKSYKACJA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "デトックス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "디톡스",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "排毒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解毒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.HealthSupportInfectionRes",
+  "internalEnabled": true,
+  "persistentID": 707
+}

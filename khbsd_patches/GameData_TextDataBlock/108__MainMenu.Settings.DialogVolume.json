@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Dialog Volume",
+  "Description": "\"Dialog\" refers to the dialog between the in-game characters, not the voice chat between the players.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume (dialogues)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume dialoghi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Dialoglautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen de diálogos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Громкость диалогов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume do diálogo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność dialogów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダイアログ音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대화 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "對話音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "对话音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.DialogVolume",
+  "internalEnabled": true,
+  "persistentID": 108
+}

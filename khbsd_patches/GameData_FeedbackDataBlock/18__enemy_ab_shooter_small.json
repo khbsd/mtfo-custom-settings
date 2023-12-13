@@ -1,0 +1,26 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "ShooterFireLightProjectile"
+    }
+  ],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/EnemyAttack/E_RangedAttack_Big",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_ab_shooter_small",
+  "internalEnabled": true,
+  "persistentID": 18
+}

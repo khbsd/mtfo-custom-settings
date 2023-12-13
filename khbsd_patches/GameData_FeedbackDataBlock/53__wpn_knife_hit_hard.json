@@ -1,0 +1,50 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": -2848,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_dirt_hard"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 2072,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_flesh_hard"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 770,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_metal_hard"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 5,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_stone_hard"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_stone_hard"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 4096,
+      "Delay": 0.0,
+      "AudioEvent": "melee_knife_hit_lock_small_hard"
+    }
+  ],
+  "effectData": [],
+  "name": "wpn_knife_hit_hard",
+  "internalEnabled": true,
+  "persistentID": 53
+}

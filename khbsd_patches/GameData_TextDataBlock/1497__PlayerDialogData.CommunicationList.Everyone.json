@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Everyone...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Tout le monde...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tutti...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Todos...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Все...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Todo mundo...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wszyscy...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "みんな...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다들...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大家…",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "所有人……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Everyone",
+  "internalEnabled": true,
+  "persistentID": 1497
+}

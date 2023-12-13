@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Error: Missing parameter\n\nUsage: QUERY [ID]\n\nAttributes:\n[ID]           The ID of the item\n\nExample: QUERY HSU_123",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Erreur\u00A0: Paramètre manquant\n\nUtilisation\u00A0: QUERY [ID]\n\nAttributs\u00A0:\n[ID]           Identifiant de l'objet\n\nExemple\u00A0: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore: parametro mancante\n\nSintassi: QUERY [ID]\n\nParametri:\n[ID]           L'ID dell'oggetto\n\nEsempio: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER: Fehlender Parameter\n\nEinsatz: QUERY [ID]\n\nAttribute:\n[ID]           Die ID des Ziels.\n\nBeispiel: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error: Falta parámetro.\n\nUso: QUERY [ID]\n\nAtributos:\n[ID]           La ID del objeto.\n\nEjemplo: QUERY HSU_123.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка. Отсутствует параметр.\n\nПрименение: QUERY [ID]\n\nПараметры:\n[ID]           Идентификатор предмета\n\nНапример, QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro: Parâmetro ausente\n\nUso: QUERY [ID]\n\nAtributos:\n[ID]           O ID do item\n\nExemplo: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd: brakujący parametr\n\nUżycie: polecenie  QUERY [ID]\n\nAtrybuty:\n[ID]           Identyfikator przedmiotu\n\nPrzykład: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー: パラメーター不足\n\n使用法: QUERY [ID]\n\n属性:\n[ID]           アイテムのID\n\n例: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류: 매개변수 누락\n\n사용법: QUERY [ID]\n\n특성:\n[ID]           아이템의 ID\n\n예: QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤：缺少參數\n\n用法：QUERY [ID]\n\n屬性：\n[ID]           物品的ID\n\n範例：QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误：缺少参数\n\n用法：QUERY [ID]\n\n属性：\n[ID]           物品的ID\n\n例：QUERY HSU_123",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "InGame.Terminal.ErrorNoQueryParameter",
+  "internalEnabled": true,
+  "persistentID": 3900054624
+}

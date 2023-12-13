@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Zone 194</color> security lowered.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Niveau de sécurité de la <color=orange>zone\u00A0194</color> diminué.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sicurezza <color=orange>ZONE 194</color> abbassata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsstufe von <color=orange>Zone 194</color> herabgesetzt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seguridad de la <color=orange>Zone 194</color> reducida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Уровень безопасности в <color=orange>зоне 194</color> понижен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segurança da <color=orange>Zone 194</color> reduzida.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obniżono zabezpieczenia <color=orange>strefy 194 [ZONE_194]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 194</color>セキュリティ低下。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 194</color> 보안 약화됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>Zone 194</color>安全系統層級已降低。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 194</color>安全措施已降低。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Intel.Command_R7D1_194",
+  "internalEnabled": true,
+  "persistentID": 2181172936
+}

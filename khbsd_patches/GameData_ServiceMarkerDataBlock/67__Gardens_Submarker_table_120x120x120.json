@@ -1,0 +1,70 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_table_120x120x120/Gardens_Submarker_table_120x120x120_V01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_table_120x120x120/Gardens_Submarker_table_120x120x120_V02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_table_120x120x120/Gardens_Submarker_table_120x120x120_V03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_table_120x120x120/Gardens_Submarker_table_120x120x120_V04.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Submarker_table_120x120x120/Gardens_Submarker_table_120x120x120_V05.prefab",
+        "function": 0,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_table_120x120x120",
+    "BoundingVolume": 1728.0
+  },
+  "name": "Gardens_Submarker_table_120x120x120",
+  "internalEnabled": true,
+  "persistentID": 67
+}

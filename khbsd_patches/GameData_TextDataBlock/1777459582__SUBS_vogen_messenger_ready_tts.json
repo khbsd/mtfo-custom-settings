@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[HEARSAY VOGEN DISPATCH]\r\nVogen Messenger ready.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[TRANSMISSION VOGEN HEARSAY]\r\nTransmetteur VoGen disponible.\r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[DIFFUSIONE HEARSAY VOGEN]\r\nMessaggero VoGen pronto.\r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[VOGEN „HEARSAY“]\r\nVoGen-Messenger bereit.\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[ENVÍO DE HEARSAY DE VOGEN]\r\nMensajero de VoGen listo.\r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[СГЕНЕРИРОВАННЫЙ ГОЛОС]\r\nСистема автооповещения Vogen готова.\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[DESPACHO HEARSAY VOGEN]\r\nVogen Messenger pronto.\r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[KOMUNIKAT VOGEN SYSTEMU HEARSAY]\r\nKomunikator VoGen jest gotowy.\r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Hearsay VoGenディスパッチ]\r\nVogenメッセンジャー準備完了。\r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[HEARSAY VOGEN 디스패치 준비 완료]\r\nVOGEN 메신저가 준비됐습니다.\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[HEARSAY VOGEN密電]\r\nVoGen通訊工具準備就緒。\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[HEARSAY VOGEN密电]\r\nVoGen通讯工具准备就绪。\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "SUBS_vogen_messenger_ready_tts",
+  "internalEnabled": true,
+  "persistentID": 1777459582
+}

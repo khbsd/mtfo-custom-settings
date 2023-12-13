@@ -1,0 +1,64 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 4.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_table_120x120x120/Lab_submarker_table_120x120x120_V01.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_table_120x120x120/Lab_submarker_table_120x120x120_V02.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_table_120x120x120/Lab_submarker_table_120x120x120_V03.prefab",
+        "function": 0,
+        "Shard": 6
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_table_120x120x120/Lab_submarker_table_120x120x120_V04.prefab",
+        "function": 0,
+        "Shard": 6
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 0.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/SM_Lab_table_100x120x120",
+    "BoundingVolume": 1440.0
+  },
+  "name": "Lab_submarker_table_100x120x120",
+  "internalEnabled": true,
+  "persistentID": 49
+}

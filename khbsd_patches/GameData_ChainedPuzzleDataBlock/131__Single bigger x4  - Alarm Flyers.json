@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 95,
+  "SurvivalWavePopulation": 27,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 8
+    },
+    {
+      "PuzzleType": 8
+    },
+    {
+      "PuzzleType": 8
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single bigger x4  - Alarm Flyers",
+  "internalEnabled": true,
+  "persistentID": 131
+}

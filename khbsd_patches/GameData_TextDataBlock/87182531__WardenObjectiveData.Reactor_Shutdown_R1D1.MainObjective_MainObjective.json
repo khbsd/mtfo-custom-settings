@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the main reactor and shut it down",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le réacteur principal et éteignez-le.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il reattore principale e spegnerlo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Hauptreaktor und schalten Sie ihn ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el reactor principal y apágalo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите главный реактор и выключите его.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o reator principal e desligue-o",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź główny reaktor, a następnie go wyłącz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メインリアクターを見つけ、シャットダウンせよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메인 반응로를 찾아서 정지시킬 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到並關閉主反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到主反应堆并将其关闭",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Shutdown_R1D1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 87182531
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables automaticaly standing up after jumping from crouched position.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "En mode accroupi, permet de se relever automatiquement en sautant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente di alzarsi in piedi automaticamente dopo aver saltato dalla posizione abbassata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert das automatische Aufstehen nach einem Sprung aus der Hocke.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se levanta automáticamente tras saltar desde cuchillas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Персонаж автоматически встает после прыжка из режима скрытности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa automaticamente a ação de ficar em pé depois de saltar a partir da posição agachada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza automatycznie wstawanie po skoku z pozycji kucającej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しゃがみ状態でジャンプした時に自動的に立ち上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "앉은 자세에서 점프하면 자동으로 일어서게 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從蹲姿跳躍後自動起身。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从蹲伏姿势跳起后自动站立。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.StandOnJump",
+  "internalEnabled": true,
+  "persistentID": 2166995785
+}

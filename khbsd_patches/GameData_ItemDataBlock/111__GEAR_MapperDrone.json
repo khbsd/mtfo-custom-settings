@@ -1,0 +1,52 @@
+{
+  "publicName": "Mapper Drone",
+  "LocalizedName": 0,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 11,
+  "inventorySlot": 3,
+  "FPSSettings": 11,
+  "crosshair": 0,
+  "HUDIcon": "GUI/Player/silouette_sentrygun",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": true,
+  "GUIShowAmmoPack": false,
+  "GUIShowAmmoTotalRel": false,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 0.285,
+  "ConsumableAmmoMin": 0,
+  "ConsumableAmmoMax": 0,
+  "audioEventEquip": "MedFreezeEquip",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDroneFirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDroneModelFirst.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDroneThirdPerson.prefab",
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDroneModelFirst.prefab"
+  ],
+  "PickupPrefabs": [],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDronePlaced.prefab",
+    "Assets/AssetPrefabs/Items/Tools/MapperDrone/MapperDroneModelPlaced.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand001",
+  "LeftHandGripAnim": "SentryGun_fp_arms",
+  "RightHandGripAlign": "RightHand001",
+  "RightHandGripAnim": "SentryGun_fp_arms",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "GEAR_MapperDrone",
+  "internalEnabled": true,
+  "persistentID": 111
+}

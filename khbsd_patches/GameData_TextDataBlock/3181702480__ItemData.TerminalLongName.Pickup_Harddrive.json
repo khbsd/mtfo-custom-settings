@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hard Drive Data Storage Disk",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Disque dur de stockage de données",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disco di archiviazione dati su disco rigido",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Festplatte: Datenspeicher-Disk",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disco duro de almacenamiento de datos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Жесткий диск для хранения данных",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "HD de dados do disco rígido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dysk twardy do przechowywania danych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハードドライブ・データストレージディスク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하드 드라이브 데이터 저장 디스크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資料儲存硬碟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "硬盘数据存储器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Pickup_Harddrive",
+  "internalEnabled": true,
+  "persistentID": 3181702480
+}

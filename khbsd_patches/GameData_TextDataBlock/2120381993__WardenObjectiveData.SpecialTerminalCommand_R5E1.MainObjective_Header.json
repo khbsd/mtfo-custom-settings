@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate Influx Protocol",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez le protocole d'afflux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviare il protocollo di afflusso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie das Zustromprotokoll.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciar protocolo de afluencia",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запуск протокола подачи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie o Protocolo de Influxo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom protokół dopływu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Influxプロトコルを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유입 프로토콜 가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動流入協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发起流入协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R5E1.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 2120381993
+}

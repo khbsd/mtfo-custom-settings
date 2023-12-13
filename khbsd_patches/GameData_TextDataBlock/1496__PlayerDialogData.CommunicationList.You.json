@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Vous...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Voi...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ihr …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tú...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ты...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ty...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "お前…",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "너...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你…",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.You",
+  "internalEnabled": true,
+  "persistentID": 1496
+}

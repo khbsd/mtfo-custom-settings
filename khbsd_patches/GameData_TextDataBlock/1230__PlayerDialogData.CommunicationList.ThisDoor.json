@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "This door!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Cette porte\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Questa porta!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Diese Tür!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Por esta puerta!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эта дверь!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Esta porta!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Te drzwi!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このドアだ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 문이다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這道門！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这扇门！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.ThisDoor",
+  "internalEnabled": true,
+  "persistentID": 1230
+}

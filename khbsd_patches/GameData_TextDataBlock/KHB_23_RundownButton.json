@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SpumDOWN",
+  "Description": "\"Rundown\" is GTFO's term for \"campaign\", i.e. a set of missions that belong together.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "CAMPAGNE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PERLUSTRAZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RUNDOWN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAMPAÑA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КАМПАНИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CAMPANHA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "EKSTRAKCJA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ランダウン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "런다운",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征綱要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "行动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.RundownButton",
+  "internalEnabled": true,
+  "persistentID": 23
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Rifle Damage",
+  "Description": "I.e. how much damage you can deal with a burst rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil rafale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. a raffica ottico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoß-Gewehrschaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (винтовка с тройным выстрелом)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil explosivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu salwowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점사 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BurstRifleDamageName",
+  "internalEnabled": true,
+  "persistentID": 569
+}

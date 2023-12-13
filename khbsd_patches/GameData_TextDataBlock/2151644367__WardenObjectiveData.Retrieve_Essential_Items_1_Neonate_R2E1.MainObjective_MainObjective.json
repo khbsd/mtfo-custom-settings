@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ALL_ITEMS] and bring it to the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez [ALL_ITEMS] et amenez-le au scanner d'évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ALL_ITEMS] e portarlo alla scansione di estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ALL_ITEMS] und bringen Sie es zum Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva al escáner de extracción de la [EXTRACTION_ZONE] los siguientes objetos: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ALL_ITEMS]) и отнесите к сканеру извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ALL_ITEMS] e leve-o até o escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź i zanieś [ALL_ITEMS] do skanera punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS]を見つけ、それを[EXTRACTION_ZONE]の脱出スキャンまで運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS]을(를) 찾고 [EXTRACTION_ZONE]의 탈출 스캔으로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到[ALL_ITEMS]並帶到[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[ALL_ITEMS]并将其带到[EXTRACTION_ZONE]的撤离扫描点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Retrieve_Essential_Items_1_Neonate_R2E1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2151644367
+}

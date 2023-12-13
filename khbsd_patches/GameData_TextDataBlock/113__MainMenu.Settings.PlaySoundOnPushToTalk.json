@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Play sound on push to talk",
+  "Description": "A game setting that enables/disables a click sound that plays every time the user pushes the \"push to talk\" button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Jouer un son en activant PTT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riproduci suono per push to talk",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ton bei Push-to-Talk abspielen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reproducir sonido al pulsar para hablar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Звук включения рации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Som ao apertar para falar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odtwórz dźwięk po naciśnięciu Naciśnij, aby mówić",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通話ボタン押下時に音を鳴らす",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "눌러서 말할 때 클릭 사운드 재생",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "隨按即說播放聲音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "“按下说话”时提示",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PlaySoundOnPushToTalk",
+  "internalEnabled": true,
+  "persistentID": 113
+}

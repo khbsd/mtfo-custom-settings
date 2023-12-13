@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert Data Sphere into Neural Frame [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérez une sphère de données dans l'interface neurale [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire la Sfera dati nel Frame neurale [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Platzieren Sie die Datenkugel im neuronalen Frame [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta la esfera de datos en el sistema neural [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставьте сферу данных в нейронный терминал [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a esfera de dados ao frame neural [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umieść sferę danych w układzie neuronowym: [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データスフィアをニューラルフレーム[ITEM_SERIAL]に挿入しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 스피어를 뉴럴 프레임 [ITEM_SERIAL]에 삽입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "把資料球置入神經主機[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据球插入神经框架[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R4C1_L1.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 507315662
+}

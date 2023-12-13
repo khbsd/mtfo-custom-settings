@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Stick Button",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick gauche (bouton)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pressione levetta sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linker-Stick-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsar stick izquierdo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая кнопка мини-джойстика",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Botão direcional esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk lewego drążka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左スティックボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "L 스틱 버튼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左搖桿按鈕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左摇杆按钮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.LeftStickButton",
+  "internalEnabled": true,
+  "persistentID": 977
+}

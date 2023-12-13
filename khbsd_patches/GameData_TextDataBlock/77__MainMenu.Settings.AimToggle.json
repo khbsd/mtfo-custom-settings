@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aim Toggle",
+  "Description": "A setting that allows players to make it so that they aim down sights in the game by toggling aim on/off by tapping a button, rather than holding the button down continuously.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Viser en continu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mira",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zielen umschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Apuntar (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удержание прицела",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alternância de mira",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. celowanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "照準切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조준 켜기/끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "瞄準切換",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "瞄准开关",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AimToggle",
+  "internalEnabled": true,
+  "persistentID": 77
+}

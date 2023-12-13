@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scout!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Faites du repérage\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricognizione!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auskundschaften!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Explora!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В разведку!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Batedor!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zwiad!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "偵察！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정찰해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "偵察！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "侦察！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Scout",
+  "internalEnabled": true,
+  "persistentID": 1220
+}

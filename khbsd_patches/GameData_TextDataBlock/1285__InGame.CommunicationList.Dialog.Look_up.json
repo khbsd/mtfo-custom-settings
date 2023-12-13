@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look up",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Levez les yeux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In alto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Blick nach oben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mira arriba",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Посмотрите наверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Olhe para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "U góry",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "見ろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조사해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "看上面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "看上面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Look_up",
+  "internalEnabled": true,
+  "persistentID": 1285
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carbine",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Carabine",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Carabina",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karabiner",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Carabina",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Карабин",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carabina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabinek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カービン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카빈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "卡賓槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "卡宾枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.BurstName",
+  "internalEnabled": true,
+  "persistentID": 731
+}

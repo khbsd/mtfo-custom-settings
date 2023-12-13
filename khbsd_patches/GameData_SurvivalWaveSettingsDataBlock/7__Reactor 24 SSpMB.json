@@ -1,0 +1,26 @@
+{
+  "m_pauseBeforeStart": 0.0,
+  "m_pauseBetweenGroups": 1.0,
+  "m_wavePauseMin_atCost": 3.0,
+  "m_wavePauseMax_atCost": 10.0,
+  "m_wavePauseMin": 3.0,
+  "m_wavePauseMax": 30.0,
+  "m_populationFilter": [
+    0
+  ],
+  "m_filterType": 1,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 0.75,
+  "m_overrideWaveSpawnType": false,
+  "m_survivalWaveSpawnType": 0,
+  "m_populationPointsTotal": 24.0,
+  "m_populationPointsPerWaveStart": 24.0,
+  "m_populationPointsPerWaveEnd": 24.0,
+  "m_populationPointsMinPerGroup": 5.0,
+  "m_populationPointsPerGroupStart": 5.0,
+  "m_populationPointsPerGroupEnd": 10.0,
+  "m_populationRampOverTime": 50.0,
+  "name": "Reactor 24 SSpMB",
+  "internalEnabled": true,
+  "persistentID": 7
+}

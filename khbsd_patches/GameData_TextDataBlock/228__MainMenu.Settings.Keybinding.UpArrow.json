@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Up Arrow",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flèche haut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Freccia su",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pfeiltaste nach oben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Flecha arriba",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка вверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seta para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzałka w górę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "方向キー上",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "위쪽 화살표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向上箭頭",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "上箭头键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.UpArrow",
+  "internalEnabled": true,
+  "persistentID": 228
+}

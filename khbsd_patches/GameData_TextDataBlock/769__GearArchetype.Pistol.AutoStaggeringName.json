@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Autopistol",
+  "Description": "A firearm category. An \"autopistol\" is a fully automatic pistol with staggering rounds. \"HEL\" stands for \"Hybrid Electrothermal Light-gas\", which is the propulsion system that launches the weapon's projectiles.\n\nIt's usually left intact, as \"HEL\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pistolet automatique HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola automatica HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Autopistole",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pistola automática de HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Самозарядный пистолет HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pistola automática HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pistolet automatyczny HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELオートピストル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 자동 권총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL自動手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL自动手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.Pistol.AutoStaggeringName",
+  "internalEnabled": true,
+  "persistentID": 769
+}

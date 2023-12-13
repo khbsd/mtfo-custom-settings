@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You have received {0} Booster(s) to improve your chances of survival. Use them wisely. Find and retrieve artifacts to be rewarded with additional Boosters.",
+  "Description": "A text that informs the player that the artifacts they collected during the last expedition/mission have been traded in for one or more boosters. This text is a little more descriptive and only used the very first time this happens. The way the text combines the singular and plural version of \"booster\" with a parentheses around the \"s\" is intentional, to make Warden come across as rigid and machine-like. The \"{0}\" represents the number of boosters - do not alter that piece of code, just put it in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Vous avez reçu {0}\u00A0booster(s) pour améliorer vos chances de survie. Utilisez-les à bon escient. Trouvez et récupérez des artefacts pour recevoir des boosters supplémentaires.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Hai ricevuto {0} potenziamento/i per aumentare le tue probabilità di sopravvivenza. Fanne buon uso. Trova e recupera manufatti per ottenere come ricompensa potenziamenti aggiuntivi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sie haben {0} Booster erhalten, um Ihre Überlebenschancen zu erhöhen. Setzen Sie sie weise ein. Finden und sammeln Sie Artefakte, um mit zusätzlichen Boostern belohnt zu werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Has recibido {0} potenciador(es) para mejorar tu probabilidad de supervivencia. Piensa bien cómo utilizarlos. Busca y recupera artefactos para recibir potenciadores adicionales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы повысить шанс выживания, вы получаете усилители: {0}. Используйте их с умом. Собирайте артефакты и получайте дополнительные усилители.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você recebeu {0} impulso(s) para aumentar suas chances de sobrevivência. Use-os bem. Encontre e recupere artefatos para receber mais impulsos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otrzymujesz {0} wzmacniacze(-y), aby zwiększyć swoje szanse przetrwania. Wykorzystaj je mądrze. Znajdź i zbierz artefakty, aby otrzymać w nagrodę dodatkowe wzmacniacze.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生存率を高めるブースターを {0} 個受け取った。賢く使おう。アーティファクトを見つけて回収し、追加ブースターを手に入れろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "생존 확률을 높일 수 있는 부스터를 {0}개 받았습니다. 현명하게 사용하세요. 아티팩트를 찾아 회수하고 추가 부스터를 받으세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你收到了{0}份強化劑，可用來提高生存機會。請謹慎使用。尋找並取回寶物，即可獲得更多強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你已获得{0}份强化剂以提高生存几率。请合理使用。寻找并收回红晶以换取更多强化剂。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.BoosterRewardFirstTime_X",
+  "internalEnabled": true,
+  "persistentID": 457
+}

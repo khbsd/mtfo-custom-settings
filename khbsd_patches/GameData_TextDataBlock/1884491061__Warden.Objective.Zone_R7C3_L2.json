@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ITEM_ZONE] and find [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ITEM_ZONE] et trouvez [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ITEM_ZONE] e trovare [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ITEM_ZONE] und finden Sie [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la [ITEM_ZONE] y encuentra el objeto [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ITEM_ZONE] и найдите предмет ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até [ITEM_ZONE] e encontre [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy [ITEM_ZONE] i znajdź [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]で[ITEM_SERIAL]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE](으)로 이동해 [ITEM_SERIAL] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ITEM_ZONE]並找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ITEM_ZONE]并找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.Zone_R7C3_L2",
+  "internalEnabled": true,
+  "persistentID": 1884491061
+}

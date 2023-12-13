@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "End",
+  "Description": "The \"end\" key (below the \"home\" key) on a computer keyboard.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fin",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fine",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ende",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fin",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "End",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "End键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.End",
+  "internalEnabled": true,
+  "persistentID": 243
+}

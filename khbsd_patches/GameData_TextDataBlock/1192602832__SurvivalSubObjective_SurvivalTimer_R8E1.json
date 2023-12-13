@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Time until KDS defenses disabled: ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Désactivation des défenses KDS dans\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tempo alla disattivazione delle difese KDS:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zeit bis zur Deaktivierung der KDS-Verteidigung:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tiempo hasta que se desactiven las defensas de KDS:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "До отключения защиты СЗК:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tempo até defesas KDS serem desativadas:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czas do wyłączenia zabezpieczeń KDS:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "KDS防衛が向こうになるまで：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "KDS 방어 비활성화까지 남은 시간:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "KDS防禦關閉倒數計時：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "KDS防御关闭倒计时：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "SurvivalSubObjective_SurvivalTimer_R8E1",
+  "internalEnabled": true,
+  "persistentID": 1192602832
+}

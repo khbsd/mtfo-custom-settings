@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Zone 192</color> Unlocked.",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Zone\u00A0192 [Zone 192]</color> déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Zona 192 [ZONE_192]</color> sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Zone 192</color> [Zone 192] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Zona 192</color> desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Зона 192 [ZONE_192]</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Zone 192</color> Desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Strefa 192 [ZONE_192]</color> odblokowana.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 192</color>がロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Zone 192</color> 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>192 區[ZONE_192]</color>已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>192区[ZONE_192]</color>已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Intel.Update_ZoneUnlock_R7D1_L2",
+  "internalEnabled": true,
+  "persistentID": 532523185
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Menu Cursor Move Down",
+  "Description": "Control key binding/mapping. This is a way for the user to move the mouse pointer with buttons, if they don't have a mouse.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Curseur du menu (bas)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento cursore menu in basso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Menü-Cursor nach unten bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover hacia abajo el cursor del menú",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Курсор меню вниз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover cursor para baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kursor w dół – menu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニューカーソル下",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴 커서 아래쪽으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選單游標向下移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "菜单光标下移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MenuCursorMoveDown",
+  "internalEnabled": true,
+  "persistentID": 137
+}

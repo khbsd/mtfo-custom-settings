@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "HEL Auto Sentry",
+  "Description": "A sentry gun category. An \"auto sentry\" will fire at targets with fully automatic gunfire.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tourelle auto HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torretta automatica HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL Auto-Sentry",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centinela automática de HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автоматическая турель HEL",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sentinela automática HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Automatyczne działko wartownicze HEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELオートセントリー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 오토 센트리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL全自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL自动哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.AutoStaggeringName",
+  "internalEnabled": true,
+  "persistentID": 779
+}

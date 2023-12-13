@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate power redirection.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez la redirection de l'énergie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializzare deviazione energia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Umleitung der Energie.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la redirección de energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите перенаправление питания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar redirecionamento de energia.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij przekierowanie zasilania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "送電先変更を開始。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 경로 재설정 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動電力重新定向。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发起电能重定向。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenSubObjective.Power.R7_C3_Secondary",
+  "internalEnabled": true,
+  "persistentID": 2610093634
+}

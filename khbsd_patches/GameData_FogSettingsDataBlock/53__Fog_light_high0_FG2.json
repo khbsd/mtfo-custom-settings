@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.03137255,
+    "r": 0.9019608,
+    "g": 0.8745098,
+    "b": 0.819607854
+  },
+  "FogDensity": 0.0006,
+  "FogAmbience": 0.0001,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.055,
+  "DensityNoiseScale": 0.045,
+  "DensityHeightAltitude": 0.0,
+  "DensityHeightRange": 1.0,
+  "DensityHeightMaxBoost": 0.07,
+  "Infection": 0.0,
+  "name": "Fog_light_high0_FG2",
+  "internalEnabled": true,
+  "persistentID": 53
+}

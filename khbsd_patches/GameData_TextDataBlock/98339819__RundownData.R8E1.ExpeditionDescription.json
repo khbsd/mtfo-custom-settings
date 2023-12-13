@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ALERT: Containment vessel breached. Departure from KDS Deep essential to asset survival. Fatality prediction disabled.\u00A0",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: enveloppe de confinement endommagée. Évacuation des profondeurs du KDS essentielle à la survie des ressources. Calcul du taux de mortalité désactivé.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVISO: violazione del recipiente di contenimento. La partenza da Profondità KDS è essenziale per la sopravvivenza della risorsa. Previsione della mortalità disabilitata.\u00A0",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Sicherheitsbehälter beschädigt. Verlassen der KDS ist für das Überleben der Ressource unerlässlich. Todesfallvorhersage deaktiviert.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ALERTA: Se ha roto la nave de contención. Salida de las profundidades de KDS esencial para garantizar la supervivencia. Predicción de víctimas desactivada.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ТРЕВОГА! Нарушена защитная оболочка. Для выживаемости ресурсов требуется эвакуация из СЗК. Прогнозирование смертности отключено.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Receptáculo de contenção rompido. Partida do Fundo KDS essencial para a sobrevivência do ativo. Previsão de fatalidades desativada.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ALERT: naruszono zbiornik reaktora. Wymagana ewakuacja z jądra KDS w celu ocalenia zasobów. Predykcja śmiertelności wyłączona.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警報：格納容器が破損。アセット生存のためKDS深部から離脱せよ 死亡予測は無効になっている。\u00A0",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 격납 용기가 뚫렸습니다. 자산 생존을 위해 KDS 딥에서 이탈해야 합니다. 사망자 예측이 비활성화되었습니다.\u00A0",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：密封容器受損。離開KDS深處是資源存活的必要條件。死亡率預測已關閉。\u00A0",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：密封容器受损。离开KDS深处是资源存活的必要条件。死亡率预测已关闭。\u00A0",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R8E1.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 98339819
+}

@@ -1,0 +1,26 @@
+{
+  "m_pauseBeforeStart": 0.0,
+  "m_pauseBetweenGroups": 25.0,
+  "m_wavePauseMin_atCost": 3.0,
+  "m_wavePauseMax_atCost": 10.0,
+  "m_wavePauseMin": 3.0,
+  "m_wavePauseMax": 30.0,
+  "m_populationFilter": [
+    0
+  ],
+  "m_filterType": 1,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 1.0,
+  "m_overrideWaveSpawnType": false,
+  "m_survivalWaveSpawnType": 0,
+  "m_populationPointsTotal": -1.0,
+  "m_populationPointsPerWaveStart": 8.0,
+  "m_populationPointsPerWaveEnd": 14.0,
+  "m_populationPointsMinPerGroup": 8.0,
+  "m_populationPointsPerGroupStart": 8.0,
+  "m_populationPointsPerGroupEnd": 14.0,
+  "m_populationRampOverTime": 120.0,
+  "name": "Apex Reduced slow increase",
+  "internalEnabled": true,
+  "persistentID": 285
+}

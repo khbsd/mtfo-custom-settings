@@ -1,0 +1,115 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Bullpop_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Stock_Bullpup_1",
+    "RightHandGripAnim": "Stock_Bullpup_1",
+    "AssetBundle": 40,
+    "BundleShard": 5
+  },
+  "Aligns": [
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Stock_Bullpup_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 8,
+      "StringData": "Stock_Bullpup_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Stock_Bullpup_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 9,
+      "StringData": "Stock_Bullpup_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 5,
+      "StringData": "generic_reload_pat_soft"
+    },
+    {
+      "TriggerTime": 0.4,
+      "Type": 5,
+      "StringData": "bullpup_reload_mag_out"
+    },
+    {
+      "TriggerTime": 0.65,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.8,
+      "Type": 5,
+      "StringData": "smg_reload_3_grab_mag"
+    },
+    {
+      "TriggerTime": 0.9,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.15,
+      "Type": 5,
+      "StringData": "bullpup_reload_mag_in"
+    },
+    {
+      "TriggerTime": 1.3,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 1.6,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick_soft"
+    },
+    {
+      "TriggerTime": 1.9,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon_soft"
+    },
+    {
+      "TriggerTime": 2.1,
+      "Type": 7,
+      "StringData": ""
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 6,
+      "StringData": ""
+    },
+    {
+      "TriggerTime": 2.0,
+      "Type": 7
+    }
+  ],
+  "name": "Stock_Bullpop_1",
+  "internalEnabled": true,
+  "persistentID": 17
+}

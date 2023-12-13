@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Analog {0}",
+  "Description": "A gamepad input. {0} is a number between 0 and 19",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Analogique {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Analog {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Analog {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Analógico {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аналоговая кнопка {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Analógico {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Analogowy {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アナログ {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아날로그 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "類比{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "模拟{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Analog.X",
+  "internalEnabled": true,
+  "persistentID": 1039
+}

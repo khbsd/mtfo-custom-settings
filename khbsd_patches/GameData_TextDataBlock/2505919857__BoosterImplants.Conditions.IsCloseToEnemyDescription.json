@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject must be within 5 meters of an enemy for booster to be active.",
+  "Description": "Description of a condition. Players must be close to an enemy for the condition to take effect.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet doit être à moins de 5\u00A0mètres d'un ennemi pour que le booster prenne effet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto deve trovarsi a un massimo di 5 metri da un nemico per attivare il potenziamento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson muss sich im Umkreis von 5\u00A0Metern um einen Feind befinden, damit der Booster aktiv wird.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto debe estar a 5 metros de un enemigo para activar el potenciador.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Усилитель нужно активировать, находясь в радиусе <nobr>5 м</nobr> от врага.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo deve estar dentro de cinco metros de um inimigo para o impulso ficar ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca musi się znajdować w odległości do 5 metrów od przeciwnika, aby wzmacniacz działał.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象は5メートル以内に敵がいる時のみブースターを使用できる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터가 활성화되려면 대상이 적으로부터 5미터 이내에 있어야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象必須在敵人的5公尺範圍內才能啟用強化劑。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者必须位于敌人5米范围内，强化剂才会生效。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.IsCloseToEnemyDescription",
+  "internalEnabled": true,
+  "persistentID": 2505919857
+}

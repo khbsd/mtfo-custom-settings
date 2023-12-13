@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil rafale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a raffica ottico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoßgewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Винтовка с тройным выстрелом",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil explosivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin salwowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점사 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.BurstName",
+  "internalEnabled": true,
+  "persistentID": 723
+}

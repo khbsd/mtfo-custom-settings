@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RECEIVING UPLINK VERIFICATION CODES FROM {0} AS LOG FILES",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "RÉCEPTION DE CODES DE VÉRIFICATION DE LIAISON MONTANTE DE LA PART DE {0} SOUS FORME DE FICHIERS JOURNAUX",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICEZIONE CODICI VERIFICA UPLINK DA {0} SOTTO FORMA DI FILE DI REGISTRO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UPLINK-VERIFIZIERUNGSCODES WERDEN ALS PROTOKOLLDATEIEN VON {0} ERHALTEN ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECIBIENDO CÓDIGOS DE VERIFICACIÓN DE UPLINK DE {0} COMO ARCHIVOS DE REGISTRO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОЛУЧЕНИЕ КОДОВ ВЕРИФИКАЦИИ ПОДКЛЮЧЕНИЯ В ФАЙЛЕ ПРОТОКОЛА ({0})",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECEBENDO CÓDIGOS DE VERIFICAÇÃO DE UPLINK DE {0} COMO ARQUIVOS DE REGISTRO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – OTRZYMYWANIE KODÓW WERYFIKACYJNYCH ŁĄCZA JAKO PLIKÓW DZIENNIKA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク認証コードをログファイルとして{0}から受信中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 확인 코드를 로그 파일로 {{0}}(으)로부터 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在接收來自{0}的上行鏈路驗證碼作為日誌檔案",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在从{0}接收上行链路验证码日志文件",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ReceivingUplinkVerificationCodes_X",
+  "internalEnabled": true,
+  "persistentID": 3719473765
+}

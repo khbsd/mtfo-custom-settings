@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Cornish",
+  "Description": "A language spoken in the UK.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cornique",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cornico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kornisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cornuallés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Корнский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Córnico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kornijski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コーンウォール語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "콘월어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "康沃耳文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "康沃尔语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Cornish",
+  "internalEnabled": true,
+  "persistentID": 298
+}

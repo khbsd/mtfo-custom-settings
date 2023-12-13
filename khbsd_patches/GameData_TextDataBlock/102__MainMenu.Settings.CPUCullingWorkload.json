@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CPU Culling workload",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Charge de traitement du processeur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Carico culling CPU",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "CPU-Culling-Workload",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Carga de trabajo de selección de la CPU",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перенос нагрузки на ЦП",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carga de CPU escolhida",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obciążenie cullingu CPU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "CPUカリング負荷",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "CPU 컬링 부하",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "CPU揀選工作負載",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "CPU剔除负载",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CPUCullingWorkload",
+  "internalEnabled": true,
+  "persistentID": 102
+}

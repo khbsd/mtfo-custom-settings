@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SELECT GEAR",
+  "Description": "This is an invitation/order to the player to select what weapons and gear they want to bring with them when going on an expedition.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SÉLECTIONNEZ L'ÉQUIPEMENT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SELEZIONA EQUIPAGGIAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AUSRÜSTUNG WÄHLEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SELECCIONAR EQUIPO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКИПИРОВКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SELECIONAR EQUIPAMENTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYBIERZ WYPOSAŻENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ギアを選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기어 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇裝備",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择装备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.SelectGear",
+  "internalEnabled": true,
+  "persistentID": 479
+}

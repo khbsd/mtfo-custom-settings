@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY VERIFICATION ({0}/{1}). USE COMMAND <color=orange>REACTOR_VERIFY</color> AND CODE {2} BEFORE SAFETY RESET!",
+  "Description": "{0} and {1} are numbers representing the amount of enemy waves left to do. {2} is the name of the command.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VÉRIFICATION DE SÉCURITÉ ({0}/{1}). UTILISEZ LA COMMANDE <color=orange>REACTOR_VERIFY</color> ET LE CODE {2} AVANT DE COMMENCER LA RÉINITIALISATION\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VERIFICA SICUREZZA ({0}/{1}). USARE COMANDO <color=orange>REACTOR_VERIFY</color> E CODICE {2} PRIMA DEL RESET DI SICUREZZA!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSVERIFIZIERUNG ({0}/{1}). NUTZEN SIE VOR DEM ZURÜCKSETZEN DER SICHERHEITSROUTINE DEN BEFEHL <color=orange>REACTOR_VERIFY</color> UND DEN CODE {2}!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "VERIFICACIÓN DE SEGURIDAD ({0}/{1}). ¡USA EL COMANDO <color=orange>REACTOR_VERIFY</color> Y EL CÓDIGO {2} ANTES DEL REINICIO DE SEGURIDAD!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА БЕЗОПАСНОСТИ ({0}/{1}). ПЕРЕД СБРОСОМ СИСТЕМЫ БЕЗОПАСНОСТИ ИСПОЛЬЗУЙТЕ КОМАНДУ <color=orange>REACTOR_VERIFY</color> И КОД {2}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFICAÇÃO DE SEGURANÇA ({0}/{1}). USE O COMANDO <color=orange>REACTOR_VERIFY</color> E O CÓDIGO {2} ANTES DA REDEFINIÇÃO DE SEGURANÇA!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WERYFIKACJA ZABEZPIECZEŃ ({0}/{1}). UŻYJ POLECENIA <color=orange>REACTOR_VERIFY</color> I KODU {2} PRZED PONOWNYM URUCHOMIENIEM!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティ認証 ({0}/{1})。安全なリセットの前にコマンド <color=orange>REACTOR_VERIFY</color> とコード {2} を使用！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 인증 ({0}/{1}). 안전 초기화 전에 <color=orange>REACTOR_VERIFY</color> 명령 및 {2} 코드를 사용할 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全驗證（{0}/{1}）。在安全重設之前使用指令<color=orange>REACTOR_VERIFY</color>和代碼{2}！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全验证（{0}/{1}）。使用命令<color=orange>REACTOR_VERIFY</color>和代码{2}后再进行安全重置！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.SecurityVerification_X_Y_Z",
+  "internalEnabled": true,
+  "persistentID": 1105
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search the zone for <color=red>Unit 27.</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez l'<color=red>unité\u00A027</color> dans la zone.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare l'<color=red>Unità 27</color> nella zona.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie in der Zone nach <color=red>Einheit 27</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Investiga la zona en busca de la <color=red>unidad 27.</color> ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=red>объект 27</color> в зоне.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure a <color=red>unidade 27</color> na zona.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeszukaj strefę w poszukiwaniu <color=red>jednostki nr 27.</color> ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zoneで<color=red>ユニット27</color>を探せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "지역에서 <color=red>유닛 27</color> 수색.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在區域中搜尋<color=red>27號單位。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在区域中搜索<color=red>单位27</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.SubObjective.DX.Investigate",
+  "internalEnabled": true,
+  "persistentID": 2194224098
+}

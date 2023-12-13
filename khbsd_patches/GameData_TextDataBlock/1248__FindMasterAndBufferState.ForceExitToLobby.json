@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ForceExitToLobby",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "RetourForcéAuSalon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Forza uscita a lobby",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RückkehrZurLobbyErzwingen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Forzar salida a sala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Принудительный выход в лобби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DeixarLobbyÀForça",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WymuśWyjścieDoLobby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーへ強制退出",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비로강제나가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強制退出到大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强制退出到大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.ForceExitToLobby",
+  "internalEnabled": true,
+  "persistentID": 1248
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls whether flashlights render player shadows or not.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle si les torches affectent les ombres des joueurs ou non.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla se le torce generano le ombre del giocatore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Legt fest, ob Taschenlampen Spielerschatten rendern oder nicht.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla si las linternas proyectarán sombras o no.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает или выключает эффект тени от игрока при использовании фонарика.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla se as lanternas geram sombras de jogador ou não.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za to, czy latarki renderują cienie gracza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライトがプレイヤーの影を生じさせるかどうかを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시가 플레이어 그림자를 렌더링할지 여부를 조정합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制手電筒是否渲染玩家陰影。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制手电筒是否渲染玩家阴影。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.PlayerShadows",
+  "internalEnabled": true,
+  "persistentID": 480415110
+}

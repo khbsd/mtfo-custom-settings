@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR STARTUP TEST ({0} of {1}) WARMING UP.. ",
+  "Description": "{0} and {1} are numbers representing the amount of enemy waves left to do.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TEST DE DÉMARRAGE DU RÉACTEUR ({0} sur {1}) RÉCHAUFFEMENT...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TEST RIAVVIO REATTORE ({0} su {1}) RISCALDAMENTO...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORSTARTTEST ({0} von\u00A0{1}) WIRD VORBEREITET …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRUEBA DE ARRANQUE DEL REACTOR ({0} de {1}) EN PREPARACIÓN.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА ЗАПУСКА РЕАКТОРА ({0}/{1}) ПОДГОТОВКА...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TESTE DE INICIALIZAÇÃO DE REATOR ({0} de {1}) AQUECENDO.. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZYGOTOWYWANIE TESTU ROZRUCHOWEGO REAKTORA ({0} z {1}) .. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター始動テスト ({0} / {1}) ウォームアップ中.. ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 가동 시험 ({0} / {1}) 가열 중.. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器啟動測試（{0}/{1}）正在預熱……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆启动测试（{0}/{1}）热身中……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.StartupTest_X_of_Y",
+  "internalEnabled": true,
+  "persistentID": 1100
+}

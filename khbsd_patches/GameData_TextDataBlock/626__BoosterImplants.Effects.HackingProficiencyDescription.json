@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will find hacking puzzles easier to complete.",
+  "Description": "Describes the advantage of having a good \"hacking skill\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet termine les puzzles de piratage plus facilement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto risolverà i rompicapi informatici con maggior facilità.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson kann Hacking-Rätsel leichter lösen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Al sujeto le costará menos completar los puzles de hackeo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Хакерские задачи решаются легче.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Os quebra-cabeças de hacking ficam mais fáceis para o indivíduo resolver.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sekwencje hakerskie staną się dla biorcy łatwiejsze do ukończenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象がパズルを解きやすくなる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 해킹 퍼즐을 더 쉽게 완료합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象會發現破解謎題更容易完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者破解侵入谜题的难度降低。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.HackingProficiencyDescription",
+  "internalEnabled": true,
+  "persistentID": 626
+}

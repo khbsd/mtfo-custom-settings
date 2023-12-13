@@ -1,0 +1,56 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "EnemyWeakspotExplode"
+    }
+  ],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_HitEnemyWeakspot",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnemy/E_EnemyWeakspotSpray_003",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnemy/EnemyWeakspotParticleFountain",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnemy/E_EnemyWeakspotFiller",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "weakspot_dead",
+  "internalEnabled": true,
+  "persistentID": 5
+}

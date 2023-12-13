@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>[sys_purge]</color> - Initializing phase 3 of 3",
+  "Description": "Don't localize [sys_purge].",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>[sys_purge]</color> - Initialisation de la phase\u00A03 sur 3",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>[sys_purge]</color> - inizializzazione fase 3 di 3",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>[sys_purge]</color> – Phase 3 von 3 wird initialisiert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>[sys_purge]</color>: Inicializando fase 3 de 3",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>[sys_purge]</color> — активация фазы 3/3.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>[sys_purge]</color> — Inicializando fase 3 de 3",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>[sys_purge]</color> – inicjowanie fazy 3 z 3",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[sys_purge]</color> - フェーズ3/3開始中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[sys_purge]</color> - 3/3 페이즈 발동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>[sys_purge]</color> - 初始化階段3/3",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>[sys_purge]</color> - 初始化阶段3/3",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.WavesOnActivate.E1.Phase3",
+  "internalEnabled": true,
+  "persistentID": 3891673575
+}

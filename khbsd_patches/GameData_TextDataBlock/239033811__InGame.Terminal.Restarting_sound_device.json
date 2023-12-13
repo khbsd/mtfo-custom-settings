@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Restarting sound device..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Redémarrage du périphérique audio...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riavvio dispositivo audio.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Audiogerät wird neu gestartet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciando el dispositivo de sonido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перезапуск звукового устройства...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reiniciando dispositivo de som..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Restartowanie urządzenia dźwiękowego..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サウンドデバイスを再起動...n赤",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음향 기기 재시작 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在重啟聲音裝置……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在重启声音设备……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Restarting_sound_device",
+  "internalEnabled": true,
+  "persistentID": 239033811
+}

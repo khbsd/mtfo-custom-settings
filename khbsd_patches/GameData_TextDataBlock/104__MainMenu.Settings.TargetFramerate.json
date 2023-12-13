@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Target Framerate",
+  "Description": "A game setting that controls the frame rate the game should aim to maintain.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fréquence d'images cible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Frequenza fotogrammi obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FPS-Limit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Marcar framerate",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Частота кадров",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Taxa de quadros desejada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Docelowa liczba klatek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ターゲットフレームレート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 프레임 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目標畫面播放速率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标帧率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.TargetFramerate",
+  "internalEnabled": true,
+  "persistentID": 104
+}

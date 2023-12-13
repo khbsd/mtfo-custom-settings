@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...the one closest to me.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... celui qui est le plus proche de moi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...quello più vicino a me.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… den in meiner Nähe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... del que está más cerca de mí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...враг ближе ко мне.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... o que está mais perto de mim.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tego najbliżej ode mnie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...こっちに一番近い奴は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...나한테 제일 가까운 거.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…離我最近的那個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……离我最近的那个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.The_One_Closest_To_Me",
+  "internalEnabled": true,
+  "persistentID": 1490
+}

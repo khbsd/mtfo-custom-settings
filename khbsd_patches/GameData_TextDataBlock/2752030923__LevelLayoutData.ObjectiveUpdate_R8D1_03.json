@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access <color=orange>ZONE 425</color> through terminals in [ZONE_8] and [ZONE_9]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la <color=orange>ZONE\u00A0425</color> en utilisant les terminaux de la [ZONE_8] et de la [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedere a <color=orange>ZONE 425</color> tramite i terminali in [ZONE_8] e [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erhalten Sie über die Terminals in [ZONE_8] und [ZONE_9] Zugang zu <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Accede a la <color=orange>ZONE 425</color> a través de los terminales en la [ZONE_8] y la [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Получите доступ к <color=orange>ZONE 425</color> с помощью терминала в [ZONE_8] и [ZONE_9].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar <color=orange>ZONE 425</color> usando o terminal em [ZONE_8] e [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dotrzyj do <color=orange>strefy 425 [ZONE_425]</color> przez terminale w strefie 8 [ZONE_8] i strefie 9 [ZONE_9]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_8]と[ZONE_9]の端末から<color=orange>ZONE 425</color>にアクセスしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_8] 및 [ZONE_9]의 터미널을 사용해 <color=orange>ZONE 425</color>에 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從[ZONE_8]和[ZONE_9]的終端進入<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过[ZONE_8]和[ZONE_9]的终端访问<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 10,
+  "ImportVersion": 10,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_03",
+  "internalEnabled": true,
+  "persistentID": 2752030923
+}

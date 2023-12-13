@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Directions",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Orientation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Indicazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Richtungsangaben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Direcciones",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направления",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direções",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kierunek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "方向",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "방향",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "方向",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "方向",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Directions",
+  "internalEnabled": true,
+  "persistentID": 1272
+}

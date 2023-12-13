@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown, awaiting uplink reconnection.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. Reconnexion de la liaison montante en attente.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. In attesa di riconnessione uplink.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Warte auf Wiederherstellung der Uplink-Verbindung.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Cierre de emergencia en puerta, esperando reconexión de uplink.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Ожидание повторного подключения.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em modo de confinamento de emergência. Aguardando reconexão de uplink.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi, oczekiwanie na ponowne połączenie.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー: ドアは緊急封鎖中、アップリンク再接続を待機中。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문 비상 폐쇄. 업링크 재연결 대기 중</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態，正在等待上行鏈路重新連線。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁中，正在等待上行链路重新连接。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.01_R7_B2",
+  "internalEnabled": true,
+  "persistentID": 3258884987
+}

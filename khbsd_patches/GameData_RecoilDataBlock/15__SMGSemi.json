@@ -1,0 +1,80 @@
+{
+  "power": {
+    "Min": 0.4,
+    "Max": 0.6
+  },
+  "spring": 3.0,
+  "dampening": 12.0,
+  "hipFireCrosshairSizeDefault": 80.0,
+  "hipFireCrosshairRecoilPop": 20.0,
+  "hipFireCrosshairSizeMax": 140.0,
+  "horizontalScale": {
+    "Min": 0.1,
+    "Max": -0.3
+  },
+  "verticalScale": {
+    "Min": 0.8,
+    "Max": 1.0
+  },
+  "directionalSimilarity": 0.0,
+  "worldToViewSpaceBlendHorizontal": 0.2,
+  "worldToViewSpaceBlendVertical": 0.05,
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -2.1,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.1,
+    "sqrMagnitude": 4.40999937
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.06,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.06,
+    "sqrMagnitude": 0.0036
+  },
+  "recoilPosShiftWeight": 1.0,
+  "recoilPosStiffness": 250.0,
+  "recoilPosDamping": 15.0,
+  "recoilPosImpulseWeight": 1.0,
+  "recoilCameraPosWeight": 1.0,
+  "recoilAimingWeight": 0.8,
+  "recoilRotImpulse": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0,
+    "normalized": {
+      "x": 0.577350259,
+      "y": 0.577350259,
+      "z": 0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.73205078,
+    "sqrMagnitude": 3.0
+  },
+  "recoilRotStiffness": 50.0,
+  "recoilRotDamping": 8.0,
+  "recoilRotImpulseWeight": 200.0,
+  "recoilCameraRotWeight": 1.0,
+  "concussionIntensity": 1.5,
+  "concussionFrequency": 20.0,
+  "concussionDuration": 0.12,
+  "name": "SMGSemi",
+  "internalEnabled": true,
+  "persistentID": 15
+}

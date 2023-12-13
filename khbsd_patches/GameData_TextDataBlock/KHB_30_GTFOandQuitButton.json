@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "GTFO and squit?",
+  "Description": "A button used to quitting the game entirely. Since the game is called \"GTFO\", we felt it was a bit funny to use that term in the quit button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quitter\u00A0?",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Vuoi abbandonare GTFO?",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GTFO und verlassen?",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¿Salir de una vez?",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выйти из GTFO?",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sair logo?",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GTFO – wyjść?",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "GTFOして終了しますか？",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "GTFO하고 나가시겠습니까?",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出GTFO？",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出《GTFO》？",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.QuitDescription",
+  "internalEnabled": true,
+  "persistentID": 30
+}

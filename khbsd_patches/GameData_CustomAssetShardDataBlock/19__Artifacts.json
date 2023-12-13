@@ -1,0 +1,40 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Artifacts/General/ArtifactPickup_Core.prefab",
+      "Shard": 13
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Artifacts/General/ArtifactPickup_Test.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_a.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_b Variant.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_c Variant.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_d Variant.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_f Variant.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_skull Variant.prefab",
+      "Shard": 0
+    }
+  ],
+  "name": "Artifacts",
+  "internalEnabled": true,
+  "persistentID": 19
+}

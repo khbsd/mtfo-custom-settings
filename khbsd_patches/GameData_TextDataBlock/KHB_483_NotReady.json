@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NO HEAD?",
+  "Description": "In the game lobby screen, before a player has indicated that they are ready for the game to start, this text is shown under their player character to indicate for everyone in the lobby that this player is not yet ready.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PAS PRÊT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NON PRONTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NICHT BEREIT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TODAVÍA NO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИГРОК НЕ ГОТОВ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "NÃO PRONTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BRAK GOTOWOŚCI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비 안 됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尚未就緒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未准备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.NotReady",
+  "internalEnabled": true,
+  "persistentID": 483
+}

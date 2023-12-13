@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Everyone must use voice",
+  "Description": "A voice chat setting that determines that all players in the team must use voice chat to communicate.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chat vocal obligatoire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tutti devono usare la voce",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Jeder muss ein Mikrofon benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Todos deben usar el chat de voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Все используют голосовой чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Todos devem usar voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wszyscy muszą używać głosu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全員ボイスチャット必須",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모두 음성을 사용해야 합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "每個人都必須使用語音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "要求全员使用语音",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.EveryoneMustUseVoice",
+  "internalEnabled": true,
+  "persistentID": 260
+}

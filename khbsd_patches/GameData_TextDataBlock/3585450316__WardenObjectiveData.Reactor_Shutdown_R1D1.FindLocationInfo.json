@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the location of the Reactor",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Obtenez plus d'informations sur l'emplacement du réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazione del reattore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über den Standort des Reaktors.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne información sobre la ubicación del reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении реактора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre a localização do reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターの場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集反應器位置相關資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于反应堆位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Shutdown_R1D1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 3585450316
+}

@@ -1,0 +1,29 @@
+{
+  "SpawnsPerZone": 18,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 142,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 3.0
+    },
+    {
+      "ItemID": 114,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 144,
+      "Weight": 6.0
+    }
+  ],
+  "name": "CombatMelee_Storage_lessMelee",
+  "internalEnabled": true,
+  "persistentID": 36
+}

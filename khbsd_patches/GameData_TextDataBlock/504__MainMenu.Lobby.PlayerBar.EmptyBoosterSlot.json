@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Empty Booster Slot",
+  "Description": "The player has three \"slots\" for boosters (performance enhancing drugs), meaning he/she can have three different boosters administered/active at the same time. This text indicates that a particular slot is empty.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Emplacement de booster vide",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Slot potenziamento vuoto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leerer Booster-Platz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ranura de potenciador vacía",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пустая ячейка усилителя",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espaço de impulso livre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Opróżnij miejsce na wzmacniacz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カラのブースタースロット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "빈 부스터 칸",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空強化劑欄位",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空强化剂槽",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.EmptyBoosterSlot",
+  "internalEnabled": true,
+  "persistentID": 504
+}

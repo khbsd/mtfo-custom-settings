@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate the <color=orange>Collection case</color> in <color=orange>[ZONE_5]</color>",
+  "Description": "\"Collection Case\" should not be translated",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le <color=orange>Collection case</color> dans la <color=orange>[ZONE_5]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il <color=orange>Collection case</color> in <color=orange>[ZONE_5]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie den <color=orange>Collection case</color> in <color=orange>[ZONE_5]</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza la <color=orange>Collection case</color> en la <color=orange>[ZONE_5]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>Collection case</color> в <color=orange>[ZONE_5]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize a <color=orange>Collection case</color> na <color=orange>[ZONE_5]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj <color=orange>Collection case</color> w <color=orange>strefie 5 [ZONE_5]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Collection case</color>を<color=orange>[ZONE_5]</color>で見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ZONE_5]</color>에서 <color=orange>Collection case</color> 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位<color=orange>[ZONE_5]</color>的<color=orange>Collection case</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位<color=orange>[ZONE_5]</color>中的<color=orange>Collection case</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B1_SubObjective_1",
+  "internalEnabled": true,
+  "persistentID": 3630497782
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY SCAN",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANÁLISIS DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.SecurityScan",
+  "internalEnabled": true,
+  "persistentID": 1092
+}

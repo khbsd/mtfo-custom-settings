@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "LOCKDOWN FOR SECURITY DOOR TO [ZONE_5] HAS BEEN LIFTED.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PORTE DE SÉCURITÉ VERS LA [ZONE_5] DÉVERROUILLÉE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "REVOCATO BLOCCO PORTA DI SICUREZZA PER [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DIE VERRIEGELUNG DER SICHERHEITSTÜR ZU [ZONE_5] WURDE AUFGEHOBEN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SE HA ANULADO EL CIERRE DE EMERGENCIA DE LA PUERTA DE SEGURIDAD A [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БЛОКИРОВКА ЗАЩИТНОЙ ДВЕРИ В [ZONE_5] СНЯТА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFINAMENTO DA PORTA DE SEGURANÇA PARA [ZONE_5] REMOVIDO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BLOKADA DRZWI DO STREFY 5 [ZONE_5] ZNIESIONA.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]へのセキュリティドアの封鎖が解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5] 보안문 폐쇄가 해제되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_5]的安全門已解除封鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_5]的安全门已解除封锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.R6A2.SpecialTerminalCommand_Description_2",
+  "internalEnabled": true,
+  "persistentID": 1323726454
+}

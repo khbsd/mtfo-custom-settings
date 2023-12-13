@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enemy slowdown\nDoor reinforcement\nCharge up fire",
+  "Description": "A short description of what the C-foam launcher tool is used for, and how it's used. I.e. the foam slows down enemies, it can be used to reinforce doors, and you need to charge it up before each \"shot\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ralentissement des ennemis\nRenforcement des portes\nChargement du tir",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rallentamento nemico\nRafforzamento porta\nCaricamento necessario",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feindverlangsamung\nTürverstärkung\nAuflade-Feuern",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ralentización de enemigos\nRefuerzo de puertas\nRecarga de disparos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Замедление врага\nУсиление дверей\nТребуется перезарядка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desaceleração de inimigo\nReforço de porta\nCarga pré-disparo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Spowalnianie przeciwników\nWzmacnianie drzwi\nTryb ognia z ładowaniem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵スローダウン\nドア強化\nチャージアップによる発射",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 감속\n문 강화\n충전 사격",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "敵人減速\n門強固\n充能射擊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "减速敌人\n加固门\n蓄力发射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.GlueGunDescription",
+  "internalEnabled": true,
+  "persistentID": 819
+}

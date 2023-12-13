@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring the Data sphere to [ITEM_SERIAL] to retrieve its data",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Apportez la sphère de données à [ITEM_SERIAL] pour récupérer les données.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare la Sfera dati a [ITEM_SERIAL] per recuperarne i dati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die Datenkugel zu [ITEM_SERIAL], um ihre Daten abzurufen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la esfera de datos a [ITEM_SERIAL] para recuperar sus datos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы извлечь данные из сферы, принесите ее к [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leve a esfera de dados até [ITEM_SERIAL] para recuperar seus dados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aby pozyskać dane ze sfery danych, dostarcz ją do: [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データスフィアを[ITEM_SERIAL]に運んでデータを回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 스피어를 [ITEM_SERIAL]로 가져와 데이터 회수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "把資料球帶到[ITEM_SERIAL]以取得其中資料",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据球带到[ITEM_SERIAL]以取回其中数据",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R4C1_L1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3372514369
+}

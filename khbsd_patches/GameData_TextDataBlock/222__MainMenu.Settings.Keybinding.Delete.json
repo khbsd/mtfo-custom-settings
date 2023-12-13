@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Delete",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Suppr.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Canc",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Löschen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Supr",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Delete",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Delete键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Delete",
+  "internalEnabled": true,
+  "persistentID": 222
+}

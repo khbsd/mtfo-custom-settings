@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Primary security rebooting.. Maintenance mode granted.. <color=orange>ZONE 177</color> Access granted..",
+  "Description": "Don't localize [Zone 177]. It is replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Redémarrage du système de sécurité principal... Mode de maintenance autorisé dans la <color=orange>Zone\u00A0177</color>. Accès autorisé...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riavvio sicurezza primaria... Modalità manutenzione concessa... Accesso autorizzato a <color=orange>ZONE 177</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primäre Sicherheitsroutine wird neu gestartet … Wartungsmodus zugelassen … Zugang zu <color=orangeZone 177</color> gewährt …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciando seguridad principal. Modo de mantenimiento aceptado. Acceso a la\u00A0<color=orange>ZONE 177</color>\u00A0concedido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перезагрузка основной системы безопасности... Включен режим обслуживания... Открыт доступ в <color=orange>ZONE 177</color>...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reinicialização de segurança primária.. Modo de manutenção concedido.. <color=orangeZone 177</color> Acesso concedido..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ponowne uruchamianie zabezpieczeń głównych.. Przejście w tryb serwisowy.. Uzyskano dostęp do <color=orange>strefy 177 [ZONE_177]</color>..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プライマリセキュリティ再起動中.. メンテナンスモード取得.. <color=orangeZone 177</color> アクセス取得..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 보안 시스템 재부팅 중... 점검 모드 승인.. <color=orangeZone 177</color>에 접근 허가..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "一級安全重啟中……授予維護模式……<color=orangeZone 177</color>授予存取權限……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一级安全正在重启……已开放维护模式……<color=orangeZone 177</color>访问权限已开放……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_DoorUnlock_Third",
+  "internalEnabled": true,
+  "persistentID": 1141
+}

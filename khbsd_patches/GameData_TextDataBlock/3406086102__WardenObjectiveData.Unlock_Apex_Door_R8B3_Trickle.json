@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>SECURITY BREACH DETECTED!</color> DISABLE ALARM WITH SECURITY SCAN INTO [ZONE_7].",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>FAILLE DE SÉCURITÉ DÉTECTÉE\u00A0!</color> DÉSACTIVEZ L'ALARME EN EFFECTUANT UNE ANALYSE DE SÉCURITÉ DANS LA [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>RILEVATA VIOLAZIONE DELLA SICUREZZA!</color> DISABILITARE ALLARME CON SCANSIONE DI SICUREZZA IN [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>SICHERHEITSLÜCKE ENTDECKT!</color> DEAKTIVIEREN SIE DEN ALARM MIT EINEM SICHERHEITSSCAN IN [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡BRECHA DE SEGURIDAD DETECTADA!</color> DESACTIVA LA ALARMA CON EL ANÁLISIS DE SEGURIDAD EN LA [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОБНАРУЖЕНО НАРУШЕНИЕ БЕЗОПАСНОСТИ!</color> ЧТОБЫ ОТКЛЮЧИТЬ СИГНАЛ ТРЕВОГИ, ПРОЙДИТЕ ПРОВЕРКУ БЕЗОПАСНОСТИ В [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>VIOLAÇÃO DE SEGURANÇA DETECTADA!</color> DESATIVE O ALARME COM ESCANEAMENTO DE SEGURANÇA DENTRO DA [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>WYKRYTO NARUSZENIE BEZPIECZEŃSTWA!</color> WYŁĄCZ ALARM, DOKONUJĄC SKANOWANIA STREFY 7 [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>セキュリティ違反を検知！</color>[ZONE_7]をセキュリティスキャンして警報を無効化しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>보안 돌파 감지!</color> [ZONE_7] 보안 스캔으로 경보 해제.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>偵測到安全入侵！</color>對[ZONE_7]執行安全掃描以關閉警報。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>检测到安全漏洞！</color>对[ZONE_7]执行安全扫描，以关闭警报。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveData.Unlock_Apex_Door_R8B3_Trickle",
+  "internalEnabled": true,
+  "persistentID": 3406086102
+}

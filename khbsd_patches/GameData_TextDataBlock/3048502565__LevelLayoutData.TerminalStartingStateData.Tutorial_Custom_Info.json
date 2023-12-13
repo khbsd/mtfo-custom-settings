@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ping an item inside the current zone to get its location\nExample: PING KEY_GREEN_123",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Envoie une requête ping sur un objet pour déterminer son emplacement dans la zone actuelle.\nExemple\u00A0: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esegue un ping con un oggetto all'interno della zona corrente per ottenerne la posizione\nEsempio: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pingen Sie ein Ziel in der aktuellen Zone an, um sein Standort zu ermitteln.\nBeispiel: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Realiza ping a un objeto dentro de la zona actual para obtener su ubicación.\nEjemplo: PING KEY_GREEN_123.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает расположение предмета в текущей зоне.\nНапример, PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marque um item dentro da zona atual para obter sua localização\nExemplo: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oznacz przedmiot w bieżącej strefie, aby uzyskać jego lokalizację.\nPrzykład: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "現在のゾーン内のアイテムにPINGを使用してその場所を得る\n例: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "현재 구역 내 아이템 핑하여 위치 제공\n예: PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記目前區域內的一件物品以取得其位置\n範例：PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记当前区域内某件物品以获取其位置\n例：PING KEY_GREEN_123",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.TerminalStartingStateData.Tutorial_Custom_Info",
+  "internalEnabled": true,
+  "persistentID": 3048502565
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "System",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Système",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistema",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "System",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistema",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk systemowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "システム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시스템",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "系統",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "系统",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.System",
+  "internalEnabled": true,
+  "persistentID": 995
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shh",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Shh",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schh",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Shh",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тсс",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Shh",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ćśś",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "静かにしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "쉿",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "噓",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "嘘",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Shh",
+  "internalEnabled": true,
+  "persistentID": 1299
+}

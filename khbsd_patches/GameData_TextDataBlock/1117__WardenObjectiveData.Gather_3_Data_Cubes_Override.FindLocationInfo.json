@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Current progress: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+  "Description": "Don't localize [COUNT_CURRENT] and [COUNT_REQUIRED]. These are replaced programmatically with numbers.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Progression actuelle\u00A0: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Progresso attuale: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktueller Fortschritt: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Progreso actual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Текущий прогресс: [COUNT_CURRENT] / [COUNT_REQUIRED].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Progresso atual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bieżący postęp: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "現在の進行状況: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "현재 진행도: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目前進度：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "当前进度：[COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_3_Data_Cubes_Override.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1117
+}

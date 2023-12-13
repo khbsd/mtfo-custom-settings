@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Continue to <color=orange>Project Insight Server Farm [1]</color> in <color=orange>ZONE 245</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Continuez vers le <color=orange>parc de serveurs du Project Insight [1]</color> dans la <color=orange>ZONE\u00A0245</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Proseguire per <color=orange>server farm Project Insight [1]</color> in <color=orange>ZONE 245</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie zur <color=orange>Serverfarm von Project Insight [1]</color> in <color=orange>ZONE 245</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta el <color=orange>clúster de servidores del Project Insight [1]</color> en la <color=orange>ZONE 245</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идите к <color=orange>серверному кластеру Project Insight [1]</color> в <color=orange>ZONE 245</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Continuar até a <color=orange>Torre de Servidores do Project Insight [1]</color> na <color=orange>ZONE 245</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź dalej do <color=orange>farmy serwerów projektu Insight [1]</color> w <color=orange>strefie 245 [ZONE_245]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 245</color>で<color=orange>プロジェクトインサイトサーバーファーム[1]</color>へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 245</color>에 있는 <color=orange>Project Insight 서버 팜 [1]</color>으로 계속 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續前往<color=orange>ZONE 245</color>的<color=orange>Project Insight伺服器農場[1]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续前往<color=orange>ZONE 245</color>的<color=orange>Project Insight服务器群[1]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "Warden.CustomObjective_Insight_1_R8C1",
+  "internalEnabled": true,
+  "persistentID": 893585246
+}

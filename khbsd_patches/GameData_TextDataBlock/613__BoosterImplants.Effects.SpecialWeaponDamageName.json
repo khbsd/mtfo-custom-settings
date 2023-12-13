@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Special damage",
+  "Description": "Refers to how much damage the player's \"special\" weapon can deal.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts spéciaux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno speciale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spezial-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño especial",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (особое оружие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano da especial",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od broni specjalnej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特殊武器ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "특수 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "特殊傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "特殊伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SpecialWeaponDamageName",
+  "internalEnabled": true,
+  "persistentID": 613
+}

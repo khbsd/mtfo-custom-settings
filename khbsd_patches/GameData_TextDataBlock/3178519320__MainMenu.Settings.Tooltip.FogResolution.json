@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The render resolution of the volumetric fog.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit la résolution du rendu du brouillard volumétrique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La risoluzione di rendering della nebbia volumetrica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Renderauflösung des volumetrischen Nebels.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La resolución de la niebla volumétrica.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение рендеринга для объемного дыма.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A resolução de renderização da névoa volumétrica.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość renderowania mgły wolumetrycznej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボリュメトリックフォグのレンダリング解像度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "볼류메트릭 안개의 렌더링 해상도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "體積霧的渲染解析度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "体积雾的渲染分辨率。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.FogResolution",
+  "internalEnabled": true,
+  "persistentID": 3178519320
+}

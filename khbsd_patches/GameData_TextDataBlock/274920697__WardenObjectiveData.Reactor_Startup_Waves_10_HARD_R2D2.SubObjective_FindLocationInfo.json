@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Push through to the Reactor in [ITEM_ZONE]",
+  "Description": "Don't translate [ITEM_ZONE]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Atteindre le réacteur dans la [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avanzare fino al reattore in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Dringen Sie bis zum Reaktor in [ITEM_ZONE] vor.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ábrete camino hasta el reactor en la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до реактора в [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Avance rumo ao reator na [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przebij się do reaktora w strefie [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]のリアクターまで突破しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE]의 반응로로 강행할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強行前往位於[ITEM_ZONE]的反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "推进到[ITEM_ZONE]的反应堆处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_10_HARD_R2D2.SubObjective_FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 274920697
+}

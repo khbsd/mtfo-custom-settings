@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY VERIFICATION REQUIRED. USE COMMAND <color=orange>REACTOR_VERIFY</color> AND CODE {0} TO VERIFY.",
+  "Description": "{0} is the name of the command.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VÉRIFICATION DE SÉCURITÉ REQUISE. UTILISEZ LA COMMANDE <color=orange>REACTOR_VERIFY</color> ET LE CODE {0} POUR EFFECTUER LA VÉRIFICATION\u00A0.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICHIESTA VERIFICA SICUREZZA. USARE COMANDO <color=orange>REACTOR_VERIFY</color> E CODICE {0} PER VERIFICA.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSVERIFIZIERUNG ERFORDERLICH. NUTZEN SIE ZUM VERIFIZIEREN DEN BEFEHL <color=orange>REACTOR_VERIFY</color> UND DEN CODE {0}!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "VERIFICACIÓN DE SEGURIDAD NECESARIA. USA EL COMANDO <color=orange>REACTOR_VERIFY</color> Y EL CÓDIGO {0} PARA VERIFICAR.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕОБХОДИМА ПРОВЕРКА БЕЗОПАСНОСТИ. ИСПОЛЬЗУЙТЕ КОМАНДУ <color=orange>REACTOR_VERIFY</color> И КОД {0}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFICAÇÃO DE SEGURANÇA NECESSÁRIA. USE O COMANDO <color=orange>REACTOR_VERIFY</color> E O CÓDIGO {0} PARA VERIFICAR.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYMAGANA WERYFIKACJA ZABEZPIECZEŃ. UŻYJ POLECENIA <color=orange>REACTOR_VERIFY</color> I KODU {0} W CELU WERYFIKACJI.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティ認証が必要。コマンド <color=orange>REACTOR_VERIFY</color> とコード {0} を使用して認証。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 인증 필요. <color=orange>REACTOR_VERIFY</color> 명령 및 {0} 코드를 사용해 인증할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要安全驗證。使用指令<color=orange>REACTOR_VERIFY</color>和代碼{0}來驗證。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要进行安全验证。使用命令<color=orange>REACTOR_VERIFY</color>和代码{0}进行验证。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.SecurityVerificationRequired_X",
+  "internalEnabled": true,
+  "persistentID": 1107
+}

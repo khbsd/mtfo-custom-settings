@@ -1,0 +1,13 @@
+{
+  "SpawnsPerZone": 1,
+  "ChanceToSpawnInResourceContainer": 0.0,
+  "SpawnData": [
+    {
+      "ItemID": 183,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Microdrive_Dataextractor",
+  "internalEnabled": true,
+  "persistentID": 84
+}

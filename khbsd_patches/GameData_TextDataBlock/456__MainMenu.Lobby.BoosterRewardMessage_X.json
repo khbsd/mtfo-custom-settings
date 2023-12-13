@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You have been rewarded with {0} Booster(s) in exchange for your collected artifacts",
+  "Description": "A test that informs the player that the artifacts they collected during the last expedition/mission have been traded in for one or more boosters. The way the text combines the singular and plural version of \"booster\" with a parentheses around the \"s\" is intentional, to make Warden come across as rigid and machine-like. The \"{0}\" represents the number of boosters - do not alter that piece of code, just put it in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Vous avez reçu {0}\u00A0booster(s) en échangeant vos artefacts récoltés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Hai ricevuto {0} potenziamento/i come ricompensa in cambio dei manufatti raccolti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sie wurden im Austausch für Ihre gesammelten Artefakte mit {0}\u00A0Booster(n) belohnt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Has recibido {0} potenciador(es) a cambio de los artefactos conseguidos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В обмен на собранные артефакты вы получаете усилители: {0}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você recebeu {0} impulso(s) em troca dos artefatos coletados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nagrodzono cię {0} wzmacniaczami w zamian za zebrane artefakty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "収集したアーティファクトと引き換えに {0} ブースターの報酬を得た",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수집한 아티팩트를 교환해 부스터 {0}개를 보상으로 받았습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你用收集的寶物交換了{0}份強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你收集的红晶已换取{0}份强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.BoosterRewardMessage_X",
+  "internalEnabled": true,
+  "persistentID": 456
+}

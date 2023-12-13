@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resource: {0} <size=70%>(1 use left)</size>",
+  "Description": "{0} is one of the resources, Ammo Pack, MediPack etc. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ressource\u00A0: {0} <size=70%>(restant\u00A0: 1)</size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risorsa: {0} <size=70%>(1 utilizzo rimasto)</size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ressource: {0} <size=70%>(1 Nutzung übrig)</size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recurso: {0} <size=70%>(1 uso restante)</size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ресурс: {0} <size=70%>[1 р. остался]</size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recurso: {0} <size=70%>(1 uso restante)</size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasób: {0} <size=70%>(1 pozostałe użycie)</size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "物資： {0} <size=70%>(残り使用回数： 1)</size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원: {0} <size=70%>(1회분 남음)</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源：{0}<size=70%>（剩下1次）</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源：{0}<size=70%>（还剩1次用量）</size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Resource_X_OneUseLeft",
+  "internalEnabled": true,
+  "persistentID": 2040040983
+}

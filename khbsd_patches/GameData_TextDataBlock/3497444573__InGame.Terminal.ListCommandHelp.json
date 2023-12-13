@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Display a list of all essential items\\nExample: LIST HSU ZONE_1, will only display data from Zone_1 containing 'HSU'",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Affiche la liste de tous les objets essentiels.\\nExemple\u00A0: LIST HSU ZONE_1 affichera uniquement les données de la ZONE_1 contenant 'HSU'.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra un elenco di tutti gli oggetti essenziali\\nEsempio: LIST HSU ZONE_1, mostrerà solo i dati della Zone_1 contenenti \"HSU\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eine Liste aller essentiellen Ziele anzeigen\\nBeispiel: LIST HSU ZONE_1 zeigt Daten aus Zone_1 an, die „HSU“ enthalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra una lista de objetos esenciales.\\nEjemplo: LIST HSU ZONE_1 solo mostrará datos de Zone_1 que contengan 'HSU'.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает список ключевых предметов.\\nНапример, команда LIST HSU ZONE_1 покажет только данные из Zone_1, содержащие HSU.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exibe uma lista de todos os itens essenciais\\nExemplo: LIST HSU ZONE_1, só exibirá dados da Zone_1 contendo 'HSU'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetl listę wszystkich niezbędnych przedmiotów\\nPrzykład: polecenie LIST HSU ZONE_1 wyświetli dane jedynie dla strefy 1 zawierające jednostkę hydrostazy HSU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全ての必須アイテムの一覧を表示\\n例: LIST HSU ZONE_1は、'HSU'を含むZone_1のデータのみを表示します",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 필수 아이템 목록 표시\\n예: LIST HSU ZONE_1, 'HSU'가 포함된 Zone_1의 데이터만 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示所有必需物品清單\\n範例：「LIST HSU ZONE_1」只顯示ZONE_1中包含「HSU」的資料",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示所有必需物品列表\\n例：“LIST HSU ZONE_1”将仅显示ZONE_1中包含“HSU”的数据",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ListCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3497444573
+}

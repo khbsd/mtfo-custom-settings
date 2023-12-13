@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the filtering of shadow textures.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le filtrage des textures d'ombre.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il filtro delle texture delle ombre.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Filterung von Schattentexturen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el filtro de las texturas de sombras.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Управляет фильтрацией текстур теней.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o filtro de texturas de sombras.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za filtrowanie tekstur cieni.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "影テクスチャのフィルタリングを制御する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그림자 텍스처 필터링을 제어합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制陰影紋理過濾。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制阴影纹理的过滤。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.ShadowQuality",
+  "internalEnabled": true,
+  "persistentID": 2167012351
+}

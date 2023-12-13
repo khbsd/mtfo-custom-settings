@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Error</color> Local zone clearance overridden. Local terminal bypass needed to activate maintenance mode.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=Red>Erreur</color> Habilitation de la zone locale neutralisée. Contournement du terminal local requis pour activer le mode maintenance.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Errore.</color> Override autorizzazione zona locale. Bypass del terminale locale necessario per attivazione modalità di manutenzione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Fehler</color> Lokale Zonenfreigabe überschrieben. Lokale Terminalumgehung erforderlich, um den Wartungsmodus zu aktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Error</color> Autorización de zona local anulada. Es necesario derivar el terminal local para activar el modo de mantenimiento.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Ошибка</color>: отключена проверка в локальной зоне. Для активации режима техобслуживания требуется обход локального терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Erro</color> Liberação de zona local revogada. É necessário contornar com o terminal local para ativar o modo de manutenção.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Błąd</color> Nadpisanie dostępu do strefy lokalnej. Konieczne obejście lokalnego terminalu w celu uruchomienia trybu serwisowego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラー</color>ローカルゾーンクリアランスがオーバーライド。メンテナンスモードの起動にはローカル端末のバイパスが必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>오류</color> 내부 구역 승인 무시. 점검 모드 활성화에 내부 터미널 우회 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯誤</color>：本地區域許可已覆蓋。需要繞過本地終端來啟動維護模式。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错误</color>：本地区域许可已被覆盖。需要旁通本地终端来激活维护模式。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjective.Mainframe_Update_2_R7D2",
+  "internalEnabled": true,
+  "persistentID": 2887110002
+}

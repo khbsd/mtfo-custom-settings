@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables screen-space contact shadows, which capture small details that shadow maps cannot.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active les ombres de contact sur l'espace d'affichage, qui capturent les petits détails que les angles morts ne peuvent pas capturer.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attiva le ombre di contatto, che catturano piccoli dettagli non catturabili dalle mappe delle ombre.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert Kontaktschatten auf dem Bildschirm, die kleine Details erfassen, die Schattenkarten nicht erfassen können.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Permite que haya sombras de contacto con el espacio de la pantalla, que captura más detalles que los mapas de sombras.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Добавляет контактные тени повышенной четкости, которой невозможно достичь с помощью теневых карт.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa as sombras de contato no espaço de tela, que captura pequenos detalhes que os mapas de sombras não conseguem.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza cienie w przestrzeni ekranu, umożliwiające uchwycenie niewielkich szczegółów niedostępnych dla map z cieniami.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シャドウマップではとられられない細部をとらえることができる、画面スペースのコンタクトシャドウを有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "화면 공간 접촉면 그림자를 활성화해, 그림자 맵이 캡처하지 못하는 작은 세부 표현을 잡아냅니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用畫面空間接觸陰影，捕捉陰影地圖無法捕捉的小細節。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启用屏幕空间接触阴影，从而捕捉阴影地图无法捕捉到的小细节。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "MainMenu.Settings.Tooltip.ContactShadows",
+  "internalEnabled": true,
+  "persistentID": 751951995
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Press any key to restart sound device..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Appuyez sur une touche pour redémarrer le périphérique audio.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premere un tasto per riavviare il dispositivo audio.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zum Neustarten des Audiogeräts eine beliebige Taste drücken",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsa cualquier tecla para reiniciar el dispositivo de sonido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите любую кнопку, чтобы перезапустить звуковое устройство...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aperte qualquer tecla para reiniciar o dispositivo de som..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij dowolny klawisz, aby ponownie uruchomić urządzenie dźwiękowe..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "いずれかのキーを押してサウンドデバイスを再起動...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아무 키나 눌러 음향 기기 재시작하기...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按下任意鍵重啟聲音裝置……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下任意键重启声音设备……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Press_any_key_to_restart_sound_device",
+  "internalEnabled": true,
+  "persistentID": 2122610938
+}

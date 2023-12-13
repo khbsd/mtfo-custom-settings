@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "LOCKDOWN DISENGAGED - Bulkhead door to [ZONE 110] unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VERROUILLAGE DÉSACTIVÉ - Porte à cloison vers la [ZONE\u00A0110] déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ISOLAMENTO DISATTIVATO - Porta stagna per zona 110 [ZONE_110] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERRIEGELUNG DEAKTIVIERT – Schotttür zu [ZONE 110] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CIERRE DE EMERGENCIA DESACTIVADO: Se ha desbloqueado la puerta de contención a la [ZONE 110].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РЕЖИМ ИЗОЛЯЦИИ ВЫКЛЮЧЕН. Ворота в [ZONE 110] разблокированы.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFINAMENTO REMOVIDO - Porta protetora para [ZONE 110] destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BLOKADA WYŁĄCZONA – gródź do strefy 110 [ZONE 110] odblokowana.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックダウン解除 - [ZONE 110]への隔壁ドア、ロック解除。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 해제 - [ZONE 110] 격벽 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封鎖已解除 - 通往110區[ZONE_110]的艙門[BULKHEAD_DOOR]已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封锁已解除 - 110区[ZONE_110]舱壁门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_Two_Terminals_R5C1_L1.EventsOnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 4109591797
+}

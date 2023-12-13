@@ -1,0 +1,117 @@
+{
+  "priority": 200,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3437074275,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 2862424046
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 2
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3437074275,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 54458592
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 4
+      },
+      "ActorB": {
+        "charFilter": -1
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3437074275,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 4009979266
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 8
+      },
+      "ActorC": {
+        "charFilter": -1
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3437074275,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 2100602923
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 16
+      },
+      "ActorD": {
+        "charFilter": -1
+      }
+    }
+  ],
+  "name": "NT_ALTBetrayed ",
+  "internalEnabled": true,
+  "persistentID": 372
+}

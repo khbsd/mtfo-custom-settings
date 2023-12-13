@@ -1,0 +1,52 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_GlueGun.prefab",
+    "GearCategoryFilter": 11,
+    "AssetBundle": 20,
+    "BundleShard": 13
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "aMuzzle"
+    },
+    {
+      "AlignType": 6,
+      "AlignName": "aSightLook"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 1
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 5
+    }
+  ],
+  "name": "Gluegun_1",
+  "internalEnabled": true,
+  "persistentID": 4
+}

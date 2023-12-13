@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Override Lockdown",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Annulez le protocole de verrouillage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bypassare blocco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelungsprotokoll überschreiben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Anular cierre de emergencia",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отмените режим изоляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Substituir Confinamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obejdź blokadę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックダウンをオーバーライドしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 재정의",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "覆蓋封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "覆盖封锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone3.SubObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 2945750663
+}

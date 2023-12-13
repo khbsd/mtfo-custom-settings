@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Avaric",
+  "Description": "A language spoken in Russia, Azerbaijan and Georgia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Avar",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avaro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Awarisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аварский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Avar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Awarski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アバル語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아바릭어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "阿瓦爾文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阿瓦尔语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Avaric",
+  "internalEnabled": true,
+  "persistentID": 277
+}

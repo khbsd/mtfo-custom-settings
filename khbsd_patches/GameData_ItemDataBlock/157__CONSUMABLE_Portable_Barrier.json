@@ -1,0 +1,51 @@
+{
+  "publicName": "Portable Barrier",
+  "LocalizedName": 0,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": false,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 6,
+  "inventorySlot": 5,
+  "FPSSettings": 34,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": false,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 1,
+  "ConsumableAmmoMax": 1,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/Barrier/BarrierFirstPerson.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/Barrier/BarrierThirdPerson.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/Barrier/BarrierPickup.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Tools/Barrier/BarrierInstance.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "Tripmine",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "Tripmine",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_Portable_Barrier",
+  "internalEnabled": true,
+  "persistentID": 157
+}

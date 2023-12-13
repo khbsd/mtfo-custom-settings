@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Romansh",
+  "Description": "A language spoken in the Grisons region of Switzerland.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Romanche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Romancio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rumantsch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Romanche",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Романшский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Romanche",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Romansz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロマンシュ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로만쉬어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "羅曼斯文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "罗曼什语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Romansh",
+  "internalEnabled": true,
+  "persistentID": 396
+}

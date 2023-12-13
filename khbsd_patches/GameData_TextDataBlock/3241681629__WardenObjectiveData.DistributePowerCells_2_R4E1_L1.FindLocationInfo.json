@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lockdown in effect. Locate the Generators and bring the Power Cells to them",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage activé. Localisez les générateurs et apportez les piles à combustible.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento attivo: trovare i generatori e portarvi le celle di energia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelung in Kraft. Lokalisieren Sie die Generatoren und bringen Sie die Energiezellen zu ihnen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia activado. Localiza los generadores y lleva allí las células de energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действует режим изоляции. Найдите генераторы и принесите к ним батареи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento ativo. Localize os geradores e leve as Power Cells até eles",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wdrożono blokadę awaryjną. Zlokalizuj generatory i dostarcz do nich ogniwa zasilające",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "封鎖中。発電機を見つけ、それらのところにパワーセルを運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 중. 발전기를 찾아 파워 셀을 가지고 갈 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封鎖生效中。定位發電機並帶電池[CELL]給發電機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封锁生效。找到发电机并将电池[CELL]带过去",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.DistributePowerCells_2_R4E1_L1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 3241681629
+}

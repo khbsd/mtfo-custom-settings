@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mass of bioreadings approaching, get the datasphere to extraction point!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Masse de biosignatures en approche, amenez la sphère de données au point d'évacuation\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Massa di tracce biologiche in avvicinamento. Portare la Sfera dati al punto di estrazione!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eine Masse von Biosignalen nähert sich, bringen Sie die Datenkugel zum Extraktionspunkt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se aproxima la masa de bioseñales. ¡Lleva la esfera de datos al punto de extracción!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Приближается множество биосигнатур. Доставьте сферу данных к точке выхода!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Massa de bioleituras se aproximando, leve a esfera de dados para o ponto de extração!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nadchodząca masa biosygnatur, dostarcz sferę danych do punktu ewakuacyjnego!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "大量の生体反応接近中。データスフィアを脱出地点へ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대량의 생체 신호 접근 중. 데이터스피어를 추출 지점으로 가져갈 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大量生物質讀數接近中，拿取資料球並前往撤離點！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大量生物读数正在接近，拿上数据球前往撤离点！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R5C3_L2.OnActivate_Intel",
+  "internalEnabled": true,
+  "persistentID": 1584359136
+}

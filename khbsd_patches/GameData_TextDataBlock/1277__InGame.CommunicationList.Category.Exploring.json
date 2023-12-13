@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exploring",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exploration",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esplorazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erkundung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Exploración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Исследование",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exploração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Eksploracja",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "探索",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐색",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "探索",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "探索",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Exploring",
+  "internalEnabled": true,
+  "persistentID": 1277
+}

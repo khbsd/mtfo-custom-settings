@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Alarm",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 49
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": true,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "ExpeditionExit_Scan_Team_e2",
+  "internalEnabled": true,
+  "persistentID": 294
+}

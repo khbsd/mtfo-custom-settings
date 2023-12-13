@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Shadow Resolution\n<size=70%><color=red>(REQUIRES RESTART!)</color></size>",
+  "Description": "A game setting that controls the resolution of shadows. Changes made require a restart to take effect. Don't alter the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résolution des ombres\n<size=70%><color=red>(NÉCESSITE UN REDÉMARRAGE\u00A0!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risoluzione ombre\n<size=70%><color=red>(NECESSITA DI RIAVVIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schattenauflösung\n<size=70%><color=red>(ERFORDERT NEUSTART!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resolución de sombras\n<size=70%><color=red>(HAY QUE REINICIAR EL JUEGO)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение теней\n<size=70%><color=red>(ТРЕБУЕТСЯ ПЕРЕЗАГРУЗКА)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resolução das sombras\n<size=70%><color=red>(REINÍCIO NECESSÁRIO!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość cieni\n<size=70%><color=red>(WYMAGANE PONOWNE URUCHOMIENIE!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "影の解像度\n<size=70%><color=red>（再起動が必要です！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그림자 해상도\n<size=70%><color=red>(재시작 필요!)</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "陰影解析度\n<size=70%><color=red>（需要重新啟動！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阴影分辨率\n<size=70%><color=red>（需要重启！）</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ShadowResolution",
+  "internalEnabled": true,
+  "persistentID": 96
+}

@@ -1,0 +1,34 @@
+{
+  "PublicAlarmName": "Class S V Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 31,
+  "SurvivalWavePopulation": 9,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 5.0,
+  "WantedDistanceBetweenPuzzleComponents": 5.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Far Bundled x5 - Alarm Hybrids Modified",
+  "internalEnabled": true,
+  "persistentID": 89
+}

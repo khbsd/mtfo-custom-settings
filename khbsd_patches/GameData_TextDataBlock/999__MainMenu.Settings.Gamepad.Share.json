@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Share",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Partager",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Condividi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Teilen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Compartir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поделиться",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Compartilhar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk udostępniania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シェア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공유",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "共用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "共享",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Share",
+  "internalEnabled": true,
+  "persistentID": 999
+}

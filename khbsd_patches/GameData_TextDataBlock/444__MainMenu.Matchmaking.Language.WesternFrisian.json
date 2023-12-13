@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Western Frisian",
+  "Description": "A language spoken in the Netherlands.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Frison occidental",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Frisone occidentale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "West-Friesisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Frisio occidental",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Фризский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Frísio Ocidental",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zachodniofryzyjski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "西フリジア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서부 프리지아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "西弗里西亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "西弗里斯兰语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.WesternFrisian",
+  "internalEnabled": true,
+  "persistentID": 444
+}

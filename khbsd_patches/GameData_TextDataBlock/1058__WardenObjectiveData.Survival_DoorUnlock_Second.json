@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Rebooting primary security.. Tertiary security protocols accepted.  Access granted to <color=orange>ZONE 175</color>",
+  "Description": "Don't localize [Zone 175]. It is replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Redémarrage du système de sécurité principal... Protocoles de sécurité tertiaire autorisés. Accès autorisé dans la <color=orange>Zone\u00A0175</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riavvio sicurezza primaria. Protocolli sicurezza terziari accettati. Accesso autorizzato a <color=orange>ZONE175</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primäre Sicherheitsroutine wird neu gestartet … Tertiäre Sicherheitsprotokolle angenommen … Zugang zu <color=orangeZone 175</color> gewährt …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciando seguridad principal. Protocolos de seguridad terciaria aceptados. Acceso a la\u00A0<color=orange>ZONE 175</color>\u00A0concedido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перезагрузка основной системы безопасности... Приняты протоколы третьей степени. Открыт доступ в <color=orange>ZONE 175</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reinicializando a segurança primária.. Protocolos de segurança terciários aceitos.  Acesso concedido para <color=orangeZone 175</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ponowne uruchamianie zabezpieczeń głównych.. Przyjęto trzeciorzędne protokoły bezpieczeństwa. Uzyskano dostęp do<color=orange>strefy 175 [ZONE_175]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プライマリセキュリティ再起動中.. ターシエリセキュリティプロトコル認証完了。 <color=orangeZone 175</color>へのアクセスを取得",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 보안 시스템 재부팅 중.. 3차 보안 프로토콜 승인. <color=orangeZone 175</color>에 접근 허가",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重新啟動一級安全。已接受三級安全協定。授予<color=orangeZone 175</color>存取權限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在重启一级安全……三级安全协议已接受。已开放访问权限至<color=orangeZone 175</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_DoorUnlock_Second",
+  "internalEnabled": true,
+  "persistentID": 1058
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The look speed of your camera movement.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la vitesse de déplacement de votre caméra.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità del movimento della telecamera.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Blickgeschwindigkeit Ihrer Kamerabewegung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La velocidad de visión de los movimientos de cámara.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость перемещения камеры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A velocidade observada no movimento da câmera.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość kamery przy rozglądaniu się.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カメラの移動速度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카메라가 이동하며 보는 속도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "鏡頭移動的觀看速度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "镜头移动的查看速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MouseLookSensitivity",
+  "internalEnabled": true,
+  "persistentID": 2541496744
+}

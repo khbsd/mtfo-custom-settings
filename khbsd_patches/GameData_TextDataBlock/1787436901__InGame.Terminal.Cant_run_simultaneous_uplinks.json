@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Can't run simultaneous uplinks, another uplink is already in progress.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Impossible d'établir des liaisons montantes simultanées, une liaison montante est déjà en cours.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impossibile eseguire uplink simultanei. Un altro uplink è già in corso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Es können nicht mehrere Uplinks gleichzeitig ausgeführt werden. Ein anderer Uplink wird bereits ausgeführt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No se pueden ejecutar uplinks simultáneos, ya hay otro uplink en progreso.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение уже установлено. Нельзя оперировать сразу несколькими подключениями.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Impossível executar uplinks simultâneos; outro uplink já está em andamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie można uruchomić jednoczesnego łączy, ponieważ inne łącze jest już w toku.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンクの同時実行不可、別のアップリンクが進行中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동시 업링크 실행 불가. 다른 업링크가 이미 진행 중입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無法同時執行上行鏈路，另一個上行鏈路已在進行中。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无法同时运行多个上行链路，另一上行链路已在进行中。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Cant_run_simultaneous_uplinks",
+  "internalEnabled": true,
+  "persistentID": 1787436901
+}

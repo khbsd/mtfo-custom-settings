@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.7469089,
+        "g": 0.796078444,
+        "b": 0.656764746
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.545098066,
+        "g": 0.475241631,
+        "b": 0.415364742
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 0.0,
+        "r": 0.831999958,
+        "g": 0.384374261,
+        "b": 0.316257328
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.8716928,
+        "g": 0.90199995,
+        "b": 0.807289958
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.8745098,
+        "g": 0.905882359,
+        "b": 0.807843149
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.66,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.671,
+        "g": 0.217875257,
+        "b": 0.150304019
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.894117653,
+        "g": 0.2380008,
+        "b": 0.149019569
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.874,
+        "g": 0.8100488,
+        "b": 0.699200034
+      },
+      "IntensityMul": 0.7,
+      "Weight": 1.0
+    }
+  ],
+  "name": "GreenToRed_1",
+  "internalEnabled": true,
+  "persistentID": 29
+}

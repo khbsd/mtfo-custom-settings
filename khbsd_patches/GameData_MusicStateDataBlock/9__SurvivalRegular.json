@@ -1,0 +1,37 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "combat_regular"
+    },
+    {
+      "eventName": "music_survival"
+    }
+  ],
+  "m_SwitchesOnEnter": [
+    {
+      "switchGroup": "music_state_survival",
+      "switchName": "regular",
+      "randomCount": 0
+    }
+  ],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "SurvivalRegular",
+  "internalEnabled": true,
+  "persistentID": 9
+}

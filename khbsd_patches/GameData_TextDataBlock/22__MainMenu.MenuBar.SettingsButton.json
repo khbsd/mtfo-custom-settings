@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SETTINGS",
+  "Description": "As in \"game settings\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PARAMÈTRES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IMPOSTAZIONI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EINSTELLUNGEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "AJUSTES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАСТРОЙКИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFIGURAÇÕES",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "USTAWIENIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "設定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "설정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "設定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "设置",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.SettingsButton",
+  "internalEnabled": true,
+  "persistentID": 22
+}

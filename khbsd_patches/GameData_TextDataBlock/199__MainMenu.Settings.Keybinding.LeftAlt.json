@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Alt",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alt gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alt sinistro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linke Alt-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alt Izq",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая клавиша Alt",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alt esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy Alt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左Alt",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 Alt",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左Alt",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左Alt键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.LeftAlt",
+  "internalEnabled": true,
+  "persistentID": 199
+}

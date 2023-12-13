@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Uncomplicated and Effective</color>\nShort Range\nQuick\nMedium damage",
+  "Description": "A short description of what advantages melee weapons have, and how they're used. I.e. they can be used to kill enemies silently (as opposed to firearms which are loud), it requires you to be close to the target, and you can charge up the attack to make it more powerful.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Simple et efficace</color>\nCourte portée\nRapide\nDégâts modérés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Semplice ed efficace</color>\nGittata breve\nVeloce\nDanno medio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Unkompliziert und effektiv</color>\nKurze Reichweite\nSchnell\nMittlerer Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Simple y efectivo</color>\nCorto alcance\nRápido\nMedio daño",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Простота и эффективность</color>\nМалая дальность\nВысокая скорость\nСредний урон",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Simples e eficiente</color>\nCurto alcance\nRápida\nMédio dano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Prosty i skuteczny</color>\nKrótki zasięg\nSzybki\nŚrednie obrażenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>シンプルで効果的</color>\n近距離\n素早い\n中ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>간단하며 효율적</color>\n단거리\n빠름\n중간 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>簡單有效</color>\n短程\n速度快\n中等傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>简单有效</color>\n近程\n快速\n中等伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearCategory.MeleeDescription_Bat",
+  "internalEnabled": true,
+  "persistentID": 1409
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "\\\\WAR#349: Experimental prisoner matching system detected.",
+  "Description": "A text string that indicates to players (in an in-world manner) that the matchmaking system is in alpha (unfinished) state. Do not alter the code-like parts.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "\\\\WAR#349: Système expérimental de jumelage de prisonniers détecté.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "\\\\GUERRA#349: Sistema sperimentale di abbinamento prigionieri rilevato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "\\\\WAR#349: Experimentelles Gefangenen-Suchsystem erkannt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "\\\\GUERRA#349: Detectado prisionero experimental en el sistema de emparejamiento.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "\\\\WAR#349: обнаружена экспериментальная система подбора заключенных.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "\\\\WAR#349: Sistema experimental de combinação de prisioneiros detectado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "\\\\WAR#349: Wykryto eksperymentalny system dopasowania więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "\\\\警#349:試験的囚人マッチングシステムを検出。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\\\\WAR#349: 실험적 수감자 매칭 시스템 탐지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "\\\\戰爭#349:偵測到實驗囚犯配對系統。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "\\\\WAR#349：检测到试验性囚犯匹配系统。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Warning1",
+  "internalEnabled": true,
+  "persistentID": 452
+}

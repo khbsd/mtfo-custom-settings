@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: VOICE CHAT IS DISABLED! \n<color=orange><size=70%>ENABLE VOICE CHAT IN SETTINGS FOR A HIGHER CHANCE OF SUCCESS</size></color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: CHAT VOCAL DÉSACTIVÉ\u00A0! \n<color=orange><size=70%>ACTIVEZ LE CHAT VOCAL DANS LES PARAMÈTRES POUR AUGMENTER VOS CHANCES DE RÉUSSITE.</size></color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: LA CHAT VOCALE È DISATTIVATA! \n<color=orange><size=70%>ABILITA LA CHAT VOCALE NELLE IMPOSTAZIONI PER MAGGIORI POSSIBILITÀ DI SUCCESSO</size></color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: SPRACHCHAT IST DEAKTIVIERT!\n<color=orange><size=70%>AKTIVIEREN SIE DEN SPRACHCHAT IN DEN EINSTELLUNGEN FÜR EINE HÖHERE ERFOLGSCHANCE.</size></color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: ¡CHAT DE VOZ DESACTIVADO! \n<color=orange><size=70%>ACTIVA EL CHAT DE VOZ EN LOS AJUSTES PARA AUMENTAR LAS PROBABILIDADES DE ÉXITO.</size></color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ: ГОЛОСОВОЙ ЧАТ ВЫКЛЮЧЕН! \n<color=orange><size=70%>ДЛЯ УДОБСТВА ВКЛЮЧИТЕ ГОЛОСОВОЙ ЧАТ В НАСТРОЙКАХ</size></color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: CHAT DE VOZ DESATIVADO! \n<color=orange><size=70%>ATIVE O CHAT DE VOZ NAS CONFIGURAÇÕES PARA TER MAIS CHANCE DE SUCESSO</size></color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: CZAT GŁOSOWY WYŁĄCZONY! \n<color=orange><size=70%>WŁĄCZ W USTAWIENIACH CZAT GŁOSOWY, ABY ZAPEWNIĆ SOBIE WIĘKSZE SZANSE POWODZENIA</size></color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：ボイスチャット無効！ \n<color=orange><size=70%>設定でボイスチャットを有効にして成功率を高めよう</size></color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 음성 채팅이 꺼져 있습니다! \n<color=orange><size=70%>설정에서 음성 채팅을 켜면 성공 확률이 높아집니다</size></color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：已停用語音聊天！\n<color=orange><size=70%>到設定啟用語音聊天可獲得較高的成功率</size></color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：语音聊天已关闭！\n<color=orange><size=70%>在设置中开启语音聊天可提高成功几率</size></color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.WarningVoiceChatDisabled",
+  "internalEnabled": true,
+  "persistentID": 3918754235
+}

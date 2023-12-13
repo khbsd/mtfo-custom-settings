@@ -1,0 +1,141 @@
+{
+  "localPosHip": {
+    "x": 0.18,
+    "y": -0.11,
+    "z": 0.44,
+    "normalized": {
+      "x": 0.36888656,
+      "y": -0.225430667,
+      "z": 0.90172267,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.4879549,
+    "sqrMagnitude": 0.2381
+  },
+  "localRotHip": {
+    "x": -0.63,
+    "y": 5.94,
+    "z": 2.46,
+    "normalized": {
+      "x": -0.09752264,
+      "y": 0.919499159,
+      "z": 0.3808027,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 6.46003866,
+    "sqrMagnitude": 41.7321
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.17,
+    "y": -0.23,
+    "z": 0.44,
+    "normalized": {
+      "x": 0.323941767,
+      "y": -0.438274145,
+      "z": 0.8384375,
+      "normalized": {
+        "x": 0.3239418,
+        "y": -0.438274175,
+        "z": 0.838437557,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.5247857,
+    "sqrMagnitude": 0.2754
+  },
+  "localRotRelaxed": {
+    "x": 11.11,
+    "y": -0.59,
+    "z": -8.4,
+    "normalized": {
+      "x": 0.7969531,
+      "y": -0.04232244,
+      "z": -0.602556765,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 13.9405947,
+    "sqrMagnitude": 194.340179
+  },
+  "localPosZoom": {
+    "x": 0.13,
+    "y": -0.32,
+    "z": 0.28,
+    "normalized": {
+      "x": 0.292374849,
+      "y": -0.719691932,
+      "z": 0.629730463,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.444634676,
+    "sqrMagnitude": 0.1977
+  },
+  "localRotZoom": {
+    "x": 2.84,
+    "y": -0.7,
+    "z": 2.48,
+    "normalized": {
+      "x": 0.7405784,
+      "y": -0.18253693,
+      "z": 0.6467023,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 3.8348403,
+    "sqrMagnitude": 14.7059994
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 39,
+  "ItemCameraFOVZoom": 33,
+  "LookCameraFOVZoom": 45,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": true,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 20,
+  "WalkAnimation": 18,
+  "RunAnimation": 19,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.18,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.22,
+    "focalLength": 1.0
+  },
+  "name": "GlueGun",
+  "internalEnabled": true,
+  "persistentID": 15
+}

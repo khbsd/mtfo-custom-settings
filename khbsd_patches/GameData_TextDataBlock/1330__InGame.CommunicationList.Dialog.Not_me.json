@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Not me",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pas moi",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non io",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nicht ich",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Yo no",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Только не я",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eu não",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie ja",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "勘弁してくれ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "난 싫어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我不要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "别找我",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Not_me",
+  "internalEnabled": true,
+  "persistentID": 1330
+}

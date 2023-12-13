@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Make the lab facility accessible to adjacent sectors from computer terminal [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvrez l'accès au laboratoire via les secteurs adjacents depuis le terminal informatique [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rendere la struttura del laboratorio accessibile ai settori adiacenti dal terminale computer [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Machen Sie die Laboreinrichtung vom Computerterminal aus für die angrenzenden Sektoren zugänglich [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Haz que las instalaciones del laboratorio sean accesibles a sectores adyacentes desde la terminal\u00A0[ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обеспечьте доступ к лабораторному комплексу из соседних секторов с помощью компьютерного терминала [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Torne as instalações do laboratório acessíveis aos setores adjacentes pelo terminal de computador [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uczyń obiekt laboratoryjny dostępnym z sąsiednich sektorów z terminalu komputerowego [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末[ITEM_SERIAL]から、研究施設を隣接セクターへアクセス可能にしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "컴퓨터 터미널 [ITEM_SERIAL]에서 인접 섹터와 실험실 시설의 접근 가능하게 하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使相鄰分區可從電腦終端[ITEM_SERIAL]存取實驗室設施",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使相邻分区可从电脑终端[ITEM_SERIAL]访问实验室设施",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_ZoneScan_R5C2_L3.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2886508614
+}

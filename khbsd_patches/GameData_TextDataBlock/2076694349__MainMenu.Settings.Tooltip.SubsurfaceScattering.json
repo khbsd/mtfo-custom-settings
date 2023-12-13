@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables an effect that simulates the scattering of light within soft tissues, like skin and flesh.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active un effet qui simule la diffusion de la lumière sur certaines textures, comme la peau et la chair.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente un effetto che simula la dispersione della luce all'interno dei tessuti molli, come pelle e carne.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert einen Effekt, der die Streuung von Licht in weichem Gewebe, wie Haut und Fleisch, simuliert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa un efecto que simula la dispersión de luz en tejidos blandos, como piel o carne.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Создает эффект рассеивания света на мягких поверхностях, например коже и плоти.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa um efeito que simula a dispersão de luz dentro de tecidos macios, como pele.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza efekt symulujący rozpraszanie światła na miękkich tkankach, takich jak skóra i ciało.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "皮膚や肉体など、軟組織における光の分散をシミュレーションする効果を有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "피부나 살갗 같은 부드러운 조직에서 빛 번짐을 시뮬레이트하는 효과를 켭니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用模擬在軟組織（如皮肉）內光線散射的效果。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启用模拟光线在皮肤和肉体等软组织内散射的效果。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SubsurfaceScattering",
+  "internalEnabled": true,
+  "persistentID": 2076694349
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is wielding a Tool",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have their \"tool equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte un outil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Strumento impugnato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzt ein Werkzeug",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva una herramienta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С устройством",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está empunhando uma ferramenta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzyma narzędzie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツール使用中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在使用工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingToolName",
+  "internalEnabled": true,
+  "persistentID": 691
+}

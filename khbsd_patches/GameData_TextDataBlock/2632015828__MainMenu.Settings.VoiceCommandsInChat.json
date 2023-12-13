@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Commands In Chat",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commandes vocales dans le chat",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comandi vocali in chat",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachbefehle im Chat",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comandos de voz en chat",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Голосовые команды в чате",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comandos de voz no chat",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Komendy głosowe w czacie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チャットのボイスコマンド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "채팅 중 음성 명령",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "聊天中的語音指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "聊天中语音命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.VoiceCommandsInChat",
+  "internalEnabled": true,
+  "persistentID": 2632015828
+}

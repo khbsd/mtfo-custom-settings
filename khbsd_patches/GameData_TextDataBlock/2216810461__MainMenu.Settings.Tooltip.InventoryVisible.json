@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables the inventory on your HUD",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active l'inventaire sur l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra l'inventario sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert das Inventar auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el inventario de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает инвентарь в HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa o inventário na sua interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza ekwipunek w interfejsie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD上にインベントリを表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD에 인벤토리를 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在抬頭顯示器上啟用物品欄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在平视显示上开启物品栏。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.InventoryVisible",
+  "internalEnabled": true,
+  "persistentID": 2216810461
+}

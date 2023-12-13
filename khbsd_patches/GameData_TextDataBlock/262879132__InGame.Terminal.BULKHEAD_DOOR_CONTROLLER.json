@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BULKHEAD DOOR CONTROLLER",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "CONTRÔLEUR DE PORTE À CLOISON",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CONTROLLER PORTA STAGNA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHOTTTÜRSTEUERUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CONTROLADOR DE PUERTA DE CONTENCIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ТЕРМИНАЛ ВОРОТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONTROLE DE PORTAS PROTETORAS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PANEL STEROWANIA GRODZI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "BULKHEAD DOORコントローラー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "격벽 문 제어기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "艙門控制器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "舱壁门控制器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.BULKHEAD_DOOR_CONTROLLER",
+  "internalEnabled": true,
+  "persistentID": 262879132
+}

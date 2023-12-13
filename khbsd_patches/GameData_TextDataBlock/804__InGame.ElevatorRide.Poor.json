@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "POOR",
+  "Description": "If the \"artifact heat\" on the current expedition/mission is low, this word sums up the probability of the player being rewarded with a booster: \"Poor\", as in low probability of being rewarded.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "MAUVAIS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCARSO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHWACH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESCASO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СЛАБЫЙ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RUIM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NISKI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매우 낮음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "弱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.ElevatorRide.Poor",
+  "internalEnabled": true,
+  "persistentID": 804
+}

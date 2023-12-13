@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather Personnel IDs",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez des pièces d’identité",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere gli ID del personale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Personal-IDs.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne las ID del personal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите идентификаторы сотрудников.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete IDs de pessoal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz identyfikatory pracownicze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "個人IDを収集",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개인 ID 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集人員ID",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集人员ID",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_R1B1.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 3474623764
+}

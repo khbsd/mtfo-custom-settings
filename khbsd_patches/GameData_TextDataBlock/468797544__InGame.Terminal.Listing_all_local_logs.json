@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Listing all local logs available on this maintenance terminal",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Énumération de tous les journaux locaux disponibles sur ce terminal de maintenance",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Elenco di tutti i registri disponibili su questo terminale di manutenzione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle an diesem Wartungsterminal verfügbaren Protokolle werden angezeigt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra todos los registros locales disponibles en este terminal de mantenimiento.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Показывает все локальные журналы, доступные на данном терминале техобслуживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Listando todos os registros locais disponíveis neste terminal de manutenção",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetlanie wszystkich lokalnych dzienników dostępnych w terminalu serwisowym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このメンテナンス端末で利用可能な全てのローカルログの一覧を表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점검 터미널의 사용 가능한 모든 로컬 로그 정렬 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "列出此維護終端所有可用的日誌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "列出本维护终端上所有可用日志",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Listing_all_local_logs",
+  "internalEnabled": true,
+  "persistentID": 468797544
+}

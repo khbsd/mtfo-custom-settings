@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate terminals <color=orange>2</color>/<color=orange>3</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activez les terminaux\u00A0: <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare i terminali: <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminals aktivieren <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activar terminales <color=orange>2</color>/<color=orange>3</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте терминалы (<color=orange>2</color>/<color=orange>3</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativar terminais <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom terminale <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を起動しろ <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 활성화 <color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動終端<color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启动终端<color=orange>2</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.SleepingTerminal",
+  "internalEnabled": true,
+  "persistentID": 2042083232
+}

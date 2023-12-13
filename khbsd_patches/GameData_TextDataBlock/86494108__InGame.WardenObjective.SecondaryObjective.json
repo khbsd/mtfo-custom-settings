@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Secondary Objective",
+  "Description": "A headline for the text that describes the mission's secondary objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif secondaire",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo secondario",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sekundärziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Objetivo secundario",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Второстепенная цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Objetivo secundário",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel poboczny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.SecondaryObjective",
+  "internalEnabled": true,
+  "persistentID": 86494108
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carry",
+  "Description": "An abbreviated description of a condition, i.e. the subject must \"carry (a heavy item)\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porteur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trasporta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tragen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva encima",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Груз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carregando",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Niesienie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "運搬中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "攜帶",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "携带",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingCarryItemName",
+  "internalEnabled": true,
+  "persistentID": 699
+}

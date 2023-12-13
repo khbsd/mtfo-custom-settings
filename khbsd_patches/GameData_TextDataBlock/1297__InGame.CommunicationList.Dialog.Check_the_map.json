@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Check the map",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Regardez la carte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controllate la mappa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karte überprüfen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comprueba el mapa",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверим карту",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confira o mapa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sprawdzić mapę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップを見ろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맵 확인해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "查看地圖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "看地图",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Check_the_map",
+  "internalEnabled": true,
+  "persistentID": 1297
+}

@@ -1,0 +1,17 @@
+{
+  "ClipSizeMultiplier": 1.0,
+  "ReloadTimeMultiplier": 1.0,
+  "ReloadLeftHandGripAnim": "",
+  "DropSoundType": 0,
+  "General": {
+    "PublicName": "EMPTY",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Mags/Mag_556_30rnds_B.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 60,
+    "BundleShard": 10
+  },
+  "Aligns": [],
+  "name": "EMPTY",
+  "internalEnabled": true,
+  "persistentID": 2
+}

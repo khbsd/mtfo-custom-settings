@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Scan",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 299,
+  "SurvivalWavePopulation": 66,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 57
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single x1 PortalRoom_01",
+  "internalEnabled": true,
+  "persistentID": 276
+}

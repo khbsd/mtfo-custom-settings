@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carry the last <color=orange>Two Power Cells</color> back to the Generator Cluster",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rapportez les <color=orange>deux dernières piles à combustible</color> à la grappe de générateurs.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare le ultime <color=orange>due celle di energia</color> al gruppo elettrogeno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tragen Sie die letzten <color=orange>zwei Energiezellen</color> zurück zum Generatorcluster.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva las últimas <color=orange>dos células de energía</color> al cluster de generadores.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите <color=orange>две последние батареи</color> обратно к кластеру генераторов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carregue as últimas <color=orange>duas Power Cells</color> de volta até o grupo de geradores",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zanieś pozostałe <color=orange>2 ogniwa zasilające</color> z powrotem do zespołu generatorów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "最後の<color=orange>パワーセル2つ</color>を発電機群に戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마지막 <color=orange>파워 셀 2개</color>를 발전기 클러스터로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將最後<color=orange>兩個電池[CELL]</color>帶回發電機叢集",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将最后<color=orange>两个电池[CELL]</color>带回发电机集群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S2_v3_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 3885199675
+}

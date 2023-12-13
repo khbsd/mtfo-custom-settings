@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Parallel terminal input: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nCentral terminal input: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commande du terminal parallèle\u00A0: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nCommande du terminal central\u00A0: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Input terminale parallelo: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nInput terminale centrale: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Parallele Terminal-Eingabe: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nZentrale Terminal-Eingabe: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entrada del terminal paralelo: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nEntrada del terminal central: <color=orange>CONFIRM_TIMED_SEQUENCE</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ввод на параллельном терминале: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nВвод на главном терминале: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entrada de terminal paralelo: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nEntrada de terminal central: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Polecenia terminala równoległego: <color=orange>VERIFY_TIMED_SEQUENCE</color>\nPolecenie terminala centralnego: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "パラレル端末入力：<color=orange>VERIFY_TIMED_SEQUENCE</color>\n中央端末入力：<color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "병렬터미널 입력: <color=orange>VERIFY_TIMED_SEQUENCE</color>\n중앙 터미널 입력: <color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "平行終端輸入：<color=orange>VERIFY_TIMED_SEQUENCE</color>\n中央終端輸入：<color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "并行终端输入：<color=orange>VERIFY_TIMED_SEQUENCE</color>\n中央终端输入：<color=orange>CONFIRM_TIMED_SEQUENCE</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "Warden.Objective.TimedTerminal_Verify_R8C1",
+  "internalEnabled": true,
+  "persistentID": 151738411
+}

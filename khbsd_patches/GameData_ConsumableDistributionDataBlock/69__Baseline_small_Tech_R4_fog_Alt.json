@@ -1,0 +1,33 @@
+{
+  "SpawnsPerZone": 6,
+  "ChanceToSpawnInResourceContainer": 0.7,
+  "SpawnData": [
+    {
+      "ItemID": 30,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 174,
+      "Weight": 1.5
+    },
+    {
+      "ItemID": 115,
+      "Weight": 0.7
+    },
+    {
+      "ItemID": 117,
+      "Weight": 6.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 144,
+      "Weight": 2.0
+    }
+  ],
+  "name": "Baseline_small_Tech_R4_fog_Alt",
+  "internalEnabled": true,
+  "persistentID": 69
+}

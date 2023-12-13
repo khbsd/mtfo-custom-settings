@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Open the door with the panel to the right",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvrez la porte de droite équipée d'un panneau.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aprire la porta con il pannello a destra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnen Sie mit dem Bedienfeld auf der rechten Seite die Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abre la puerta con el panel de la derecha.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откройте дверь при помощи панели справа.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abra a porta com o painel à direita",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwórz drzwi za pomocą panelu po prawej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右のパネルでドアを開け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "우측 패널로 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從右邊的面板把門打開",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通过右边的面板把门打开",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone0.DoorPanel",
+  "internalEnabled": true,
+  "persistentID": 1434145128
+}

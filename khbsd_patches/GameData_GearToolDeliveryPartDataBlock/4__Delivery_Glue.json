@@ -1,0 +1,62 @@
+{
+  "ModelDataPerType": {
+    "LongRangeBurst": {
+      "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Glue_Distance_1.prefab",
+      "Children": [
+        "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Glue_Distance_1_GripAlign.FBX"
+      ],
+      "GearCategoryFilter": 0,
+      "LeftHandGripAnim": "Delivery_Glue_Distance_1",
+      "AssetBundle": 100,
+      "BundleShard": 2
+    }
+  },
+  "GeneralDatas": [
+    {
+      "Type": 4,
+      "Data": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Glue_Distance_1.prefab",
+        "Children": [
+          "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Glue_Distance_1_GripAlign.FBX"
+        ],
+        "GearCategoryFilter": 0,
+        "LeftHandGripAnim": "Delivery_Glue_Distance_1",
+        "AssetBundle": 100,
+        "BundleShard": 2
+      }
+    }
+  ],
+  "Aligns": [
+    {
+      "AlignType": 14,
+      "AlignName": "a_payload"
+    },
+    {
+      "AlignType": 6,
+      "AlignName": "a_sight"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 16,
+      "AlignName": "a_Screen"
+    },
+    {
+      "AlignType": 15,
+      "AlignName": "a_sight"
+    },
+    {
+      "AlignType": 15,
+      "AlignName": "a_targeting"
+    },
+    {
+      "AlignType": 0,
+      "AlignName": "a_Muzzle"
+    }
+  ],
+  "name": "Delivery_Glue",
+  "internalEnabled": true,
+  "persistentID": 4
+}

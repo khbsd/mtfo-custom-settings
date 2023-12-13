@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security Door",
+  "Description": "The name of our blue and red special doors that is connected to warden objectives.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de sécurité",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta di sicurezza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitstür",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta de seguridad",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Защитная дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de segurança",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全盜門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.SecurityDoor",
+  "internalEnabled": true,
+  "persistentID": 1127
+}

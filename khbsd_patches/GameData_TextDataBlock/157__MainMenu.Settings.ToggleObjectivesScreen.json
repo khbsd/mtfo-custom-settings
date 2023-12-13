@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle Objectives Screen",
+  "Description": "Control key binding/mapping. This key toggles the objective screen on/off. The objective screen contains more detailed information about your current mission objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer/désactiver l'écran des objectifs",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schermo obiettivo ON/OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Missionsübersicht",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla de objetivos (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активировать экран цели",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ver tela de objetivos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. ekran celów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目的画面切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 화면 열기/닫기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換目標畫面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换目标界面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ToggleObjectivesScreen",
+  "internalEnabled": true,
+  "persistentID": 157
+}

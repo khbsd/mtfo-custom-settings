@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in reactor state lockdown, will only operate during reactor startup sequence.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR : porte du réacteur verrouillée, activation possible uniquement durant la séquence de démarrage du réacteur.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in stato di blocco reattore, funzionerà solo durante sequenza avvio reattore.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür im Reaktorstatus „Verriegelung“, kann nur während der Reaktorstartsequenz geöffnet werden.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta del reactor en estado de cierre de emergencia. Solo estará operativa durante la secuencia de arranque del reactor.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Дверь реактора заблокирована процедурой изоляции. Активация только во время цикла запуска реактора.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta do reator em estado de confinamento, operação somente durante a sequência de inicialização do reator.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Drzwi w stanie blokady reaktora, zwolnienie wyłącznie w trakcie sekwencji rozruchu reaktora.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：リアクターのドアロックダウン、リアクター始動シークエンス中のみ作動。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 반응로 폐쇄 상태의 문은 반응로 시동 절차 중에만 작동합니다.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：反應器狀態鎖定而無法開門，只會在反應器啟動序列期間運作。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于反应堆封锁状态，仅反应堆启动序列期间可操作。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown002_D2_DoorInReactorStateLockdown",
+  "internalEnabled": true,
+  "persistentID": 350462107
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resolution",
+  "Description": "A headline for the rendering resolution game setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résolution",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risoluzione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auflösung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resolución",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resolução",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "解像度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해상도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解析度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "分辨率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Resolution",
+  "internalEnabled": true,
+  "persistentID": 90
+}

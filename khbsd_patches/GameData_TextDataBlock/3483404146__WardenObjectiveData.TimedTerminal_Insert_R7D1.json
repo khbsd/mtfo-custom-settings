@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert the HSU into the HSU preperation machine for sequence start.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Insérez la HSU dans la machine de préparation de HSU pour démarrer la séquence.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire l'HSU nella macchina di preparazione dell'HSU per l'avvio della sequenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Platzieren Sie die HSU-Einheit zum Start der Sequenz in der HSU-Vorbereitungsmaschine.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce la HSU en el dispositivo de preparación para iniciar la secuencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Для начала цикла поместите HSU в подготовительную машину.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira o HSU na máquina de preparação de HSU para iniciar a sequência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włóż jednostkę hydrostazy do maszyny przygotowawczej w celu rozpoczęcia sekwencji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シークエンス開始のため、HSUをHSU準備機に挿入せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "절차 시작을 위해 HSU를 HSU 준비 기계에 삽입할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將HSU置入HSU準備機器中以開始序列。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将HSU插入到HSU准备机中以开始序列。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.TimedTerminal_Insert_R7D1",
+  "internalEnabled": true,
+  "persistentID": 3483404146
+}

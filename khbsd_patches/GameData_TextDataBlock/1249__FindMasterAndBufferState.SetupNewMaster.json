@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SetupNewMaster",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "DéfinirNouvelHôte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Imposta nuovo master",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NeuenMasterAnlegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escoger maestro nuevo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Назначить нового организатора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DefinirNovoMestre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SkonfigurujNowePołączenieGłówne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "新マスター設定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "새마스터설정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "設定新主機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "设置新主机",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.SetupNewMaster",
+  "internalEnabled": true,
+  "persistentID": 1249
+}

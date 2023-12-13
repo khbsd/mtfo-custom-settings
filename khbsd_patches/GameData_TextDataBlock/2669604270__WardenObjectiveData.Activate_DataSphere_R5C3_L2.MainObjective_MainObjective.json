@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring a Data sphere to [ITEM_SERIAL] to retrieve its data and then return with it back to extraction.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Apportez la sphère de données à [ITEM_SERIAL] pour récupérer les données et retournez au point d'évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare la Sfera dati a [ITEM_SERIAL] per recuperarne i dati, quindi portarla all'estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie eine Datenkugel zu [ITEM_SERIAL], um ihre Daten abzurufen, und kehren Sie dann zur Extraktion zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva una esfera de datos a [ITEM_SERIAL] para recuperar sus datos y después devuélvala al punto de extracción.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Принесите сферу к пункту назначения [ITEM_SERIAL], чтобы извлечь данные, а затем доставьте ее к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leve a esfera de dados até [ITEM_SERIAL] para recuperar seus dados e, depois, devolva-a para extração.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aby pozyskać dane ze sfery danych, dostarcz ją do: [ITEM_SERIAL]. Następnie dostarcz ją do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データスフィアを[ITEM_SERIAL]に運んでデータを回収し、その後、脱出地点へ戻せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 스피어를 [ITEM_SERIAL]로 가져와 데이터를 회수하고 다시 탈출 지점으로 가져가세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將一個資料球帶到[ITEM_SERIAL]以取回其中資料，然後帶資料球返回撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将一个数据球带到[ITEM_SERIAL]以取回其中数据，然后带着它返回撤离点。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R5C3_L2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2669604270
+}

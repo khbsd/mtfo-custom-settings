@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Severe power supply unit damage. Widescale blackout imminent. </color>",
+  "Description": "Don't localize [sys_purge]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: le bloc d'alimentation a subi des dégâts importants. Coupure de courant totale imminente. </color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: gravi danni all'alimentatore. Imminente blackout su vasta scala. </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Schwere Schäden an den Stromversorgungseinheiten. Ein großflächiger Stromausfall steht bevor.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTERNCIA: Daño severo en unidad eléctrica de apoyo. Apagón a gran escala inminente. </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Источник питания сильно поврежден. Ожидается масштабное отключение электроэнергии</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Dano severo na unidade de fornecimento elétrico. Blecaute global iminente. </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: poważne uszkodzenie zasilacza. Nieuchronna przerwa w zasilaniu na dużą skalę. </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：電力供給ユニットに深刻なダメージ。広範囲の停電まであとわずか。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 파워 서플라이 유닛이 심각하게 손상됨. 대규모 정전 임박. </color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：嚴重電源裝置損壞。即將大範圍停電。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：电源装置严重受损。即将发生大范围停电。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveSurvival_PowerOutage_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 2514606041
+}

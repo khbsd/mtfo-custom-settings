@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.03137255,
+    "r": 0.565459251,
+    "g": 0.9150943,
+    "b": 0.830202
+  },
+  "FogDensity": 0.0004,
+  "FogAmbience": 0.05,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": -1.0,
+    "z": 0.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.074,
+  "DensityNoiseScale": 0.131,
+  "DensityHeightAltitude": -3.5,
+  "DensityHeightRange": 1.5,
+  "DensityHeightMaxBoost": 0.03,
+  "Infection": 0.0,
+  "name": "Fog_light_green_low3_INFECTION_R2D2",
+  "internalEnabled": true,
+  "persistentID": 135
+}

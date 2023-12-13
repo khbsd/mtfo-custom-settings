@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hit indicator Opacity",
+  "Description": "Whenever the player hits an enemy (with a melee attack or a bullet), a little star flashes in the HUD to indicate a successful hit. The \"hit indicator opacity\" game setting controls the opacity of that hit indicator.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Opacité de l'indicateur d'impact",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Opacità indicatore di colpo a segno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Trefferanzeige-Transparenz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Opacidad de indicador de impacto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прозрачность индикатора удара",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Opacidade do indicador de acerto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przezroczystość wskaźnika trafień",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヒットマーク不透明度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명중 표시 불투명도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "命中指標不透明度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "击中标记不透明度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HitIndicatorOpacity",
+  "internalEnabled": true,
+  "persistentID": 118
+}

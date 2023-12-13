@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather Plant Samples",
+  "Description": "Don't localize Plant Samples. Plant Samples is because they are important mission objectives. They are searchable in the terminals using the same name. The terminals are in English and is not localized in any way.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Recueillez des échantillons végétaux [PLANT].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere campioni di piante [PLANT]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Pflanzenproben [PLANT].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne muestras de plantas [PLANT]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите образцы растений.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete amostras de plantas [PLANT]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz próbki roślin [PLANT]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "植物サンプル[PLANT]を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[PLANT] 식물 샘플 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集植物樣本[PLANT]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集植物样本[PLANT]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Gather_plant.Header",
+  "internalEnabled": true,
+  "persistentID": 951
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlock Quarantine Zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillez la zone de quarantaine.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccare la zona in quarantena",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Heben Sie die Abriegelung der Quarantänezone auf.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloquea la zona de cuarentena.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откройте карантинную зону.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desbloqueie a zona de quarentena",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokuj strefę kwarantanny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隔離ゾーンを封鎖解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "격리 구역 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解鎖隔離區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解锁隔离区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_H1_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 3287393684
+}

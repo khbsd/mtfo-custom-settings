@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SUBJECT AGE: {0}",
+  "Description": "{0} is a whole number",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ÂGE DU SUJET\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ETÀ SOGGETTO: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ALTER DER VERSUCHSPERSON: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EDAD DEL SUJETO: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОЗРАСТ СУБЪЕКТА: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "IDADE INDIVÍDUO: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WIEK BIORCY: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の年齢: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상 나이: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象年紀：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者年龄：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SUBJECT_AGE_X",
+  "internalEnabled": true,
+  "persistentID": 2463438888
+}

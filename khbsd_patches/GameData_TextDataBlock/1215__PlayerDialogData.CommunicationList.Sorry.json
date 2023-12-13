@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sorry!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Pardon\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scusa!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tut mir leid!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Lo siento!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прости!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sinto muito!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybacz!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "すまない！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "미안!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抱歉！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "抱歉！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Sorry",
+  "internalEnabled": true,
+  "persistentID": 1215
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to <color=orange>ZONE 80</color>",
+  "Description": "Don't localize ZONE 80.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous dans la <color=orange>ZONE\u00A080</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>ZONE 80</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dirígete a la <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até a <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do <color=orange>strefy 80 [ZONE_80]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 80</color>へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 80</color>으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 80</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 80</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 1050
+}

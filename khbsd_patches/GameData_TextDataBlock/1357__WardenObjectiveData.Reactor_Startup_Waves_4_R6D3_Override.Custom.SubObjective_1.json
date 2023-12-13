@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! - Bioreadings appearing in [ZONE_4] - Don't let them disperse!",
+  "Description": "Don't localize [ZONE_4]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! - Biosignatures détectées dans la [ZONE_4] - Ne les laissez pas se disperser\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Rilevate tracce biologiche in [ZONE_4]. Non devono disperdersi!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – Biosignale erscheinen in [ZONE_4] – Sie dürfen sich nicht ausbreiten!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! Han aparecido unas bioseñales en la [ZONE_4]. ¡Que no se dispersen!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Биосигнатуры приближаются к [ZONE_4]! Распространение недопустимо!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! — Bioleituras aparecendo na [ZONE_4] — Não permita que eles se dispersem!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – w strefie 4 [ZONE_4] wykryto biosygnatury – nie pozwól się im rozproszyć!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ - [ZONE_4] に生体反応が接近中 - 逃がすな！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! - [ZONE_4]에서 생체 신호 감지 - 반드시 확산을 저지할 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！- [ZONE_4]出現生物質讀數 - 不要讓對方散開！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！ - [ZONE_4]出现生物读数 - 防止扩散开来！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_1",
+  "internalEnabled": true,
+  "persistentID": 1357
+}

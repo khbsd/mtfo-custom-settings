@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Minus",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Moins",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Meno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Minus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Menos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "-",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Menos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Minus",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マイナス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "-",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "減",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "减号",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Minus",
+  "internalEnabled": true,
+  "persistentID": 1005
+}

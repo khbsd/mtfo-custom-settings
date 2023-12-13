@@ -1,0 +1,17 @@
+{
+  "Type": 6,
+  "Difficulty": 0,
+  "SpawnPlacementType": 0,
+  "MaxScore": 30.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 8,
+      "Distribution": 5
+    }
+  ],
+  "name": "Birther Boss Children",
+  "internalEnabled": true,
+  "persistentID": 38
+}

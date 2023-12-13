@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Not Completed",
+  "Description": "A text string indicating that the player has NOT cleared/beaten/completed a specific expedition (mission/map).",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Non terminé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non completata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nicht abgeschlossen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No completado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Не завершено",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não concluiu",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nieukończone",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "未完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "미완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionIconNotCompleted",
+  "internalEnabled": true,
+  "persistentID": 18
+}

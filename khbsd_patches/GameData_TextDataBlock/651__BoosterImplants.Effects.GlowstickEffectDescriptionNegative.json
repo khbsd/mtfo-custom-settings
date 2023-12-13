@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glow sticks distributed by Subject will shine less and last shorter.",
+  "Description": "Describes the disadvantage of having a poor \"glow stick power\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les bâtons lumineux placés par le sujet brillent moins et durent moins longtemps.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gli starlight utilizzati dal soggetto saranno meno luminosi e dureranno di meno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Von der Versuchsperson verteilte Knicklichter leuchten weniger hell und lange.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las barras luminosas que lance el sujeto brillarán con menos intensidad y durarán menos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Светящаяся палочка горит слабо и недолго.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bastões fluorescentes distribuídos pelo indivíduo brilham e duram menos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozmieszczane przez biorcę światło chemiczne będzie świecić słabiej i krócej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が使用したグロースティックの明るさと持続時間が低下する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 배치한 글로우 스틱의 밝기와 지속 시간이 떨어집니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象發射的螢光棒會較暗，持續時間較短。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者投掷的发光棒的照明度降低，持续时间缩短。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Effects.GlowstickEffectDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 651
+}

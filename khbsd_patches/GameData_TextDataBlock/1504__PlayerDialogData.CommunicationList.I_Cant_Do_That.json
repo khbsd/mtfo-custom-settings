@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I can't do that.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je ne peux pas faire ça.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non posso farlo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das kann ich nicht tun.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No puedo hacerlo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я не справлюсь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Não consigo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie mogę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自分にはできない。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그렇겐 못해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我不能那樣做。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我做不到。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.I_Cant_Do_That",
+  "internalEnabled": true,
+  "persistentID": 1504
+}

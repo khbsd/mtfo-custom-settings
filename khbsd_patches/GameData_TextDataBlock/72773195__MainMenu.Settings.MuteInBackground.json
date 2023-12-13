@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mute In Background",
+  "Description": "A setting to toggle if all sounds should be muted when the game is in the background aka when you alt-tab out.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Muet en arrière-plan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Muto in background",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Im Hintergrund stummschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Silenciar en segundo plano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключить звуки в фоновом режиме",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Silenciar em plano de fundo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wycisz, gdy gra jest w tle",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックグラウンドでミュート",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백그라운드에서 음소거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在背景時靜音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "后台运行时静音",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.MuteInBackground",
+  "internalEnabled": true,
+  "persistentID": 72773195
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Far right",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tout à droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estrema destra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ganz rechts",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extremo derecha",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дальний правый угол",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extrema direita",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Po prawej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "一番右だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 멀리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "最右邊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "最右",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Far_right",
+  "internalEnabled": true,
+  "persistentID": 1296
+}

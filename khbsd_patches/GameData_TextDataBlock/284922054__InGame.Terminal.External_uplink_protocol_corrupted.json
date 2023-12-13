@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>External uplink protocol corrupted!</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>Protocole de liaison montante externe corrompu\u00A0!</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Protocollo di uplink esterno danneggiato!</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Externes Uplink-Protokoll fehlerhaft!</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>¡Protocolo de uplink externo dañado!</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внешний протокол подключения поврежден!</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Protocolo de uplink externo corrompido!</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Uszkodzony protokół łącza zewnętrznego!</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>外部アップリンクプロトコル破損！</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>외부 업링크 프로토콜 손상됨!</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>外部上行鏈路協定損壞！</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>外部上行链路协议已损坏！</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.External_uplink_protocol_corrupted",
+  "internalEnabled": true,
+  "persistentID": 284922054
+}

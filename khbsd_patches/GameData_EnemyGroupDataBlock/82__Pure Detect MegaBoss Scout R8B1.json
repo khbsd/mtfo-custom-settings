@@ -1,0 +1,17 @@
+{
+  "Type": 3,
+  "Difficulty": 5,
+  "SpawnPlacementType": 0,
+  "MaxScore": 6.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 5,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Detect MegaBoss Scout R8B1",
+  "internalEnabled": true,
+  "persistentID": 82
+}

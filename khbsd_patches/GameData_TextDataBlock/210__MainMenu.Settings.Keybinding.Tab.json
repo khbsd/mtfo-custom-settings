@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tab",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tab.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Tab",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Tab键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Tab",
+  "internalEnabled": true,
+  "persistentID": 210
+}

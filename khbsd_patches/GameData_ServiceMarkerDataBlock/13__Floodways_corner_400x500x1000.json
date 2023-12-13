@@ -1,0 +1,89 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [],
+      [],
+      [
+        3,
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [],
+      [],
+      [
+        3,
+        1
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_corner_400x500x1000/Floodways_corner_400x500x1000_V01.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_corner_400x500x1000/Floodways_corner_400x500x1000_V02.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_corner_400x500x1000/Floodways_corner_400x500x1000_V03.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_corner_400x500x1000/Floodways_corner_400x500x1000_V04.prefab",
+        "function": 0,
+        "Shard": 4
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 13,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Floodways_elev_500x400x1000",
+    "BoundingVolume": 200000.0
+  },
+  "name": "Floodways_corner_400x500x1000",
+  "internalEnabled": true,
+  "persistentID": 13
+}

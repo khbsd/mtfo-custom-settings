@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">> UPDATED {0} BOOSTER{1} PROGRESS:",
+  "Description": "{0} is the localization of the artifact category and {1} is a rich text tag.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">> MISE À JOUR\u00A0: BOOSTER {0},{1} PROGRESSION\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">> PROGRESSO POTENZIAMENTO {0} {1} AGGIORNATO:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">> AKTUALISIERTER {0} BOOSTER{1}-FORTSCHRITT:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">> ACTUALIZADO PROGRESO {0} DEL POTENCIADOR{1}:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">> ОБНОВЛЕНО: {0} УСИЛИТЕЛЬ{1} ПРОГРЕСС:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">> PROGRESSO DO IMPULSO {0} {1} ATUALIZADO:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">> ZAKTUALIZOWANO{1} POSTĘP WZMACNIACZA W {0}:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">> {0} ブースター{1} 換算更新：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">> {0} 부스터{1} 진행 상태 업데이트됨:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">> 已更新{0}強化劑{1}進度：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">> 已更新{0}强化剂{1}进度：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.ArtifactPickup.Updated_X_Booster_Y_Progress",
+  "internalEnabled": true,
+  "persistentID": 1072
+}

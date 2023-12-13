@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "'{0}' is not recognized as a command.",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Commande \"{0}\" non reconnue.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "\"{0}\" non è riconosciuto come comando.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "„{0}“ ist kein gültiger Befehl.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "«{0}» no se reconoce como comando.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "«{0}» не является командой.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "\"{0}\" não é reconhecido como comando.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie rozpoznano polecenia „{0}”.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "「{0}」はコマンドとして認識されません。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\"{0}\"은(는) 명령으로 인식되지 않습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "「{0}」未識別為指令。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "“{0}”未识别为命令。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.X_InvalidCommand",
+  "internalEnabled": true,
+  "persistentID": 2674193757
+}

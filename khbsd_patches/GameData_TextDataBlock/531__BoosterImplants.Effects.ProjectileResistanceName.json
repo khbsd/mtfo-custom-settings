@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Projectile resist.",
+  "Description": "Short for \"projectile resistance\", i.e. how well you can withstand being hit by a projectile.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Résistance aux projectiles",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Resist. a proiettili",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Projektil-Resistenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resistencia a proyectiles",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Иммун. (снаряды)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Resist. a projéteis",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odporność na pociski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "射出物耐性",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발사체 저항력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "投擲物抵抗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "炮弹抗性",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ProjectileResistanceName",
+  "internalEnabled": true,
+  "persistentID": 531
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Put a fog repeller here.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Placez un répulsif à brouillard ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mettete un anti-nebbia qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Platziert hier einen Nebelverdränger.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Coloca un repelente de niebla aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите антидым.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coloque um repulsor de névoa aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyć środka przeciwmgielnego, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにフォグリペラーを設置してくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 안개 제거기 설치해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在這裡放一個驅霧器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里放个驱雾器。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Put_A_Fog_Repeller_Here",
+  "internalEnabled": true,
+  "persistentID": 1503
+}

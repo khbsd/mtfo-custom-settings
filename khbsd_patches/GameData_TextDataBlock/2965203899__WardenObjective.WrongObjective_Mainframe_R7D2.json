@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Error</color>: Primary Objective unreachable from current Zone.. <color=red>Recalculating path</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Erreur</color>\u00A0: Objectif principal inatteignable depuis la zone actuelle...<color=red>Recalcul de l’itinéraire en cours</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Errore</color>: obiettivo primario irraggiungibile dalla zona corrente. <color=red>Ricalcolo percorso...</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Fehler</color>: Primärziel von aktueller Zone aus nicht erreichbar … <color=red>Pfad wird neu berechnet …</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Error</color>: Objetivo principal no alcanzable desde la zona actual. <color=red>Recalculando ruta</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Ошибка</color>: основная цель недостижима в текущей зоне... <color=red>Заново прокладываем маршрут.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Erro</color>: Objetivo principal inatingível na zona atual.. <color=red>Recalculando o caminho</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Błąd</color>: cel nadrzędny nieosiągalny z obecnej strefy… <color=red>Ponowne obliczanie ścieżki</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラー</color>プライマリ目標は現在のZoneからは到達不可能.. <color=red>進路を再計算中</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>오류</color>: 해당 구역에서 주요 목표 도달 불가. <color=red>경로 재검토 중</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯誤</color>：無法從此區到達主要目標。<color=red>重新計算路線</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错误</color>：当前区域无法触及主要目标……<color=red>正在重新计算路线</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjective.WrongObjective_Mainframe_R7D2",
+  "internalEnabled": true,
+  "persistentID": 2965203899
+}

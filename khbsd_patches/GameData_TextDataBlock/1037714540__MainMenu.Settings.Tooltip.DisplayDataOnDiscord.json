@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles if the Player Status data should show on Discord.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permet d'afficher les infos de joueur actuelles sur Discord.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Definisce se i dati relativi allo stato del giocatore devono essere visualizzati su Discord.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Legt fest, ob die Statusdaten des Spielers auf Discord angezeigt werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alterna si los datos del estado del jugador deberían mostrarse en Discord.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "При включении отображает данные игрока в Discord.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Define se os dados de status de jogador devem ser exibidos no Discord.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włączenie umożliwia wyświetlanie szczegółów o statusie gracza na Discordzie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーステータスのデータをDiscordに表示するかどうかを切り替えます。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Discord에 플레이어 상태 데이터를 표시할지를 선택합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換可在Discord顯示玩家狀態資料。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，玩家状态数据将在Discord上显示。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.DisplayDataOnDiscord",
+  "internalEnabled": true,
+  "persistentID": 1037714540
+}

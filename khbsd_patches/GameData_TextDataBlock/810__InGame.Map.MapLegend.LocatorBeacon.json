@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locator Beacon",
+  "Description": "Part of the map \"legend\" (icon explanations.) A locator beacon is teh equivalient of a \"waypoint.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Balise de localisation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Segnale di localizzazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ping-Position",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localizador de iconos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Метка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sinalizador localizador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nadajnik lokalizacyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マーカー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "위치 신호",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位信標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位标记",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.LocatorBeacon",
+  "internalEnabled": true,
+  "persistentID": 810
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Weakens enemies\nStrengthens allies",
+  "Description": "A short description of what the \"nano swarm\" tool is used for. I.e. it can be used to weaken enemies or to strengthen allies (teammates.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affaiblit les ennemis\nRenforce les alliés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Indebolisce i nemici\nRinforza gli alleati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schwächt Feinde\nStärkt Verbündete",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Debilita a los enemigos\nFortalece a los aliados",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ослабляет врагов\nУсиливает союзников",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Enfraquece os inimigos\nFortalece os aliados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Osłabia przeciwników\nWzmacnia członków drużyny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵弱体化\n仲間強化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적 약화\n아군 강화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "削弱敵人\n增強盟友",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "弱化敌人\n强化队友",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.NanoSwarmDescription",
+  "internalEnabled": true,
+  "persistentID": 823
+}

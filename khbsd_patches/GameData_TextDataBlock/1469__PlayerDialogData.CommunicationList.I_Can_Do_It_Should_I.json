@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I can do it, should I?",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je m'en occupe\u00A0?",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Posso farlo, devo?",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich kann das machen, soll ich?",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¿Debería hacerlo?",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я справлюсь. Действовать?",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eu consigo, devo?",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mogę się tym zająć, powinienem?",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任せてくれないか？",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "난 할 수 있어. 그렇지?",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我可以做到，要嗎？",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我可以做，但我应该做吗？",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.I_Can_Do_It_Should_I",
+  "internalEnabled": true,
+  "persistentID": 1469
+}

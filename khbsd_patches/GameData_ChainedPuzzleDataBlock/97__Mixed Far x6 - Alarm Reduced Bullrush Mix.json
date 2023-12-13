@@ -1,0 +1,37 @@
+{
+  "PublicAlarmName": "Class VI Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 12,
+  "SurvivalWavePopulation": 17,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 20.0,
+  "WantedDistanceBetweenPuzzleComponents": 10.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 5
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 2
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Far x6 - Alarm Reduced Bullrush Mix",
+  "internalEnabled": true,
+  "persistentID": 97
+}

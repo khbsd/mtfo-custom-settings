@@ -1,0 +1,53 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item.prefab",
+        "function": 8,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 6,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 45,
+    "RotationNoise": 45.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_storage_mixed_60x30x60",
+    "BoundingVolume": 108.0
+  },
+  "name": "mining_function_pickup_60x60x30",
+  "internalEnabled": true,
+  "persistentID": 132
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ZONE_4] and find [ALL_ITEMS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ZONE_4] et trouvez [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_4] e trovare [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ZONE_4] und finden Sie [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la [ZONE_4] y encuentra los siguientes objetos: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ZONE_4] и найдите предмет ([ALL_ITEMS]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegar até [ZONE_4] e encontrar [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 4 [ZONE_4] i znajdź: [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_4]で[ALL_ITEMS]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_4](으)로 이동해 [ALL_ITEMS] 발견",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_4]並找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_4]并找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Gamescom_GoToZone",
+  "internalEnabled": true,
+  "persistentID": 273891640
+}

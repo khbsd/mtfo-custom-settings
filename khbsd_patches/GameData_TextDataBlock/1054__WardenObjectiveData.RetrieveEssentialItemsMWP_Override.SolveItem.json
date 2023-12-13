@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING - HIGH LEVELS OF ELECTROMAGNETIC RADIATION DETECTED  -  EVACUATE THE AREA IMMEDIATELY",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT - NIVEAUX ÉLEVÉS DE RADIATION ÉLECTROMAGNÉTIQUE DÉTECTÉS - ÉVACUEZ LA ZONE IMMÉDIATEMENT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE - RILEVATI LIVELLI ELEVATI DI RADIAZIONE ELETTROMAGNETICA - EVACUARE L'AREA IMMEDIATAMENTE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG – HOHE WERTE AN ELEKTROMAGNETISCHER STRAHLUNG FESTGESTELLT – EVAKUIEREN SIE SOFORT DAS GEBIET",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: ALTOS NIVELES DE RADIACIÓN ELECTROMAGNÉTICA DETECTADOS. EVACUAR ZONA DE INMEDIATO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! ВЫСОКИЙ УРОВЕНЬ ЭЛЕКТРОМАГНИТНОГО ИЗЛУЧЕНИЯ. ПРИСТУПИТЕ К НЕМЕДЛЕННОЙ ЭВАКУАЦИИ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO — ALTOS NÍVEIS DE RADIAÇÃO ELETROMAGNÉTICA DETECTADOS  -  EVACUE A ÁREA IMEDIATAMENTE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: WYKRYTO WYSOKI POZIOM PROMIENIOWANIA ELEKTROMAGNETYCZNEGO – WYMAGANA NIEZWŁOCZNA EWAKUACJA Z OBSZARU.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告 - 高度の電磁放射線を検出  -  即座にエリアから退避せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고 - 높은 수준의 전자기 방사선 탐지 - 즉시 대피할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告 - 偵測到高水平電磁輻射 - 立即疏散區段",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告 - 检测到高水平电磁辐射 - 立即撤离该区域",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 1054
+}

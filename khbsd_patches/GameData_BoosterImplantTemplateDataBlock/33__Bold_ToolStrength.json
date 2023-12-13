@@ -1,0 +1,72 @@
+{
+  "Deprecated": false,
+  "PublicName": 713,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "DropWeight": 5.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 27,
+        "MinValue": 1.4,
+        "MaxValue": 1.6
+      },
+      {
+        "BoosterImplantEffect": 28,
+        "MinValue": 1.2,
+        "MaxValue": 1.25
+      },
+      {
+        "BoosterImplantEffect": 29,
+        "MinValue": 1.15,
+        "MaxValue": 1.2
+      },
+      {
+        "BoosterImplantEffect": 31,
+        "MinValue": 1.2,
+        "MaxValue": 1.3
+      },
+      {
+        "BoosterImplantEffect": 32,
+        "MinValue": 1.45,
+        "MaxValue": 1.55
+      }
+    ],
+    [
+      {
+        "BoosterImplantEffect": 39,
+        "MinValue": 1.2,
+        "MaxValue": 1.3
+      },
+      {
+        "BoosterImplantEffect": 33,
+        "MinValue": 1.12,
+        "MaxValue": 1.18
+      },
+      {
+        "BoosterImplantEffect": 40,
+        "MinValue": 1.3,
+        "MaxValue": 1.4
+      }
+    ]
+  ],
+  "ImplantCategory": 1,
+  "MainEffectType": 4,
+  "name": "Bold_ToolStrength",
+  "internalEnabled": true,
+  "persistentID": 33
+}

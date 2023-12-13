@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables intel on your HUD",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active les renseignements sur l'affichage tête haute.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra le informazioni sul tuo HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert Intel auf Ihrem HUD.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa la información de tu interfaz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает данные в HUD.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa as informações na interface.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza dane w interfejsie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD上に情報を表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD에 목표 정보를 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在抬頭顯示器上啟用情報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在平视显示上开启情报。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.IntelVisible",
+  "internalEnabled": true,
+  "persistentID": 1856263569
+}

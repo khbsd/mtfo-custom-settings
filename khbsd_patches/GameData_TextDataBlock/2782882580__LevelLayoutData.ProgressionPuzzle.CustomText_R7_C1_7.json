@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Attempting to override door locks...</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=orange>Tentative de déverrouillage de la porte...</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Tentativo forzatura serrature...</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Versuche, Türverriegelung außer Kraft zu setzen ...</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Intentando anular cierres de puerta...</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Попытка взлома замков...</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Tentando substituir travas da porta...</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Próba obejścia zabezpieczeń drzwi...</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ドア封鎖のオーバーライドを試行中...</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>문 폐쇄 중단 시도 중...</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>正在嘗試覆蓋門鎖……</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>正在尝试覆盖门锁……</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_7",
+  "internalEnabled": true,
+  "persistentID": 2782882580
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR PERFORMING HIGH INTENSIVE TEST ({0}/{1})",
+  "Description": "{0} and {1} are numbers representing the amount of enemy waves left to do.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TEST D'INTENSITÉ ÉLEVÉE DU RÉACTEUR EN COURS ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ESECUZIONE TEST ALTA INTENSITÀ REATTORE ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTOR FÜHRT HOCHINTENSIVEN TEST DURCH ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRUEBA DE INTENSIDAD ELEVADO DE RENDIMIENTO DEL REACTOR ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСИЛЕННАЯ ПРОВЕРКА РАБОТЫ РЕАКТОРА ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REATOR EXECUTANDO TESTE DE ALTA INTENSIDADE ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "TEST NATĘŻENIOWY REAKTORA W TOKU ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター高負荷テスト中 ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 고강도 테스트 중 ({0}/{1})",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器進行高密集測試（{0}/{1}）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆正在执行高强度测试（{0}/{1}）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.HighIntensityTest_X_Y",
+  "internalEnabled": true,
+  "persistentID": 1101
+}

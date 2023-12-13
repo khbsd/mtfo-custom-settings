@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "VERIFY THE EXTERNAL UPLINK CONNECTION TO BE ABLE TO CONNECT",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "VÉRIFIER LA CONNEXION DE LIAISON MONTANTE EXTERNE POUR ÉTABLIR UNE CONNEXION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VERIFICARE LA CONNESSIONE UPLINK ESTERNA PER IL COLLEGAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERBINDUNGSFÄHIGKEIT DER EXTERNEN UPLINK-VERBINDUNG VERIFIZIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "VERIFICA LA CONEXIÓN DE UPLINK EXTERNA PARA PODER CONECTAR.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ТРЕБУЕТСЯ ВЕРИФИКАЦИЯ ВНЕШНЕГО ПОДКЛЮЧЕНИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFIQUE A CONEXÃO DE UPLINK EXTERNA PARA PODER SE CONECTAR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZWERYFIKUJ POŁĄCZENIE ZEWNĘTRZNE, ABY MÓĆ SIĘ POŁĄCZYĆ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "接続を行うために外部アップリンク接続を認証",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "외부 업링크 연결을 인증해 연결할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證外部上行鏈路連線是否可連線",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证外部上行链路连接是否能够相连",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.TerminalUplinkVerify",
+  "internalEnabled": true,
+  "persistentID": 1728022075
+}

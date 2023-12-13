@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Palette",
+  "Description": "The type of cloth to select",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Palette",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tavolozza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Palette",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Color",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цвет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Paleta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Paleta",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カラーパレット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "색상",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "調色盤",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "配色",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Clothes.Categories.Palette",
+  "internalEnabled": true,
+  "persistentID": 1152
+}

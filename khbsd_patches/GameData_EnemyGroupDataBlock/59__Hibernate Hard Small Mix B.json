@@ -1,0 +1,21 @@
+{
+  "Type": 0,
+  "Difficulty": 2,
+  "SpawnPlacementType": 0,
+  "MaxScore": 2.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 5.0,
+  "Roles": [
+    {
+      "Role": 0,
+      "Distribution": 4
+    },
+    {
+      "Role": 1,
+      "Distribution": 2
+    }
+  ],
+  "name": "Hibernate Hard Small Mix B",
+  "internalEnabled": true,
+  "persistentID": 59
+}

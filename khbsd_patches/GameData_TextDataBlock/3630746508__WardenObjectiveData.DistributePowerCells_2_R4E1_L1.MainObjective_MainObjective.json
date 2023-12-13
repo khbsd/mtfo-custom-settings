@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Distribute Power Cells from the elevator cargo container to [ALL_ITEMS] to lift lockdown",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Distribuez les piles à combustible du conteneur de l'ascenseur à [ALL_ITEMS] pour lever le verrouillage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Distribuire celle di energia [CELL] da container ascensore a [ALL_ITEMS] per revocare isolamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verteilen Sie Energiezellen aus dem Aufzugscontainer auf [ALL_ITEMS], um die Verriegelung aufzuheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Distribuye las células de energía [CELL] desde el contenedor de carga del ascensor a [ALL_ITEMS] para cancelar el cierre de emergencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы отменить режим изоляции, перенесите батареи из грузового отсека подъемника к: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Distribua as Power Cells do contêiner de carga do elevador para [ALL_ITEMS] a fim de desativar o confinamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W celu zniesienia blokady przekaż ogniwa zasilające z pojemnika ładunkowego windy do: [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エレベータの荷物コンテナのパワーセルを[ALL_ITEMS]に分配して封鎖を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "엘리베이터 화물 컨테이너에서 [ALL_ITEMS](으)로 파워 셀을 배포해 폐쇄 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將電池[CELL]從電梯貨櫃分配到[ALL_ITEMS]以解除封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将电池[CELL]从电梯货物集装箱分发到[ALL_ITEMS]以解除封锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.DistributePowerCells_2_R4E1_L1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3630746508
+}

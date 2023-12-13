@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Separate use keybinds",
+  "Description": "Toogle option for having different keybinds for usage of resouces on self or on ally. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Raccourcis à usage séparé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Combinazioni di tasti a uso separato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Getrennte Verwendung von Tastenkombinationen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Teclas diferentes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Раздельная привязка клавиш",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar teclas separadamente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przypisanie klawiszy osobnego użycia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "個別使用キー割り当て",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키바인드 사용 분리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "分別使用按鍵綁定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "分别使用快捷键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.SeparateUse",
+  "internalEnabled": true,
+  "persistentID": 1997078842
+}

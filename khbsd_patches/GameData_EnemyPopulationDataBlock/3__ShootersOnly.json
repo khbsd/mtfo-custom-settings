@@ -1,0 +1,105 @@
+{
+  "RoleDatas": [
+    {
+      "Role": 0,
+      "Difficulty": 0,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 0,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 0,
+      "Enemy": 18,
+      "Cost": 4.0,
+      "Weight": 0.15
+    },
+    {
+      "Role": 5,
+      "Difficulty": 0,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 1,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 1,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 1,
+      "Enemy": 18,
+      "Cost": 4.0,
+      "Weight": 0.15
+    },
+    {
+      "Role": 5,
+      "Difficulty": 1,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 2,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 2,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 5,
+      "Difficulty": 2,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 0,
+      "Enemy": 18,
+      "Cost": 3.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 1,
+      "Enemy": 18,
+      "Cost": 3.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 2,
+      "Enemy": 18,
+      "Cost": 2.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "ShootersOnly",
+  "internalEnabled": true,
+  "persistentID": 3
+}

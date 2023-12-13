@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR TEST SEQUENCE VERIFICATION FAILED, RESTARTING LAST TEST",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ÉCHEC DE VÉRIFICATION DE SÉQUENCE DE TEST DU RÉACTEUR, REDÉMARRAGE DU DERNIER TEST",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VERIFICA SEQUENZA TEST REATTORE FALLITA, RIAVVIO ULTIMO TEST",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ÜBERPRÜFUNG DER REAKTORTESTSEQUENZ FEHLGESCHLAGEN; DER LETZTE TEST WIRD NEU GESTARTET",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ERROR DE VERIFICACIÓN DE SECUENCIA DE PRUEBA DEL REACTOR. REINICIANDO ÚLTIMA PRUEBA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА ЦИКЛА ПРОВЕРКИ РЕАКТОРА, ЗАПУСК ПОСЛЕДНЕЙ ПРОВЕРКИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALHA NA VERIFICAÇÃO DA SEQUÊNCIA DE TESTE DO REATOR; REINICIANDO O ÚLTIMO TESTE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WERYFIKACJA SEKWENCJI TESTU REAKTORA NIEUDANA, PONOWNE ROZPOCZĘCIE OSTATNIEGO TESTU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターテストシークエンス認証失敗、最後のテストを再開",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시험 절차 인증 실패. 마지막 테스트 재시작 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器測試序列驗證失敗，重新開始上次測試",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆测试序列验证失败，正在重启上次测试",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.TestSequenceRestart",
+  "internalEnabled": true,
+  "persistentID": 1075
+}

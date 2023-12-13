@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I got ammo, someone else carry this!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "J'ai assez de munitions, prenez-les\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ho le munizioni, lo porti qualcun altro!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich habe Munition, das muss jemand anderes tragen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tengo munición, ¡que se lo quede otro!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "У меня боеприпасы. Кто-нибудь возьмите!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tenho munição, alguém pode pegar esta!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mam amunicję, niech weźmie to ktoś inny!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "弾薬だ。誰か運んでくれ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나한테 탄약 있어. 누가 이것 좀 들어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我有彈藥，誰來拿著這個！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我有弹药，其他人拿这个！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.I_Got_Ammo_Someone_Else_Carry_This",
+  "internalEnabled": true,
+  "persistentID": 1472
+}

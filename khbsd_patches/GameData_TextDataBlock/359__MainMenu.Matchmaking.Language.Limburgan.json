@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Limburgan",
+  "Description": "A language spoken in the Netherlands, Belgium and Germany.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Limbourgeois",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Limburghese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Limburgisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Limburgués",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Лимбургский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Limburgan",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Limburski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リンブルフ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "림부르그어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "林堡文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "林堡语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Limburgan",
+  "internalEnabled": true,
+  "persistentID": 359
+}

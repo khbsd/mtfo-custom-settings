@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//:Decoded subsurface transmission",
+  "Description": "The header of a message displayed in the elevator ride. Similar to the Warden message. This is displayed in the HUD.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "//:Transmission souterraine décodée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//:Trasmissione sotterranea decodificata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//:Dekodierte Übertragung aus dem Untergrund",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//:Transmisión de subsuperficie descifrada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//:Расшифрованная подземная передача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//:Transmissão de subsuperfície decodificada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//:Zdekodowano transmisję podpowierzchniową",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//:地表下の通信を検出",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//:해독된 지상인 통신 메시지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//:已解碼地下傳輸",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//:已解码地下传输",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.DecodedSubsurfaceTransmission",
+  "internalEnabled": true,
+  "persistentID": 1065
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The look speed of your camera movement when aiming down sights. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la vitesse de déplacement de votre caméra en mode visée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità del movimento della telecamera quando miri col mirino.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Blickgeschwindigkeit Ihrer Kamerabewegung beim Anvisieren von Zielen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La velocidad de visión de los movimientos de cámara al apuntar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость перемещения камеры во время прицеливания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A velocidade observada no movimento da câmera ao mirar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość kamery przy rozglądaniu się w trybie celowania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "覗き込み照準時のカメラの移動速度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "가늠쇠 조준 상태에서 카메라가 이동하며 보는 속도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "瞄準目標時鏡頭移動的觀看速度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "瞄准射击时镜头移动的查看速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MouseAimModeSensitivity",
+  "internalEnabled": true,
+  "persistentID": 2896326024
+}

@@ -1,0 +1,116 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Shotgun_3.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Shotgun_3",
+    "RightHandGripAnim": "Front_Shotgun_3",
+    "AssetBundle": 20,
+    "BundleShard": 8
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_Shotgun_3_animation_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Rifle_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_Shotgun_3_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 5,
+      "StringData": "generic_reload_pat_soft"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 0.7,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 5,
+      "StringData": "shotgun_reload_1_shell_in"
+    },
+    {
+      "TriggerTime": 1.2,
+      "Type": 5,
+      "StringData": "pistol_reload_3_grab_mag"
+    },
+    {
+      "TriggerTime": 1.5,
+      "Type": 5,
+      "StringData": "shotgun_reload_1_shell_in"
+    },
+    {
+      "TriggerTime": 1.8,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 2.0,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 2.15,
+      "Type": 5,
+      "StringData": "generic_reload_pat_soft"
+    },
+    {
+      "TriggerTime": 2.88,
+      "Type": 7
+    }
+  ],
+  "name": "Front_Shotgun_3",
+  "internalEnabled": true,
+  "persistentID": 20
+}

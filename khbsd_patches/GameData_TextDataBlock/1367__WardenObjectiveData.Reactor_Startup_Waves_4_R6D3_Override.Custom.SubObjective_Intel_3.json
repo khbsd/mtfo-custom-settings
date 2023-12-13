@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>[ZONE_2]</color> unlocked by reactor shutdown sequence",
+  "Description": "Don't localize [ZONE_2]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Porte vers la <color=orange>[ZONE_2]</color> déverrouillée par la séquence d'arrêt du réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>[ZONE_2]</color> sbloccata da sequenza spegnimento reattore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>[ZONE_2]</color> durch Reaktorabschaltsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la <color=orange>[ZONE_2]</color> se ha desbloqueado con una secuencia de cierre del reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл выключения реактора разблокировал дверь в <color=orange>[ZONE_2]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>[ZONE_2]</color> destrancada pela sequência de desligamento do reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 2 [ZONE_2]</color> odblokowane przez sekwencję wyłączenia reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ZONE_2]</color> へのドアがリアクター停止シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 정지 절차에 따라 <color=orange>[ZONE_2]</color> 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>[ZONE_2]</color>的門已由反應器關閉序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>[ZONE_2]</color>的门已由反应堆关闭序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_Intel_3",
+  "internalEnabled": true,
+  "persistentID": 1367
+}

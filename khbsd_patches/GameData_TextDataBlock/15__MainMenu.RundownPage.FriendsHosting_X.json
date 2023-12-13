@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Friends hosting:{0}",
+  "Description": "A headline for a list of GTFO lobbies hosted by your Steam friends.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Salons hébergés par des amis\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Di amici:{0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Host-Freunde:{0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Amigos con salas: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Лобби друзей: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Amigos com lobby:{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hostowane przez znajomych:{0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フレンドがホスト中:{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "친구 호스팅:{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "朋友主機：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "好友创建：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.FriendsHosting_X",
+  "internalEnabled": true,
+  "persistentID": 15
+}

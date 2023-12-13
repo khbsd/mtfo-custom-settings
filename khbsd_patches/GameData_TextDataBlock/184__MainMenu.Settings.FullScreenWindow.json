@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FullScreen Window",
+  "Description": "The graphic setting \"full screen mode\", controls the behavior of the game application window, can have this setting.\nWith the FullScreen Window set, the game will cover the whole monitor screen.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fenêtre plein écran",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Finestra a tutto schermo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollbild-Fenster",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla completa en modo ventana",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Оконный режим без рамки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Janela em tela cheia",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pełny ekran w oknie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルスクリーンウィンドウ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "창 모드 전체 화면",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全螢幕視窗",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全屏窗口",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.FullScreenWindow",
+  "internalEnabled": true,
+  "persistentID": 184
+}

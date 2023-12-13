@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is In Fog Repeller Radius",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"within range of a fog repeller\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dans le rayon du répulsif à brouillard",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nel raggio dell'anti-nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ist im Nebelverdränger-Radius",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "En el radio de repente de niebla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В радиусе действия антидыма",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está no alcance do repulsor de névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W zasięgu środka przeciwmgielnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フォグリペラー効果範囲内",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 제거기 반경 안",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在驅霧器半徑內",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "位于驱雾器范围内",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsInFogRepellerRadius",
+  "internalEnabled": true,
+  "persistentID": 678
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Jump",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sauter",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Salta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Springen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Saltar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прыжок",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Saltar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skok",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ジャンプ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점프",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "跳躍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跳跃",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Jump",
+  "internalEnabled": true,
+  "persistentID": 139
+}

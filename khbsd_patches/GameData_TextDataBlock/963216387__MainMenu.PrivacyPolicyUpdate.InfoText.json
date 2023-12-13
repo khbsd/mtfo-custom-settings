@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We have updated our Privacy Policy.\n\nBy checking the box below, you agree to the EULA and you understand and acknowledge that your data will be processed in accordance with the updated Privacy Policy.",
+  "Description": "Text to inform that we have updated ONLY the Privacy Policy",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Nous avons mis à jour notre Politique de confidentialité.\n\nEn cochant la case ci-dessous, vous acceptez le CLUF, et vous comprenez et reconnaissez que vos données seront traitées conformément à la nouvelle Politique de confidentialité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbiamo aggiornato la nostra Informativa sulla privacy.\n\nSpuntando la casella sottostante, accetti l'EULA e comprendi e riconosci che i tuoi dati saranno trattati in conformità con l'Informativa sulla privacy aggiornata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir haben unsere Datenschutzrichtlinie aktualisiert.\n\nIndem Sie das Kästchen unten anwählen, erklären Sie sich mit der EULA einverstanden und nehmen zur Kenntnis, dass Ihre Daten gemäß der aktualisierten Datenschutzrichtlinie verarbeitet werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hemos actualizado nuestra política de privacidad.\n\nSi marcas la casilla que aparece a continuación, aceptas nuestro contrato de licencia de usuario final y confirmas comprender y reconocer que procesaremos tus datos siguiendo la política de privacidad actualizada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мы обновили политику конфиденциальности.\n\nСтавя галочку ниже, вы принимаете пользовательское соглашение и даете согласие на обработку ваших данных в соответствии с обновленной политикой конфиденциальности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atualizamos nossa Política de Privacidade.\n\nAo marcar a caixa abaixo, você concorda com o Contrato de Licença de Usuário Final, o EULA, e entende e admite que seus dados serão processados de acordo com a Política de Privacidade atualizada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaktualizowaliśmy naszą Politykę prywatności.\n\nZaznaczając poniższe okienko, akceptujesz postanowienia Umowy użytkownika i wyrażasz zgodę na przetwarzanie danych zgodnie z zaktualizowaną Polityką prywatności.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プライバシーポリシーを更新しました。\n\n下記のボックスにチェックを入れることにより、あなたはソフトウェア利用許諾契約に同意し、あなたのデータが更新されたプライバシーポリシーに従って処理されることを理解し、了承したと見なされます。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개인정보 취급방침이 업데이트되었습니다.\n\n아래 상자를 체크하면 최종 사용자 사용권 계약에 동의하고 업데이트된 개인정보 취급방침에 따라 데이터가 처리됨을 이해하고 인정합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們的《隱私權政策》已更新。\n\n勾選以下方框即表示您同意《使用者授權合約》，而且您明白並接受您的資料將按照更新後的《隱私權政策》進行處理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们的《隐私政策》已更新。\n\n勾选以下方框即表明您同意《最终用户许可协议》且了解并认可您的数据将按照更新后的《隐私政策》进行处理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.PrivacyPolicyUpdate.InfoText",
+  "internalEnabled": true,
+  "persistentID": 963216387
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Disinfect",
+  "Description": "I.e. \"disinfect yourself.\" When the player stands close to a disinfection station, this text string appears on screen to indicate what action can be performed by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désinfecter",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disinfetta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Desinfizieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desinfectar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дезинфицировать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desinfetar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odkaź",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消毒",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염 제거",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "消毒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "消毒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Disinfect",
+  "internalEnabled": true,
+  "persistentID": 828
+}

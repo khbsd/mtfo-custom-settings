@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gamepad Mapping",
+  "Description": "A headline for gamepad mapping related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Manette",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Configurazione controller",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gamepad-Belegung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mando",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Геймпад",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Gamepad",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sterowanie – kontroler",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームパッドのマッピング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임패드 매핑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制器對應",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手柄映射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GamepadMappingButton",
+  "internalEnabled": true,
+  "persistentID": 68
+}

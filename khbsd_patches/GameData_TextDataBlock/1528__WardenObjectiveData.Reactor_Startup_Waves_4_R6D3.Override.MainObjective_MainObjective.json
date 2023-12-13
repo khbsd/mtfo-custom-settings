@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bring the <color=orange>Main Reactor</color> of the sector back online.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Réactivez le <color=orange>réacteur principal</color> du secteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare online il <color=orange>reattore principale</color> del settore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nehmen Sie den <color=orange>Hauptreaktor</color> des Sektors wieder in Betrieb.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reactiva el <color=orange>reactor principal</color> de vuelta al sector.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включите <color=orange>главный реактор</color> сектора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coloque o <color=orange>reator principal</color> setor de volta online.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącz <color=orange>główny reaktor</color> w sektorze.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セクターの <color=orange>メインリアクター</color> を再稼働しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터의 <color=orange>메인 반응로</color>를 작동시킬 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使分區的<color=orange>主反應器</color>重新上線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "让分区的<color=orange>主反应堆</color>重新上线。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3.Override.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1528
+}

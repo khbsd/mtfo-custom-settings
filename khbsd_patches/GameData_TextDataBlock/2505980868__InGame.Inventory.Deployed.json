@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DEPLOYED",
+  "Description": "This is a prefix on inventory items like the sentry, when it is deployed on the ground.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉPLOYÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCHIERATO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EINGESETZT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESPLEGADO(S)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСТАНОВЛЕНО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENVIOU",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "– ROZSTAWIONO",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "展開済み",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배치된",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已部署",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已部署",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Inventory.Deployed",
+  "internalEnabled": true,
+  "persistentID": 2505980868
+}

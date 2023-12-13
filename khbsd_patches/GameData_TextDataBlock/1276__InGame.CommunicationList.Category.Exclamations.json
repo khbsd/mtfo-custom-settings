@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exclamations",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exclamations",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esclamazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ausrufe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Exclamaciones",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выкрики",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exclamações",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykrzyknienia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "叫び",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驚嘆句",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.Exclamations",
+  "internalEnabled": true,
+  "persistentID": 1276
+}

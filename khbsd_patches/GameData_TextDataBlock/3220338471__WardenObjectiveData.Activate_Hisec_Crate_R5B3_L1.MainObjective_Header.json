@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Force open Hisec crate",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Forcez l'ouverture de la caisse HISEC",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Forzare l'apertura della cassa HISEC",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnen Sie die [HISEC]-Kiste mit Gewalt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abre a la fuerza la caja de HISEC",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вскройте контейнер HISEC.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abra a caixa HISEC à força",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sforsuj skrzynię podwyższonego bezpieczeństwa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HISECクレートを強制的に開け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하이섹 상자 강제 개봉",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強行開啟HISEC箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强行开启HISEC箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 3220338471
+}

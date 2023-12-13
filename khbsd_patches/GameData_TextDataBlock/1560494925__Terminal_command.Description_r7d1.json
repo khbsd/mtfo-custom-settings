@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lowers security of scan to ZONE 194",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Baisse le niveau de sécurité des analyses de la zone\u00A0194",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbassa la sicurezza della scansione nella ZONE 194",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Setzt die Sicherheitsstufe des Scans von ZONE 194 herab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reduce la seguridad del escáner de la ZONE 194.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Понижает уровень безопасности ZONE 194",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reduz a segurança de escâner para a ZONE 194",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obniża zabezpieczenia skanowania do strefy 194 [ZONE_194]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 194のスキャンセキュリティを下げよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 194 스캔 보안 약화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "降低Zone 194安全系統層級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "降低通往ZONE 194的扫描安全级别",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Terminal_command.Description_r7d1",
+  "internalEnabled": true,
+  "persistentID": 1560494925
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone 165 armory lockdown lifted.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Levée du confinement de l'arsenal de la zone\u00A0165.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Blocco armeria Zone 165 revocato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelung der Waffenkammer in Zone 165 aufgehoben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia de la armería de la Zone 165 anulado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Изоляция оружейной в зоне 165 снята.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento do arsenal da Zone 165 removido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada zbrojowni w strefie 165 zniesiona.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 165の武器庫の封鎖が解かれた。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 165 무기고 폐쇄 해제됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ZONE 165軍械庫封鎖已解除。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 165军械库封锁已解除。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Uplink_SubObjective_GetKey",
+  "internalEnabled": true,
+  "persistentID": 2391393546
+}

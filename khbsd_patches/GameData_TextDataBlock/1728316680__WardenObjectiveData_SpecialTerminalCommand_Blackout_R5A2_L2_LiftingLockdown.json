@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Lockdown disengaged. Opening Security Door to<color=orange> ZONE 132</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Verrouillage désactivé. Ouverture de la porte de sécurité vers la<color=orange> ZONE 132</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Blocco disattivato. Apertura porta di sicurezza per<color=orange> zona 132 [ZONE_132]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Verriegelung deaktiviert. Sicherheitstür zu <color=orange>Zone 132</color> [Zone 132] wird geöffnet.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Cierre de emergencia desconectado. Se abre la puerta de seguridad a la <color=orange>ZONE 132</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Режим изоляции выключен. Дверь в <color=orange>ZONE 132</color> разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Confinamento removido. Abrindo porta de segurança para<color=orange> ZONE 132</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Blokada wyłączona. Otwieranie drzwi do <color=orange>strefy 132 [ZONE_132]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>封鎖解除。<color=orange> ZONE 132</color>へのセキュリティドアを開く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>폐쇄 해제됨. <color=orange> ZONE 132</color> 보안문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>封鎖解除</color>。通往<color=orange>ZONE 132</color>的安全門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>封锁已解除。正在打开通往<color=orange>132区[ZONE_132]的安全门</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveData_SpecialTerminalCommand_Blackout_R5A2_L2_LiftingLockdown",
+  "internalEnabled": true,
+  "persistentID": 1728316680
+}

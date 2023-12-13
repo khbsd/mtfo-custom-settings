@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to collect the DNA sample from [ITEM_SERIAL] and go to forward extraction point in <color=orange>Zone 67</color>",
+  "Description": "Don't localize [ITEM_SERIAL] and Zone 67",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Récupérez l'échantillon d'ADN sur [ITEM_SERIAL] et rendez-vous au point d'évacuation dans la <color=orange>Zone\u00A067</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere con raccolta del campione di DNA da [ITEM_SERIAL] e raggiungere il punto di estrazione anteriore nella <color=orange>ZONE 67</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie die DNA-Probe von [ITEM_SERIAL] und begeben Sie sich zum vorderen Extraktionspunkt in <color=orange>ZONE 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza para recoger la muestra de ADN del [ITEM_SERIAL] y avanza hasta el punto de extracción de la <color=orange>ZONE 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлеките образец ДНК из предмета ([ITEM_SERIAL]) и пройдите к точке выхода в <color=orange>Zone 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Continue a coleta da amostra de DNA do [ITEM_SERIAL] e vá até o ponto de extração na <color=orange>Zone 67</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz próbkę DNA z [ITEM_SERIAL] i przejdź do punktu ewakuacyjnego w <color=orange>strefie 67 [ZONE_67]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "先へ進んで [ITEM_SERIAL]からDNAサンプルを回収し、前方の<color=orange>Zone 67</color>脱出地点へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL]에서 DNA 샘플을 확보해 <color=orange>ZONE 67</color>의 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續從[ITEM_SERIAL]收集DNA樣本並前往<color=orange>Zone 67</color>的前進撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续从[ITEM_SERIAL]收集DNA样本并前往<color=orange>ZONE 67</color>前撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.HSU_DNA_R6.Override.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 1561
+}

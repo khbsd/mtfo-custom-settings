@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to extraction",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point d’évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere all'estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zum Extraktionspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la extracción.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Двигайтесь к точке выхода",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para a extração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do punktu ewakuacyjnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脱出に進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탈출 진행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續前往撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Objective.TimedTerminal_GotoWin_R7D1",
+  "internalEnabled": true,
+  "persistentID": 2826597297
+}

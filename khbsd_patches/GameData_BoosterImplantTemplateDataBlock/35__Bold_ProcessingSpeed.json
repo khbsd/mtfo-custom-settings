@@ -1,0 +1,33 @@
+{
+  "Deprecated": false,
+  "PublicName": 715,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "DropWeight": 1.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [
+    {
+      "BoosterImplantEffect": 34,
+      "MinValue": 1.6,
+      "MaxValue": 2.0
+    }
+  ],
+  "RandomEffects": [],
+  "ImplantCategory": 1,
+  "MainEffectType": 3,
+  "name": "Bold_ProcessingSpeed",
+  "internalEnabled": true,
+  "persistentID": 35
+}

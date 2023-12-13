@@ -1,0 +1,17 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.9,
+  "SpawnData": [
+    {
+      "ItemID": 115,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 144,
+      "Weight": 3.0
+    }
+  ],
+  "name": "Small_Foam",
+  "internalEnabled": true,
+  "persistentID": 28
+}

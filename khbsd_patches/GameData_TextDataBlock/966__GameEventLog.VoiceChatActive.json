@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[Voice chat active]",
+  "Description": "When the player has chosen to access voice chat features with the \"push to talk\" method, this text string shows on screen when the player is pushing the designated voice chat button, i.e. \"the line is open.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[Chat vocal actif]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[Chat vocale attiva]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[Sprachchat aktiv]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[Chat de voz activo]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[Активирован голосовой чат]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[Chat de voz ativo]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[Aktywny czat głosowy]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ボイスチャット有効]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성 채팅 활성화]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[語音聊天啟用中]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音聊天开启中]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.VoiceChatActive",
+  "internalEnabled": true,
+  "persistentID": 966
+}

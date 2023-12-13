@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[NONE]",
+  "Description": "This is shown in the key mapping menu, to indicate that a particular action (e.g. \"jump\", \"crouch\", \"walk left\") doesn't have a key mapped to it.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[AUCUN]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[NESSUNO]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[NICHTS]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[NADA]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[НЕТ]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[NENHUM]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[BRAK]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[なし]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[없음]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[無]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[无]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.None",
+  "internalEnabled": true,
+  "persistentID": 196
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download <color=orange>COMPLETE.</color> Door to <color=orange>ZONE 252</color> unlocked.\n",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Téléchargement <color=orange>TERMINÉ.</color> Porte vers la <color=orange>ZONE\u00A0252</color> déverrouillée.\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Download <color=orange>COMPLETATO.</color> Porta per <color=orange>ZONE 252</color> sbloccata.\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Download <color=orange>ABGESCHLOSSEN</color>. Tür zu <color=orange>ZONE 252</color> entriegelt.\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga <color=orange>COMPLETADA.</color> La puerta a la <color=orange>ZONE 252</color> está desbloqueada.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузка <color=orange>ЗАВЕРШЕНА</color>. Дверь в <color=orange>ZONE 252</color> разблокирована.\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Download <color=orange>CONCLUÍDO.</color> Porta para a <color=orange>ZONE 252</color> destravada.\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobieranie <color=orange>UKOŃCZONE.</color> Drzwi do <color=orange>STREFY 252</color> odblokowane.\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダウンロード<color=orange>完了。</color><color=orange>ZONE 252</color>へのドアの封鎖を解除。\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다운로드 <color=orange>완료.</color> <color=orange>ZONE 252</color> 문 개방됨.\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "下載<color=orange>完成。</color><color=orange>ZONE 252</color>的門已解鎖。\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下载<color=orange>完成</color>。<color=orange>ZONE 252</color>门已解锁。\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText11_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 1070648391
+}

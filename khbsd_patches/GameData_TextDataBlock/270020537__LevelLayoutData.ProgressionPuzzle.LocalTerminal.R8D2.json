@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown, use local terminal to bypass.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. Utilisez le terminal local pour le contourner.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza, utilizzare terminale locale per bypassarla.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Nutzen Sie das lokale Terminal, um die Verriegelung zu umgehen.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta en cierre de emergencia, usa el terminal local para anularlo.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Чтобы обойти протокол, используйте локальный терминал.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento de emergência, use o terminal local para contornar.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Aby ją obejść, użyj lokalnego terminalu.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー： ドアは緊急封鎖中、ローカル端末でバイパスしろ。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문 비상 폐쇄. 내부 터미널을 사용해 우회하십시오.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態，使用本地終端繞過封鎖。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁状态，使用本地终端以绕过封锁。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.LocalTerminal.R8D2",
+  "internalEnabled": true,
+  "persistentID": 270020537
+}

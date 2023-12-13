@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Plays a sound everytime you push the push to talk button. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Joue un son lors de chaque activation vocale (PTT).",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riproduce un suono ogni volta che premi il pulsante push-to-talk.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spielt jedes Mal, wenn Sie die Push-to-Talk-Taste drücken, einen Ton ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reproduce un sonido cuando pulsas el botón «Pulsar para hablar».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает звуковое оповещение при активации режима рации.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Toca um som sempre que você usa o botão apertar para falar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odtwarza dźwięk za każdym razem, gdy naciskasz przycisku „Naciśnij, aby mówić”",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通話ボタンを押す度にサウンドを鳴らす。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\"눌러서 말하기\" 버튼을 누를 때마다 사운드를 재생합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "每次按下隨按即說按鈕時都會播放音效。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "每次点按“按下说话”按钮时发出提示音。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.PlaySoundOnPushToTalk",
+  "internalEnabled": true,
+  "persistentID": 2048443810
+}

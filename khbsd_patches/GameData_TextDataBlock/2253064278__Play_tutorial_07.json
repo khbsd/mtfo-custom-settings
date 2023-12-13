@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nThis door requires a keycard. \r\nLocate a computer terminal to pinpoint keycard.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nCette porte nécessite une carte magnétique. \r\nTrouvez un terminal informatique pour localiser la carte.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nQuesta porta richiede una chiave magnetica. \r\nTrovare un terminale computer per individuare la chiave magnetica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nDiese Tür erfordert eine Schlüsselkarte. \r\nLokalisieren Sie ein Computerterminal, um die Schlüsselkarte zu orten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nEsta puerta requiere una tarjeta de acceso. \r\nUtiliza un terminal para localizarla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nДля этой двери нужна ключ-карта.\r\nНайдите компьютерный терминал, чтобы отыскать ключ-карту.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nEsta porta requer um cartão de acesso. \r\nLocalize um terminal de computador para apontar um cartão de acesso.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nTe drzwi wymagają karty dostępu. \r\nAby ją znaleźć, zlokalizuj terminal komputerowy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\nこのドアはキーカードを必要とする。\r\nコンピュータ端末を見つけ、キーカードを突き止めよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n이 문은 키 카드가 필요합니다. \r\n컴퓨터 터미널을 찾아 키 카드를 식별하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n這道門需要鑰匙卡才能通行。\r\n請定位電腦終端來確認鑰匙卡的詳細位置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n此门需要钥匙卡。\r\n找到一台电脑终端来定位钥匙卡。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_07",
+  "internalEnabled": true,
+  "persistentID": 2253064278
+}

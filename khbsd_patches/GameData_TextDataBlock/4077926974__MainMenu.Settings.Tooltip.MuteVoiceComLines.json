@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles if the audio for voice communication lines should be muted",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permet de mettre en sourdine les lignes de communication vocales",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Determina se l'audio per le linee di comunicazione vocale deve essere disattivato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet um, ob der Ton für die Sprachkommunikation stummgeschaltet werden soll",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar si se silencia el sonido de las líneas de comunicación por voz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает/выключает звуки на линиях голосовой связи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna a opção de o áudio das linhas de comunicação por voz dever ser silenciada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza/wyłącza wyciszenie komunikacji głosowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイス定型文の音声をミュートするかどうかを切り替える",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 통신 라인의 오디오를 음소거할지 지정합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換語音通訊的音訊是否應靜音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，关闭语音通讯行的音频",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.MuteVoiceComLines",
+  "internalEnabled": true,
+  "persistentID": 4077926974
+}

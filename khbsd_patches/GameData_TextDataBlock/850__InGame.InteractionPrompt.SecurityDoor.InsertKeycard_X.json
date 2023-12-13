@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert keycard {0}",
+  "Description": "I.e. \"insert the keycard your're carrying into the keycard reader.\" When the player is standing in front of a door that requires a keycard to open, and the player has this keycard, this text informs the player that they can insert the keycard. \"{0}\" will be replaced by the ID of the required keycard, do not alter these characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérer la carte magnétique {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserisci chiave magnetica {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schlüsselkarte {0} benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Insertar tarjeta de acceso {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставить ключ-карту {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inserir cartão de acesso {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włóż kartę dostępu {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーカード {0}を挿入",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 키 카드 삽입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "插入鑰匙卡{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "插入钥匙卡{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.InsertKeycard_X",
+  "internalEnabled": true,
+  "persistentID": 850
+}

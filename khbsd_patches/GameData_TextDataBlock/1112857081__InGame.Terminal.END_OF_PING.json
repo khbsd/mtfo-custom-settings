@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "END OF PING",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "FIN DE LA REQUÊTE PING",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "FINE PING",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ENDE DES PINGS",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FIN DE PING",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОНЕЦ ПИНГА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FIM DO PING",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OZNACZANIE ZAKOŃCZONE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PING終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑 끝",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記結束",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记结束",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.END_OF_PING",
+  "internalEnabled": true,
+  "persistentID": 1112857081
+}

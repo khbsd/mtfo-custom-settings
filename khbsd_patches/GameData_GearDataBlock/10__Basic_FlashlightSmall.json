@@ -1,0 +1,62 @@
+{
+  "officialForRelease": false,
+  "publicName": "Staley LLC: Small Torch [TP]",
+  "baseItemID": 31,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    },
+    {
+      "allowed": true,
+      "ID": 137,
+      "partName": "Tool_FlashlightSmall_b"
+    },
+    {
+      "allowed": true,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    }
+  ],
+  "sightsAllowed": [],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_FlashlightSmall",
+  "internalEnabled": true,
+  "persistentID": 10
+}

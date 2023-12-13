@@ -1,0 +1,98 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 10.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_BulletHit",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_Burst_Directional",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_Burst_Omni",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_Spurt_01",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_Spurt_02",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_Spurt_Small",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 5.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_StyleBlood_BulletHit",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_StyleBlood_Burst_01",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_StyleBlood_Burst_02",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "impacts_flesh",
+  "internalEnabled": true,
+  "persistentID": 46
+}

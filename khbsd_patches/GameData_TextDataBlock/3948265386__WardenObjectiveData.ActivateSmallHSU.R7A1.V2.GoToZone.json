@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ZONE_6] and find [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ZONE_6] et trouvez [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_6] e trovare [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ZONE_6] und finden Sie [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la [ZONE_6] y encuentra [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ZONE_6] и найдите предмет ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até a [ZONE_6] e encontre [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 6 [ZONE_6] i znajdź [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_6]で[ITEM_SERIAL]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_6](으)로 이동해 [ITEM_SERIAL] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_6]並尋找[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_6]并找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.V2.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 3948265386
+}

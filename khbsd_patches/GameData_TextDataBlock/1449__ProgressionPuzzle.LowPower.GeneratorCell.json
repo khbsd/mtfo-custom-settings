@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ERROR:// LOW POWER.. AWAITING REACTOR STARTUP",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ERREUR\u00A0:// COURANT FAIBLE... EN ATTENTE DE DÉMARRAGE DU RÉACTEUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ERRORE:// ENERGIA SCARSA. ATTESA AVVIO REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER:// WENIG STROM … BEREIT FÜR REAKTORSTART",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ERROR:// ENERGÍA BAJA. ESPERANDO ARRANQUE DE REACTOR.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА:// НЕДОСТАТОЧНО МОЩНОСТИ. ОЖИДАЕТСЯ ЗАПУСК РЕАКТОРА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ERRO:// POUCA ENERGIA.. AGUARDANDO REINÍCIO DO REATOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BŁĄD:// NISKI POZIOM ZASILANIA.. OCZEKIWANIE NA ROZRUCH REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー:// 電力低下.. リアクター始動を待機",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류:// 전력 낮음.. 반응로 시동 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤://低電力……等待反應器啟動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误://电量不足……正在等待反应堆重启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.LowPower.GeneratorCell",
+  "internalEnabled": true,
+  "persistentID": 1449
+}

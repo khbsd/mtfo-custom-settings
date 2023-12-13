@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RESOURCE BOX",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "BOÎTE DE RESSOURCES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CASSA RISORSE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RESSOURCENKISTE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAJA DE RECURSOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЯЩИК РЕСУРСОВ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CAIXA DE RECURSOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PUDEŁKO Z ZASOBAMI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースボックス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 상자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.RESOURCE_BOX",
+  "internalEnabled": true,
+  "persistentID": 36898928
+}

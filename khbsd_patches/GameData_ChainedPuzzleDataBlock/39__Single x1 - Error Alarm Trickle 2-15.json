@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "://ERROR! Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 27,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 30.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 2
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 2200133294,
+  "AlarmSoundStop": 1190355274,
+  "name": "Single x1 - Error Alarm Trickle 2-15",
+  "internalEnabled": true,
+  "persistentID": 39
+}

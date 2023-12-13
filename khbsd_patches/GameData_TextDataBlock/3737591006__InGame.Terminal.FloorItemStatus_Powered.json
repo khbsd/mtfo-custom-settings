@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Powered",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimentato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Angeschaltet",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Conectado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Есть питание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Energizado/a",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasilanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通電中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동력 있음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "有接電",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemStatus_Powered",
+  "internalEnabled": true,
+  "persistentID": 3737591006
+}

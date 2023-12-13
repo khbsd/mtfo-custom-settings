@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "EXPEDITION COMPLETED",
+  "Description": "I.e. \"you survived the expedition.\" A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is the equivalent of the phrase \"mission clear\" or \"mission successful\" in GTFO.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "EXPÉDITION TERMINÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SPEDIZIONE COMPLETATA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "EXPEDITION ABGESCHLOSSEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EXPEDICIÓN COMPLETADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКСПЕДИЦИЯ ЗАВЕРШЕНА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EXPEDIÇÃO CONCLUÍDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "EKSPEDYCJA UKOŃCZONA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションクリア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "任务已完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.Header_Completed",
+  "internalEnabled": true,
+  "persistentID": 3306413551
+}

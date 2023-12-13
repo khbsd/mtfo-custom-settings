@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auswahl",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Select",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セレクト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Select",
+  "internalEnabled": true,
+  "persistentID": 994
+}

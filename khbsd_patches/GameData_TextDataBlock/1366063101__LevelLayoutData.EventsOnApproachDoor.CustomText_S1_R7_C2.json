@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal in <color=orange>ZONE 144</color> and initialize ventilation sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal de la <color=orange>ZONE\u00A0144</color> et initialisez la séquence de ventilation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale in <color=orange>ZONE 144</color> e inizializzare sequenza ventilazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal in <color=orange>ZONE 144</color> und initialisieren Sie die Belüftungssequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localizar terminal en la <color=orange>ZONE 144</color> e inicializar secuencia de ventilación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал в <color=orange>ZONE 144</color> и запустите цикл вентиляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize o terminal na <color=orange>ZONE 144</color> e inicie a sequência de ventilação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal w <color=orange>strefie 144 [ZONE_144]</color> i uruchom sekwencję wentylacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 144</color>で端末を見つけて換気シークエンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 144</color>에서 터미널을 찾고 환기 절차 실행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位<color=orange>ZONE 144</color>的終端並將通風序列初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "定位<color=orange>ZONE 144</color>中的终端并初始化通风序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S1_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1366063101
+}

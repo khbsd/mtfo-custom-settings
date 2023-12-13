@@ -1,0 +1,37 @@
+{
+  "Deprecated": false,
+  "PublicName": 716,
+  "Description": 0,
+  "DurationRange": {
+    "x": 2.0,
+    "y": 3.0,
+    "normalized": {
+      "x": 0.5547002,
+      "y": 0.8320503,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 3.60555124,
+    "sqrMagnitude": 13.0
+  },
+  "DropWeight": 2.0,
+  "Conditions": [],
+  "RandomConditions": [
+    30
+  ],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 41,
+        "MinValue": 1.2,
+        "MaxValue": 1.25
+      }
+    ]
+  ],
+  "ImplantCategory": 2,
+  "MainEffectType": 3,
+  "name": "Aggressive_BioscanSpeed",
+  "internalEnabled": true,
+  "persistentID": 48
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAIN",
+  "Description": "The difficulty grade of our main objectives.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Haupt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГЛАВН.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Główny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主要",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.Main",
+  "internalEnabled": true,
+  "persistentID": 1111
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will take less damage from projectiles.",
+  "Description": "Describes the advantage of having a good \"projectile reistance\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet subit moins de dégâts de projectiles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto subirà danni minori dai proiettili.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson erleidet weniger Schaden durch Projektile.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto sufre menos daño con los proyectiles.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, получаемый от снарядов, уменьшается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo recebe menos danos de ataques com projéteis.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca otrzyma mniej obrażeń wskutek trafienia pociskiem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象への射出物によるダメージが減る。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 발사체 대미지를 덜 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象受到投擲物的傷害較少。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者受到的炮弹伤害减少。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ProjectileResistanceDescription",
+  "internalEnabled": true,
+  "persistentID": 532
+}

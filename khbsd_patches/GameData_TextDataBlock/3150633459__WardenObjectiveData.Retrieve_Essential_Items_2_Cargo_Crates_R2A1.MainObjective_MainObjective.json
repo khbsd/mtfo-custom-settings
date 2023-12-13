@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <b>pMOTHER Trial Samples in cargo crates</b> [ALL_ITEMS] and bring it to the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "Don't translate [ALL_ITEMS] / [EXTRACTION_ZONE]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez les échantillons d'essai de <b>pMOTHER dans les caisses de fret</b> [ALL_ITEMS] et apportez-les au scanner d'évacuation à [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i <b>campioni di prova pMOTHER nelle casse di merci</b> [ALL_ITEMS] e portarli alla scansione di estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie <b>Proben der pMOTHER-Studie</b> [ALL_ITEMS] und bringen Sie sie zum Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra las <b>pruebas de pMOTHER en cajas de cargamento</b> [ALL_ITEMS] y llévalas al escáner de extracción en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <b>пробные образцы pMOTHER в грузовых контейнерах</b> ([ALL_ITEMS]) и отнесите к сканеру извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre as <b>amostras de teste da pMOTHER em caixas de carga</b> [ALL_ITEMS] e leve-as até o escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <b>próbki pMOTHER w skrzyniach ładunkowych</b> [ALL_ITEMS] i zanieś je do skanera punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b>荷物クレートでpMOTHERトライアルサンプル</b> [ALL_ITEMS] を見つけ、[EXTRACTION_ZONE]の脱出スキャンまで運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS] <b>화물 상자에서 pMOTHER 시험 샘플</b>을 찾고 [EXTRACTION_ZONE]의 탈출 스캔으로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到<b>貨物箱中的pMOTHER試驗樣本</b>[ALL_ITEMS]並帶到[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<b>货箱中的pMOTHER试验样本</b>[ALL_ITEMS]并将其带到[EXTRACTION_ZONE]的撤离扫描点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Retrieve_Essential_Items_2_Cargo_Crates_R2A1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3150633459
+}

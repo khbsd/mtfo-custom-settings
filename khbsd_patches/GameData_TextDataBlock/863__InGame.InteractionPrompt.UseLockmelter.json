@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use Lock Melter ",
+  "Description": "I.e. \"use your lock melter on this lock.\" This text string appears on screen when the player has a lock melter and is standing close to a padlock.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser la fondeuse à verrou",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa fondi-serratura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schlossschmelzer verwenden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar fundecerraduras",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать расплавитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar fundidor de fechadura",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj roztapiacza zamków",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックメルターを使う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "록멜터 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用熔鎖器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用熔锁器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.InteractionPrompt.UseLockmelter",
+  "internalEnabled": true,
+  "persistentID": 863
+}

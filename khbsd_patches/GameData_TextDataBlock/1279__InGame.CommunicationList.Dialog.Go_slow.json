@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go slow",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ralentissez",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Andate piano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Langsam",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Más despacio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Помедленнее",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vai com calma",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie tak szybko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゆっくり行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "천천히",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "慢慢來",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "慢点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Go_slow",
+  "internalEnabled": true,
+  "persistentID": 1279
+}

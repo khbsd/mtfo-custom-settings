@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Partial Power Outage in [ZONE_3] and [ZONE_4]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Panne de courant partielle dans la [ZONE_3] et la [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Interruzione parziale di corrente in [ZONE_3] e [ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Teilweiser Stromausfall in [ZONE_3] und [ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pérdida de energía parcial en [ZONE_3] y [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Частичное отключение электропитания в [ZONE_3] и [ZONE_4].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falta de energia parcial na [ZONE_3] e [ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Częściowa awaria zasilania w strefach [ZONE_3] i\u00A0[ZONE_4]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_3]および[ZONE_4]で部分的停電",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_3], [ZONE_4] 일부 전력 공급 중단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[ZONE_3]與[ZONE_4]部分電力中斷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_3]和[ZONE_4]部分区域断电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B3_Header",
+  "internalEnabled": true,
+  "persistentID": 695327022
+}

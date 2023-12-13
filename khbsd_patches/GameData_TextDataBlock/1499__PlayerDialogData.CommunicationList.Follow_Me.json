@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Follow me.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Suivez-moi.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seguitemi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Folgt mir.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "A seguirme.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "За мной.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aqui comigo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Za mną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ついて来い。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "따라와.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "跟我來。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跟着我。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Follow_Me",
+  "internalEnabled": true,
+  "persistentID": 1499
+}

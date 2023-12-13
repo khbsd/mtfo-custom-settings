@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will find computer terminals less responsive.",
+  "Description": "Describes the disadvantage of having a poor \"terminal use\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet a moins de facilités à utiliser les terminaux informatiques",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto incontrerà terminali meno reattivi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson kann Computer-Terminals weniger gut bedienen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las terminales de ordenador responderán menos ante el sujeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Менее эффективное использование компьютерных терминалов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Os terminais de computador ficam menos responsivos para o indivíduo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obsługa terminali komputerowych stanie się dla biorcy trudniejsza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象へのコンピュータ端末の反応が低下する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 사용하는 컴퓨터 터미널의 반응이 나빠집니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象會發現電腦終端反應較遲鈍。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电脑终端对于使用者的响应性降低。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ComputerProcessingSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 631
+}

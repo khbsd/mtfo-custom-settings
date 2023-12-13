@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse {0}",
+  "Description": "The mouse. The variable is a number between 0 and 9, representing mouse buttons.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouton de souris {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Botón del ratón {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кнопка мыши {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mouse {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk myszy {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标{0}键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Mouse_X",
+  "internalEnabled": true,
+  "persistentID": 195
+}

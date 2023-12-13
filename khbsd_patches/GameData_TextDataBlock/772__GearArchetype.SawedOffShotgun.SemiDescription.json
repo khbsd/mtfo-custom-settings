@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "High damage\nVery Short range\nFew shells in magazine",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts élevés\nTrès courte portée\nChargeur réduit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danni elevati\nGittata molto breve\nPoche cartucce nel caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hoher Schaden\nSehr kurze Reichweite\nWenige Kugeln im Magazin",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mucho daño\nMuy corto alcance\nPocos proyectiles en el cargador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Большой урон\nОчень малая дальность\nМало патронов в магазине",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alto dano\nMuito curto alcance\nPoucos projéteis no cartucho",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Duże obrażenia\nBardzo krótki dystans\nKilka nabojów w magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高ダメージ\n超近距離\n弾倉に数発のシェル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "높은 대미지\n초단거리\n저용량 탄창",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "高傷害\n極短射程\n彈匣中的砲彈很少",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高伤害\n超近程\n弹匣内弹丸极少",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SawedOffShotgun.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 772
+}

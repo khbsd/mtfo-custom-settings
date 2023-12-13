@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>SYSTEM ALERT</color>: Rapidly approaching biomass. Evacuation is advisable. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE SYSTÈME</color>\u00A0: biomasse en approche. Contact imminent. Nous vous recommandons d'évacuer. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>AVVISO DI SISTEMA</color>: biomassa in rapido avvicinamento. Evacuazione consigliata. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>SYSTEMALARM</color>: Rasch herannahende Biomasse. Evakuierung ist empfehlenswert. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ALERTA DE SISTEMA</color>: Biomasa se acerca a toda velocidad. Se recomienda evacuar el lugar. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОПОВЕЩЕНИЕ СИСТЕМЫ</color>: быстрое приближение биосигнатур. Рекомендуется эвакуация. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ALERTA DO SISTEMA</color>: Biomassa aproximando-se rapidamente. Evacuação aconselhada. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>ALARM SYSTEMOWY</color>: Szybko zbliżająca się biomasa. Zalecana ewakuacja. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>システム警報</color>：生体反応が急接近。避難推奨。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>시스템 경보</color>: 바이오매스 고속 접근 중. 대피를 권고합니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>系統警告</color>：生物質正在迅速接近。建議撤離。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>系统警告</color>：生物质正在迅速接近。建议撤离。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.Intel_Trickle_R8B3",
+  "internalEnabled": true,
+  "persistentID": 4142365708
+}

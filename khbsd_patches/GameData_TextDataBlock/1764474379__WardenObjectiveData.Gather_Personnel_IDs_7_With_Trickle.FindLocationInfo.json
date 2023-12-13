@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "L35ook for pe--rs%&onnel IDs in th###e com_Cxplex",
+  "Description": "The sentence is supposed to be \"broken\" in the way it's written, kind of like it's been hacked. \n\nIt's supposed to say \"Look for personnel IDs in the complex\". ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ch35erchez les ID de pe--rs%&onnel dans l###e com_Cxplexe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "C35ercare gli ID del pe--rs%&onale n###l com_plesso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Su35chen Sie nach --ers%&onal-IDs im K#omp_Lex.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "B35sca las ID del pe--rs%&onal en e###l com_Cxplejxo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Н4йдит3 идентифи%&ры сотру--к0в в к###ом_лексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pr35ocure IDs do pe--ss%&oal n###o com_Cxplexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Od35najdź iden%&tyfikatory p--ra%&cownicze w### kom_Cxpleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複###合_Cx施設で個--rs%&人IDを探35せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복###합ㅅ_설에서 개--%&인 ID를 찾35을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在###綜合_*設施中尋35找人--rs%&原ID",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在###e建_Cxplex寻35找--人%&员ID",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_7_With_Trickle.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1764474379
+}

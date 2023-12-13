@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the volume of effects.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le volume des effets sonores.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il volume degli effetti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Lautstärke der Effekte.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el volumen de los efectos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует громкость эффектов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o volume dos efeitos sonoros.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za głośność efektów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エフェクトの音量を決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "효과음 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制音效音量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制音效的音量。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.SFXVolume",
+  "internalEnabled": true,
+  "persistentID": 1861480130
+}

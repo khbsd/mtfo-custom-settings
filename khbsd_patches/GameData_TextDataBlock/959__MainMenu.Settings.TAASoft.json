@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TAA (Soft)",
+  "Description": "A visual/rendering feature. Only translate the word \"sharp\". This is sharp as in \"something with soft/smooth edges\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TAA (adouci)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TAA (morbido)",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "TAA (Weich)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TAA (suavidad)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "TAA (сглаживание)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TAA (suave)",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "TAA (rozmyte)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "TAA (ソフト)",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "TAA (부드러움)",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "TAA（柔和）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "TAA（柔和）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.TAASoft",
+  "internalEnabled": true,
+  "persistentID": 959
+}

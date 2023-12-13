@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick this up.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ramassez ça.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliete questo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aufheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoge esto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднимите.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegue isso.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieść to.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "これを拾ってくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이거 주워.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "把這個撿起來。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "捡起这个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Pick_This_Up",
+  "internalEnabled": true,
+  "persistentID": 1468
+}

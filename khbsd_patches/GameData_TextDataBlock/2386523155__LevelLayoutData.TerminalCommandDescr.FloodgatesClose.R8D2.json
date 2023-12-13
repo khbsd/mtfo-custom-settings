@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Seal off auxiliary floodway",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Condamnez le canal d'évacuation auxiliaire.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sigillare lo scolmatore ausiliario",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Riegeln Sie die zusätzlichen Hochwasserableitung ab.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierra la puerta hidráulica auxiliar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перекройте резервный канал водосброса.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selar o descarregador auxiliar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zamknij rezerwowy kanał odwadniający",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備水路を封鎖しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 방수로 폐쇄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封閉備用洩洪道",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封闭备用泄洪道",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.TerminalCommandDescr.FloodgatesClose.R8D2",
+  "internalEnabled": true,
+  "persistentID": 2386523155
+}

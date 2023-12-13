@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CRITICAL POWER FAILURE! Unable to maintain air filtration system. FOG RISE IMMINENT",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PANNE DE COURANT CRITIQUE\u00A0! Impossible de maintenir le système de filtration d'air. ÉMANATION DE BROUILLARD IMMINENTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MANCANZA ENERGIA CRITICA! Impossibile mantenere il sistema di filtrazione dell'aria. SALITA NEBBIA IMMINENTE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KRITISCHER STROMAUSFALL! Luftfiltersystem kann nicht aufrechterhalten werden. NEBELZUNAHME STEHT BEVOR!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡FALLO DE ENERGÍA CRÍTICO! No se puede mantener el sistema de filtración de aire. El aumento de niebla es inminente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КРИТИЧЕСКИЙ СБОЙ! Не удается поддерживать работу системы фильтрации воздуха. ОЖИДАЕТСЯ ЗАДЫМЛЕНИЕ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALHA DE ENERGIA CRÍTICA! Impossível manter o sistema de filtragem de ar. AUMENTO DE NÉVOA IMINENTE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KRYTYCZNA AWARIA ZASILANIA! Niemożliwe podtrzymanie systemu filtracji powietrza. NIEUCHRONNY WZROST POZIOMU MGŁY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "危機的停電！換気システムの維持不能。霧発生急迫",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "심각한 전력 결함 발생! 공기 여과 시스템을 유지할 수 없습니다. 안개 발생 임박",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嚴重電源故障！無法維持空氣過濾系統，即將起霧",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关键电源故障！无法维持空气过滤系统，即将起雾",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_3",
+  "internalEnabled": true,
+  "persistentID": 1834101806
+}

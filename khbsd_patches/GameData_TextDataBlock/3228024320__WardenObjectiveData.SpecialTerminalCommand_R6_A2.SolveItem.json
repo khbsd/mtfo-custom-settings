@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to input [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrez la commande [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire il comando [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fahren Sie mit der Eingabe von [SPECIAL_COMMAND] fort.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите команду [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a entrada [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź polecenie [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "先へ進んで[SPECIAL_COMMAND]を入力しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[SPECIAL_COMMAND] 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續輸入[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续输入“[SPECIAL_COMMAND]”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.SolveItem",
+  "internalEnabled": true,
+  "persistentID": 3228024320
+}

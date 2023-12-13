@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ITEM_ZONE] and find [ALL_ITEMS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ITEM_ZONE] et trouvez [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ITEM_ZONE] e trovare [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ITEM_ZONE] und finden Sie [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la [ITEM_ZONE] y encuentra los siguientes objetos: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ITEM_ZONE] и найдите предмет ([ALL_ITEMS]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até [ITEM_ZONE] e encontre [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy [ITEM_ZONE] i znajdź [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]で[ALL_ITEMS]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE](으)로 이동해 [ALL_ITEMS] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ITEM_ZONE]並找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ITEM_ZONE]并找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_One_Terminal_R2B3.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 1360896111
+}

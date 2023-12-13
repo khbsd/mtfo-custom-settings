@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SYNCING MATCH",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SYNCHORNISATION DU MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SINCRONIZZAZIONE ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIEL WIRD SYNCHRONISIERT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SINCRONIZANDO PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СИНХРОНИЗАЦИЯ ПОДБОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SINCRONIZANDO PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SYNCHRONIZACJA GRY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチ同期中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치 동기화 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "同步配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在同步匹配",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.SyncingMatch",
+  "internalEnabled": true,
+  "persistentID": 248
+}

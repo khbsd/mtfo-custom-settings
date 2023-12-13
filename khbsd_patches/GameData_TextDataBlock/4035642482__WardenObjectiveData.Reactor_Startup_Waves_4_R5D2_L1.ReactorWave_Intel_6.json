@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! -- Critical Temperature reached! Sequence corrupted... Door to [ZONE_6] unlocked",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0! -- Température critique atteinte\u00A0! Séquence corrompue... Porte vers la [ZONE_6] déverrouillée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! -- Raggiunta temperatura critica! Sequenza danneggiata… Porta per zona 6 [ZONE_6] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – Kritische Temperatur erreicht! Sequenz fehlerhaft\u00A0… Tür zu [ZONE_6] entriegelt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! ¡Se ha alcanzado una temperatura crítica! Secuencia dañada. La puerta a la [ZONE_6] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Достигнута критическая температура! Цикл поврежден... Дверь в [ZONE_6] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! -- Temperatura crítica atingida! Sequência corrompida... Porta para [ZONE_6] destravada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – osiągnięto temperaturę krytyczną! Uszkodzenie sekwencji... Odblokowano drzwi do strefy [ZONE_6]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ -- 危機的温度に到達！シークエンス失敗... [ZONE_6]へのドアがロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! -- 치명적 온도 도달! 절차 장애 발생... [ZONE_6] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！-- 已達到臨界溫度！序列受損……通往[ZONE_6]的門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！-- 已达到危急温度！序列受损……[ZONE_6]的门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R5D2_L1.ReactorWave_Intel_6",
+  "internalEnabled": true,
+  "persistentID": 4035642482
+}

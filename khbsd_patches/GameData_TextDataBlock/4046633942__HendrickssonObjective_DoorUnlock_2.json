@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Maintenance mode accepted, opening security <color=orange>layer bravo.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mode maintenance accepté, ouverture de la couche de sécurité <color=orange>Bravo</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Modalità manutenzione accettata, apertura <color=orange>livello di sicurezza Bravo.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wartungsmodus aktiviert, Sicherheitsebene <color=orange>Bravo</color> wird geöffnet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Modo de mantenimiento aceptado, abriendo <color=orange>capa bravo</color> de seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим техобслуживания принят. Открываем <color=orange>уровень безопасности Браво</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Modo de manutenção aceito; abrindo segurança de <color=orange>camada bravo.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tryb serwisowy przyjęty, otwieranie <color=orange>warstwy zabezpieczeń bravo.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メンテナンスモードを受理、セキュリティ<color=orange>レイヤー・ブラボー</color>を開放中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점검 모드 승인. 보안 <color=orange>레이어 브라보</color> 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "維護模式已接受，正在開啟安全<color=orange>Bravo層</color>。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "维护模式已接受，正在开启安全<color=orange>布拉沃层</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "HendrickssonObjective_DoorUnlock_2",
+  "internalEnabled": true,
+  "persistentID": 4046633942
+}

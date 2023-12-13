@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HACK SCAN TO STOP ALARM!",
+  "Description": "A text that proposes to the player that they should hack the scan in order to stop (silence) an alarm.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PIRATEZ LE SCANNER POUR ARRÊTER L'ALARME\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MANOMETTI SCANNER PER FERMARE L'ALLARME!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HACK-SCAN ZUM ALARMAUSSCHALTEN!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡HACKEA EL ESCÁNER PARA DESACTIVAR LA ALARMA!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВЗЛОМАЙТЕ СКАНЕР, ЧТОБЫ ОТКЛЮЧИТЬ ТРЕВОГУ!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "HACKEIE PARA PARAR O ALARME!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SFORSUJ SKANOWANIE, ABY WYŁĄCZYĆ ALARM!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャンをハッキングして警報を止めろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔을 해킹해 경보를 멈추세요!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "破解掃描以阻止警報響起！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "侵入扫描以停止警报！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.HackScanToStopAlarm",
+  "internalEnabled": true,
+  "persistentID": 880
+}

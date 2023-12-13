@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WAR%#NING: Voltage dr_¤ i--n elec_¤¤#l power syst52;#m....</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALE%#RTE\u00A0: chute de ten_¤ion d--ans le syst_¤¤#ème d'alimen52;#ion....</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red></color>ATT%#NZIONE: cad_¤ d--i tens¤¤#e nell'impi52;#to elet_¤¤#co...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WAR%#NUNG: Span_¤sabf--ll i_¤¤#m Stromne52;#z....</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>AD%#ENCIA: baja_¤ de tensión e--n el sist52;#ma eléc_¤¤#l...</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИ%#МАНИЕ: ут_¤ ч--а напряжения в сист52;#м. элек_¤¤#ропитания...</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVI%#SO: Sist52;#ma de energia eléc_¤¤#a com dr_¤ n--agem de voltagem....</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZ%#ŻENIE: sp_¤ek-- nap_¤¤#ięcia syst52;#mu instalacji elek_¤¤#cznej....</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>WAR%#NING: 電圧 dr_¤ i--n elec_¤¤#l 電力 syst52;#m....</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>WAR%#NING: Voltage dr_¤ i--n elec_¤¤#l power syst52;#m....</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警%#告：電壓流_¤失電_¤¤#力系52;#統……</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警%#告：电压dr_¤ i--n elec_¤¤#l电源系52;#统……</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.ReactorStartup.R7E1.Zone9.DoorOpen.LightsOut",
+  "internalEnabled": true,
+  "persistentID": 2478217108
+}

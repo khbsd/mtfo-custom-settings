@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the keyboard to write commands.\nUse [Enter/Return] to execute commands.\nUse [Backspace] to erase a character\nUse [TAB] to autocomplete your command.\nUse [Up Arrow] to traverse your earlier executed commands.\nPress [ESC] to exit\n\nType \"COMMANDS\" to get a list of all available commands.",
+  "Description": "The [] indicates a keyboard button. Don't localize COMMANDS.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Utilisez le clavier pour saisir des commandes.\nUtilisez [Entrée/Retour] pour exécuter des commandes.\nUtilisez [Ret. Arr.] pour effacer un caractère.\nUtilisez [TAB] pour compléter automatiquement la commande.\nUtilisez [Haut] pour parcourir les commandes déjà exécutées.\nAppuyez sur [Échap] pour quitter.\n\nSaisissez \"COMMANDS\" pour consulter la liste des commandes disponibles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare la tastiera per scrivere i comandi.\nUsare [Invio] per eseguire i comandi.\nUsare [Backspace] per cancellare un carattere\nUsare [TAB] per completare automaticamente il comando.\nUsare [Freccia su] per scorrere i comandi eseguiti in precedenza.\nPremere [ESC] per uscire\n\nDigitare \"COMMANDS\" per ottenere un elenco di tutti i comandi disponibili.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verwenden Sie die Tastatur, um Befehle einzugeben.\nNutzen Sie [Enter/Return], um Befehle auszuführen.\nNutzen Sie [Backspace], um ein Zeichen zu löschen.\nNutzen Sie [TAB], um Ihren Befehl automatisch zu vervollständigen.\nNutzen Sie [Up Arrow], um bereits ausgeführte Befehle durchzublättern.\nDrücken Sie [ESC] zum Verlassen.\n\nGeben Sie „COMMANDS“ ein, um eine Liste aller verfügbaren Befehle zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el teclado para escribir comandos.\nUsa [Enter/Intro] para ejecutar comandos.\nUsa [Retroceso] para borrar un carácter.\nUsa [TAB] para autocompletar el comando.\nUsa [Flecha arriba] para recorrer los comandos ejecutados anteriormente.\nPulsa [ESC] para salir.\n\nEscribe «COMMANDS» para ver una lista de todos los comandos disponibles.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Печатайте команды на клавиатуре.\nНажмите [Enter/Return], чтобы выполнить команду.\nНажмите [Backspace], чтобы стереть символ.\nНажмите [TAB], чтобы автоматически завершить команду.\nИспользуйте [Стрелку вверх], чтобы перейти к ранее выполненным командам.\nНажмите [ESC], чтобы выйти.\n\nНапечатайте COMMANDS, чтобы получить список всех доступных команд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o teclado para escrever comandos.\nUse [Enter/Return] para executar comandos.\nUse [Backspace] para apagar um caractere\nUse [TAB] para preencher automaticamente seu comando.\nUse [Up Arrow] para examinar seus comandos executados anteriormente.\nAperte [ESC] para sair\n\nDigite \"COMMANDS\" para obter uma lista de todos os comandos disponíveis.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj klawiatury do wprowadzania poleceń.\nUżyj klawisza [Enter/Return], aby wykonać polecenie.\nUżyj klawisza [Backspace], aby usunąć znak.\nUżyj klawisza [TAB], aby autouzupełnić polecenie.\nUżyj klawisza [Up Arrow], aby przeglądać wcześniej wykonane polecenia.\nUżyj klawisza [ESC]\n\nWprowadź polecenie COMMANDS, aby uzyskać listę wszystkich dostępnych poleceń.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーボードを使用してコマンドを入力。\n[Enter/Return]でコマンドを実行。\n[Backspace]で文字を削除\n[TAB]でコマンドをオートコンプリート。\n[Up Arrow]で以前に実行したコマンドへ移動。\n[ESC]で終了\n\n\"COMMANDS\"と入力して全ての利用可能なコマンドの一覧を表示。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키보드로 명령을 작성합니다.\n[Enter/Return]으로 명령을 실행합니다.\n[Backspace]로 글자를 지웁니다.\n[TAB]으로 명령을 자동 완성합니다.\n[위쪽 화살표]로 이전에 실행한 명령을 탐색합니다.\n[ESC]를 눌러 나갑니다.\n\n\"COMMANDS\"를 입력해 사용 가능한 모든 명령 목록을 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用鍵盤寫入指令。\n使用[Enter/Return]執行指令。\n使用[Backspace]去除字元。\n使用[TAB]自動補全指令。\n使用[向上箭頭]瀏覽之前執行過的指令。\n按[ESC]退出。\n\n輸入「COMMANDS」取得所有可用指令的清單。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用键盘写入命令。\n使用[Enter/Return]执行命令。\n使用[Backspace]去除字符。\n使用[TAB]自动补全命令。\n使用上箭头键浏览之前执行过的命令。\n按[ESC]退出。\n\n输入\"COMMANDS\"获取所有可用命令列表。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.HelpCommandOutput",
+  "internalEnabled": true,
+  "persistentID": 3947660647
+}

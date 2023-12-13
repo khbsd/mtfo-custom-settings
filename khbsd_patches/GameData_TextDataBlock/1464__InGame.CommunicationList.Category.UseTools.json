@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deploying Tools",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployer les outils",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Posizionamento strumenti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsatz von Werkzeugen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uso de herramientas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установка устройств",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alocando ferramentas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użycie narzędzi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツール展開",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "部署工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "部署工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.UseTools",
+  "internalEnabled": true,
+  "persistentID": 1464
+}

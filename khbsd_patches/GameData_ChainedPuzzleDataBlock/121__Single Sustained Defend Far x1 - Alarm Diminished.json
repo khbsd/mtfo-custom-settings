@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S I Diminished Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 57,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 12.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 13
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Defend Far x1 - Alarm Diminished",
+  "internalEnabled": true,
+  "persistentID": 121
+}

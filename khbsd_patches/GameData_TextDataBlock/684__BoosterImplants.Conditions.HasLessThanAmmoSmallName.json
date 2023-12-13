@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Has Less Than 10% Ammo In Clip",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have \"less than 10% ammo in the clip of their weapon\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Moins de 10\u00A0% de munitions restantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Meno del 10% di munizioni nel caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hat weniger als 10\u00A0% Munition im Magazin",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Menos del 10\u00A0% de munición en el clip",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Менее 10% боеприпасов в обойме",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tem menos de 10% de munição no pente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mniej niż 10% stanu amunicji w magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "弾倉内の弾薬が10%未満",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탄창에 탄약 10% 미만",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "彈夾中的彈藥少於10%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "弹匣中弹药少于10%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasLessThanAmmoSmallName",
+  "internalEnabled": true,
+  "persistentID": 684
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The display mode of the game window",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le mode d'affichage de la fenêtre de jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La modalità di visualizzazione della finestra di gioco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Der Anzeigemodus des Spielfensters.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El modo de pantalla en la ventana del juego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим для игрового окна.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O modo de exibição da janela do jogo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Określa tryb wyświetlania okna gry.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームウィンドウの表示モード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 창 표시 모드입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遊戲視窗的顯示方式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "游戏窗口的显示模式。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.FullScreenMode",
+  "internalEnabled": true,
+  "persistentID": 2585573338
+}

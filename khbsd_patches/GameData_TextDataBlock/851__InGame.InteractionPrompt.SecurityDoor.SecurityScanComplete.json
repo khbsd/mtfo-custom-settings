@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security Scan Complete, door unlocked.",
+  "Description": "A text string that informs the player that they have successfuly completed a security scan and that the security door that required the scan has been unlocked.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Analyse de sécurité terminée, porte déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansione di sicurezza completata, porta sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsscan abgeschlossen, Tür entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Análisis de seguridad completado. Puerta abierta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проверка безопасности завершена, дверь открыта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escaneamento de segurança concluído; porta aberta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sekwencja skanowania zakończona, drzwi odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャン完了、ドア開錠。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 검색 완료, 문 열림",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全掃描完成，門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全扫描完成，门已打开。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.SecurityScanComplete",
+  "internalEnabled": true,
+  "persistentID": 851
+}

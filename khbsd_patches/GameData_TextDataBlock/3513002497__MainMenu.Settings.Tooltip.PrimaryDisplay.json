@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The monitor the game should be displayed on.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit le moniteur d'affichage du jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il monitor su cui deve essere visualizzato il gioco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Der Monitor, auf dem das Spiel angezeigt werden soll.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El monitor donde se mostrará el juego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Монитор, на котором воспроизводится игра.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O monitor do jogo em que o jogo deve ser exibido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ekran wyświetlania okna gry.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームを表示するモニター。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 화면을 표시하는 모니터입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "用來玩遊戲的顯示器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "呈现游戏界面的显示器。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.PrimaryDisplay",
+  "internalEnabled": true,
+  "persistentID": 3513002497
+}

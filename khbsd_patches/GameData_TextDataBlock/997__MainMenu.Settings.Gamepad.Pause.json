@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pause",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pause",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pausa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pause",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pausa",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пауза",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pausar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk wstrzymywania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ポーズ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "일시 중지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "暫停",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "暂停",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Pause",
+  "internalEnabled": true,
+  "persistentID": 997
+}

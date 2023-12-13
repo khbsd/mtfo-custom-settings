@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": true,
+  "English": "D-Lock Block: *unauthorized access... logging*\r\nWRDN: override\r\nACCESS -BIOCOM -29$525GVTHR2%456FS\r\nInstantiating BIOCOM.net(CLI)...\r\nready:_\r\nauthorized…\r\nconnecting...\r\n\\\\Root\\?_\r\n\\\\Root\\RETURN MWP//bin/loc/membranes\r\n622811 entries found\r\nProcessing...\r\nWait...\r\nWait...\r\nWait...\r\n42188 new membranes found\r\nWRDN(update.local)\r\nCalculating distribution strategy...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nWait...\r\nready:_\r\nWRDN(update.meta)\r\nUpdating WRDN(local) (1/1054748013)\r\nUpdating WRDN(local) (2/1054748013)\r\nUpdating WRDN(local) (3/1054748013)\r\nUpdating WRDN(local) (4/1054748013)\r\nUpdating WRDN(local) (5/1054748013)\r\n\r\nFile too long. Output paused.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Blocage D-Lock : *accès non autorisé... journalisation*\nWRDN : remplacement\nACCÈS - BIOCOM -29$525GVTHR2%456FS\nInstanciation de BIOCOM.net(CLI)...\nprêt:_\nautorisé…\nde liaison...\n\\\\Racine\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranes\n622811 entrées trouvées\nTraitement...\nAttendre...\nAttendre...\nAttendre...\n42188 nouvelles membranes trouvées\nWRDN (mise à jour.local)\nCalcul de la stratégie de distribution...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nAttendre...\nprêt:_\nWRDN(mise à jour.meta)\nMise à jour de WRDN (local) (1/1054748013)\nMise à jour de WRDN (local) (2/1054748013)\nMise à jour de WRDN (local) (3/1054748013)\nMise à jour de WRDN (local) (4/1054748013)\nMise à jour de WRDN (local) (5/1054748013)\n\nFichier trop long. Sortie en pause.\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Blocco D-Lock: *accesso non autorizzato... registrazione*\nWRDN: sovrascrivere\nACCESSO - BIOCOM -29$525GVTHR2%456FS\nBIOCOM.net(CLI)...\npronto:_\nautorizzato…\ncollegamento...\n\\\\Radice\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranes\n622811 voci trovate\nIn lavorazione...\nAttesa...\nAttesa...\nAttesa...\nTrovate 42188 nuove membrane\nWRDN(aggiornamento.locale)\nCalcolo della strategia di distribuzione...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\nAttesa...\npronto:_\nWRDN(aggiornamento.meta)\nAggiornamento WRDN(locale) (1/1054748013)\nAggiornamento WRDN(locale) (2/1054748013)\nAggiornamento WRDN(locale) (3/1054748013)\nAggiornamento WRDN(locale) (4/1054748013)\nAggiornamento WRDN(locale) (5/1054748013)\n\nFile troppo lungo. Uscita in pausa.\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "D-Lock Block: *unbefugter Zugriff ... Protokollierung*\nWRDN: überschreiben\nZUGANG - BIOCOM -29$525GVTHR2%456FS\nInstanziierung von BIOCOM.net(CLI)...\nbereit:_\nautorisiert…\nverbinden...\n\\\\Wurzel\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranes\n622811 Einträge gefunden\nWird bearbeitet...\nWarte ab...\nWarte ab...\nWarte ab...\n42188 neue Membranen gefunden\nWRDN(update.local)\nVerteilungsstrategie berechnen...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nWarte ab...\nbereit:_\nWRDN(update.meta)\nAktualisieren von WRDN (lokal) (1/1054748013)\nAktualisieren von WRDN (lokal) (2/1054748013)\nAktualisieren von WRDN (lokal) (3/1054748013)\nAktualisieren von WRDN (lokal) (4/1054748013)\nAktualisieren von WRDN (lokal) (5/1054748013)\n\nDatei zu lang. Ausgabe angehalten.\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bloqueo D-Lock: *acceso no autorizado... registro*\nWRDN: anular\nACCESO - BIOCOM -29$525GVTHR2%456FS\nInstanciando BIOCOM.net(CLI)...\nListo:_\nautorizado…\nconectando...\n\\\\Raíz\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranas\n622811 entradas encontradas\nProcesando...\nEsperar...\nEsperar...\nEsperar...\n42188 nuevas membranas encontradas\nWRDN(actualizar.local)\nCalculando la estrategia de distribución...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nEsperar...\nListo:_\nWRDN(actualizar.meta)\nActualización de WRDN (local) (1/1054748013)\nActualización de WRDN (local) (2/1054748013)\nActualización de WRDN (local) (3/1054748013)\nActualización de WRDN (local) (4/1054748013)\nActualización de WRDN (local) (5/1054748013)\n\nArchivo demasiado largo. Salida en pausa.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Блокировка D-Lock: *несанкционированный доступ... регистрация*\nWRDN: переопределить\nДОСТУП - BIOCOM -29$525GVTHR2%456FS\nСоздание экземпляра BIOCOM.net(CLI)...\nготовы:_\nуполномоченный…\nподключение...\n\\\\Корень\\?_\n\\\\Root\\RETURN MWP//bin/loc/мембраны\n622811 записей найдено\nОбработка...\nЖдать...\nЖдать...\nЖдать...\nНайдено 42188 новых мембран\nWRDN(обновление.локальный)\nРасчет стратегии дистрибуции...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nЖдать...\nготовы:_\nWRDN(обновление.мета)\nОбновление WRDN (локальный) (1/1054748013)\nОбновление WRDN (локальный) (2/1054748013)\nОбновление WRDN (локальный) (3/1054748013)\nОбновление WRDN (локальный) (4/1054748013)\nОбновление WRDN (локальный) (5/1054748013)\n\nСлишком длинный файл. Вывод приостановлен.\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bloco D-Lock: *acesso não autorizado... registro*\nWRDN: substituir\nACESSO - BIOCOM -29$525GVTHR2%456FS\nInstanciando BIOCOM.net(CLI)...\npronto:_\nautorizado…\nconectando...\n\\\\Raiz\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranas\n622811 entradas encontradas\nEm processamento...\nEspere...\nEspere...\nEspere...\n42188 novas membranas encontradas\nWRDN(atualização.local)\nCalculando a estratégia de distribuição...\nEspere...\nEspere...\nEspere...\nEspere...\nEspere...\nEspere...\nEspere...\nEspere...\nEspere...\npronto:_\nWRDN(atualização.meta)\nAtualizando WRDN(local) (1/1054748013)\nAtualizando WRDN(local) (2/1054748013)\nAtualizando WRDN(local) (3/1054748013)\nAtualizando WRDN(local) (4/1054748013)\nAtualizando WRDN(local) (5/1054748013)\n\nArquivo muito longo. Saída pausada.\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada D-Lock: *nieautoryzowany dostęp... logowanie*\nWRDN: nadpisanie\nDOSTĘP - BIOCOM -29$525GVTHR2%456FS\nTworzenie instancji BIOCOM.net(CLI)...\ngotowy:_\nupoważniony…\nzłączony...\n\\\\Źródło\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranes\nZnaleziono 622811 wpisów\nPrzetwarzanie...\nCzekać...\nCzekać...\nCzekać...\nZnaleziono 42188 nowych membran\nWRDN(aktualizacja.lokalny)\nObliczanie strategii dystrybucji...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\nCzekać...\ngotowy:_\nWRDN(aktualizacja.meta)\nAktualizowanie WRDN (lokalnie) (1/1054748013)\nAktualizowanie WRDN (lokalnie) (2/1054748013)\nAktualizowanie WRDN (lokalnie) (3/1054748013)\nAktualizowanie WRDN (lokalnie) (4/1054748013)\nAktualizowanie WRDN (lokalnie) (5/1054748013)\n\nPlik za długi. Wyjście wstrzymane.\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "D-Lock Block: *不正アクセス...ロギング*\nWRDN: オーバーライド\nアクセス - BIOCOM -29$525GVTHR2%456FS\nBIOCOM.net(CLI) をインスタンス化しています...\n準備：_\n認可された…\n接続中...\n\\\\根\\？_\n\\\\Root\\RETURN MWP//bin/loc/membranes\n622811 エントリが見つかりました\n処理...\n待って...\n待って...\n待って...\n42188 の新しい膜が見つかりました\nWRDN(更新.ローカル)\n配布戦略を計算しています...\n待って...\n待って...\n待って...\n待って...\n待って...\n待って...\n待って...\n待って...\n待って...\n準備：_\nWRDN(アップデート.メタ)\nWRDN (ローカル) の更新 (1/1054748013)\nWRDN(ローカル)の更新 (2/1054748013)\nWRDN (ローカル) の更新 (3/1054748013)\nWRDN(ローカル)の更新 (4/1054748013)\nWRDN (ローカル) の更新 (5/1054748013)\n\nファイルが長すぎます。出力を一時停止しました。\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "D-잠금 차단: *무단 액세스... 로깅*\nWRDN: 재정의\n액세스 - BIOCOM -29$525GVTHR2%456FS\nBIOCOM.net(CLI) 인스턴스화 중...\n준비가 된:_\n인정 받은…\n연결 중...\n\\\\뿌리\\?_\n\\\\Root\\RETURN MWP//bin/loc/membranes\n622811개 항목을 찾았습니다.\n처리 중...\n기다리다...\n기다리다...\n기다리다...\n42188개의 새로운 막 발견\nWRDN(업데이트.로컬)\n배포 전략 계산 중...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n기다리다...\n준비가 된:_\nWRDN(업데이트.메타)\nWRDN(로컬) 업데이트 중 (1/1054748013)\nWRDN(로컬) 업데이트 중(2/1054748013)\nWRDN(로컬) 업데이트 중(3/1054748013)\nWRDN(로컬) 업데이트 중(4/1054748013)\nWRDN(로컬) 업데이트 중(5/1054748013)\n\n파일이 너무 깁니다. 출력이 일시 중지되었습니다.\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "D-Lock 块：*未经授权的访问...记录*\nWRDN：覆盖\n访问 - BIOCOM -29$525GVTHR2%456FS\n实例化BIOCOM.net(CLI)...\n准备好：_\n授权…\n连接...\n\\\\根\\？_\n\\\\Root\\RETURN MWP//bin/loc/膜\n找到 622811 个条目\n加工...\n等待...\n等待...\n等待...\n发现 42188 个新膜\nWRDN(update.local)\n正在计算分配策略...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n准备好：_\nWRDN(更新.meta)\n更新 WRDN（本地）(1/1054748013)\n更新 WRDN（本地）(2/1054748013)\n更新 WRDN（本地）(3/1054748013)\n更新 WRDN（本地）(4/1054748013)\n更新 WRDN（本地）(5/1054748013)\n\n文件太长。输出暂停。\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "D-Lock 塊：*未經授權的訪問...記錄*\nWRDN：覆蓋\n訪問 - BIOCOM -29$525GVTHR2%456FS\n實例化BIOCOM.net(CLI)...\n準備好：_\n授權…\n連接...\n\\\\根\\？_\n\\\\Root\\RETURN MWP//bin/loc/膜\n找到 622811 個條目\n加工...\n等待...\n等待...\n等待...\n發現 42188 個新膜\nWRDN(update.local)\n正在計算分配策略...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n等待...\n準備好：_\nWRDN(更新.meta)\n更新 WRDN（本地）(1/1054748013)\n更新 WRDN（本地）(2/1054748013)\n更新 WRDN（本地）(3/1054748013)\n更新 WRDN（本地）(4/1054748013)\n更新 WRDN（本地）(5/1054748013)\n\n文件太長。輸出暫停。\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LOG_02ALT_570808_01_t_R2B4_ACH",
+  "internalEnabled": true,
+  "persistentID": 2919353898
+}

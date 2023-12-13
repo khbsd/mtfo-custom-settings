@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Display Data on Discord",
+  "Description": "This settings makes the user actions, such as, what map is it playing, lobby state, etc. be shown on Discord, or not",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Afficher les infos sur Discord",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra dati su Discord",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Daten auf Discord anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mostrar datos en Discord",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображение данных в Discord",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exibir Dados no Discord",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetlaj dane na Discordzie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Discordにデータを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Discord에 데이터 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在Discord上顯示資料",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在Discord上显示数据",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.DisplayDataOnDiscord",
+  "internalEnabled": true,
+  "persistentID": 3028571487
+}

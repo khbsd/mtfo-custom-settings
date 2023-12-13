@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PROGRESS",
+  "Description": "Referring to the players progress towards unlocking a vanity item",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROGRESSION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVANZAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FORTSCHRITT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PROGRESO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОГРЕСС",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PROGRESSO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POSTĘP",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "進行",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "진행도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.IProgressTab",
+  "internalEnabled": true,
+  "persistentID": 2506911266
+}

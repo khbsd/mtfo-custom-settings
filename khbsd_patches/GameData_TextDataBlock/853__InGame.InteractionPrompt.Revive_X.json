@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Revive {0}",
+  "Description": "I.e. \"revive this teammate\", i.e. help a downed teammate back up. This text string appears on screen when the player is standing close to a downed teammate, to indicate what action can be performed by pressing the appropriate keyboard key/button. The \"{0}\" is replaced by the name of key/button in question, do not alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réanimer {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rianima {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wiederbeleben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Resucitar {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Возродить {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reviver {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Reanimuj {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を復活",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소생 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "復活{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "复活{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Revive_X",
+  "internalEnabled": true,
+  "persistentID": 853
+}

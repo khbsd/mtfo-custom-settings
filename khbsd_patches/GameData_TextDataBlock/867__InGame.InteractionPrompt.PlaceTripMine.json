@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Place Trip Mine",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Placer une mine à déclencheur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Posiziona mina adesiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolpermine platzieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Colocar mina de detección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установить мину с лазерным датчиком",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Posicionar mina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozmieść minę z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トリップマインを設置",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인 설치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "放置絆雷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "布置绊雷",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.PlaceTripMine",
+  "internalEnabled": true,
+  "persistentID": 867
+}

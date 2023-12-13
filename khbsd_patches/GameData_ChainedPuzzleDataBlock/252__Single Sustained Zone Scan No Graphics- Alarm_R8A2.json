@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S Z Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 133,
+  "SurvivalWavePopulation": 35,
+  "SurvivalWaveAreaDistance": 0,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 47
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Zone Scan No Graphics- Alarm_R8A2",
+  "internalEnabled": true,
+  "persistentID": 252
+}

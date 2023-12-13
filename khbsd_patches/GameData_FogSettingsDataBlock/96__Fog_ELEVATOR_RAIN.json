@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.6886792,
+    "g": 0.6886792,
+    "b": 0.6886792
+  },
+  "FogDensity": 0.0004,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.2,
+  "DensityNoiseScale": 0.04,
+  "DensityHeightAltitude": 0.0,
+  "DensityHeightRange": 0.0,
+  "DensityHeightMaxBoost": 0.0,
+  "Infection": 0.0,
+  "name": "Fog_ELEVATOR_RAIN",
+  "internalEnabled": true,
+  "persistentID": 96
+}

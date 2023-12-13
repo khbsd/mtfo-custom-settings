@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Type \"HELP\" to get help using the terminal.\nType \"COMMANDS\" to get a list of all available commands.\nPress [ESC] to exit",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Saisissez \"HELP\" pour en savoir plus sur l'utilisation du terminal.\nSaisissez \"COMMANDS\" pour consulter la liste des commandes disponibles.\nAppuyez sur Échap pour quitter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Digitare \"HELP\" per ottenere aiuto sull'uso del terminale.\nDigitare \"COMMANDS\" per ottenere un elenco di tutti i comandi disponibili.\nPremere [ESC] per uscire",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "„HELP“ eingeben, um Hilfe bei der Benutzung des Terminals zu erhalten.\n„COMMANDS“ eingeben, um eine Liste aller verfügbaren Befehle zu erhalten.\nZum Verlassen [ESC] drücken.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escribe \"HELP\" para ver ayuda sobre el uso del terminal.\nEscribe \"COMMANDS\" para ver una lista de comandos disponibles.\nPulsa [ESC] para salir.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Напечатайте HELP, чтобы получить справку по использованию терминала.\nНапечатайте COMMANDS, чтобы получить список всех доступных команд.\nНажмите ESC, чтобы выйти.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Digite \"HELP\" para obter ajuda usando o terminal.\nDigite \"COMMANDS\" para obter uma lista de todos os comandos disponíveis.\nAperte [ESC] para sair",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź polecenie HELP, aby uzyskać pomoc w korzystaniu z terminalu.\nWprowadź polecenie COMMANDS, aby uzyskać listę dostępnych poleceń.\nNaciśnij [ESC], aby wyjść",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末の使用に関するヘルプを参照するには\"HELP\"と入力してください。\n全ての利用可能なコマンドの一覧を見るには\"COMMANDS\"と入力してください。\n[ESC]を押すと終了します",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\"HELP\"를 입력해 터미널 사용에 대한 도움 받기\n\"COMMANDS\"를 입력해 사용 가능한 모든 명령 목록 받기\n[ESC]를 눌러 나가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用終端輸入「HELP」以取得協助。\n輸入「COMMANDS」以取得所有可用指令清單。\n按[ESC]退出",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用终端输入“HELP”以获取帮助。\n输入“COMMANDS”以获取所有可用命令列表。\n按[ESC]退出",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.HelpCommandsAndESCIntro",
+  "internalEnabled": true,
+  "persistentID": 1401133733
+}

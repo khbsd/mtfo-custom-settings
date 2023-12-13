@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>ZONE 68</color> secured with cipher combination. Download decryption keys from [4] sector terminals.\n",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la <color=orange>ZONE\u00A068</color> sécurisée par une combinaison chiffrée. Téléchargez les clés de décryptage à partir de [4]\u00A0terminaux de secteur.\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>ZONE 68</color> protetta con combinazione cifrata. Scaricare le chiavi di decrittazione dai terminali del settore [4].\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>ZONE\u00A068</color> mit Chiffrierkombination gesichert. Dechiffrierschlüssel von [4]\u00A0Sektorterminals herunterladen.\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la <color=orange>ZONE 68</color> se ha protegido con una combinación de cifrado. Descarga las claves de descifrado de [4] terminales de sector.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в <color=orange>ZONE 68</color> защищена кодом. Загрузите ключи шифрования из [4] терминалов сектора.\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>ZONE 68</color> protegida com combinação de cifras. Baixe chaves de decodificação pelos terminais do setor [4].\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 68 [ZONE_68]</color> zabezpieczone szyfrem. Pobierz klucze deszyfrujące z [4] terminali sektorowych.\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 68</color>へのドアは暗号の組み合わせで保護。 [4]セクター端末より解読キーをダウンロード。\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "암호 조합으로 <color=orange>ZONE 68</color> 문이 잠겼습니다. 섹터 터미널 [4]개에서 암호 키를 다운로드하십시오.\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>ZONE 68</color>的門受到密碼保護。從[4]個分區終端下載解碼密鑰。\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往<color=orange>ZONE 68</color>的门受到密码保护。从[4]个分区终端下载解密密钥。\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "R8A2.MainObjective_Decryption_ApproachMirror",
+  "internalEnabled": true,
+  "persistentID": 3648731244
+}

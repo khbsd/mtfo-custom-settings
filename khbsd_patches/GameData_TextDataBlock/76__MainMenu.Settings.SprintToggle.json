@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sprint Toggle",
+  "Description": "A setting that allows players to make it so that they sprint in the game by toggling sprinting on/off by tapping a button, rather than holding the button down continuously.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Courir en continu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scatto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprinten umschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esprint (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удержание бега",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alternância de corrida",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. sprint",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダッシュ切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "질주 켜기/끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "衝刺切換",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冲刺开关",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SprintToggle",
+  "internalEnabled": true,
+  "persistentID": 76
+}

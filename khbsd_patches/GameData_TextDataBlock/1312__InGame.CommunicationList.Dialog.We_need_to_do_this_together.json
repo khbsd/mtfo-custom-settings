@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need to do this together",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Concertons-nous",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dobbiamo farlo insieme",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir müssen das zusammen tun",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Somos un equipo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действуем вместе",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos fazer isso juntos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Musimy zrobić to razem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "協力してやろう",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다시 하자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要一起合作",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们得一起上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.We_need_to_do_this_together",
+  "internalEnabled": true,
+  "persistentID": 1312
+}

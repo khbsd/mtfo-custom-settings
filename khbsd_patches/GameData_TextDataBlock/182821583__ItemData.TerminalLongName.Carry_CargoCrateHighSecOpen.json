@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY CARGO CRATE OPEN",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CAISSON SÉCURISÉ OUVERT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CASSA DI MERCI DI SICUREZZA APERTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSFRACHTKISTE ÖFFNEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CAJA DE CARGAMENTO DE SEGURIDAD ABIERTA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТКРЫТЫЙ ЗАЩИЩЕННЫЙ ГРУЗОВОЙ КОНТЕЙНЕР",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CAIXA DE CARGA DE SEGURANÇA ABERTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OTWARTA ZABEZP. SKRZYNIA ŁADUNKOWA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティ荷物クレート（開）",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개봉된 보안 화물 상자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "打開的安全貨物箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全货箱开启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Carry_CargoCrateHighSecOpen",
+  "internalEnabled": true,
+  "persistentID": 182821583
+}

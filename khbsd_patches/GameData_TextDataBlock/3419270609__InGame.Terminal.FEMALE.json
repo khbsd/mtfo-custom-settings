@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FEMALE",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "F",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DONNA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WEIBLICH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MUJER",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЖЕНЩИНА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MULHER",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KOBIETA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "女性",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여성",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "女",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "女",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.FEMALE",
+  "internalEnabled": true,
+  "persistentID": 3419270609
+}

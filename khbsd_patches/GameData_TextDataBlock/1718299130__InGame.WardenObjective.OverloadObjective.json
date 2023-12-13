@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Overload Objective",
+  "Description": "A headline for the text that describes the mission's overload objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif de surcharge",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo sovraccarico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Herausforderungsziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Objetivo de sobrecarga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Специальная цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Objetivo de sobrecarga",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel nadmiarowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーバーロード目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고위험 목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "超載目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "附加目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective.OverloadObjective",
+  "internalEnabled": true,
+  "persistentID": 1718299130
+}

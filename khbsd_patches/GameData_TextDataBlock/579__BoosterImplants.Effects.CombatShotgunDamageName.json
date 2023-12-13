@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CombatShotgun Damage",
+  "Description": "I.e. how much damage you can deal with a combat shotgun.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil de combat",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da canna liscia da combat.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KampfSchrotflinten-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de escopeta de combate",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (боевой дробовик)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil de combate",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od strzelby bojowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンバットショットガンダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전투 산탄총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "戰鬥霰彈槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "战斗霰弹枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.CombatShotgunDamageName",
+  "internalEnabled": true,
+  "persistentID": 579
+}

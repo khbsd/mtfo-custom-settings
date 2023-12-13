@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <color=orange><size=150%>Data Sphere</color></size> in <size=150%>[ZONE_4]</size> and bring it to the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez la <color=orange><size=150%>sphère de données</color></size> dans la <size=150%>[ZONE_4]</size> et apportez-la au scanner d'évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare la <color=orange><size=150%>sfera dati</color></size> nella <size=150%>[ZONE_4]</size> e portarla alla scansione di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die <color=orange><size=150%>Datenkugel</color></size> in <size=150%>[ZONE_4]</size> und bringen Sie sie zum Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la <color=orange><size=150%>esfera de datos</color></size> en la <size=150%>[ZONE_4]</size> y llévala al escáner de extracción de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange><size=150%>сферу данных</color></size> в <size=150%>[ZONE_4]</size> и отнесите к сканеру извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontrar a <color=orange><size=150%>esfera de dados</color></size> na <size=150%>[ZONE_4]</size> e levá-la até o escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange><size=150%>sferę danych</color></size> w <size=150%>strefie 4 [ZONE_4]</size> i zanieś ją do skanera punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<size=150%>[ZONE_4]</size>で<color=orange><size=150%>データスフィア</color></size>を見つけ、[EXTRACTION_ZONE]の脱出スキャンまで運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Find the <color=orange><size=150%>Data Sphere</color></size> in <size=150%>[ZONE_4]</size> and bring it to the extraction scan in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到<size=150%>[ZONE_4]</size>中的<color=orange><size=150%>資料球</color></size>並將其帶到[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<size=150%>[ZONE_4]</size>中的<color=orange><size=150%>数据球</color></size>并将其带到[EXTRACTION_ZONE]的撤离扫描点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "Gamescom.MainObjective_MainObjective_Copy",
+  "internalEnabled": true,
+  "persistentID": 3653438313
+}

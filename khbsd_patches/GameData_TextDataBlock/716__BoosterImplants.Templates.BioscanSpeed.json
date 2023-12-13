@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PURE",
+  "Description": "The name of a category of boosters that affect how easy it is for bioscans to scan the subject.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REIN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PUREZA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЧИСТОТА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "NITIDEZ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CZYSTOŚĆ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ピュア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "순수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "純粹",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "纯粹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.BioscanSpeed",
+  "internalEnabled": true,
+  "persistentID": 716
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURE THE DATA CUBES",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SAISISSEZ-VOUS DES CUBES DE DONNÉES.",
+    "ShouldTranslate": true
+  },
+  "Italian": {
+    "Translation": "PROTEGGERE I CUBI DI DATI",
+    "ShouldTranslate": true
+  },
+  "German": {
+    "Translation": "SICHERN SIE DIE DATENWÜRFEL [DATA_CUBE].",
+    "ShouldTranslate": true
+  },
+  "Spanish": {
+    "Translation": "PROTEGE LOS CUBOS DE DATOS",
+    "ShouldTranslate": true
+  },
+  "Russian": {
+    "Translation": "ЗАЩИТИТЕ КУБЫ ДАННЫХ [DATA_CUBE].",
+    "ShouldTranslate": true
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PROTEGER O CUBO DE DADOS [DATA_CUBE]",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "ZABEZPIECZ KOSTKI DANYCH",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "データキューブを確保しろ",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 확보",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "取得資料方塊[DATA_CUBE]",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "获取数据立方[DATA_CUBE]",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 1,
+  "name": "R8E2_LevelLayoutData.ObjectiveUpdate_10",
+  "internalEnabled": true,
+  "persistentID": 1966410185
+}

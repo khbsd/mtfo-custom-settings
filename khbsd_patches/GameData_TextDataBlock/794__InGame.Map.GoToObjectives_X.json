@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OBJECTIVES & BOOSTERS{0}",
+  "Description": "A headline for the info page where the player can read detailed information about the mission's objective and the boosters (performance enhancing drugs) they have injected. Do not alter the \"{0}\" characters.The variable is the keybinding the player have selected to open the objectives & boosters page with.\n{0} is the keybinding the player have selected to open the objectives & boosters page with.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIFS & BOOSTERS{0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVI E POTENZIAMENTI{0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZIELE & BOOSTER{0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVOS Y POTENCIADORES {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦЕЛИ И УСИЛИТЕЛИ {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVOS E IMPULSOS{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CELE I WZMACNIACZE{0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標とブースター{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 및 부스터{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}目標與強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标与强化剂{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.GoToObjectives_X",
+  "internalEnabled": true,
+  "persistentID": 794
+}

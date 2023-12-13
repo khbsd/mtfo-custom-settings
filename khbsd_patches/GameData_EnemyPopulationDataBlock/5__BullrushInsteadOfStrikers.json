@@ -1,0 +1,182 @@
+{
+  "RoleDatas": [
+    {
+      "Role": 0,
+      "Difficulty": 0,
+      "Enemy": 30,
+      "Cost": 1.5,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 0,
+      "Enemy": 28,
+      "Cost": 6.0,
+      "Weight": 0.1
+    },
+    {
+      "Role": 0,
+      "Difficulty": 1,
+      "Enemy": 30,
+      "Cost": 1.5,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 1,
+      "Enemy": 28,
+      "Cost": 6.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 1,
+      "Difficulty": 0,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 0,
+      "Enemy": 18,
+      "Cost": 4.0,
+      "Weight": 0.15
+    },
+    {
+      "Role": 1,
+      "Difficulty": 1,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 1,
+      "Enemy": 18,
+      "Cost": 4.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 5,
+      "Difficulty": 0,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 5,
+      "Difficulty": 1,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 5,
+      "Difficulty": 2,
+      "Enemy": 20,
+      "Cost": 5.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 2,
+      "Enemy": 30,
+      "Cost": 1.5,
+      "Weight": 1.0
+    },
+    {
+      "Role": 0,
+      "Difficulty": 2,
+      "Enemy": 28,
+      "Cost": 6.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 1,
+      "Difficulty": 2,
+      "Enemy": 26,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 1,
+      "Difficulty": 2,
+      "Enemy": 18,
+      "Cost": 4.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 4,
+      "Difficulty": 0,
+      "Enemy": 28,
+      "Cost": 3.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 0,
+      "Enemy": 18,
+      "Cost": 3.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 4,
+      "Difficulty": 0,
+      "Enemy": 24,
+      "Cost": 1.0,
+      "Weight": 0.5
+    },
+    {
+      "Role": 4,
+      "Difficulty": 1,
+      "Enemy": 28,
+      "Cost": 3.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 1,
+      "Enemy": 18,
+      "Cost": 3.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 4,
+      "Difficulty": 2,
+      "Enemy": 28,
+      "Cost": 2.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 4,
+      "Difficulty": 2,
+      "Enemy": 18,
+      "Cost": 2.0,
+      "Weight": 0.3
+    },
+    {
+      "Role": 3,
+      "Difficulty": 0,
+      "Enemy": 24,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 3,
+      "Difficulty": 2,
+      "Enemy": 24,
+      "Cost": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "Role": 2,
+      "Difficulty": 0,
+      "Enemy": 30,
+      "Cost": 3.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "BullrushInsteadOfStrikers",
+  "internalEnabled": true,
+  "persistentID": 5
+}

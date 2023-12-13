@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prepared verification subpairing {0}. Use command <color=orange>{1}</color> to initialize timed verification.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appairage de vérification {0} préparé. Utilisez la commande <color=orange>{1}</color> pour démarrer la vérification chronométrée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbinamento verifica {0} preparato. Utilizzare il comando <color=orange>{1}</color> per inizializzare la verifica a tempo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierungspaarung {0} vorbereitet. Nutzen Sie den Befehl <color=orange>{1}</color>, um die zeitgesteuerte Verifizierung zu initialisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Secuencia {0} de la verificación preparada. Utiliza el comando <color=orange>{1}</color> para inicializar la verificación cronometrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовлена попарная верификация {0}. Используйте команду <color=orange>{1}</color>, чтобы запустить синхронизированную верификацию.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Subpareamento de verificação preparado {0}. Use o comando <color=orange>{1}</color> para inicializar a verificação cronometrada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przygotowano subparowanie weryfikacji {0}. Użyj polecenia <color=orange>{1}</color>, aby zainicjować weryfikację czasową.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証サブペアリング{0}の準備完了。<color=orange>{1}</color>コマンドを使用して同期認証を初期化せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 하위 페어링 {0} 준비됨. <color=orange>{1}</color> 명령을 사용해 시한 승인 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已準備驗證子配對{0}。使用指令<color=orange>{1}</color>來初始化限時驗證。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已准备验证子配对{0}。使用<color=orange>{1}</color>命令初始化定时验证。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_PreparedSubpairing_X_Y",
+  "internalEnabled": true,
+  "persistentID": 2528335003
+}

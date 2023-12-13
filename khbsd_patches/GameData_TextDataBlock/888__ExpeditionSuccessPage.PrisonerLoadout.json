@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PRISONER LOADOUT:",
+  "Description": "A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is a headline for the list of equipment each player was carrying during the attempt.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ARSENAL DU PRISONNIER\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTREZZ. PRIGIONIERO:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GEFANGENER-AUSRÜSTUNG:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EQUIPO DE PRISIONERO:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОМПЛЕКТ ЗАКЛЮЧЕННОГО:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARSENAL DO PRISIONEIRO:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYPOSAŻENIE WIĘŹNIA:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人のロードアウト:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 장비 구성:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯裝備：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯配装：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.PrisonerLoadout",
+  "internalEnabled": true,
+  "persistentID": 888
+}

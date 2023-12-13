@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to Extraction",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere all'estrazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zum Extraktionspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa a la extracción.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Двигайтесь к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prosseguir para a Extração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do punktu ewakuacyjnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脱出に進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탈출 장소로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續前往撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.GoToExtraction_Header",
+  "internalEnabled": true,
+  "persistentID": 329729751
+}

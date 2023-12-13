@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "L35ook for the --rs%&pered Data Cube in th###e com_Cxplex",
+  "Description": "Don't localize Data Cube.\nThe idea here is that the text shoud look corrupted, like something have distorted the message.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "C35erchez le cube de données --rs%&téré [TAMPERED_DATA_CUBE]\u00A0dans l###e com_Cxplexe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "C35ercare il cubo di dati ma--rs%&esso n###l com_plesso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Su35chen Sie den --ipul%&ierten Datenwürfel [TAMPERED_DATA_CUBE] im K#omp_Lex.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "B35sca el cubo de datos --co%&rrupto [TAMPERED_DATA_CUBE] en e###l com_Cxplejxo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Н4йдит3 в0сст4н0вл%ый куб данных [DATA_CUBE] в к###ом_лексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pr35ocure o cubo de dados --rs%&terado [DATA_CUBE] n###o com_Cxplexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Od35najdź --zma%&waną kostkę danych w### kom_Cxpleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合_Cx施設で--rs%&竄データキューブ[TAMPERED_DATA_CUBE]を探35せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복###합ㅅ_설에서 [DATA_CUBE] 데이터 큐브를 찾%&을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在###綜合_*設施中尋35找--rs%&資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在###e建_Cxplex寻35找--rs%&pered数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Tempered_Data_Cube.Override.Custom.Subobjective_find_Location_info",
+  "internalEnabled": true,
+  "persistentID": 1395
+}

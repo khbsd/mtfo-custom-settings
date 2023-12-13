@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Scan",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 27
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "single x1 R6C1 Narrative lock 2",
+  "internalEnabled": true,
+  "persistentID": 147
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Warning. Hull interior layer has been breached. Immediate evacuation advised.</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Alerte\u00A0: la couche intérieure de la coque a été percée. Évacuation immédiate recommandée.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Attenzione. Lo strato interno dello scafo è stato violato. Consigliata l'evacuazione immediata.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Warnung. Die innere Schicht des Rumpfes wurde durchbrochen. Empfehle sofortige Evakuierung.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Advertencia. Se ha roto la capa interior del casco. Se recomienda la evacuación inmediata</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание! Внутренний слой корпуса поврежден. Рекомендуется немедленная эвакуация.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Aviso. Camada interior da couraça infringida. Evacuação imediata aconselhada.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Ostrzeżenie. Wewnętrzna warstwa kadłuba naruszona. Zalecana natychmiastowa ewakuacja.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告。船体内層が破損。直ちに避難しろ。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고. 선체 내부 층이 뚫렸습니다. 즉시 대피하시기 바랍니다.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。艙體內層遭入侵。建議立即撤離。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告。舱体内层已被侵入。建议立即撤离。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8_A1_6",
+  "internalEnabled": true,
+  "persistentID": 1793511594
+}

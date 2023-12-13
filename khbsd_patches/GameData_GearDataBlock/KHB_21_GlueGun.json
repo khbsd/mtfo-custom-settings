@@ -1,0 +1,42 @@
+{
+  "officialForRelease": true,
+  "publicName": "Glue Gun",
+  "baseItemID": 73,
+  "weaponPersonalityID": 35,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 0.325,
+  "PublicGearInfo": "Enemy slowdown\r\nDoor reinforcement\r\nGlue traps\n",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": false,
+      "ID": 12,
+      "partName": "WPN_MP5_FlashlightGrip_Tungsten"
+    },
+    {
+      "allowed": false,
+      "ID": 6,
+      "partName": "WPN_MP5_FlashlightGrip_xenon"
+    }
+  ],
+  "sightsAllowed": [],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_GlueGun",
+  "internalEnabled": true,
+  "persistentID": 21
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate a <color=orange>Fog Turbine</color>to locate the HSU",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez une <color=orange>turbine à brouillard</color> pour localiser la HSU.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare una <color=orange>turbina antinebbia</color> per trovare l'HSU",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktivieren Sie eine <color=orange>Nebelturbine</color>, um die HSU zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa una <color=orange>turbina de niebla</color> para encontrar las HSU.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте <color=orange>дымовую турбину</color>, чтобы найти HSU.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ative uma <color=orange>turbina de névoa</color> para encontrar o HSU",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom <color=orange>turbinę mgielną</color>, aby zlokalizować HSU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>霧タービン</color>を起動してHSUを見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>안개 터빈</color>을 활성화해 HSU 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動<color=orange>霧渦輪</color>來定位HSU",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激活<color=orange>雾涡轮</color>来定位HSU",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B3_SubObjective_1",
+  "internalEnabled": true,
+  "persistentID": 4143638343
+}

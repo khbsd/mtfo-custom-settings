@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Information saved to Data Cube. Initiate next writing sequence. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Information sauvegardée dans le cube de données [DATA_CUBE]. Lancez la séquence d'écriture suivante.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Informazioni salvate nel cubo di dati [DATA_CUBE]. Avviare la sequenza di scrittura successiva.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Informationen auf Datenwürfel gespeichert. Initiiere nächste Schreibsequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Información guardada en el cubo de datos [DATA CUBE]. Iniciar próxima secuencia escrita.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Информация сохранена на куб данных [DATA_CUBE]. Запустите следующий цикл записи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Informações salvas no cubo de dados [DATA_CUBE]. Iniciar próxima sequência de gravação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Informacje zostały zapisane w kostce danych. Uruchom następną sekwencję zapisu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]に情報が保存された。次の書き込みシーケンスを開始しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브에 정보가 저장됐습니다. 다음 작성 절차 실시.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資訊已儲存至資料方塊[DATA_CUBE]。啟動下一個撰寫序列。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "信息已保存至数据立方[DATA_CUBE]。启动下一个书写序列。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.MainObjective.Overload_SequenceDone_R8C1",
+  "internalEnabled": true,
+  "persistentID": 3138787566
+}

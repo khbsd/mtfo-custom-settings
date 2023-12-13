@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Med efficiency",
+  "Description": "A player can apply medication to his/her teammates, and \"med efficiency\" is a term/quality that indicates how proficient the player is in this role.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Efficacité des soins",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Competenza medica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Med.-Effizienz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Eficacia de botiquines",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффективность лечения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Eficiência méd.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Efektywność medyczna",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "薬剤効能",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "의료 팩 효율",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "醫療效率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "治疗效率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.HealSupportName",
+  "internalEnabled": true,
+  "persistentID": 515
+}

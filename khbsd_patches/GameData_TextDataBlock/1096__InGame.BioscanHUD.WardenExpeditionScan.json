@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARDEN EXPEDITION SCAN",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE D'EXPÉDITION DU GARDIEN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE SPEDIZIONE GUARDIANO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AUFSEHER-EXPEDITIONSSCAN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANÁLISIS DE EXPEDICIÓN DEL GUARDIÁN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА ЭКСПЕДИЦИИ СМОТРИТЕЛЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO DA GUARDA DA EXPEDIÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIE EKSPEDYCJI STRAŻNIKA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ウォーデンエクスペディションスキャン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "교도관 탐사 스캔",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "典獄長遠征掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "督察任务扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.WardenExpeditionScan",
+  "internalEnabled": true,
+  "persistentID": 1096
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ITEMS REQUIRED TO SCAN:",
+  "Description": "Show in the HUD when a certain item is needed inside the Bioscan.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJETS REQUIS POUR L'ANALYSE\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OGGETTI NECESSARI PER SCANSIONE:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZUM SCANNEN ERFORDERLICHE GEGENSTÄNDE:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETOS NECESARIOS PARA EL ANÁLISIS:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕОБХОДИМЫЕ ПРЕДМЕТЫ ДЛЯ ПРОВЕРКИ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ITENS NECESSÁRIOS PARA ESCANEAR:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYMAGANE DO SKANOWANIA:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャンが必要なアイテム：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔에 필요한 아이템:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要掃描的物品：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要扫描的物品：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.ItemsRequiredToScan",
+  "internalEnabled": true,
+  "persistentID": 1083
+}

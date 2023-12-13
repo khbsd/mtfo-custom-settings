@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ONLY ONE EMPLOYEE ALLOWED IN SCAN!",
+  "Description": "Prompting the player to leave the Bioscan, since only one player is allowed inside of it and someone else is already there.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "UN SEUL EMPLOYÉ AUTORISÉ POUR L'ANALYSE\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "UN SOLO DIPENDENTE PER SCANSIONE!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NUR EIN MITARBEITER IM SCAN ZUGELASSEN!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡SOLO PUEDE HABER UN EMPLEADO EN EL ANÁLISIS!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "К ПРОВЕРКЕ ДОПУСКАЕТСЯ ОДИН ЧЕЛОВЕК!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "APENAS UM FUNCIONÁRIO É PERMITIDO NO ESCÂNER!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIU MOŻE BYĆ PODDANY TYLKO JEDEN PRACOWNIK!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャンは1人にしか行えない！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "한 명만 스캔할 수 있습니다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "只允許一名員工進行掃描！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "仅允许一名员工进入扫描区！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.OnlyOneEmployee",
+  "internalEnabled": true,
+  "persistentID": 1091
+}

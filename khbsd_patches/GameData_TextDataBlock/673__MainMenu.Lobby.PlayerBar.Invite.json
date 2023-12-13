@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "invite",
+  "Description": "As in \"invite a player to the game lobby.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inviter",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Invita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einladen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Invitar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пригласить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "convidar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "zaproś",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "招待",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초대",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "邀請",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "邀请",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Invite",
+  "internalEnabled": true,
+  "persistentID": 673
+}

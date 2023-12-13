@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles if the Photosensitivity Warning should show at launch.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit l'affichage de l'avertissement de photosensibilité au lancement du jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attiva/disattiva la visualizzazione dell'avviso sulla fotosensibilità all'avvio.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Legt fest, ob die Lichtempfindlichkeit-Warnung beim Start angezeigt werden soll.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se alterna si el aviso de fotosensibilidad apareciera al iniciarse.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает/выключает предупреждение для людей с фоточувствительностью при запуске игры.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna se o aviso de fotossensibilidade deve ser mostrado ao iniciar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza/wyłącza wyświetlanie ostrzeżenia dotyczącego padaczki fotogennej przy uruchomieniu gry.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "起動時に光感受性に関する警告を表示するかどうかを切り替える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 실행 시 광과민성 경고 표시 여부를 선택합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換是否在啟動時顯示光敏感警告。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，游戏启动时会显示光敏警告。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.PhotosensitivityWarning",
+  "internalEnabled": true,
+  "persistentID": 2184751742
+}

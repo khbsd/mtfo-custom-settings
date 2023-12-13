@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle Map",
+  "Description": "Control key binding/mapping. This key toggles the full-screen map on/off.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer/désactiver la carte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mappa ON/OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karte öffnen/schließen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mapa (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открыть карту",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar mapa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. mapę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップ切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맵 열기/닫기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換地圖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换地图",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ToggleMap",
+  "internalEnabled": true,
+  "persistentID": 156
+}

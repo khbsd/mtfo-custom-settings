@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reactor power reroute operation complete.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Opération de redirection de l'énergie du réacteur terminée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedura di deviazione energia reattore completata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Umleitung der Reaktorenergie abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Operación de redirección de energía del reactor completada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Питание реактора перенаправлено.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Operação de redirecionamento elétrico do reator concluída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekierowanie mocy reaktora ukończone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター電源リルート完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 전력 재경로 작업 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器電力重新路由操作完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆电能重路由操作完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenIntel.PowerTransfer_R7_C3_Secondary",
+  "internalEnabled": true,
+  "persistentID": 1133237027
+}

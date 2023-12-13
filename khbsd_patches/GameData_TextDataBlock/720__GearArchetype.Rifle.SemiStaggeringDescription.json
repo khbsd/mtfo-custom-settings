@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nMid to long range\nBlunthead rounds\nStaggering effect",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nMoyenne à longue portée\nBalles contondantes\nEffet déstabilisant",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata da media a lunga\nProiettili arrotondati\nEffetto stordente",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nMittlere bis große Reichweite\nStumpfkopf-Kugeln\nTorkel-Wirkung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nMedio a largo alcance\nBalas de punta blanda\nEfecto tambaleante",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nСредняя или большая дальность\nТупоконечные пули\nЭффект оглушения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomático\nMédio a longo alcance\nMunição pontiaguda\nEfeito desestabilizante",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nŚredni i długi dystans\nPociski półpłaszczowe z miękkim wierzchołkiem\nWywołuje zachwianie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n中距離から長距離\n鈍頭弾\nよろめき効果",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n중장거리\n블런트헤드탄\n경직 효과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n中長程\n鈍頭彈\n踉蹌效果",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n中到远程\n钝头子弹\n踉跄效果",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.SemiStaggeringDescription",
+  "internalEnabled": true,
+  "persistentID": 720
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Program Data Cubes from terminal on <color=orange>Sublevel 2</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Programmez les cubes de données [DATA_CUBE] à partir du terminal du <color=orange>sous-niveau\u00A02</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Programmare i cubi dati [DATA_CUBE] dal terminale del <color=orange>sottolivello 2</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Programmieren Sie die Datenwürfel [DATA_CUBE] am Terminal auf <color=orange>Unterebene 2</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Programa cubos de datos [DATA CUBE] en el terminal del <color=orange>subnivel 2</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал на <color=orange>подуровне 2</color> и запрограммируйте кубы данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Programar cubos de dados [DATA_CUBE] pelo terminal no <color=orange>subnível 2</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaprogramuj kostki danych z terminalu na <color=orange>podpoziomie 2</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>サブレベル2</color>の端末からデータキューブ[DATA CUBE]をプログラムしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>서브레벨 2</color>의 터미널 프로그램 [DATA_CUBE] 데이터 큐브",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<color=orange>地下2層</color>的終端編寫資料方塊[DATA_CUBE]程式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从<color=orange>地下2层</color>的终端给数据立方[DATA_CUBE]编程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 3,
+  "name": "Warden.MainObjective.Overload_CustomHeader_2_R8C1",
+  "internalEnabled": true,
+  "persistentID": 825746736
+}

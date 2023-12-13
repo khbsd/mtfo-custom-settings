@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find a way to access terminal in the <color=orange>Control Room</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez un moyen d'accéder au terminal de la <color=orange>salle de commande</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare un modo per accedere al terminale nella <color=orange>sala controllo</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie einen Weg, um auf das Terminal im <color=orange>Schaltraum</color> zuzugreifen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra una ruta para acceder al terminal en la <color=orange>sala de control</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите способ получить доступ к терминалу в <color=orange>пункте управления</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontrar uma maneira de acessar o terminal na <color=orange>Sala de Controle</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź sposób, aby uzyskać dostęp do terminalu w <color=orange>sterowni</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>制御室</color>の端末へアクセスする方法を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>제어실</color>에서 터미널에 접속하는 방법 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "想辦法存取<color=orange>控制室</color>中的終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "想办法访问<color=orange>控制室</color>中的终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8A2.MainObjective.Drain_Sub",
+  "internalEnabled": true,
+  "persistentID": 3504494994
+}

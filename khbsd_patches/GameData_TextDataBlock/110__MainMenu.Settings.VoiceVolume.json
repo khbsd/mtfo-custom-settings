@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Volume",
+  "Description": "\"Voice\" refers to the voice of the players in voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume (voix)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume voci",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stimmlautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen de voces",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Громкость голосового чата",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume da voz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność głosów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceVolume",
+  "internalEnabled": true,
+  "persistentID": 110
+}

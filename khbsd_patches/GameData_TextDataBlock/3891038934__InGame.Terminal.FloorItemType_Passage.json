@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Passage",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Passage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Passaggio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Durchgang",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Проход",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Passagem",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejście",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通路",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경로",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通道",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通道",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemType_Passage",
+  "internalEnabled": true,
+  "persistentID": 3891038934
+}

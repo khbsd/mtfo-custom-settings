@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPLETE PRIORITY EXPEDITION {0}",
+  "Description": "Vanity item condition: completing a number of priority expeditions",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER L'EXPÉDITION PRIORITAIRE\u00A0{0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COMPLETA SPEDIZIONE PRIORITARIA {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHLIESSEN SIE {0} VORRANGIGE EXPEDITIONEN AB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COMPLETA EXPEDICIÓN PRIORITARIA {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОЙДИТЕ ПРИОРИТЕТНЫЕ ЭКСПЕДИЦИИ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUA A EXPEDIÇÃO PRIORITÁRIA {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UKOŃCZ EKSPEDYCJĘ PRIORYTETOWĄ {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了\u3000優先エクスペディション{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "우선 탐사 {0}개 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成優先遠征{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成优先任务{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.CompleteStoryExpedition",
+  "internalEnabled": true,
+  "persistentID": 3690470558
+}

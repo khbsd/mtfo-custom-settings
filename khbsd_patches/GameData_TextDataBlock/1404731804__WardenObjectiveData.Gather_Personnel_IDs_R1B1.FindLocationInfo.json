@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for personnel IDs in the complex",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez des pièces d’identité dans le complexe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare ID personale nel complesso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach Personal-IDs.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca las ID del personal en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите идентификаторы сотрудников в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure IDs de pessoal no complexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź identyfikatory pracownicze w kompleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内で個人IDを探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 개인 ID 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施中尋找人員ID",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找人员ID",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_R1B1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1404731804
+}

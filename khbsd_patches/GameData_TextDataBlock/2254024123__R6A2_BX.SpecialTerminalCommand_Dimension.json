@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activates shutdown protocol",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active le protocole d'arrêt",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attiva il protocollo di spegnimento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert das Abschaltungsprotokoll",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el protocolo de apagado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активирует протокол выключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa o protocolo de desligamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Aktywuje protokół wyłączenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シャットダウンプロトコル起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 프로토콜 가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動關閉協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启动关闭协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "R6A2_BX.SpecialTerminalCommand_Dimension",
+  "internalEnabled": true,
+  "persistentID": 2254024123
+}

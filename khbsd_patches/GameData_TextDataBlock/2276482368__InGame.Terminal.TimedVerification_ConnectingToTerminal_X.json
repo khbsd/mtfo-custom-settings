@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CONNECTING TO TERMINAL <color=orange>{0}</color> FOR TIMED VERIFICATION",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CONNEXION AU TERMINAL <color=orange>{0}</color> POUR VÉRIFICATION CHRONOMÉTRÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COLLEGAMENTO A TERMINALE <color=orange>{0}</color> PER VERIFICA A TEMPO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERBINDUNG ZU TERMINAL <color=orange>{0}</color> FÜR ZEITGESTEUERTE VERIFIZIERUNG WIRD HERGESTELLT\u00A0…",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CONECTANDO CON EL TERMINAL <color=orange>{0}</color> PARA VERIFICACIÓN CRONOMETRADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОДКЛЮЧЕНИЕ К ТЕРМИНАЛУ <color=orange>{0}</color> ДЛЯ СИНХРОНИЗИРОВАННОЙ ВЕРИФИКАЦИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONECTANDO AO TERMINAL <color=orange>{0}</color> PARA A VERIFICAÇÃO CRONOMETRADA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ŁĄCZENIE Z TERMINALEM <color=orange>{0}</color> W CELU WERYFIKACJI CZASOWEJ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "同期認証のため、端末<color=orange>{0}</color>に接続中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시한 승인을 위해 터미널<color=orange>{0}</color>에 연결",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在連線至終端<color=orange>{0}</color>進行限時驗證",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在连接到终端<color=orange>{0}</color>进行定时验证",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedVerification_ConnectingToTerminal_X",
+  "internalEnabled": true,
+  "persistentID": 2276482368
+}

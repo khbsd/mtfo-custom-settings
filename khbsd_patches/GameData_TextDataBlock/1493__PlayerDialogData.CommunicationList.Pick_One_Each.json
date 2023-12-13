@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick one each.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ramassez-en un chacun.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sceglietene uno a testa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Jeder einen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escoge uno.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "По врагу на каждого.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escolha um cada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybrać po jednym.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "それぞれ1対1でやれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하나씩 맡아.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "每人選一個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一人选一个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Pick_One_Each",
+  "internalEnabled": true,
+  "persistentID": 1493
+}

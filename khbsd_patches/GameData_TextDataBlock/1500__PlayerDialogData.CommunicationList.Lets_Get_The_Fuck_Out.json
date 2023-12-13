@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Let's get the fuck out.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Cassons-nous d'ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Andiamocene.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verschwinden wir.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salgamos de aquí cagando leches.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сваливаем отсюда.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vamos dar o fora.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Spierdalajmy stąd.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここから逃げ出そう。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기서 나가자.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們衝出去吧。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们赶紧出去。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Lets_Get_The_Fuck_Out",
+  "internalEnabled": true,
+  "persistentID": 1500
+}

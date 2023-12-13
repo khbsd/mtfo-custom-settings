@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} DOES NOT NEED TOOL AMMUNITION",
+  "Description": "This text appears on screen when the player tries to give tool ammunittion to a teammate whose inventory is full. The \"{0}\" is replaced by the name of the teammate, do not alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "LA RÉSERVE DE MUNITIONS D'OUTIL DE {0} EST PLEINE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} NON HA BISOGNO DI RISORSE PER STRUMENTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} BENÖTIGT KEINE WERKZEUGMUNITION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} NO NECESITA MUNICIÓN PARA HERRAMIENTAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИГРОКУ {0} НЕ ТРЕБУЕТСЯ ЗАРЯД ДЛЯ УСТРОЙСТВА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} NÃO PRECISA DE MUNIÇÃO DE FERRAMENTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} NIE POTRZEBUJE AMUNICJI DO NARZĘDZI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} にはツールの弾薬は不要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}에게는 도구 탄약이 필요하지 않습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}不需要工具彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}无需工具弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.X_DoesNotNeedToolAmmo",
+  "internalEnabled": true,
+  "persistentID": 836
+}

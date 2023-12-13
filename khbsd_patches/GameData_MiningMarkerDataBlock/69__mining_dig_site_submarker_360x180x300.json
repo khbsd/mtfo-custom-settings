@@ -1,0 +1,205 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        14
+      ],
+      [],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        1
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        6
+      ],
+      [
+        12,
+        14
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        1,
+        14,
+        11
+      ],
+      [],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        1,
+        14
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        14
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        1,
+        14
+      ],
+      [],
+      [
+        5,
+        10,
+        11
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        6,
+        13
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        5,
+        10,
+        11
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_02.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_03.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_04.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_05.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_06.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 0.4,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_07.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_08.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_09.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_01.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_10.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_11.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_12.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_13.prefab",
+        "function": 7,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_14.prefab",
+        "function": 15,
+        "Shard": 5
+      },
+      {
+        "weight": 0.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_360x180x300/dig_site_submarker_360x180x300_HA_15.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 4.0,
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_360x180x300",
+    "BoundingVolume": 19440.0
+  },
+  "name": "mining_dig_site_submarker_360x180x300",
+  "internalEnabled": true,
+  "persistentID": 69
+}

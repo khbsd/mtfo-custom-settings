@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Players & Bots",
+  "Description": "category name for when  slot is available to both players and bots",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Joueurs & bots",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Giocatori e bot",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spieler & Bots",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Jugadores y bots",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Игроки и ИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Jogadores e robôs",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gracze i boty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プレイヤーとボット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플레이어 & 봇",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "玩家與機器人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "玩家和机器人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Permissions.Free",
+  "internalEnabled": true,
+  "persistentID": 1148
+}

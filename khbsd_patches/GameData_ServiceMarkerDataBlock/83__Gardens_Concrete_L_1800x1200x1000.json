@@ -1,0 +1,104 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        3,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [],
+      [],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Concrete_L_1800x1200x1000/Gardens_Concrete_L_1800x1200x1000_V01.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Concrete_L_1800x1200x1000/Gardens_Concrete_L_1800x1200x1000_V02.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Concrete_L_1800x1200x1000/Gardens_Concrete_L_1800x1200x1000_V03.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Concrete_L_1800x1200x1000/Gardens_Concrete_L_1800x1200x1000_V04.prefab",
+        "function": 0,
+        "Shard": 7
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Gardens_Lab_L_1800x1200x1000",
+    "BoundingVolume": 2160000.0
+  },
+  "name": "Gardens_Concrete_L_1800x1200x1000",
+  "internalEnabled": true,
+  "persistentID": 83
+}

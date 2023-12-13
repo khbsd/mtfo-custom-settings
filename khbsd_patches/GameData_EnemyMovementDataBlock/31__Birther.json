@@ -1,0 +1,23 @@
+{
+  "ForceDisableAnimator": false,
+  "AnimationControllers": 1024,
+  "MoveSlowerWhenInPlayerRoom": false,
+  "MoveSlowerWithinTargetDistance": 20.0,
+  "GlobalAnimSpeedMulti": 1.5,
+  "PathMoveAnimSpeedMulti": 2.0,
+  "RotationLerp": 2.0,
+  "RotationLerpWhenNotMoving": 2.0,
+  "BlendIntoAttackAnim": 0.15,
+  "BlendIntoScreamAnim": 0.15,
+  "AllowMovmentBlendOutOfPathMove": false,
+  "PathMoveAnimDampTime": 0.05,
+  "AllowClimbDownLadders": false,
+  "LocomotionPathMove": 2,
+  "LocomotionHitReact": 7,
+  "LocomotionDead": 11,
+  "LocomotionShooterAttack": 18,
+  "LocomotionScream": 16,
+  "name": "Birther",
+  "internalEnabled": true,
+  "persistentID": 31
+}

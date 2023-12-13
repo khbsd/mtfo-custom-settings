@@ -1,0 +1,17 @@
+{
+  "Type": 1,
+  "Difficulty": 4,
+  "SpawnPlacementType": 1,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Sneak Boss Boss Squidward Align_0",
+  "internalEnabled": true,
+  "persistentID": 69
+}

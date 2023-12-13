@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to the forward exit point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point de sortie de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere il punto d'estrazione anteriore in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie weiter zum Austrittspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dirígete al punto de evacuación en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идите к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá até o ponto de saída avançado na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do wysuniętego punktu ewakuacyjnego w [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の先の脱出地点へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE] 위치의 탈출구로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[EXTRACTION_ZONE]的前進撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[EXTRACTION_ZONE]的前出口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.ConditionCustom_R7C3_L2",
+  "internalEnabled": true,
+  "persistentID": 2131583105
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Can't change language in expedition",
+  "Description": "A subtitle for the language settings that shows when the player is in an expedition. The language settings is disabled in expeditions and can only be changed in the Main Menu.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Impossible de changer la langue durant l'expédition.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impossibile cambiare la lingua durante una spedizione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprache kann nicht während einer Expedition geändert werden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No se puede modificar el idioma en la expedición",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Невозможно изменить язык во время экспедиции",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Impossível mudar o idioma durante a expedição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie można zmienić języka w trakcie ekspedycji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディション中は言語を変更できません",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사 중 언어를 변경할 수 없습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠征中無法更改語言",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "任务期间无法更改语言",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Language_Subtitle_InExpedition",
+  "internalEnabled": true,
+  "persistentID": 1338
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quadrant maintenance system unresponsive. Prisoners sent to establish uplink. High asset fatality rate expected.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Quadrant du système de maintenance inactif. Prisonniers envoyés pour établir une liaison montante. Taux de mortalité\u00A0: élevé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nessuna risposta dal sistema di manutenzione del quadrante. Prigionieri inviati per stabilire l'uplink. Previsto elevato tasso di mortalità delle risorse.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wartungssystem des Quadranten reagiert nicht. Gefangene entsandt, um Uplink herzustellen. Hohe Mortalitätsrate erwartet.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sistema de mantenimiento del cuadrante no responde. Prisioneros destinados a establecer el uplink. Índice de mortalidad de recursos estimado: elevado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система управления сектора не отвечает. Заключенным поручено восстановить подключение. Ожидаются высокие потери среди активов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema de manutenção do quadrante irresponsivo. Prisioneiros enviados para estabelecer uplink. Alta taxa de fatalidade de ativos esperada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Brak odpowiedzi systemu serwisowego kwadrantu. Wysłano więźniów w celu ustanowienia łącza. Szacowana wysoka śmiertelność zasobów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "四分円メンテナンスシステム応答なし。アップリンク確立のため、囚人を派遣。アセットの高死亡率が予想される。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사분면 점검 시스템이 응답하지 않습니다. 업링크 구축을 위해 수감자들을 파견했습니다. 높은 사망률이 예상됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "象限維護系統無回應。已派遣囚犯建立上行鏈路。預計資產死亡率高。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "象限维护系统无响应。囚犯派去建立上行链路。预计资源死亡率高。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_C1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2875509029
+}

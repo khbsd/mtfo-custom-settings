@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... Woah, we've done it now.  \r\n... We're out. We're OUT! \r\n... Are you blind? <size=200%><color=red>Look up.</color></size>",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... Ouah, on a réussi.  \r\n... On s'en est sortis... VIVANTS\u00A0! \r\n... T'es aveugle ou quoi\u00A0? <size=200%><color=red>Lève les yeux.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… Wow, ormai ce l'abbiamo fatta. \r\n… Siamo fuori. Siamo FUORI! \r\n… Sei cieco? <size=200%><color=red>Guarda in alto.</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… Wir haben es geschafft.\r\n… Wir sind draußen. Wir sind DRAUSSEN! \r\n… <size=200%><color=red>Sieh mal nach oben.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... La leche, lo hemos conseguido.  \r\n... Hemos salido... ¡Hemos salido! \r\n... ¿Pero tú estás cegato o qué? <size=200%><color=red>Mira para arriba.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Фух, справились.\r\n... Мы выбрались. Выбрались!\r\n... Глаза открой. <size=200%><color=red>Видишь?</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Uau, agora deu certo. \r\n... A gente saiu! A gente SAIU! \r\n... Não está enxergando? <size=200%><color=red>Olhe para cima.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…A niech mnie, udało się.  \r\n…Jesteśmy wolni. Jesteśmy WOLNI! \r\n...Ślepy jesteś? <size=200%><color=red>Spójrz w górę.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... うわっ、終わったぞ。  \r\n... 外だ。外に出た！ \r\n... 目がおかしいのか？ <size=200%><color=red>上を見ろ。</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 후, 다 했다.  \r\n... 나간다. 나간다! \r\n... 눈이 삐었나? <size=200%><color=red>위를 봐.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……哇，我們成功了。\r\n……我們出來了。我們出來了！\r\n你瞎了嗎？<size=200%><color=red>往上看。</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……哇哦，我们现在完成了。\r\n……我们出来了。我们出来了！\r\n你瞎了吗？<size=200%><color=red>往上看。</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_2_1.Roleplayed_Warden_Intel",
+  "internalEnabled": true,
+  "persistentID": 1545
+}

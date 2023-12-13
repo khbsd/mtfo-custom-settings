@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Display",
+  "Description": "A headline for display related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affichage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schermo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Anzeige",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pantalla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Экран",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Exibição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obraz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ディスプレイ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "디스플레이",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "顯示",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "显示",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.DisplayButton",
+  "internalEnabled": true,
+  "persistentID": 1459
+}

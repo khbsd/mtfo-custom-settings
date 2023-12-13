@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Cree",
+  "Description": "A language spoken in parts of Canada.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cree",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Cree",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cree",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кри",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cree",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kri",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クリー語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "크리어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "克里文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "克里语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Cree",
+  "internalEnabled": true,
+  "persistentID": 300
+}

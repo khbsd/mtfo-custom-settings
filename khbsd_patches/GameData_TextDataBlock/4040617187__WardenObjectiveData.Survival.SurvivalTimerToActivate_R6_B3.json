@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Establishing connection to <color=orange>[SANTONIAN_WIRE_UGC343]</color>, do not turn off your devices. Automatic download will start in:",
+  "Description": "Don't localize [sys_purge].",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Connexion à <color=orange>[SANTONIAN_WIRE_UGC343]</color> en cours, n'éteignez pas vos appareils. Le téléchargement automatique commencera dans\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stabilire la connessione a <color=orange>[SANTONIAN_WIRE_UGC343]</color>, non spegnere i dispositivi. Il download automatico inizierà tra:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbindung zu <color=orange>[SANTONIAN_WIRE_UGC343]</color> wird aufgebaut. Schalten Sie Ihre Geräte nicht aus. Der automatische Download beginnt in:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estableciendo conexión con <color=orange>[SANTONIAN_WIRE_UGC343]</color>, no apagues los dispositivos. La descarga automática comenzará en:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установка подключения: <color=orange>[SANTONIAN_WIRE_UGC343]</color>. Не отключайте устройства. Автозагрузка начнется через:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estabelecendo conexão com <color=orange>[SANTONIAN_WIRE_UGC343]</color>; não desligue seus dispositivos. Download automático começa em:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustanawianie połączenia z <color=orange>[SANTONIAN_WIRE_UGC343]</color>, nie wyłączaj urządzenia. Automatyczne pobieranie za:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[SANTONIAN_WIRE_UGC343]</color>への接続を確立中。デバイスの電源を切るな。自動ダウンロード開始まで：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[SANTONIAN_WIRE_UGC343]</color>에 연결 중입니다. 기기를 끄지 마십시오. 자동 다운로드 시작까지:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "建立與<color=orange>[SANTONIAN_WIRE_UGC343]</color>的連線，請勿關閉裝置。自動下載將在以下位置開始：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "与<color=orange>[SANTONIAN_WIRE_UGC343]</color>建立连接，不要关闭你的设备。自动下载开始倒计时：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Survival.SurvivalTimerToActivate_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 4040617187
+}

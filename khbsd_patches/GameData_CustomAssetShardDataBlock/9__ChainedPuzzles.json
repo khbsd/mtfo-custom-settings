@@ -1,0 +1,260 @@
+{
+  "BundleName": 5,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Big.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Small.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Small.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/ChainedPuzzleInstance.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_ExpeditionExit.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bigger_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Six.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Main.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Secondary.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Third.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bigger_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_small_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Sustained_Cluster_Big_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_MegaHuge_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_Huge_RequireAll .prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Checkpoint.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_D10_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving_3_random.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6A1_Narrative.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_1.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_2.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_3.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_4.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Hack.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving_R6D2.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_Medium_RequireAll.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_3_sides.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_Pouncer.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R7B1.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_wider.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_RequireExit.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B4.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B4_v2.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_R5B3.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Instant.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics_R8E1.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics_R8A2.prefab",
+      "Shard": 9
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Easy.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Medium.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Hard.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_MegaHuge_RequireAll_R8E1.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_A.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8C2_01.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8C2_02.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8C2_03.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_big_defend.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_01.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_02.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics_R8D1.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B2.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_R8C2.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_MegaCluster_R8B4.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_01.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_02.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_E2.prefab",
+      "Shard": 0
+    }
+  ],
+  "name": "ChainedPuzzles",
+  "internalEnabled": true,
+  "persistentID": 9
+}

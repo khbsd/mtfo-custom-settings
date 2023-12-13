@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OK",
+  "Description": "A classification of the vital condition of the players character. I.e. \"Vital condition: OK\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "OK",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OK",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "OK",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Aceptable",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "нормальное",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ok",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OK",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "OK",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정상",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "良好",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "良好",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.VitalsOk",
+  "internalEnabled": true,
+  "persistentID": 889
+}

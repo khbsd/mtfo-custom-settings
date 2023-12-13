@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Writing sequence complete. Data Cubes programmed with coordinates [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]. Proceed to forward exit point in [EXTRACTION_ZONE].",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Séquence d'écriture terminée. Cubes de données [DATA_CUBE] programmés avec les coordonnées [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]. Rendez-vous au point de sortie dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sequenza di scrittura completata. Cubi di dati [DATA_CUBE] programmati con coordinate [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]. Raggiungere il punto d'estrazione anteriore in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schreibsequenz abgeschlossen. Koordinaten [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] auf Datenwürfel [DATA_CUBE] gespeichert. Gehen Sie weiter zum vorderen Austrittspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Secuencia escrita completada. Cubos de datos [DATA CUBE] programados con las coordenadas [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]. Continúa hasta el punto de evacuación en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл записи завершен. Координаты [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] записаны в кубы данных [DATA_CUBE]. Идите к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sequência de gravação concluída. Cubos de dados [DATA_CUBE] programados com coordenadas [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]. Prossiga para o ponto de saída avançado na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sekwencja zapisu ukończona. Współrzędne [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] zapisane na kostkach danych. Przejdź do punktu ewakuacyjnego w [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "書き込みシーケンス完了。座標[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]がデータキューブ[DATA CUBE]にプログラムされた。[EXTRACTION_ZONE]で先の脱出地点へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "작성 절차 완료. [DATA_CUBE] 데이터 큐브가 [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] 좌표로 프로그래밍되었습니다. [EXTRACTION_ZONE]의 전방 탈출구로 이동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "撰寫序列完成。座標[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]已編入資料方塊[DATA_CUBE]。前往[EXTRACTION_ZONE]的前進撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "书写序列完成。坐标[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]已编入数据立方[DATA_CUBE]。前往[EXTRACTION_ZONE]的前出口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.MainObjective.Overload_FinalSequenceDone_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1329610727
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables name and info above your teammates.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affiche le nom et les informations des coéquipiers.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra nome e informazioni sopra i tuoi compagni di squadra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert Name und Infos Ihrer Teammitglieder.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el nombre e información de tus compañeros.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает имя и сведения над напарниками.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa o nome e informações acima dos seus aliados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza nazwę i informacje nad członkami drużyny.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームメイトの頭上に名前と情報を表示する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원 위에 이름과 정보를 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用隊友上方的名稱與資訊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在队友上方显示名字和信息。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.AlwaysShowTeammateInfo",
+  "internalEnabled": true,
+  "persistentID": 2357818294
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Empty Slot",
+  "Description": "An empty equipment slot.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Emplacement vide",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Slot vuoto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leerer Platz",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ranura vacía",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пустая ячейка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espaço livre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Puste miejsce",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カラのスロット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "빈 칸",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空欄位",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空槽",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.EmptySlot",
+  "internalEnabled": true,
+  "persistentID": 661
+}

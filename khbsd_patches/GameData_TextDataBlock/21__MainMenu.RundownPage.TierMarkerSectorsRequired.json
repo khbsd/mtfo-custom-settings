@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECTORS REQUIRED:",
+  "Description": "Expeditions (missions/maps) in GTFO have different sectors that are optional. Other expeditions can be locked and require you to beat a certain number of optional sectors (in other expeditions) in order to be unlocked. This headline goes above the list of required sectors, indicating the requirments to unlock a certain expedition.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SECTEURS REQUIS\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SETTORI NECESSARI:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ERFORDERLICHE SEKTOREN:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECTORES NECESARIOS:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕОБХОДИМО СЕКТОРОВ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SETORES NECESSÁRIOS:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYMAGANE SEKTORY:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "必要セクター:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "필요 섹터:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要分區：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需清理分区：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.TierMarkerSectorsRequired",
+  "internalEnabled": true,
+  "persistentID": 21
+}

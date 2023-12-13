@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [TARGET_ZONE]",
+  "Description": "Don't localize [TARGET_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Porte vers [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta a [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[TARGET_ZONE]へのドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[TARGET_ZONE] 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[TARGET_ZONE]的門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[TARGET_ZONE]门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.Keycard.Header",
+  "internalEnabled": true,
+  "persistentID": 1345
+}

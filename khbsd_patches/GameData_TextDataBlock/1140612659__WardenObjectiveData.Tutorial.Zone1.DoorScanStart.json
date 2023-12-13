@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stand in <color=orange>bioscan</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tenez-vous dans le <color=orange>bioscan</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Posizionarsi nel <color=orange>bio-scanner</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stehen Sie im <color=orange>Bioscan</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Colócate en el <color=orange>bioescáner</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Встаньте в <color=orange>биосканер</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pare dentro do <color=orange>bioescâner</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stań w <color=orange>bioskanerze</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>バイオスキャン</color>に立て",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>바이오스캔</color>에 서기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "站在<color=orange>生物掃描</color>內",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "站在<color=orange>生物扫描</color>内",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Tutorial.Zone1.DoorScanStart",
+  "internalEnabled": true,
+  "persistentID": 1140612659
+}

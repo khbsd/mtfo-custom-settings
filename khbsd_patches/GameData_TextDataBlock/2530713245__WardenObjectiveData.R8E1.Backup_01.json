@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in temporary lockdown. Admin clearance required to operate.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR: Porte temporairement verrouillée. Habilitation d'administrateur requise.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco temporaneo. Il funzionamento richiede l'autorizzazione dell'amministratore.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür vorübergehend verriegelt. Admin-Freigabe für Operation erforderlich.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>:://ERROR: Puerta en cierre de emergencia temporal. Se necesita la autorización de la administración para operar</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Дверь временно заблокирована. Для работы требуется проверка администратора.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento temporário. Liberação de administrador necessária para operar.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Drzwi tymczasowo zablokowane. Do podjęcia działania niezbędne są uprawnienia administratora.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアが一時ロックダウン。操作には管理者のクリアランスが必要。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 임시 폐쇄되었습니다. 운영하려면 관리자 승인이 필요합니다.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門臨時封鎖。需要管理員許可才能操作。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于临时封锁状态。需要管理员许可才能操作。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "WardenObjectiveData.R8E1.Backup_01",
+  "internalEnabled": true,
+  "persistentID": 2530713245
+}

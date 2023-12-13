@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Are you in the correct security zone? Use command QUERY {0} for more information about the item",
+  "Description": "{0} is an item name, like HSU_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Êtes-vous dans la zone de sécurité appropriée\u00A0? Utilisez la commande QUERY {0} pour plus d'informations sur cet objet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "È la zona di sicurezza corretta? Utilizzare il comando QUERY {0} per ulteriori informazioni sull'oggetto.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sind Sie in der richtigen Sicherheitszone? Nutzen Sie den Befehl QUERY {0}, um weitere Informationen über das Ziel zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¿Estás en la zona de seguridad correcta? Usa el comando QUERY {0} para más información sobre el objeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вы находитесь в правильной охраняемой зоне? Используйте команду QUERY {0}, чтобы узнать о предмете больше.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você está na zona de segurança correta? Use o comando QUERY {0} para obter mais informações sobre o item",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czy znajdujesz się we właściwej strefie bezpieczeństwa? Aby uzyskać więcej informacji o przedmiocie, użyj polecenia QUERY {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "正しいセキュリティゾーンにいますか？このアイテムに関する更なる情報については、コマンドQUERY {0}を使用してください",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "올바른 보안 구역에 있습니까? QUERY {0} 명령을 사용해 아이템의 상세 정보를 확인하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你是在正確的安全區嗎？使用指令「QUERY {0}」了解更多關於物品的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你是在正确的安全区吗？使用命令“QUERY {0}”了解有关物品的更多信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Are_you_in_the_correct_security_zone_Use_command_QUERY_X",
+  "internalEnabled": true,
+  "persistentID": 3866463320
+}

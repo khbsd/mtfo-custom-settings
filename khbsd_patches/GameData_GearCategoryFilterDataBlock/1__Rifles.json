@@ -1,0 +1,22 @@
+{
+  "AllowedCategories": [
+    {
+      "CategoryID": 1
+    },
+    {
+      "CategoryID": 2
+    },
+    {
+      "CategoryID": 3
+    },
+    {
+      "CategoryID": 4
+    },
+    {
+      "CategoryID": 5
+    }
+  ],
+  "name": "Rifles",
+  "internalEnabled": true,
+  "persistentID": 1
+}

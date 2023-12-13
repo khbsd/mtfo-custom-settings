@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use terminal in [ZONE_3] to lift lockdown",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez le terminal dans la [ZONE_3] pour lever le verrouillage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il terminale in [ZONE_3] per revocare il blocco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie das Terminal in [ZONE_3], um die Verriegelung aufzuheben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el terminal en la [ZONE_3] para cancelar el cierre de emergencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте терминал в [ZONE_3], чтобы отменить режим изоляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o terminal na [ZONE_3] para remover o confinamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj terminala w strefie 3 [ZONE_3], aby znieść blokadę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_3]の端末を使って封鎖を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_3]의 터미널을 사용해 폐쇄 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用[ZONE_3]的終端解除封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ZONE_3]使用终端解除封锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone5_ApproachDoor",
+  "internalEnabled": true,
+  "persistentID": 3645521537
+}

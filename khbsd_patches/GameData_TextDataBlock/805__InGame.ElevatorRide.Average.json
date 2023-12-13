@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "AVERAGE",
+  "Description": "If the \"artifact heat\" on the current expedition/mission is moderate, this word sums up the probability of the player being rewarded with a booster: \"Average\", as in moderate probability of being rewarded.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "MOYEN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MEDIO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DURCHSCHNITT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MODERADO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СРЕДНИЙ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MÉDIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ŚREDNI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "평균",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "平均",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.ElevatorRide.Average",
+  "internalEnabled": true,
+  "persistentID": 805
+}

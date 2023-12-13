@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security door to <color=red>[ZONE 85]</color> in Main Sector unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de sécurité vers la <color=red>[ZONE\u00A085]</color> du secteur principal déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta di sicurezza per <color=red>zona 85 [ZONE_85]</color> nel settore principale sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitstür zu <color=red>[ZONE 85]</color> im Primärsektor entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de seguridad a la <color=red>[ZONE 85]</color> del sector principal está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Защитная дверь в <color=red>[ZONE 85]</color> главного сектора разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de segurança para a <color=red>[ZONE 85]</color> no Setor Principal destravada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokowano drzwi do <color=red>strefy 85 [ZONE 85]</color> w sektorze głównym.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メインセクターの<color=red>[ZONE 85]</color>へのセキュリティドアがロック解除された。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메인 섹터 <color=red>[ZONE 85]</color> 보안문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封鎖已解除 - 通往主要分區中<color=red>85區[ZONE_85]</color>的安全門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封锁已解除 - 主要分区中的<color=red>85区[ZONE_85]</color>安全门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.TerminalUplink_Two_Terminals_Open_Door_R5B2_L2.EventsOnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 2109202826
+}

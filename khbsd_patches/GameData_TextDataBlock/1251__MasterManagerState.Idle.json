@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Idle",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Inactif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inattivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Untätig",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inactivo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ausente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bezczynność",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイドル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유휴 상태",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "閒置",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空闲",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.Idle",
+  "internalEnabled": true,
+  "persistentID": 1251
+}

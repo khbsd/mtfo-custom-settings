@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Keypad {0}",
+  "Description": "The keypad portion on the far right end of a normal sized computer keyboard, with the numbers 0-9 as well as \"/\", \"*\", \"-\". \"+\" and \"enter\". \nDo not remove the \"{0}\" in the text string, it's a number between 0 and 9.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pavé numérique ({0})",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tastierino {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ziffernblock {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Teclado numérico {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кнопка цифровой клавиатуры {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Keypad\u00A0{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klawisz {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーパッド {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키패드 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "數字鍵盤{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "小键盘{0}键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Keypad_X",
+  "internalEnabled": true,
+  "persistentID": 241
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... Quiet now. <size=200%><color=red>They hear everything.</size></color>\n... Turn off your damn light...  \r\n... There it is! You take that side and– \r\n... [unintelligible] \r",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... Taisez-vous. <size=200%><color=red>Ils entendent tout.</size></color>\n... Éteignez cette putain de torche...  \r\n... La voilà\u00A0! Prenez ce flanc et... \r\n... [inintelligible] \r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… Piano ora. <size=200%><color=red>Sentono tutto.</size></color>\n… Spegni quella maledetta luce… \r\n… Eccola! Tu vai da quella parte e… \r\n… [incomprensibile] \r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… Leise. <size=200%><color=red>Die hören alles.</size></color>\n… Mach das verdammte Licht aus …\r\n… Da ist es! Du nimmst die Seite und–\r\n… [unverständlich]\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... Silencio. <size=200%><color=red>Pueden oírlo todo.</size></color>\n... Apaga la luz de una vez, hostia...  \r\n... ¡Ahí está! Tú ve por ahí y... \r\n... [ininteligible] \r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Тихо. <size=200%><color=red>Эти твари все слышат.</size></color>\n... Живо выключи свет...\r\n... Добрались! Хватайся за один конец, а...\r\n[неразборчиво]\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Sem barulho. <size=200%><color=red>Eles ouvem tudo.</size></color>\n... Desligue a merda da lanterna. \r\n... Está ali! Você vai pelo lado e... \r\n... [indistinguível] \r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…Cicho. <size=200%><color=red>Są w stanie wszystko usłyszeć..</size></color>\n.…Zgaś to cholerne światło… \r\n…Jest! Idź od tej strony, a…\r\n[niezrozumiałe] \r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...ここは静かにしろ。<size=200%><color=red>ヤツらには何もかも聞こえる。</size></color>\n...ライトを消せよ...  \r\n... いたぞ！おまえはそっち側を— \r\n... [内容不明な声] \r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 조용해. <size=200%><color=red>놈들은 다 듣고 있어.</size></color>\n... 망할 조명 꺼...  \r\n... 저기 있다! 네가 저쪽을 맡... \r\n... [이해할 수 없음] \r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……安靜。<size=200%><color=red>它們什麼都聽得到。</size></color>\n……把那該死的燈關掉……\r\n……來了！你負責那邊—\r\n……[無法辨識]\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……安静。<size=200%><color=red>它们什么都听得到。</size></color>\n……把你那该死的灯关掉……\r\n……来了！你负责那边——\r\n……[模糊音]\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_1_1.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1044
+}

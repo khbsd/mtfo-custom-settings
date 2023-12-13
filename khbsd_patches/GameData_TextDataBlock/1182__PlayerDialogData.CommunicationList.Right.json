@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Droite\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Destra!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechts!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡A la derecha!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вправо!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Direita!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawo!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右边！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Right",
+  "internalEnabled": true,
+  "persistentID": 1182
+}

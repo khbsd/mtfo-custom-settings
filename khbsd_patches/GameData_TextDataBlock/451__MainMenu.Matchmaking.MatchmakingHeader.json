@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MATCHMAKING",
+  "Description": "We have removed the [ALPHA] part of MATCHMAKING [ALPHA], please make sure the localization is still correct. A button that opens the matchmaking menu. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RECHERCHE DE MATCH...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EMPAREJAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОДБОР КОМАНДЫ <color=orange>[АЛЬФА]</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "BUSCAR PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MATCHMAKING",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイク中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치메이킹",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匹配中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Matchmaking.MatchmakingHeader",
+  "internalEnabled": true,
+  "persistentID": 451
+}

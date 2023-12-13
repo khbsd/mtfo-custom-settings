@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pinging until stopped. To stop - input Control-C.",
+  "Description": "Control-C is the input combination on the keyboard the player have to press to stop the ping.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Envoi de la requête ping jusqu'à l'interruption. Entrez Ctrl-C pour arrêter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esecuzione ping fino a interruzione. Per fermare, premere Ctrl-C.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pingen bis zum Abbruch. Zum Abbrechen Strg+C eingeben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Realizando ping hasta que se detenga. Para detener - realiza Control-C.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пинг будет работать, пока вы не отмените его вручную. Для остановки нажмите Control-C.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marcando até ser interrompido. Para parar — insira Control-C.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oznaczanie do odwołania. Aby zatrzymać, naciśnij Control-C.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "停止するまでPING中。停止するには - Control-Cと入力。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중단할 때까지 핑 진행. Control-C를 입력하여 중단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記直至停止。若要停止，輸入Control-C。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记直至停止。若要停止，请输入Control-C。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Pinging_until_stopped",
+  "internalEnabled": true,
+  "persistentID": 564430576
+}

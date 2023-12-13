@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Yiddish",
+  "Description": "A language spoken in Central, Eastern, Western Europe and Russia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Yiddish",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Yiddish",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Jiddisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Yiddish",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идиш",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ídiche",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jidysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "イディッシュ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이디시어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "意第緒文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "意第绪语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Yiddish",
+  "internalEnabled": true,
+  "persistentID": 446
+}

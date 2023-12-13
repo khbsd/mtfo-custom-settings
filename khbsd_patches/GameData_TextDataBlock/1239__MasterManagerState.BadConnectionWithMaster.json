@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BadConnectionWithMaster",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "ConnectionHôteInsuffisante",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cattiva connessione con master",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SchlechteVerbindungMitMaster",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mala conexión con maestro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка подключения к организатору",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ConexãoRuimComMestre",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KiepskiePołączenieGłówne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マスターとの通信不良",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마스터연결불안정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "與主機連線不良",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主机连接不良",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.BadConnectionWithMaster",
+  "internalEnabled": true,
+  "persistentID": 1239
+}

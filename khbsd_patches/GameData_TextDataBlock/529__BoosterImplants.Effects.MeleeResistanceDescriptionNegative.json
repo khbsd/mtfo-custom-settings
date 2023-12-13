@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will take more damage from melee attacks.",
+  "Description": "Describes the disadvantage of having a poor \"melee reistance\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet subit plus de dégâts d'attaques de mêlée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto subirà danni maggiori dagli attacchi in mischia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson erleidet mehr Schaden durch Nahkampfangriffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto sufre más daño con los ataques cuerpo a cuerpo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, получаемый в ближнем бою, увеличивается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo recebe mais danos de ataques corpo a corpo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca otrzyma więcej obrażeń wskutek ataków wręcz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象への近接攻撃によるダメージが増える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 근접 공격 대미지를 더 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象受到近戰攻擊的傷害較多。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者受到的近战攻击伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MeleeResistanceDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 529
+}

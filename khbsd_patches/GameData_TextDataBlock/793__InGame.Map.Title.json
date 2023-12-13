@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAP",
+  "Description": "A headline for a map of the structure the player is currently exploring.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CARTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MAPPA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KARTE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MAPA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КАРТА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MAPA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MAPA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "地圖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "地图",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.Title",
+  "internalEnabled": true,
+  "persistentID": 793
+}

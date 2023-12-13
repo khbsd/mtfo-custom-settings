@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Continued Restoration Initiative. Expand Genome Database. Target connection established with 62% accuracy. Multiple units dispatched to exceed success tolerance.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Initiative de restauration en cours. Élargissement de la base de données du génome. Connexion à la cible établie avec une précision de 62\u00A0%. Plusieurs unités ont été envoyées pour garantir la réussite de la mission.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Iniziativa Restauro proseguita. Espandere il database genoma. Stabilita connessione col bersaglio con una precisione del 62%. Più unità inviate per superare la tolleranza per il successo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wiederherstellung fortgesetzt. Erweitern Sie die Gendatenbank. Zielverbindung hergestellt, Treffsicherheit: 62\u00A0%. Mehrere Einheiten entsandt, um die Erfolgsquote zu verbessern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciativa de restauración continuada. Amplía la base de datos del genoma. Conexión con el objetivo establecida con un 62\u00A0% de precisión. Varias unidades enviadas para mejorar probabilidades de éxito.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Восстановление продолжается. Расширение базы данных геномной информации. Точность установки подключения: 62%. Для повышения вероятности успеха отправлены многочисленные объекты.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciativa de restauração continuada. Amplie o banco de dados de genoma. Conexão com o alvo estabelecida com 62% de precisão. Múltiplas unidades despachadas para exceder a tolerância de sucesso.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Inicjatywa Przywrócenia w toku. Poszerz bazę danych genomów. Połączenie docelowe nawiązane z dokładnością 62%. Wysłano kilka jednostek w celu przekroczenia progu powodzenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "復元イニシアチブ続行。ゲノムデータベースを拡張。62%の正確性で目標との接続を確立。成功許容性突破のため複数のユニットを派遣。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복원 절차 계속 진행. 게놈 데이터베이스 확장. 62% 정확성으로 대상 연결됨. 성공 용인율 초과를 위해 다수의 유닛 배치됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續恢復計畫。展開基因組資料庫。目標連線建立的準確率為62%。派出多個單位以超越成功容限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续恢复计划。扩充基因组数据库。目标连接已建立，准确度62%。已派遣多个单位以超过成功容错。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.BX.ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 3377012862
+}

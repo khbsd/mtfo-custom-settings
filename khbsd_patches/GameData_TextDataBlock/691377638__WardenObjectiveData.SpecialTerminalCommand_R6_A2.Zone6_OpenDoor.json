@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate terminal and input <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color> command",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal et entrez la commande <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale e inserire il comando <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das Terminal und geben Sie den Befehl <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza la terminal e introduce el comando <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминал и введите команду <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize o terminal e insira o comando <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal i wprowadź polecenie <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を見つけて<color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>コマンドを入力しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널을 찾아 <color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color> 명령 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到終端並輸入<color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到终端并输入<color=orange>[EXTRACT_COORDINATES_ALPHA_THREE]</color>命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone6_OpenDoor",
+  "internalEnabled": true,
+  "persistentID": 691377638
+}

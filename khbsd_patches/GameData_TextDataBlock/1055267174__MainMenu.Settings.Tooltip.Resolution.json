@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The render resolution of the game.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la résolution de rendu du jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La risoluzione di rendering del gioco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Renderauflösung des Spiels.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La resolución del juego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение рендеринга в игре.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A resolução de renderização do jogo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość renderowania w grze.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームのレンダリング解像度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 렌더링 해상도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遊戲渲染解析度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "游戏的渲染分辨率。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.Resolution",
+  "internalEnabled": true,
+  "persistentID": 1055267174
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FREE WEEKEND\n<size=60%>(external link)</size>",
+  "Description": "Russian should also localize (external link). \"Free Weekend\" is a button the player can press to access external info about the free weekend.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "WEEK-END GRATUIT\n<size=60%>(lien externe)</size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "WEEKEND GRATUITO\n<size=60%>(link esterno)</size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KOSTENLOSES WOCHENENDE\n<size=60%>(externer Link)</size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FIN DE SEMANA GRATUITO\n<size=60%>(enlace externo)</size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БЕСПЛАТНЫЕ ВЫХОДНЫЕ\n<size=60%>(внешняя ссылка)</size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FIM DE SEMANA GRÁTIS\n<size=60%>(link externo)</size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DARMOWY WEEKEND\n<size=60%>(zewnętrzne łącze)</size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フリーウィークエンド\n<size=60%>（外部リンク）</size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주말 무료 플레이\n<size=60%>(외부 링크)</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "免費週末\n<size=60%>（外部連結）</size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "免费周末\n<size=60%>（外部连接）</size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.FreeWeekendButton",
+  "internalEnabled": true,
+  "persistentID": 2339333110
+}

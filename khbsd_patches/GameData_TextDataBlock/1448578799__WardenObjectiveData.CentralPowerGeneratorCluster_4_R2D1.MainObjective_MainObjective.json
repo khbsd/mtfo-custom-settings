@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [COUNT_REQUIRED] Power Cells and bring them to the Central Generator Cluster in [ITEM_ZONE]",
+  "Description": "Don't localize [COUNT_REQUIRED] or [ITEM_ZONE]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [COUNT_REQUIRED] piles à combustible et utilisez-les pour mettre la grappe de générateurs centrale sous tension dans la [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [COUNT_REQUIRED] celle di energia e portarle al gruppo elettrogeno centrale in [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [COUNT_REQUIRED] Energiezellen und bringen Sie sie zum zentralen Stromgeneratorcluster in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza [COUNT_REQUIRED] células de energía y llévalas al clúster de generadores central en [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите батареи ([COUNT_REQUIRED]) и отнесите их к центральному кластеру генераторов в [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize [COUNT_REQUIRED] Power Cells e leve-as até o grupo de geradores centrais na [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj [COUNT_REQUIRED] szt. ogniw zasilających i zasil nimi główny zespół generatorów w strefie [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]個のパワーセルを見つけ、それらを[ITEM_ZONE]の中央発電機群まで運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "파워 셀 [COUNT_REQUIRED]개를 찾고 [ITEM_ZONE]의 중앙 발전기 클러스터로 운송",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到[COUNT_REQUIRED]個電池[CELL]並將電池帶到[ITEM_ZONE]的中央發電機叢集",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[COUNT_REQUIRED]个电池[CELL]并将其带到[ITEM_ZONE]的中央发电机集群",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CentralPowerGeneratorCluster_4_R2D1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1448578799
+}

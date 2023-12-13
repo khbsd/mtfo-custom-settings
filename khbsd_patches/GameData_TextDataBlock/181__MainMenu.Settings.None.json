@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "None",
+  "Description": "Refers to a graphic setting, such as \"anti aliasing\", being set to \"none\", i.e. the feature is disabled.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Aucun",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nessuno",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nichts",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Nada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откл.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Nenhum",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Brak",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "なし",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "無",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.None",
+  "internalEnabled": true,
+  "persistentID": 181
+}

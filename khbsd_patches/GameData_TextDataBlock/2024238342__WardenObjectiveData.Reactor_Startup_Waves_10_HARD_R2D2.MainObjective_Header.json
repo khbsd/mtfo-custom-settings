@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reactor Startup",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrage du réacteur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvio reattore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Reaktorstart",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Arranque del reactor",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запуск реактора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicialização de reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozruch reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター始動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器啟動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆启动",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_10_HARD_R2D2.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 2024238342
+}

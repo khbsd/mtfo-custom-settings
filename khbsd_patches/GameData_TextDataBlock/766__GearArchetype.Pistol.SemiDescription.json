@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nShort to mid range\nBalanced recoil\nHigh ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nCourte à moyenne portée\nRecul équilibré\nCapacité de munitions élevée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatica\nGittata da breve a media\nRinculo equilibrato\nElevata capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nKurze bis mittlere Reichweite\nAusgewogener Rückstoß\nHohe Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomática\nCorto a medio alcance\nRetroceso equilibrado\nCapacidad de munición alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nМалая или средняя дальность\nУмеренная отдача\nБольшая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomática\nCurto a médio alcance\nRecuo equilibrado\nAlta capacidade de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nKrótki i średni dystans\nUmiarkowany odrzut\nDuża pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n近距離から中距離\nバランスの取れたリコイル\n装弾数が多い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n중단거리\n안정된 반동\n높은 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n中短程\n平衡後座力\n高彈藥容量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n近到中程\n后坐力中等\n弹药容量大",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Pistol.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 766
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles the coms list to be between holding/releasing the button or pressing to show/hide it.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvre le menu d'interaction en maintenant/relâchant le bouton ou en appuyant pour l'activer/le désactiver.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Imposta se visualizzare la lista delle comunicazioni tenendo premuto/rilasciando il pulsante o premendolo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet um zwischen Halten/Loslassen der Taste oder Drücken, um die Kommandoliste anzuzeigen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alterna el menú de interacción entre mantener/soltar el botón, o pulsa para mostrar/ocultar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Способ включения списка команд. Вы можете удерживать/отпускать кнопку или показывать/скрывать список нажатием.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna a lista de frases para se entre segurar/liberar o botão ou apertar para mostrar/esconder.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przełącza listę komunikatów między przytrzymaniem/puszczeniem przycisku lub naciśnięciem, aby ją pokazać/ukryć.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "定型文リストの表示と非表示を、ボタンを長押しする/離すことで行うか、押すことで行うか切り替える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통신 목록 표시 및 숨김을 버튼 길게 누르기/ 떼기 모드 <> 한 번 누르기/다시 누르기 모드로 전환합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇使用按住/釋放按鈕或按一下來顯示/隱藏通訊清單。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住/松开该按钮切换通讯列表，或按下以显示/隐藏。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HoldToShowComsList",
+  "internalEnabled": true,
+  "persistentID": 2384730515
+}

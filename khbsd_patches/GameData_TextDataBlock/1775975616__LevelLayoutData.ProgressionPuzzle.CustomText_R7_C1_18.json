@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "High fog levels detected.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Niveaux élevés de brouillard détectés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilevati livelli di nebbia elevati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hohe Nebelwerte festgestellt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Niveles elevados de niebla detectados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обнаружено задымление.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Altos níveis de névoa detectados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykryto wysoki poziom mgły.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高レベルの霧を検知。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "높은 안개 수준 감지됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "偵測到高煙霧濃度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "检测到高雾度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_18",
+  "internalEnabled": true,
+  "persistentID": 1775975616
+}

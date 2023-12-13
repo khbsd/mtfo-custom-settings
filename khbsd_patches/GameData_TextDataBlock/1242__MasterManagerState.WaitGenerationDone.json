@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WaitGenerationDone",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "AttenteGénérationTeminée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attendere esecuzione generazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WartenAufAbschlussDerGenerierung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperar a fin de generación",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание окончания генерации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AguardarGeraçãoConcluída",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OczekiwanieNaGenerowanieUkończone",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "世代終了待機",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "드론생성대기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待生成完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待生成结束",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.WaitGenerationDone",
+  "internalEnabled": true,
+  "persistentID": 1242
+}

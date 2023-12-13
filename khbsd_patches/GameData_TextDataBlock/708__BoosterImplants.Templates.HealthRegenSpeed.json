@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RECOVERY",
+  "Description": "The name of a category of boosters that affect the subject's regeneration speed.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉCUPÉRATION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RECUPERO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GENESUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECUPERACIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВОССТАНОВЛЕНИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECUPERAÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "REGENERACJA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リカバリー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "회복",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "恢復",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "恢复",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.HealthRegenSpeed",
+  "internalEnabled": true,
+  "persistentID": 708
+}

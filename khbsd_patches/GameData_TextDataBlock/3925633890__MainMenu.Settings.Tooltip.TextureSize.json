@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The resolution of textures.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit la résolution des textures.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La risoluzione delle texture.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Auflösung von Texturen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La resolución de las texturas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение текстур.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A resolução das texturas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość tekstur.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "テクスチャの解像度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "텍스처 해상도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "紋理解析度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "纹理的分辨率。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.TextureSize",
+  "internalEnabled": true,
+  "persistentID": 3925633890
+}

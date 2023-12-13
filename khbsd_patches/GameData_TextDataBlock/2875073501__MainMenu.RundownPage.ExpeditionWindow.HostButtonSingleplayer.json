@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initialize",
+  "Description": "The text that is show on the \"Host Lobby\" button when clicking an expedition in the Rundown page, if the expedition is a Singleplayer experience.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Initialiser",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initialisieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicializar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Инициализация",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicializar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Inicjuj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "初期化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "初始化",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.HostButtonSingleplayer",
+  "internalEnabled": true,
+  "persistentID": 2875073501
+}

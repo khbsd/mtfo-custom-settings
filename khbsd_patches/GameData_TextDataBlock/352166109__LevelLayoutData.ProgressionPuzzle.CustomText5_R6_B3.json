@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Emergency power supply unit failed. Requires a manual restart at a terminal in: </color> <color=orange>ZONE 183.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>AVERTISSEMENT\u00A0: échec du lancement de l'unité d'alimentation de secours. Redémarrage manuel requis depuis un terminal de la</color> <color=orange>ZONE\u00A0183.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: alimentatore di emergenza guasto. Richiesto riavvio manuale su un terminale in: </color> <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Notstromversorgungseinheit ausgefallen. Manueller Neustart an einem Terminal in</color> <color=orange>ZONE 183</color> erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: Fallo en la unidad eléctrica de apoyo. Debe reiniciarse manualmente en un terminal de la </color> <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Ошибка аварийного источника питания. Требуется ручная перезагрузка на терминале в</color> <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Falha na unidade de fornecimento elétrico de emergência. Reinício manual necessário em um terminal em: </color> <color=orange>ZONE 183.</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: usterka awaryjnej jednostki zasilającej. Wymagane ponowne ręczne uruchomienie z terminalu w </color><color=orange>strefie 183 [ZONE_183].</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：緊急電力供給ユニット作動失敗。以下のゾーンの端末での手動再起動が必要：</color><color=orange>ZONE 183</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 비상 파워 서플라이 유닛 고장. </color> <color=orange>ZONE 183</color> 터미널에서 수동 재시작 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：緊急電源裝置發生故障。需要在以下終端手動重啟：</color><color=orange>ZONE 183。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：应急电源装置失效，需要在以下区域的终端上手动重启：</color><color=orange>ZONE 183</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText5_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 352166109
+}

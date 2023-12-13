@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Adds noise to the image to prevent color banding caused by the monitor's limited color range.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ajoute un effet de bruit à l'image permettant d'éviter les problèmes liés aux couleurs si la gamme de couleurs du moniteur est limitée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Aggiunge rumore all'immagine per prevenire le bande di colore causate dalla gamma di colori limitata del monitor.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fügt dem Bild Rauschen hinzu, um Farbstreifen zu vermeiden, die durch den begrenzten Farbbereich des Monitors verursacht werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Añade sonido a la imagen para impedir el bandeado provocado por la limitación de gama de colores del monitor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Добавляет шум на изображение, чтобы устранить эффект цветовых полос, возникающий из-за ограниченной цветовой палитры монитора.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Adiciona ruído à imagem para evitar faixas de cores causadas pelo alcance limitado de cores do monitor.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dodaje szum do obrazu, aby zapobiec pasmowaniu kolorów wywołanemu przez ograniczony zakres kolorów ekranu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "モニターの制限された色範囲によって引き起こされるバンディングを防ぐためにイメージにノイズを加える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이미지에 노이즈를 추가해, 모니터의 제한된 색 범위 때문에 발생하는 색 경계 표시 현상을 방지합니다..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在影像中增加雜訊，以防止因顯示器色彩範圍有限而導致的色塊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "给图像增加噪点，防止由于显示器色域有限而产生色带。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.Dithering",
+  "internalEnabled": true,
+  "persistentID": 3895240651
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Coordinates [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] written to Data Cubes. Proceed to forward exit point in [EXTRACTION_ZONE].",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Coordonnées [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] inscrites dans les cubes de données [DATA_CUBE]. Rendez-vous au point de sortie dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Coordinate [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] scritte nei cubi di dati [DATA_CUBE]. Raggiungere il punto d'estrazione anteriore in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Koordinaten [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] auf Datenwürfel [DATA_CUBE] gespeichert. Gehen Sie weiter zum vorderen Austrittspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las coordenadas [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] se han escrito en los cubos de datos [DATA CUBE]. Continúa hasta el punto de evacuación en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Координаты [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] записаны в кубы данных [DATA_CUBE]. Идите к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coordenadas [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] gravadas nos cubos de dados [DATA_CUBE]. Continue até o ponto de saída avançado na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Współrzędne [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ] zapisane na kostkach danych. Przejdź do wysuniętego punktu ewakuacyjnego w [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "座標[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]をデータキューブ[DATA CUBE]に書き込み完了。[EXTRACTION_ZONE]で先の脱出地点へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "좌표 [M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]가 [DATA_CUBE] 데이터 큐브에 작성됐습니다. [EXTRACTION_ZONE]의 전방 탈출구로 이동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "座標[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]已寫入資料方塊[DATA_CUBE]。前往[EXTRACTION_ZONE]的前進撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "坐标[M-E8SZ-FDIP-UNV7-HW8D-76HM-UXKJ]已写入数据立方[DATA_CUBE]。前往[EXTRACTION_ZONE]的前出口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "Warden.MainObjective.Insight.Complete_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2125950746
+}

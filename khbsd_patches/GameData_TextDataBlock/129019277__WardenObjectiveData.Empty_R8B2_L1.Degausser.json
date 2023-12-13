@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search for degausser terminals in <color=orange>ZONE 188</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez les terminaux de démagnétisation de la <color=orange>ZONE\u00A0188</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare terminali di smagnetizzazione in <color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie nach Degausser-Terminals in <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca terminales de desmagnetización en la <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите терминалы стирания в <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procurar terminais de desmagnetização na <color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poszukaj terminali rozmagnesowujących w <color=orange>strefie 188 [ZONE_188]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 188</color>で消磁端末を探し出せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 188</color>에서 디가우저 터미널 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "搜尋<color=orange>ZONE 188</color>中的消磁終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "搜索<color=orange>ZONE 188</color>中的消磁器终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.Degausser",
+  "internalEnabled": true,
+  "persistentID": 129019277
+}

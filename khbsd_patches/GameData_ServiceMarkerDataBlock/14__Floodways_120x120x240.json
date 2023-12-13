@@ -1,0 +1,112 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        2,
+        7
+      ],
+      [],
+      [
+        6,
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2,
+        7
+      ],
+      [],
+      [],
+      [
+        8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V01.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V02.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V03.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V04.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V05.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V06.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V07.prefab",
+        "function": 10,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_120x120x240/Floodways_120x120x240_V08.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 0.1,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_cover_120x120x240/submarker_mining_cover_HSU_120x120x240_r.prefab",
+        "function": 15,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 0
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 13,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_120x120x240",
+    "BoundingVolume": 3456.0
+  },
+  "name": "Floodways_120x120x240",
+  "internalEnabled": true,
+  "persistentID": 14
+}

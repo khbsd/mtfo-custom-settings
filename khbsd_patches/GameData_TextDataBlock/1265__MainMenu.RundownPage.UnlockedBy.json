@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlocked By:",
+  "Description": "Text that shows what requirements are needed to unlock an expedition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillé par\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccato da:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigeschaltet durch:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Requisitos de desbloqueo:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требования:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desbloqueado por:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagania:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アンロック要件：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개방 조건:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解鎖條件：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解锁需要：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.UnlockedBy",
+  "internalEnabled": true,
+  "persistentID": 1265
+}

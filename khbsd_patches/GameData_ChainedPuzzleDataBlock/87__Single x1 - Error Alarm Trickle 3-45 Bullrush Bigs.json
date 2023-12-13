@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class ://ERROR! Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 43,
+  "SurvivalWavePopulation": 15,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 2200133294,
+  "AlarmSoundStop": 2200133294,
+  "name": "Single x1 - Error Alarm Trickle 3-45 Bullrush Bigs",
+  "internalEnabled": true,
+  "persistentID": 87
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject's biotracker will recharge slower.",
+  "Description": "Describes the disadvantage of having a poor \"tracker cpu speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le bio-traceur du sujet se recharge moins vite.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il bio-localizzatore del soggetto si ricaricherà più lentamente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Biotracker der Versuchsperson lädt langsamer auf.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El biorrastreador del sujeto se recargará más despacio.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Биотрекер заряжается медленнее.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O biorrastreador do indivíduo recarrega mais devagar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biowykrywacz biorcy będzie odnawiał się wolniej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象のバイオトラッカーのリチャージ速度が下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 바이오 트래커가 더 늦게 재충전됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的生物追蹤器充能速度較慢。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生物追踪器充能速度减慢。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ScannerRechargeSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 623
+}

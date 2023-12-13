@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Switches the input of the left and right mouse button.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inverse les boutons gauche et droit de la souris.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scambia i comandi dei pulsanti sinistro e destro del mouse.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tauscht die Eingabe der linken und rechten Maustaste.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambia la entrada del botón principal y secundario del ratón.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Меняет местами правую и левую кнопки мыши.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Muda a entrada para o botão esquerdo e direito do mouse.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przełącza przypisanie między lewym a prawym przyciskiem myszy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウスの左右ボタンの入力を入れ替える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽/오른쪽 마우스 버튼 입력을 서로 바꿉니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換滑鼠左鍵與右鍵的輸入。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换鼠标左键和右键输入。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.LeftHandMode",
+  "internalEnabled": true,
+  "persistentID": 418365578
+}

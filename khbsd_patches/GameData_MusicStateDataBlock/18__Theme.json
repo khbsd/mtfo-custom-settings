@@ -1,0 +1,34 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 210.0,
+    "stateAfterMaxTime": 5
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "music_theme"
+    }
+  ],
+  "m_SwitchesOnEnter": [
+    {
+      "switchGroup": "randomizer_theme",
+      "switchName": "theme_",
+      "randomCount": 12
+    }
+  ],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "Theme",
+  "internalEnabled": true,
+  "persistentID": 18
+}

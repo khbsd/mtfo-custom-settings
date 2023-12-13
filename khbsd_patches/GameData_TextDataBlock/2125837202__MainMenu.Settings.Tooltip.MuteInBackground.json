@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles if all sounds should be muted when the game is in the background",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permet de mettre en sourdine tous les sons lorsque le jeu est en arrière-plan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Determina se tutti i suoni devono essere disattivati quando il gioco è in background",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet um, ob alle Geräusche stummgeschaltet werden sollen, wenn das Spiel im Hintergrund läuft",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar si se silencian todos los sonidos cuando el juego esté en segundo plano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает/выключает все звуки, если игра запущена в фоновом режиме.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna a opção de todos os sons serem silenciados quando o jogo está em plano de fundo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza/wyłącza wyciszenie wszystkich dźwięków, gdy gra jest w tle",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームがバックグラウンドにある時に全てのサウンドをミュートするかどうかを切り替える",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임이 백그라운드에서 실행될 때 모든 사운드를 음소거할지 지정합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換遊戲在背景時是否應將所有音效靜音",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，当游戏在后台运行时关闭所有声音",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.MuteInBackground",
+  "internalEnabled": true,
+  "persistentID": 2125837202
+}

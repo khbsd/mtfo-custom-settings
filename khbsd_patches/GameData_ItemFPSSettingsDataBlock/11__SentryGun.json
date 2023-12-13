@@ -1,0 +1,127 @@
+{
+  "localPosHip": {
+    "x": 0.22,
+    "y": -0.26,
+    "z": 0.6,
+    "normalized": {
+      "x": 0.318874061,
+      "y": -0.376851141,
+      "z": 0.8696565,
+      "normalized": {
+        "x": 0.3188741,
+        "y": -0.376851171,
+        "z": 0.869656563,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 0.6899276,
+    "sqrMagnitude": 0.476
+  },
+  "localRotHip": {
+    "x": -5.01,
+    "y": -3.62,
+    "z": 8.98,
+    "normalized": {
+      "x": -0.45956555,
+      "y": -0.332061321,
+      "z": 0.8237322,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 10.9016008,
+    "sqrMagnitude": 118.844894
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.03,
+    "y": -0.05,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.06611394,
+      "y": -0.110189915,
+      "z": 0.9917092,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.453762054,
+    "sqrMagnitude": 0.205899984
+  },
+  "localRotRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.15,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.15,
+    "sqrMagnitude": 0.0225
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 50,
+  "ItemCameraFOVZoom": 25,
+  "LookCameraFOVZoom": 40,
+  "canAim": false,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 20,
+  "WalkAnimation": 18,
+  "RunAnimation": 19,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "SentryGun",
+  "internalEnabled": true,
+  "persistentID": 11
+}

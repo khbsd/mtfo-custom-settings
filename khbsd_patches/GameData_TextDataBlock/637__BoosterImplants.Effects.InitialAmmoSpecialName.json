@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Special ammo",
+  "Description": "Refers to the amount of ammunition available for the player's \"special\" weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Munitions spéciales",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Munizioni speciali",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Spezialmunition",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Munición especial",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Боеприпасы (особое оружие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Munição da especial",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Amunicja broni specjalnej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特殊武器弾薬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "특수 탄약",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "特殊彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "特殊弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InitialAmmoSpecialName",
+  "internalEnabled": true,
+  "persistentID": 637
+}

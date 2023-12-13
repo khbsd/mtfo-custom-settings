@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CHECKPOINT SCAN - FULL TEAM",
+  "Description": "A Bioscan HUD message to save a checkpoint.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE DE POINT DE CONTRÔLE - ÉQUIPE COMPLÈTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE CHECKPOINT - SQUADRA COMPLETA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "CHECKPOINT – GESAMTES TEAM",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANÁLISIS DE PUNTO DE CONTROL (EQUIPO COMPLETO)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА ЧЕКПОЙНТА\u00A0— ВСЯ КОМАНДА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO DE PONTO DE CONTROLE — EQUIPE INTEIRA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIE W PUNKCIE KONTROLNYM – PEŁNA DRUŻYNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チェックポイントスキャン - 全チーム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체크포인트 스캔 - 전체 팀",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重生點掃描 - 全隊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重生点扫描 - 全队",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.CheckpointScanForTeam",
+  "internalEnabled": true,
+  "persistentID": 1095
+}

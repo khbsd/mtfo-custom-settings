@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate the Generators and bring the Power Cells to them to re-route power to air filtration system.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez les générateurs et apportez les piles à combustible pour réacheminer le courant vers les systèmes de filtration d'air.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i generatori e portarvi le celle di energia per reindirizzare l'energia al sistema di filtrazione dell'aria.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie die Generatoren und bringen Sie die Energiezellen zu ihnen, um die Energie zum Luftfiltersystem umzuleiten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza los generadores y lleva allí las células de energía para redistribuir la energía al sistema de filtración de aire.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите генераторы и принесите к ним батареи, чтобы перенаправить электропитание системы фильтрации воздуха.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize os geradores e leve as Power Cells até eles para redirecionar a energia até o sistema de filtragem de ar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj generatory i dostarcz do nich ogniwa zasilające, aby przekierować zasilanie do systemu filtracji powietrza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発電機を見つけ、それらのところにパワーセルを運んで、換気システムへの電力をリルートしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발전기를 찾아 파워 셀을 가지고 가서 공기 여과 시스템으로 전력 공급 경로를 변경하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位發電機並將電池[CELL]帶過去，以重新路由電力至空氣過濾系統。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到发电机并将电池[CELL]带过去，以重定向电力至空气过滤系统。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Distribute_PowerCells_3_R5B1_L2.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 242721301
+}

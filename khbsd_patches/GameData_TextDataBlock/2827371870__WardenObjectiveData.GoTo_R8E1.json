@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reach <color=orange>ZONE 544</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Atteignez la <color=orange>ZONE\u00A0544</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere <color=orange>ZONE 544</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu <color=orange>ZONE 544</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la <color=orange>ZONE 544</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до <color=orange>ZONE 544</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chegar à <color=orange>ZONE 544</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dotrzyj do <color=orange>strefy 544 [ZONE_544]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 544</color>に到達しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 544</color> 도착",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "到達<color=orange>ZONE 544</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "到达<color=orange>ZONE 544</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveData.GoTo_R8E1",
+  "internalEnabled": true,
+  "persistentID": 2827371870
+}

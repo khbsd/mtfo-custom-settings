@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "General",
+  "Description": "A headline for \"general gameplay settings\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Général",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Generali",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Allgemein",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "General",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Общие",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Geral",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ogólne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "一般",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "일반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "一般",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通用",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GeneralHeading",
+  "internalEnabled": true,
+  "persistentID": 74
+}

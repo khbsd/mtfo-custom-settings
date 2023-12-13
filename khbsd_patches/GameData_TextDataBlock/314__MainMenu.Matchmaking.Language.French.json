@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "French",
+  "Description": "A language spoken in France, Belgium, Switzerland, Canada and many parts of Africa.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Français",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Francese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Französisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Francés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Французский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Francês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Francuski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フランス語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "프랑스어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "法文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "法语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.French",
+  "internalEnabled": true,
+  "persistentID": 314
+}

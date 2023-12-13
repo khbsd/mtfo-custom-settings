@@ -1,0 +1,15 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "DESERT_BOSS_SHOOT"
+    }
+  ],
+  "effectData": [],
+  "name": "desert_boss_shoot",
+  "internalEnabled": true,
+  "persistentID": 60
+}

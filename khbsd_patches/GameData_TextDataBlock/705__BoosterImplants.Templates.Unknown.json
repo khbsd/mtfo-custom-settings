@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<UNKNOWN>",
+  "Description": "The name of a category of boosters that have unknown or unclassified effects.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<INCONNU>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<SCONOSCIUTO>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<UNKNOWN>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<UNKNOWN>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<UNKNOWN>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<DESCONHECIDO>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<NIEZNANY>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<UNKNOWN>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<UNKNOWN>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<未知>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<未知>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.Unknown",
+  "internalEnabled": true,
+  "persistentID": 705
+}

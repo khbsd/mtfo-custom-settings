@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR SECURITY SYSTEM MALFUNCTION",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "DYSFONCTIONNEMENT DU SYSTÈME DE SÉCURITÉ DU RÉACTEUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ANOMALIA SISTEMA SICUREZZA REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLFUNKTION DES REAKTORSICHERHEITSSYSTEMS",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FALLO DE SISTEMA DE SEGURIDAD DEL REACTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА СИСТЕМЫ БЕЗОПАСНОСТИ РЕАКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MAL FUNCIONAMENTO DO SISTEMA DE SEGURANÇA DO REATOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "AWARIA SYSTEMU ZABEZPIECZEŃ REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターセキュリティシステム異常",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 보안 시스템 고장",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器安全系統故障",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆安全系统故障",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.SecurityVerificationMalfunction",
+  "internalEnabled": true,
+  "persistentID": 1082
+}

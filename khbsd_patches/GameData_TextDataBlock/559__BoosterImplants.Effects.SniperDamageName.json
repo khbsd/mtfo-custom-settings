@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sniper Damage",
+  "Description": "I.e. how much damage you can deal with a sniper rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de sniper",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da f. di precisione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scharfschützengewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil de francotirador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (снайперская винтовка)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de sniper",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu snajperskiego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スナイパーダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "저격 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "狙擊槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "狙击枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SniperDamageName",
+  "internalEnabled": true,
+  "persistentID": 559
+}

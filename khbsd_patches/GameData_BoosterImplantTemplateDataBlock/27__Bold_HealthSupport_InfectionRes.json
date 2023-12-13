@@ -1,0 +1,33 @@
+{
+  "Deprecated": false,
+  "PublicName": 707,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "DropWeight": 1.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [
+    {
+      "BoosterImplantEffect": 12,
+      "MinValue": 1.4,
+      "MaxValue": 1.6
+    }
+  ],
+  "RandomEffects": [],
+  "ImplantCategory": 1,
+  "MainEffectType": 2,
+  "name": "Bold_HealthSupport_InfectionRes",
+  "internalEnabled": true,
+  "persistentID": 27
+}

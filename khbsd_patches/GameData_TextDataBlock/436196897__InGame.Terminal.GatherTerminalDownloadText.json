@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Extracting data-core",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Extraction du noyau de données",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Estrazione nucleo dati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Datenkern wird extrahiert ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Extrayendo núcleo de datos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлечение ядра данных",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Extraindo núcleo de dados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wypakowywanie rdzenia danych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データコアを抽出中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "데이터 코어 추출 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資料核擷取中",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在提取数据核",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.GatherTerminalDownloadText",
+  "internalEnabled": true,
+  "persistentID": 436196897
+}

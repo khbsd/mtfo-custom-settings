@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Die Door",
+  "Description": "Part of the map \"legend\" (icon explanations.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.Door",
+  "internalEnabled": true,
+  "persistentID": 811
+}

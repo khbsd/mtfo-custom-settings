@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class T Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 99,
+  "SurvivalWavePopulation": 19,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 28.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 24
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single x1 Moving 3 random points - Alarm Bullrush mix",
+  "internalEnabled": true,
+  "persistentID": 143
+}

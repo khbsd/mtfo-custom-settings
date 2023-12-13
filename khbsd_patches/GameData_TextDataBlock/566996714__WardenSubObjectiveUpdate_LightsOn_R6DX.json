@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Attention. Capacitor flush sequence completed. <color=orange>Reactor online.</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Attention. Séquence d'évacuation des condensateurs activée. <color=orange>Réacteur en ligne.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione. Sequenza scarico condensatore completata. <color=orange>Reattore online.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Achtung. Kondensator-Entladungssequenz abgeschlossen. <color=orange>Reaktor online.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Atención: secuencia de descarga de condensador completada. <color=orange>Reactor desactivado.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание! Цикл разрядки конденсатора завершен. <color=orange>Реактор включен</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atenção. Sequência de fluxo do condensador concluída. <color=orange>Reator online.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uwaga. Ukończono sekwencję zalania kondensatora. <color=orange>Reaktor włączony.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "注意。コンデンサフラッシュシークエンス完了。<color=orange>リアクターオンライン。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주의. 캐패시터 방전 절차 완료. <color=orange>반응로 온라인.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "注意。電容器排清序列完成。<color=orange>反應器上線。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "注意。电容器放电序列已完成。<color=orange>反应堆在线。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenSubObjectiveUpdate_LightsOn_R6DX",
+  "internalEnabled": true,
+  "persistentID": 566996714
+}

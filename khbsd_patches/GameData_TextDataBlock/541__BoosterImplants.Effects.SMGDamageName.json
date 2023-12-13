@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SMG Damage",
+  "Description": "I.e. how much damage you can deal with an SMG (submachine gun.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de SMG",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da mitra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MP-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de subfusil",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (пистолет-пулемет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de submetr.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinku automatycznego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "SMGダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "SMG 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "衝鋒槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "冲锋枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SMGDamageName",
+  "internalEnabled": true,
+  "persistentID": 541
+}

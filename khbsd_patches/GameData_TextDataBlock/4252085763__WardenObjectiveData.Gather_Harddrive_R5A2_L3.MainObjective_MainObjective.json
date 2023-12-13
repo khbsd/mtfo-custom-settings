@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the backup Hard Drive and return the data to be processed.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le disque dur de secours et renvoyez les données à traiter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il disco rigido [HARD_DRIVE] di backup e consegnare i dati da elaborare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die Backup-Festplatte [HARD_DRIVE] und geben Sie die zu verarbeitenden Daten ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la copia de seguridad del [HARD DRIVE] y trae los datos para procesarlos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите резервный жесткий диск и принесите данные для обработки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o disco rígido de backup e retorne os dados para processamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź zapasowy dysk twardy [HARD_DRIVE] i przekaż dane do przetwarzania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックアップのハードドライブを[HARD_DRIVE]見つけ、処理用データを戻せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 하드 드라이브[HARD_DRIVE]를 수집해 처리할 데이터를 반환하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到備份硬碟[HARD_DRIVE]並返回資料進行處理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到备份硬盘[HARD_DRIVE]并返回数据进行处理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Harddrive_R5A2_L3.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 4252085763
+}

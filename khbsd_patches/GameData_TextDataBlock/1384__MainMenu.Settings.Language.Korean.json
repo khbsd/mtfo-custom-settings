@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "한국어",
+  "Description": "The language they speak in South Korea.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Coréen",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "한국어",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "한국인",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Coreano",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "한국어",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coreano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Koreański",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "韓国語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "한국어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "韓文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "韩语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Language.Korean",
+  "internalEnabled": true,
+  "persistentID": 1384
+}

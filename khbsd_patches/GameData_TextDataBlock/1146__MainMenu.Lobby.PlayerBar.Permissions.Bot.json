@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bots Only",
+  "Description": "category name for friendly player played by the computer.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bots uniquement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Solo bot",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nur Bots",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Solo bots",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Только ИИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Apenas robôs",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tylko boty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボットのみ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "봇 한정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "僅限機器人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "仅机器人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Permissions.Bot",
+  "internalEnabled": true,
+  "persistentID": 1146
+}

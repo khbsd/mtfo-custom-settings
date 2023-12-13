@@ -1,0 +1,129 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        3,
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        3,
+        2,
+        0,
+        1,
+        4
+      ],
+      [
+        3,
+        2,
+        0,
+        1
+      ],
+      [
+        3,
+        0,
+        4,
+        1,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        0,
+        3,
+        2,
+        1,
+        4
+      ],
+      [
+        3,
+        2,
+        0,
+        1,
+        4
+      ],
+      [
+        3,
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        3,
+        1,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        1
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        3,
+        1,
+        2
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_corridor_600x800x800/refinery_corridor_600x800x800_SV_01.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_corridor_600x800x800/refinery_corridor_600x800x800_SV_02.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_corridor_600x800x800/refinery_corridor_600x800x800_SV_03.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_corridor_600x800x800/refinery_corridor_600x800x800_SV_04.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/refinery/refinery_corridor_600x800x800/refinery_corridor_600x800x800_SV_05.prefab",
+        "function": 0,
+        "Shard": 11
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 1,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_refinery_corridor_600x800x800",
+    "BoundingVolume": 384000.0
+  },
+  "name": "mining_refinery_corridor_600x800x800",
+  "internalEnabled": true,
+  "persistentID": 53
+}

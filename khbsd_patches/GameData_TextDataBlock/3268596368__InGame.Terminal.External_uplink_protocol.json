@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "External uplink protocol 1.531.bioSec\nBiometric security clearance required, enter biometric scan to proceed..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Protocole de liaison montante externe 1.531.bioSec\nHabilitation biométrique requise, entrez dans le bioscan pour continuer...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Protocollo uplink esterno 1.531.bioSec\nRichiesta autorizzazione di sicurezza biometrica. Inserire scansione biometrica per procedere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Externes Uplink-Protokoll 1.531.bioSec\nBiometrische Sicherheitsfreigabe erforderlich. Geben Sie einen biometrischen Scan ein, um fortzufahren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Protocolo de uplink externo 1.531.bioSec\nAutorización de seguridad biométrica necesaria, entra en el escáner biométrico para seguir.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внешний протокол подключения 1.531.bioSec\nТребуется биометрическая проверка безопасности. Встаньте в биометрический сканер...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Protocolo de uplink externo 1.531.bioSec\nLiberação de segurança biométrica necessária; insira o escâner biométrico para continuar..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Protokół łącza zewnętrznego 1.531.bioSec\nWymagane biometryczne poświadczenie bezpieczeństwa – wprowadź skan biometryczny, aby kontynuować..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "外部アップリンクプロトコル1.531.bioSec\nバイオメトリックセキュリティクリアランスが必要、バイオメトリックスキャンを開始して続行。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "외부 업링크 프로토콜 1.531.bioSec\n생체 인식 보안 허가 필요. 생체 인식 스캔으로 진행...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "外部上行鏈路協定1.531.bioSec\n需要生物識別安全許可，進入生物識別掃描區以繼續。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "外部上行链路协议1.531.bioSec\n需要生物识别安全许可，进入生物识别扫描区以继续。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.External_uplink_protocol",
+  "internalEnabled": true,
+  "persistentID": 3268596368
+}

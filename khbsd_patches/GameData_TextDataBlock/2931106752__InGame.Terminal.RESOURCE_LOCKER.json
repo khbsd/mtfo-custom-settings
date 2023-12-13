@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RESOURCE LOCKER",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "CASIER DE RESSOURCES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ARMADIETTO RISORSE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RESSOURCENSPIND",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TAQUILLA DE RECURSOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ШКАФЧИК С РЕСУРСАМИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARMÁRIO DE RECURSOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SZAFKA Z ZASOBAMI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースロッカー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 보관함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源櫃",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源柜",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.RESOURCE_LOCKER",
+  "internalEnabled": true,
+  "persistentID": 2931106752
+}

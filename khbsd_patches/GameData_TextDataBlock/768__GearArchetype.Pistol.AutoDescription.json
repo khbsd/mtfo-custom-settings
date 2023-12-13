@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nHigh rate of fire\nVery Short range\nHigh ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCadence de tir élevée\nTrès courte portée\nCapacité de munitions élevée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatica\nElevata cadenza di tiro\nGittata molto breve\nElevata capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nHohe Feuerrate\nSehr kurze Reichweite\nHohe Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nCadencia de tiro alta\nMuy corto alcance\nCapacidad de munición alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nВысокая скорострельность\nОчень малая дальность\nБольшая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nAlta cadência de tiros\nMuito curto alcance\nAlta capacidade de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nDuża szybkostrzelność\nBardzo krótki dystans\nDuża pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n高速連射\n超近距離\n装弾数が多い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n빠른 발사 속도\n초단거리\n높은 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n高射速\n極短射程\n高彈藥容量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n高射速\n超近程\n弹药容量大",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Pistol.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 768
+}

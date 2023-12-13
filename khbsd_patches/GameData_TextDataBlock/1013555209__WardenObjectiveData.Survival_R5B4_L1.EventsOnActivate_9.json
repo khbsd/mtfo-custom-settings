@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Releasing phase lock to [Zone 185]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouverture du verrou de la [Zone\u00A0185]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilascio blocco fase a zona 185 [ZONE_185]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigabe der Phasensperre für [ZONE 185]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloqueando cierre de fase a [ZONE 185].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[Zone 185] разблокирована.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberando trava da fase para [Zone 185]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zwalnianie blokady strefy 185 [Zone 185]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Zone 185]へのフェーズロックを解除中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[Zone 185] 페이즈 록 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在解除185區[ZONE_185]階段封鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在解除185区[ZONE_185]阶段锁定",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_9",
+  "internalEnabled": true,
+  "persistentID": 1013555209
+}

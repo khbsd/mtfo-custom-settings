@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sniper Sentry",
+  "Description": "A sentry gun category. A \"sniper sentry\" will fire more powerful semi automatic gunfire at targets at a long range.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tourelle sniper",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torretta di precisione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scharfschützen-Sentry",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Centinela francotiradora",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Снайперская турель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sentinela sniper",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Snajperskie działko wartownicze",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スナイパーセントリー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스나이퍼 센트리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "狙擊槍自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "狙击哨戒炮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.SemiSniperName",
+  "internalEnabled": true,
+  "persistentID": 775
+}

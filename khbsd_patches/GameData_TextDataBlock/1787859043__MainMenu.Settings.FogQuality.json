@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog Quality",
+  "Description": "A graphical resolution settings regarding the ingame fog.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Qualité du brouillard",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualità nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nebelqualität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Calidad de niebla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество дыма",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualidade da névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jakość mgły",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "霧のクオリティ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 품질",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "煙霧品質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "雾气质量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.FogQuality",
+  "internalEnabled": true,
+  "persistentID": 1787859043
+}

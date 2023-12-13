@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unitialized",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "NonInitialisé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Non inizializzato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NichtInitialisiert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sin inicializar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нет инициализации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "NãoInicializado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Niezainicjowano",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "未初期化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "가동안됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未初始化",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.Unitialized",
+  "internalEnabled": true,
+  "persistentID": 1244
+}

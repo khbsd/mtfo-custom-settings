@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/IronSights/IronSights_7_B.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 50,
+    "BundleShard": 12
+  },
+  "Aligns": [
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    }
+  ],
+  "SightProperties": {
+    "GearFovZoom": 0,
+    "WorldFovZoom": 0,
+    "ZoomSensitivityModifier": 1.0
+  },
+  "name": "IronSights_7_B",
+  "internalEnabled": true,
+  "persistentID": 38
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UPLINK VERIFICATION CODES SENT TO {0} AS LOG FILES.",
+  "Description": "A text that appears on screen to inform the player that verification codes (passwords) have been transferred via a computer network to a specific computer terminal and saved on that terminal as a log file. \"{0}\" will be replaced by the name of the computer terminal; do not alter those characters, just make sure they are in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CODES DE VÉRIFICATION DE LA LIAISON MONTANTE ENVOYÉS À {0} SOUS FORME D'HISTORIQUE.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CODICE VERIFICA UPLINK INVIATO A {0} SOTTO FORMA DI FILE DI REGISTRO.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UPLINK-VERIFIZIERUNGSCODES GESENDET AN O {0} ALS PROTOKOLLDATEIEN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CÓDIGOS DE VERIFICACIÓN ENVIADOS A {0} COMO ARCHIVOS DE REGISTRO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПАРОЛЬ ПОДКЛЮЧЕНИЯ ОТПРАВЛЕН В ФАЙЛЕ ПРОТОКОЛА ({0}).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CÓDIGOS DE VERIFICAÇÃO DE UPLINK ENVIADOS PARA {0} COMO ARQUIVOS DE REGISTRO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KODY WERYFIKACYJNE ŁĄCZA ZOSTAŁY WYSŁANE ZOSTAŁY DO {0} JAKO PLIKI DZIENNIKA.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク認証コードがログファイルとして {0} に送信されました。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 확인 코드가 로그 파일로 {0}에 전송되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "上行驗證碼以日誌檔案傳送到{0}。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "上行链路验证码已作为日志文件发送至{0}。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.UplinkCodesSentTo_X",
+  "internalEnabled": true,
+  "persistentID": 883
+}

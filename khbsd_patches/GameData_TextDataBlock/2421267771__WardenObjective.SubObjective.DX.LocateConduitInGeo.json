@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed immediately to Zone 82 and confirm status of Unit 27. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous immédiatement dans la zone\u00A082 et confirmez l'état de l'unité\u00A027.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere immediatamente alla zona 82 [ZONE_82] e confermare lo stato dell'Unità 27.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich sofort zu Zone 82 und bestätigen Sie den Status von Einheit 27.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acude inmediatamente a la Zone 82 y confirma el estado de la unidad 27. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Немедленно отправляйтесь в зону 82 и подтвердите статус объекта 27.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vá imediatamente até a Zone 82 e confirme o status da Unidade 27.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź bezzwłocznie do strefy 82 i potwierdź stan jednostki nr 27.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "直ちにZone 82へ進み、ユニット27の状況を確認しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "즉시 Zone 82로 이동해 유닛 27의 상태를 확인할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "立即前往Zone 82並確認27號單位的狀態。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "立即前往82区[ZONE_82]，确认单位27的状态。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjective.SubObjective.DX.LocateConduitInGeo",
+  "internalEnabled": true,
+  "persistentID": 2421267771
+}

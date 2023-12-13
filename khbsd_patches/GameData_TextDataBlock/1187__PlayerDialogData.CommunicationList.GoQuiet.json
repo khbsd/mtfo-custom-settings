@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Let's go quiet!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Pas un bruit\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Silenzio!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir sollten leise sein!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡No hagas ruido!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тихо!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vamos em silêncio!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zachować ciszę!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "静かに行くぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조용히 해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們安靜點！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安静！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.GoQuiet",
+  "internalEnabled": true,
+  "persistentID": 1187
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hold to show teammate info",
+  "Description": "Control key binding/mapping. This key makes info boxes appear above each teammate's head (in your HUD), to inform you about their health and ammo status.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Maintenir pour afficher les infos des coéquipiers",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tieni premuto per mostrare info compagno di squadra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halten, um Teammitglieder-Info anzuzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mantener para ver información de compañeros",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удерживать, чтобы показать сведения о напарниках",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segurar para mostrar informações do aliado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przytrzymaj, aby pokazać informacje o członku drużyny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "長押しでチームメイト情報を表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "길게 눌러 팀원 정보 표시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按住以顯示隊友資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住以显示队友信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HoldToShowTeammateInfo",
+  "internalEnabled": true,
+  "persistentID": 161
+}

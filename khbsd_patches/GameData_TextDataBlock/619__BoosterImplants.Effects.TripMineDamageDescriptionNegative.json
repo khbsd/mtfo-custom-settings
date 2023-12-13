@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Trip mine placed by Subject will deal less damage.",
+  "Description": "Describes the disadvantage of having a poor \"trip mine damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les mines à déclencheur déployées par le sujet infligent moins de dégâts.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Le mine adesive posizionate dal soggetto infliggeranno danni minori.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Von der Versuchsperson platzierte Stolpermine verursacht weniger Schaden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las minas de detección que coloque el sujeto infligirán menos daño.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый миной с лазерным датчиком, понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "As minas posicionadas pelo indivíduo causam menos danos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mina z potykaczem biorcy będzie zadawać mniejsze obrażenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が設置したトリップマインのダメージが下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 설치한 트립 마인이 더 적은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象放置的絆雷會造成較少傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者布置的绊雷造成的伤害减少。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.TripMineDamageDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 619
+}

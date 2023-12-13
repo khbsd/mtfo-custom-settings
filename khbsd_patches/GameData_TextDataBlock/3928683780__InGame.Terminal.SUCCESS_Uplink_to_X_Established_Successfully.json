@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SUCCESS! Uplink to {0} Established Successfully!",
+  "Description": "{0} is an IP adress to another terminal",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "OPÉRATION RÉUSSIE\u00A0! Liaison montante établie vers {0}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SUCCESSO! Stabilito uplink con {0}!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ERFOLG! Uplink zu {0} erfolgreich hergestellt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ÉXITO! ¡Uplink a {0} establecido con éxito!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСПЕХ! Подключение к адресу {0} установлено!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SUCESSO! Uplink para {0} estabelecido com sucesso!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POWODZENIE! Nawiązano połączenie z {0}!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "成功！{0}へのアップリンク確立完了！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "성공! {0} 업링크가 성공적으로 설정되었습니다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "成功！已建立與{0}的上行鏈路！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "成功！到{0}的上行链路已建立！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SUCCESS_Uplink_to_X_Established_Successfully",
+  "internalEnabled": true,
+  "persistentID": 3928683780
+}

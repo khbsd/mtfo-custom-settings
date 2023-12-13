@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will get more out of MediPacks.",
+  "Description": "Don't localize MediPacks.\nDescribes the advantage of having a good \"med efficiency\" value. Essentially this means that when the subject uses a MediPack, it will replenish more health than usual.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet tire plus de bénéfices des MediPacks.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto otterrà benefici maggiori dai MediPack.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson nutzt MediPacks besser.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto les sacará más partido a los botiquines.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Аптечки восстанавливают здоровье более эффективно.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo é mais beneficiado pelos pacotes médicos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca odzyska więcej zdrowia po użyciu apteczki.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象へのMediPacksの効果が上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 구급팩 효과를 더 많이 받습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象將從醫藥包[MediPack]獲益較多。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "医药包治疗使用者的效果提高。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Effects.HealSupportDescription",
+  "internalEnabled": true,
+  "persistentID": 516
+}

@@ -1,0 +1,23 @@
+{
+  "ForceDisableAnimator": false,
+  "AnimationControllers": 128,
+  "MoveSlowerWhenInPlayerRoom": true,
+  "MoveSlowerWithinTargetDistance": 15.0,
+  "GlobalAnimSpeedMulti": 1.7,
+  "PathMoveAnimSpeedMulti": 1.0,
+  "RotationLerp": 1.5,
+  "RotationLerpWhenNotMoving": 0.0,
+  "BlendIntoAttackAnim": 0.5,
+  "BlendIntoScreamAnim": 0.5,
+  "AllowMovmentBlendOutOfPathMove": true,
+  "PathMoveAnimDampTime": 0.4,
+  "AllowClimbDownLadders": false,
+  "LocomotionPathMove": 2,
+  "LocomotionHitReact": 7,
+  "LocomotionDead": 11,
+  "LocomotionShooterAttack": 18,
+  "LocomotionScream": 16,
+  "name": "Striker_Big",
+  "internalEnabled": true,
+  "persistentID": 16
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nLow damage\nShort range\nBlunthead rounds\nStaggering effect\nOverpenetrating rounds",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nDégâts réduits\nCourte portée\nBalles contondantes\nEffet déstabilisant\nBalles ultra-pénétrantes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatica\nDanni scarsi\nGittata breve\nProiettili arrotondati\nEffetto stordente\nColpi perforanti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nGeringer Schaden\nKurze Reichweite\nStumpfkopf-Kugeln\nTorkel-Wirkung\nDurchschlagende Geschosse",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nPoco daño\nCorto alcance\nBalas de punta blanda\nEfecto tambaleante\nBalas superperforantes",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nСлабый урон\nМалая дальность\nТупоконечные пули\nЭффект оглушения\nВысокая пробивная способность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nBaixo dano\nCurto alcance\nMunição pontiaguda\nEfeito desestabilizante\nMunição altamente perfurante",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nMałe obrażenia\nKrótki zasięg\nPociski półpłaszczowe z miękkim wierzchołkiem\nWywołuje zachwianie\nPociski nadpenetrujące",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n低ダメージ\n近距離\n鈍頭弾\nよろめき効果\n超貫通弾",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n낮은 대미지\n단거리\n블런트헤드탄\n경직 효과\n고관통탄",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n低傷害\n短程\n鈍頭彈\n踉蹌效果\n超穿彈",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n低伤害\n近程\n钝头子弹\n踉跄效果\n过度穿透子弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.Pistol.AutoStaggeringDescription",
+  "internalEnabled": true,
+  "persistentID": 770
+}

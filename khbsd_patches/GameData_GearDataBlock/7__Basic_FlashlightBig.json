@@ -1,0 +1,73 @@
+{
+  "officialForRelease": true,
+  "publicName": "Cornell Enterprises: [TP] Torch",
+  "baseItemID": 30,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": false,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 129,
+      "partName": "Tool_FlashlightMedium_Powerpack_a"
+    },
+    {
+      "allowed": true,
+      "ID": 130,
+      "partName": "Tool_FlashlightMedium_Powerpack_b"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [],
+  "structualModsAllowedReceiver": [],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 131,
+      "partName": "Tool_FlashlightMedium_Lightsource_a",
+      "macroText": "Sodium"
+    },
+    {
+      "allowed": true,
+      "ID": 132,
+      "partName": "Tool_FlashlightMedium_Lightsource_b",
+      "macroText": "Halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 133,
+      "partName": "Tool_FlashlightMedium_Lightsource_c",
+      "macroText": "Incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 134,
+      "partName": "Tool_FlashlightMedium_Lightsource_d",
+      "macroText": "LED"
+    },
+    {
+      "allowed": true,
+      "ID": 135,
+      "partName": "Tool_FlashlightMedium_Lightsource_e",
+      "macroText": "Bulb"
+    }
+  ],
+  "sightsAllowed": [],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_FlashlightBig",
+  "internalEnabled": true,
+  "persistentID": 7
+}

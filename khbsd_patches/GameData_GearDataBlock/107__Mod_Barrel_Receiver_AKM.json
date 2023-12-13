@@ -1,0 +1,204 @@
+{
+  "officialForRelease": false,
+  "publicName": "[RR] Malatack Armaments [SP] [AT] Ximitar Rifle [TP] ",
+  "baseItemID": 77,
+  "weaponPersonalityID": 3,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 1,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": true,
+      "ID": 2,
+      "partName": "AKM_Grip"
+    },
+    {
+      "allowed": true,
+      "ID": 72,
+      "partName": "FNC_Grip"
+    }
+  ],
+  "structualModsAllowedStock": [
+    {
+      "allowed": true,
+      "ID": 4,
+      "partName": "AKM_Stock"
+    },
+    {
+      "allowed": true,
+      "ID": 9,
+      "partName": "AR15_Stock"
+    },
+    {
+      "allowed": true,
+      "ID": 74,
+      "partName": "FNC_Stock"
+    }
+  ],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 1,
+      "partName": "AKM_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 71,
+      "partName": "FNC_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 84,
+      "partName": "AKM_Mod_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 3,
+      "partName": "AKM_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 20,
+      "partName": "GasParts_Receiver_a"
+    },
+    {
+      "allowed": false,
+      "ID": 73,
+      "partName": "FNC_Receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 83,
+      "partName": "Rifle_AKM_Mod_Receiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 17,
+      "partName": "WPN_M9_Flashlight"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "flashlight_small_halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 138,
+      "partName": "Tool_FlashlightSmall_c"
+    },
+    {
+      "allowed": true,
+      "ID": 137,
+      "partName": "Tool_FlashlightSmall_b"
+    },
+    {
+      "allowed": true,
+      "ID": 136,
+      "partName": "Tool_FlashlightSmall_a"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": false,
+      "ID": 52,
+      "partName": "WPN_NavTech_Sight"
+    },
+    {
+      "allowed": true,
+      "ID": 78,
+      "partName": "Sight_Reflex_a"
+    },
+    {
+      "allowed": true,
+      "ID": 79,
+      "partName": "Sight_Reflex_Makeshift_a"
+    },
+    {
+      "allowed": true,
+      "ID": 80,
+      "partName": "Sight_Reflex_Makeshift_b"
+    },
+    {
+      "allowed": true,
+      "ID": 81,
+      "partName": "Sight_Rear_Makeshift_a"
+    }
+  ],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [
+    {
+      "allowed": true,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": true,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": true,
+      "ID": 107,
+      "partName": "muzzle_c"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Mod_Barrel_Receiver_AKM",
+  "internalEnabled": true,
+  "persistentID": 107
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Russian",
+  "Description": "A language spoken in Russia, Belarus, Kazakhstan, Kyrgyzstan and throughout parts of Ukraine, the Caucasus and Central Asia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Russe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Russo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Russisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ruso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Русский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Russo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rosyjski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロシア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "러시아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "俄文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "俄语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Russian",
+  "internalEnabled": true,
+  "persistentID": 399
+}

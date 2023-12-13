@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scan!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Analysez\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansione!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scannen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Escanea!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сканируем!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escanear!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skanować!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャン！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Scan",
+  "internalEnabled": true,
+  "persistentID": 1195
+}

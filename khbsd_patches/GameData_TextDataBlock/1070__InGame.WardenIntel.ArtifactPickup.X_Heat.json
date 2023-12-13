@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[{0}% Heat]",
+  "Description": "{0} is a value between 0 and 100\nIn GTFO you can find artifacts around the maps. If the \"artifact heat\" of a particular mission is high, the artifacts found on this mission will be valuable and can be exchanged for other valuable items. If the \"artifact heat\" is low, the artifacts will be less valuable. So the value of artifacts go up and down like a stock, and the term \"artifact heat\" represents the \"exchange rate\" (i.e. the current value) of the artifacts in a given mission.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[Intensité\u00A0: {0}\u00A0%]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[Valore {0}%]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[{0} % Hitze]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[{0}\u00A0% de calor]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[{0}% качества]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[{0}% Probab.]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[{0}% ciepła]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[{0}% ヒート]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[{0}% 온도]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[{0}%熱度]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[{0}%热力]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.ArtifactPickup.X_Heat",
+  "internalEnabled": true,
+  "persistentID": 1070
+}

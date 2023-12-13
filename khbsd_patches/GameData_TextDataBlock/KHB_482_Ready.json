@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Head?",
+  "Description": "In the game lobby screen, this text represents a button that the player can click to indicate to the rest of the team that they are ready for the game to start.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PRÊT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRONTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BEREIT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "LISTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИГРОК ГОТОВ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRONTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GOTOWOŚĆ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "就緒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Ready",
+  "internalEnabled": true,
+  "persistentID": 482
+}

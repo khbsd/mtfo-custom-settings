@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security Class lowered from Class XII to Class IV",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Classe de sécurité abaissée du niveau\u00A0XII au niveau\u00A0IV.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Classe sicurezza ridotta da Classe XII a Classe IV",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsklasse von Klasse\u00A0XII auf Klasse\u00A0IV gesenkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La clase de seguridad ha descendido de la XII a la IV",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Класс безопасности снижен с XII до IV",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Classe de Segurança reduzida de Classe XII para Classe IV",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poziom zabezpieczeń obniżony z klasy XII do klasy IV",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティクラスがクラスXIIからクラスIVに引き下げられた",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 클래스가 클래스 XII에서 클래스 IV로 격하됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全層級已從XII級降到IV級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全级别已从XII级降到IV级",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.SpecialTerminalCommandLowerSecurity.R8D2",
+  "internalEnabled": true,
+  "persistentID": 949032344
+}

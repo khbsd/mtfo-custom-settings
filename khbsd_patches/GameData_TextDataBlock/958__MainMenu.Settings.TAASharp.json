@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TAA (Sharp)",
+  "Description": "A visual/rendering feature. Only translate the word \"sharp\". This is sharp as in \"something with clear/visual edges\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TAA (net)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TAA (nitido)",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "TAA (Scharf)",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TAA (nitidez)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "TAA (четкость)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TAA (rígido)",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "TAA (ostre)",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "TAA (シャープ)",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "TAA (선명함)",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "TAA（銳利）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "TAA（锐利）",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.TAASharp",
+  "internalEnabled": true,
+  "persistentID": 958
+}

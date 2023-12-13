@@ -1,0 +1,260 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        10,
+        7
+      ],
+      [
+        11,
+        7,
+        1,
+        2,
+        8,
+        0,
+        4,
+        10,
+        9,
+        3,
+        5,
+        6,
+        12
+      ],
+      [],
+      [
+        11,
+        7,
+        4,
+        1,
+        2,
+        8,
+        0,
+        10,
+        9
+      ],
+      [
+        11,
+        7,
+        1,
+        2,
+        8,
+        0,
+        4,
+        10,
+        9
+      ],
+      [
+        11,
+        7,
+        0,
+        4,
+        10,
+        9,
+        1,
+        2,
+        3,
+        5,
+        6,
+        12
+      ],
+      [
+        11,
+        7,
+        4,
+        1,
+        2,
+        8,
+        0,
+        10,
+        9,
+        12,
+        5,
+        3,
+        6
+      ],
+      [],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        7,
+        11,
+        8,
+        12
+      ],
+      [
+        11,
+        7,
+        1,
+        2,
+        8,
+        0,
+        4,
+        10,
+        9,
+        3,
+        5,
+        6,
+        12
+      ],
+      [
+        11,
+        7,
+        1,
+        2,
+        8,
+        0,
+        4,
+        10,
+        9,
+        3,
+        5,
+        6,
+        12
+      ],
+      [
+        12
+      ],
+      [
+        11,
+        0,
+        1,
+        4,
+        5,
+        6,
+        9,
+        10,
+        12,
+        7,
+        2
+      ],
+      [
+        11,
+        7,
+        1,
+        2,
+        8,
+        0,
+        4,
+        10,
+        9
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        11,
+        0,
+        1,
+        4,
+        5,
+        6,
+        9,
+        10,
+        12,
+        7,
+        2
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 0.3,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_b_GH.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.3,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_c_GH.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.3,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_e_GH.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_f_GH.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_HA_a.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_HA_b.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_HA_c.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_HA_d.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x2000_HA_e.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x1000_gen_HA_01.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x1000_gen_HA_02.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x1000_building_HA_01.prefab",
+        "function": 0,
+        "Shard": 7
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/dig_site/dig_site_corner_600x600x1000/dig_site_corner_600x600x1000_building_HA_03.prefab",
+        "function": 13,
+        "Shard": 7
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 3,
+    "FunctionPotential": 4.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_dig_site_corner_600x600x1000",
+    "BoundingVolume": 360000.0
+  },
+  "name": "mining_dig_site_corner_600x600x1000",
+  "internalEnabled": true,
+  "persistentID": 45
+}

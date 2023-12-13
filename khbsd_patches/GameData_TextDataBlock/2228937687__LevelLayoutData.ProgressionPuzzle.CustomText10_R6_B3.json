@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start 2 emergency power supply unit(s), using the command <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> from terminal(s) in <color=orange>ZONE 183.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Démarrez 2 unité(s) d'alimentation de secours en utilisant la commande <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> depuis le ou les terminaux dans la <color=orange>ZONE\u00A0183.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia 2 alimentatori di emergenza usando il comando <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> dai terminali nella <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Starten Sie 2 Notstromversorgungseinheit(en) am/an den Terminal(s) in <color=orange>ZONE 183</color> mit dem Befehl <color=orange>EMERGENCY_POWER_SUPPLY_ON</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Arranca 2 unidad(es) eléctrica(s) de apoyo usando el comando <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> en la(s) terminal(es) de la <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите 2 аварийных источника питания с помощью команды <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> на терминалах в <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie 2 unidade(s) de fornecimento elétrico de emergência, usando o comando <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> do(s) terminal(is) na <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom 2 zasilacze awaryjne za pomocą polecenia <color=orange>ERGENCY_POWER_SUPPLY_ON</color> z terminalu w <color=orange>STREFIE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コマンド<color=orange>EMERGENCY_POWER_SUPPLY_ON</color>を<color=orange>ZONE 183</color>の端末に使用し、非常電力供給ユニットを2tう起動しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 183</color> 터미널에서 <color=orange>EMERGENCY_POWER_SUPPLY_ON</color> 명령을 사용해 비상 파워 서플라이 유닛 2개 가동.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>ZONE 183</color>的終端指令<color=orange>EMERGENCY_POWER_SUPPLY_ON</color>啟動2個緊急電源裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 183</color>的终端上使用命令<color=orange>EMERGENCY_POWER_SUPPLY_ON</color>启动2个应急电源装置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText10_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 2228937687
+}

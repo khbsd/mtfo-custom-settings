@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stabilize the light system.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Stabilisez le système d'éclairage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stabilizza il sistema di illuminazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stabilisieren Sie das Lichtsystem.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estabiliza el sistema de luz.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стабилизируйте систему освещения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estabilize o sistema de iluminação.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustabilizuj system oświetlenia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "照明システムを安定させろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소명 시스템 안정화.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "穩定照明系統。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "稳定灯光系统。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText7_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 432698129
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BlueCap",
+  "Description": "\"Cap\" is a reference to the lid of the vial that a specific drug is packaged/stored in. \"BlueCap\" means that the vial has a blue lid/cap. It is a way for the PC to identify/categorize the drug.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouchon bleu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TappoBlu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BlaueKappe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tapón azul",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Синяя крышка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TampaAzul",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Granatowe.Wieko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルーキャップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "블루캡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "藍蓋",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蓝盖",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.BlueCap",
+  "internalEnabled": true,
+  "persistentID": 669
+}

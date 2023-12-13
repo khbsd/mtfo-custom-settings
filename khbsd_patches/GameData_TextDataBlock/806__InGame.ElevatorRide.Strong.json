@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "STRONG",
+  "Description": "If the \"artifact heat\" on the current expedition/mission is high, this word sums up the probability of the player being rewarded with a booster: \"Strong\", as in high probability of being rewarded.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "PUISSANT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CONCRETO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STARK",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INTENSO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СИЛЬНЫЙ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FORTE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYSOKI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "강함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.ElevatorRide.Strong",
+  "internalEnabled": true,
+  "persistentID": 806
+}

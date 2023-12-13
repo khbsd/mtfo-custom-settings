@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Arrow",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flèche droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Freccia destra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pfeiltaste nach rechts",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Flecha derecha",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка вправо",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seta direita",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzałka w prawo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "方向キー右",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 화살표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右箭頭",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右箭头键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.RightArrow",
+  "internalEnabled": true,
+  "persistentID": 227
+}

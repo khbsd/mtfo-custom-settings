@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Press {0} to type and hold {1} to talk",
+  "Description": "This is a helper text for the in-game chat. \"{0}\" represents the designated key for starting to type chat messages. \"{1}\" represents the designated key for starting to speak over voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyez sur {0} pour écrire et maintenez {1} enfoncé pour parler.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premi {0} per digitare e mantieni {1} per parlare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drücken Sie {0} zum Tippen und halten Sie {1} zum Sprechen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsa {0} para escribir y mantén pulsado {1} para hablar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите {0}, чтобы написать, и удерживайте {1}, чтобы сказать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aperte {0} para digitar e segure {1} para falar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij {0}, aby pisać, i {1}, aby mówić",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} を押して入力、 {1} を長押しして通話",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}: 입력, {1} 길게 누르기: 말하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按{0}輸入，按住{1}說話",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下{0}打字，按住{1}说话",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.Press_X_ToTypeAnd_Y_ToTalk",
+  "internalEnabled": true,
+  "persistentID": 964
+}

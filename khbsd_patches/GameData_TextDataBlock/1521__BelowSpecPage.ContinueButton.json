@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CONTINUE",
+  "Description": "Button text to allow the player to continue even though their computer specifications are too low.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CONTINUER",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "CONTINUA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WEITER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CONTINUAR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОДОЛЖИТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONTINUAR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KONTYNUUJ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "続行",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "계속하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BelowSpecPage.ContinueButton",
+  "internalEnabled": true,
+  "persistentID": 1521
+}

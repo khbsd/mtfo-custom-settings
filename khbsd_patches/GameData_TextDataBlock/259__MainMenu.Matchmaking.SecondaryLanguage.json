@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECONDARY LANGUAGE",
+  "Description": "A header for a game setting where the user chooses a secondary language they can speak over voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "LANGUE SECONDAIRE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "LINGUA SECONDARIA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SEKUNDÄRSPRACHE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "IDIOMA SECUNDARIO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВТОРОЙ ЯЗЫК",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "IDIOMA SECUNDÁRIO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DRUGI JĘZYK",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副言語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 언어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "第二語言",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "辅语言",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.SecondaryLanguage",
+  "internalEnabled": true,
+  "persistentID": 259
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Severe",
+  "Description": "The level of infection the player character has. I.e. \"Infection level: Severe\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Sévère",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grave",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schwer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Severo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "тяжелый",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "severo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poważne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "重大",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "심각",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嚴重",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.InfectionSevere",
+  "internalEnabled": true,
+  "persistentID": 895
+}

@@ -1,0 +1,39 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "switch_test_play"
+    }
+  ],
+  "m_SwitchesOnEnter": [],
+  "m_SwitchesOnCustomCue": [
+    {
+      "customCue": "test_cue_1",
+      "switches": [
+        {
+          "switchGroup": "test",
+          "switchName": "test_04",
+          "randomCount": 0
+        }
+      ]
+    }
+  ],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "Testing",
+  "internalEnabled": true,
+  "persistentID": 20
+}

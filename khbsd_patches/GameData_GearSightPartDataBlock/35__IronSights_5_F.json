@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/IronSights/IronSights_5_F.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 50,
+    "BundleShard": 0
+  },
+  "Aligns": [
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    }
+  ],
+  "SightProperties": {
+    "GearFovZoom": 0,
+    "WorldFovZoom": 0,
+    "ZoomSensitivityModifier": 1.0
+  },
+  "name": "IronSights_5_F",
+  "internalEnabled": true,
+  "persistentID": 35
+}

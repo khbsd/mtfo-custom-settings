@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ZONE_6] and find Computer terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez dans la [ZONE_6] et trouvez le terminal informatique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_6] e trovare il terminale computer",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ZONE_6] und finden Sie das Computerterminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la [ZONE_6] y encuentra el terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ZONE_6] и найдите компьютерный терминал.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até a [ZONE_6] e encontre o terminal de computador.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy 6 [ZONE_6] i znajdź terminal komputerowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_6]へ行きコンピュータ端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_6]으로 가서 컴퓨터 터미널을 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_6]尋找電腦終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_6]并找到电脑终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 1369375460
+}

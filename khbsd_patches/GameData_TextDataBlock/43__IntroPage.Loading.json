@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Loading...",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chargement...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Caricamento...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wird geladen\u00A0...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cargando...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузка...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carregando...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ładowanie...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロード中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불러오는 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "載入中……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加载中……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.Loading",
+  "internalEnabled": true,
+  "persistentID": 43
+}

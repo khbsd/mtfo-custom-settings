@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlock security door from local terminal.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillez la porte de sécurité depuis le terminal local.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccare porta di sicurezza da terminale locale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Entriegeln Sie die Sicherheitstür vom lokalen Terminal aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloquea la puerta de seguridad desde el terminal local.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разблокируйте защитную дверь с локального терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desbloqueie a porta de segurança com o terminal local.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokuj drzwi za pomocą lokalnego terminalu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカル端末でセキュリティドアの封鎖を解除しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내부 터미널에서 보안 문 개방",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從本地終端解鎖安全門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从本地终端上解锁安全门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.03_R7_B2",
+  "internalEnabled": true,
+  "persistentID": 3328959487
+}

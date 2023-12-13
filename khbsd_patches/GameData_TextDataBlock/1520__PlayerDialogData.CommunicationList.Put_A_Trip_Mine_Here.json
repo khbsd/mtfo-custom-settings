@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Put a trip mine here.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Placez une mine à déclencheur ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mina adesiva qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolpermine hier platzieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "He colocado una mina de detección.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите мину с лазерным датчиком.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coloque mina aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mina z potykaczem, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにトリップマインを置いてくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 트립 마인을 설치해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在這裡放一個絆雷。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里放绊雷。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Put_A_Trip_Mine_Here",
+  "internalEnabled": true,
+  "persistentID": 1520
+}

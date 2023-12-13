@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "\\\\NOTE: Matchmaking searches across all rundowns",
+  "Description": "The title that describes that the expeditions will be searched throughout all the rundowns",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "\\\\REMARQUE\u00A0: recherche de match dans toutes les campagnes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "\\\\NOTA: ricerche di matchmaking in tutte le perlustrazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "\\\\HINWEIS: Spielersuche über alle Rundowns hinweg",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "\\\\NOTA: El emparejamiento se busca en todas las campañas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "\\\\ВНИМАНИЕ! Подбор команды проводится по всем кампаниям.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "\\\\OBS.: Buscas de partida em todas as campanhas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "\\\\UWAGA: Matchmaking będzie prowadzony we wszystkich ekstrakcjach",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "\\\\注：マッチメイクはすべてのランダウンを検索する",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\\\\참고: 매치매이킹은 모든 런다운을 검색합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "\\\\注意：會在所有遠征綱要中搜尋配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "\\\\注意：匹配会在所有行动中搜索",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "MainMenu.Matchmaking.Title",
+  "internalEnabled": true,
+  "persistentID": 1993193619
+}

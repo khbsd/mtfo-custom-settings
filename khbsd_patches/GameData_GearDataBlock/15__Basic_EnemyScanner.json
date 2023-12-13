@@ -1,0 +1,79 @@
+{
+  "officialForRelease": true,
+  "publicName": "Enemy Scanner",
+  "baseItemID": 28,
+  "weaponPersonalityID": 0,
+  "showAmmoInGUI": false,
+  "archetypesAllowed": [],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Enemy detection\r\nEnemy tagging\r\n",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [],
+  "structualModsAllowedStock": [
+    {
+      "allowed": true,
+      "ID": 54,
+      "partName": "EnemyScanner_makeshift_a"
+    },
+    {
+      "allowed": false,
+      "ID": 53,
+      "partName": "EnemyScanner_a"
+    },
+    {
+      "allowed": false,
+      "ID": 55,
+      "partName": "Tool_EnemyScanner_c"
+    }
+  ],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": true,
+      "ID": 58,
+      "partName": "Tool_EnemyScanner_antenna_a"
+    },
+    {
+      "allowed": false,
+      "ID": 59,
+      "partName": "Tool_EnemyScanner_antenna_b"
+    },
+    {
+      "allowed": false,
+      "ID": 60,
+      "partName": "Tool_EnemyScanner_antenna_c"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 56,
+      "partName": "Tool_EnemyScanner_display_a"
+    },
+    {
+      "allowed": false,
+      "ID": 57,
+      "partName": "Tool_EnemyScanner_display_b"
+    },
+    {
+      "allowed": false,
+      "ID": 61,
+      "partName": "Tool_EnemyScanner_display_c"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [],
+  "sightsAllowed": [],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_EnemyScanner",
+  "internalEnabled": true,
+  "persistentID": 15
+}

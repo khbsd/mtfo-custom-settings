@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Plant Sample",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Échantillon de plante",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Campione di pianta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pflanzenprobe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muestra de planta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Образцы растений",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Amostra de plantas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Próbka roślin",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "植物サンプル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "식물 샘플",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "植物樣本[PLANT]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "植物样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemData.TerminalLongName.Pickup_Plant_Sample",
+  "internalEnabled": true,
+  "persistentID": 1366842487
+}

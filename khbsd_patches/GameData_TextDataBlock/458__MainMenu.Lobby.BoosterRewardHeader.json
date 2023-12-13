@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "New Boosters!",
+  "Description": "A headline for the text box that informs the players about boosters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Nouveaux boosters\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nuovi potenziamenti!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neue Booster!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Potenciadores nuevos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Новые усилители!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Novos impulsos!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nowe wzmacniacze!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "新しいブースター！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "새로운 부스터!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "新型強化劑！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "新强化剂！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.BoosterRewardHeader",
+  "internalEnabled": true,
+  "persistentID": 458
+}

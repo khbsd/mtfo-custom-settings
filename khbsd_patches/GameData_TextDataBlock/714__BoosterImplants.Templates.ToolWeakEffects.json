@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DEX LITE",
+  "Description": "The name of a category of boosters that have a weaker effect on how efficiently the subject can use tools.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DEX LITE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DEX LEGGERO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GESCH LITE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESTREZA MENOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СНОРОВКА (LITE)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DESTREZA LEVE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SPRAWNOŚĆ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "デックス・ライト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하급 손재주",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "戴克斯輕型",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "灵巧-",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.ToolWeakEffects",
+  "internalEnabled": true,
+  "persistentID": 714
+}

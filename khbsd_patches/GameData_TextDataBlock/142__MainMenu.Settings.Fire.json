@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fire",
+  "Description": "Control key binding/mapping. This key is for firing your firearm or swinging your melee weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tirer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spara",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schießen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Atacar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Атаковать",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atacar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Atak",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "攻撃",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "攻擊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "攻击",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Fire",
+  "internalEnabled": true,
+  "persistentID": 142
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'll be right back.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je reviens.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torno subito.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich bin gleich zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ahora mismo vuelvo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скоро вернусь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Já volto.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaraz wracam.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "すぐに戻る。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "곧 돌아오지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我馬上回來。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我马上回来。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Be_Right_Back",
+  "internalEnabled": true,
+  "persistentID": 1478
+}

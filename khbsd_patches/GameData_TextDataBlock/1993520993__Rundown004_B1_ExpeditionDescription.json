@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power interruptions compromising grid integrity. Prisoners sent to link cells to local grid through the [Z085] power cluster. Power grid stability imperative. Standard resource loss tolerance increased. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les coupures d'électricité ont compromis l'intégrité du réseau. Les prisonniers ont été envoyés pour relier les piles au réseau local à travers le générateur central du groupe électrogène [Z085]. Priorité\u00A0: stabiliser le réseau électrique. Niveau de tolérance à la perte de ressources augmenté. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Interruzioni di alimentazione compromettono l'integrità della rete. Prigionieri inviati per collegare le celle alla griglia locale attraverso il gruppo di alimentazione [Z085]. La stabilità della rete elettrica è fondamentale. Aumentata la tolleranza alle perdite di risorse standard. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stromausfälle gefährden die Netzintegrität. Gefangene entsandt, um die Zellen über Energiecluster [Z085] mit dem lokalen Netz zu verbinden. Stabilisierung des Stromnetzes zwingend erforderlich. Standardtoleranz für Ressourcenverluste erhöht. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Los cortes eléctricos ponen en peligro la integridad de la red. Prisioneros destinados a unir células con la red local mediante el clúster de energía [Z085]. La estabilidad de la red eléctrica es prioritaria. Aumenta la tolerancia estándar a la pérdida de recursos. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перебои при подаче питания нарушают целостность сети. Заключенным поручено найти кластер генераторов [Z085] и подключить батареи к локальной сети. Требуется стабильная работа электросети. Увеличен приемлемый уровень потери ресурсов. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Interrupções de energia comprometendo a integridade da rede. Prisioneiros enviados para conectar células à rede local através do grupo de geradores de energia [Z085]. Estabilidade da rede elétrica obrigatória. Aumento na tolerância de perda de recursos padrão. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerwy w zasilaniu zagrażają spójności sieci. Wysłano więźniów w celu zasilenia sieci lokalnej ogniwami przez zespół generatorów [Z085]. Stabilność sieci energetycznej jest kluczowa. Zwiększono tolerancję na utratę zasobów standardowych. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "停電により電力系統が損傷。[Z085]電力クラスタを通してセルをローカル系統に接続するために囚人を派遣した。電力系統の安定は必須。標準のリソース損失許容が増加。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력 중단으로 전력망 무결성이 훼손되었습니다. 수감자들은 [Z085] 전원 클러스터를 통해 셀을 로컬 그리드에 연결하도록 파견되었습니다. 전력망 안정성이 필수적입니다. 표준 자원 손실 허용치가 증가했습니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電力中斷造成電網受損。已派遣囚犯透過[Z085]發電機叢集將電池[CELL]連接到當地電網。亟需穩定電網。標準資源損失容限提高。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电力中断影响电网完整性。囚犯派去通过[Z085]发电机集群将电池连接到本地电网。必须确保电网稳定性。标准资源损失容限提高。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown004_B1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1993520993
+}

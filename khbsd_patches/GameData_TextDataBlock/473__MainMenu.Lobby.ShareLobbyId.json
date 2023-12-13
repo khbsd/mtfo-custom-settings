@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<b><size=150%>SHARE LOBBY ID</size></b>\nAny prisoner (friend or not) with your Lobby ID <u>in their clipboard</u> can join through a button that appears in their Rundown.",
+  "Description": "The <u> tags to create a underline doesn't work with the asian symbols. Is there another way to localize that emphasis in those languages? Otherwise just remove that tag.\nA description of the \"share lobby ID\" functionality. Do not alter the RichText tags. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<b><size=150%>PARTAGER L'ID DE SALON</size></b>\nTout prisonnier (ami ou non) qui a copié votre ID de salon <u>dans son presse-papiers</u> peut vous rejoindre via le bouton qui apparaît dans sa campagne.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<b><size=150%>CONDIVIDI ID LOBBY</size></b>\nQualunque prigioniero (amico o meno) che abbia il tuo ID lobby <u>nei suoi appunti</u> può partecipare grazie a un pulsante che appare nella sua perlustrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<b><size=150%>LOBBY-ID TEILEN</size></b>\nJeder Gefangene (Freund oder nicht) mit deiner Lobby-ID <u>in der Zwischenablage</u> kann über eine Schaltfläche beitreten, die in ihrer Rundown-Übersicht erscheint.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<b><size=150%>COMPARTIR ID. DE SALA</size></b>\nTodos los prisioneros (amigos o no) con tu Id. de sala <u>en su portapapeles</u> podrán unirse mediante un botón que aparece en su campaña.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<b><size=150%>ОТПРАВИТЬ ID ЛОББИ</size></b>\nЛюбой заключенный (не только друг) может нажать кнопку и присоединиться к вашей кампании, если <b>скопирует</b> ID вашего лобби.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<b><size=150%>COMPARTILHAR ID DO LOBBY</size></b>\nQualquer prisioneiro, amigo ou não, com sua ID de lobby <u>na área de transferência</u> pode entrar com um botão que aparece em sua campanha.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<b><size=150%>UDOSTĘPNIJ ID LOBBY</size></b>\nKażdy więzień (znajomy lub nie) z twoim ID lobby <u>w jego schowku</u> może dołączyć do gry poprzez przycisk, który pojawi się w jego ekstrakcji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<b><size=150%>ロビーIDを共有</size></b>\nあなたのロビーIDを <b>クリップボードに</b> コピーした囚人は、フレンドであるかを問わず、ランダウンで出現するボタンによって参加することができる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<b><size=150%>로비 ID 공유</size></b>\n친구 여부에 관계 없이, <b>클립보드</b>에 당신의 로비 ID를 기재한 모든 죄수는 자신의 런다운에 나타나는 버튼을 눌러 참가할 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<b><size=150%>分享大廳ID</size></b>\n「任何在剪貼簿」中有你的大廳ID的囚犯（無論是否為朋友）都可以透過遠征綱要中的按鈕加入。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<b><size=150%>共享大厅ID</size></b>\n任何囚犯（无论是否好友）只要<b>剪贴板上</b>有你的大厅ID，都可以通过其行动界面上的一个按钮加入。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.ShareLobbyId",
+  "internalEnabled": true,
+  "persistentID": 473
+}

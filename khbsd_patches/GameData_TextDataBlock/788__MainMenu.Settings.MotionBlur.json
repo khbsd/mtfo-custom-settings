@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Motion Blur Amount",
+  "Description": "A graphic setting that decides the amount of motion blur in the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flou de mouvement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Quantità Motion Blur",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bewegungsunschärfe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desenfoque de movimiento (cantidad)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Размытость движения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desfoque de movimento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wartość rozmycia w ruchu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "モーションブラー量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모션 블러 강도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "移動模糊量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "运动模糊数值",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MotionBlur",
+  "internalEnabled": true,
+  "persistentID": 788
+}

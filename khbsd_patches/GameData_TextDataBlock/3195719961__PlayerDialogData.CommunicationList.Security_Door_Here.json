@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security door here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de sécurité ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta di sicurezza qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist eine Sicherheitstür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Una puerta de seguridad aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь защитная дверь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de segurança aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティドアだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 보안문이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有安全門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有安全门。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Security_Door_Here",
+  "internalEnabled": true,
+  "persistentID": 3195719961
+}

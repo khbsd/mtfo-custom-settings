@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deactivate ://ERROR Alarm on a terminal in <color=orange>Zone 279</color>!",
+  "Description": "Don't localize Zone 279",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Désactiver\u00A0://ERREUR Alarme de terminal déclenchée dans la <color=orange>Zone 279</color>\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattivare allarme ://ERRORE su un terminale in <color=orange>ZONE 279</color>!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Deaktivieren Sie ://ERROR Alarm an einem Terminal in <color=orange>ZONE 279</color>!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactivar://ERROR de alarma en una terminal en la <color=orange>ZONE 279</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключите [://ERROR Alarm] на терминале в <color=orange>ZONE 279</color>!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desativar ://ERROR Alarme em um terminal na <color=orange>ZONE 279</color>!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywuj ://BŁĄD Alarm w terminalu w <color=orange>strefie 279 [ZONE_279]</color>!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "停止 ://ERROR Alarm <color=orange>Zone 279</color>の端末で警報！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 279</color>의 터미널에서 ://ERROR Alarm 끌 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>ZONE 279</color>的終端停用://ERROR Alarm！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 279</color>的终端上关闭 ://ERROR Alarm！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_5_Objective_Complete",
+  "internalEnabled": true,
+  "persistentID": 1447
+}

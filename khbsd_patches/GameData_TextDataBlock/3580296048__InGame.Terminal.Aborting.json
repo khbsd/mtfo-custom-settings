@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aborting..",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Annulation en cours...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Annullamento...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wird abgebrochen ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abortando...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отмена...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Suspendendo...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerywanie..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中断中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중단 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在中止……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在中断……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Aborting",
+  "internalEnabled": true,
+  "persistentID": 3580296048
+}

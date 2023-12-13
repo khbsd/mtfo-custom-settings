@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ALL_ITEMS] somewhere inside the zone",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez [ALL_ITEMS] quelque part à l'intérieur de la zone.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ALL_ITEMS] da qualche parte nella zona",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ALL_ITEMS] irgendwo in der Zone.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el objeto [ALL_ITEMS] en algún lugar de la zona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ALL_ITEMS]) в зоне.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontrar [ALL_ITEMS] em algum lugar da zone",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ALL_ITEMS] gdzieś wewnątrz strefy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Find [ALL_ITEMS] somewhere inside the zone",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Find [ALL_ITEMS] somewhere inside the zone",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在區內找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在区内某处找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "Gamescom_InZoneFIndItem",
+  "internalEnabled": true,
+  "persistentID": 2711325278
+}

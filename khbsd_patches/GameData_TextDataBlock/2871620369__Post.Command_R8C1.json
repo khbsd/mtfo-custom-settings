@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Key registered.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clé enregistrée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiave registrata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schlüssel registriert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Clave registrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ключ зарегистрирован.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chave registrada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klucz zarejestrowany.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーの登録完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키가 등록됐다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已註冊密鑰。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "密钥已注册。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "Post.Command_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2871620369
+}

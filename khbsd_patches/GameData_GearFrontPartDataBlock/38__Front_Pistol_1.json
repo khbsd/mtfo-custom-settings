@@ -1,0 +1,56 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Pistol_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Stock_Pistol_1",
+    "RightHandGripAnim": "",
+    "AssetBundle": 20,
+    "BundleShard": 3
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Pistol_1_fire"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.1,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [],
+  "name": "Front_Pistol_1",
+  "internalEnabled": true,
+  "persistentID": 38
+}

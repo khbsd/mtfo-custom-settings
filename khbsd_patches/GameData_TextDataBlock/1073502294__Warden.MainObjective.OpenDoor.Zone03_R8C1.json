@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Collect <color=orange>Microdrive</color> in [ZONE_8]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez un <color=orange>microdisque</color> dans la [ZONE_8]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere <color=orange>microdrive</color> in [ZONE_8]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie das <color=orange>Mikrolaufwerk</color> in [ZONE_8] ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoge <color=orange>microdrive</color> en la [ZONE_8].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заберите <color=orange>микродиск</color> в [ZONE_8].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coletar <color=orange>microdrive</color> na [ZONE_8]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabierz <color=orange>mikronapęd</color> ze strefy 8 [ZONE_8]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_8]で<color=orange>マイクロドライブ</color>を回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_8]에서 <color=orange>마이크로드라이브</color> 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ZONE_8]收集<color=orange>微型硬碟[Microdrive]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ZONE_8]收集<color=orange>微型硬盘[Microdrive]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "Warden.MainObjective.OpenDoor.Zone03_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1073502294
+}

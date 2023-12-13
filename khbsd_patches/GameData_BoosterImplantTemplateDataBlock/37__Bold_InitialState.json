@@ -1,0 +1,62 @@
+{
+  "Deprecated": false,
+  "PublicName": 717,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 2.0,
+    "normalized": {
+      "x": 0.4472136,
+      "y": 0.8944272,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.236068,
+    "sqrMagnitude": 5.0
+  },
+  "DropWeight": 7.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 36,
+        "MinValue": 1.25,
+        "MaxValue": 1.35
+      },
+      {
+        "BoosterImplantEffect": 37,
+        "MinValue": 1.25,
+        "MaxValue": 1.35
+      },
+      {
+        "BoosterImplantEffect": 38,
+        "MinValue": 1.25,
+        "MaxValue": 1.35
+      },
+      {
+        "BoosterImplantEffect": 5,
+        "MinValue": 1.4,
+        "MaxValue": 1.6
+      }
+    ],
+    [
+      {
+        "BoosterImplantEffect": 6,
+        "MinValue": 0.8,
+        "MaxValue": 0.87
+      },
+      {
+        "BoosterImplantEffect": 34,
+        "MinValue": 0.71,
+        "MaxValue": 0.83
+      }
+    ]
+  ],
+  "ImplantCategory": 1,
+  "MainEffectType": 0,
+  "name": "Bold_InitialState",
+  "internalEnabled": true,
+  "persistentID": 37
+}

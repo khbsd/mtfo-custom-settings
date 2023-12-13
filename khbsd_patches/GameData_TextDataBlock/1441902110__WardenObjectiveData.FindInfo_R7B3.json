@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the location of <color=orange>[ITEM_SERIAL]</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Obtenez plus d'information sur l'emplacement du <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazione di <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über den Standort von <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila información sobre la ubicación del objeto <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении предмета (<color=orange>[ITEM_SERIAL]</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre a localização de <color=orange>[ITEM_SERIAL]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ITEM_SERIAL]</color>の場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ITEM_SERIAL]</color> 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集關於<color=orange>[ITEM_SERIAL]</color>地點的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于<color=orange>[ITEM_SERIAL]</color>位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindInfo_R7B3",
+  "internalEnabled": true,
+  "persistentID": 1441902110
+}

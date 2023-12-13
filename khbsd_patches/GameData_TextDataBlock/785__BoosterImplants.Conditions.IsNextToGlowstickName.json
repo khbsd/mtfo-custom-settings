@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glow stick proximity",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"in the proximity of a glow stick\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Proximité du bâton lumineux",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prossimità di starlight",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Knicklicht-Nähe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Proximidad a barra luminosa",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вблизи светящейся палочки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Proximidade de bastão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bliskość światła chemicznego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グロースティックの近く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "글로우 스틱 근처",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "接近螢光棒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "靠近发光棒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "BoosterImplants.Conditions.IsNextToGlowstickName",
+  "internalEnabled": true,
+  "persistentID": 785
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Medium range\nConcentrated blast cone\nHigh damage\nFew shells in magazine",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Moyenne portée\nCône d'explosion concentré\nDégâts élevés\nChargeur réduit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gittata media\nForatura con tratto conico\nDanni elevati\nPoche cartucce nel caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mittlere Reichweite\nKonzentrierter Sprengkegel\nHoher Schaden\nWenige Kugeln im Magazin",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Medio alcance\nConstricción de disparo cónica\nMucho daño\nPocos proyectiles en el cargador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Средняя дальность\nУменьшенное рассеивание дроби\nБольшой урон\nМало патронов в магазине",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Médio alcance\nCone explosivo concentrado\nAlto dano\nPoucos projéteis no cartucho",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Średni dystans\nSkupiony stożek ostrzału\nDuże obrażenia\nKilka nabojów w magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中距離\n狭い拡散範囲\n高ダメージ\n弾倉に数発のシェル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중거리\n밀집된 원뿔형 범위\n높은 대미지\n저용량 탄창",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中程\n集中爆炸錐\n高傷害\n彈匣中的砲彈很少",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中程\n集中式锥形弹幕\n高伤害\n弹匣内弹丸极少",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.ChokeModDescription",
+  "internalEnabled": true,
+  "persistentID": 756
+}

@@ -1,0 +1,46 @@
+{
+  "ModelDataPerType": {
+    "DirectPlacement": {
+      "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Bio_Tracker_1.prefab",
+      "Children": [
+        "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Bio_Tracker_1_GripAlign.FBX"
+      ],
+      "GearCategoryFilter": 0,
+      "LeftHandGripAnim": "Delivery_Bio_Tracker_1",
+      "AssetBundle": 100,
+      "BundleShard": 6
+    }
+  },
+  "GeneralDatas": [
+    {
+      "Type": 0,
+      "Data": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Bio_Tracker_1.prefab",
+        "Children": [
+          "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Bio_Tracker_1_GripAlign.FBX"
+        ],
+        "GearCategoryFilter": 0,
+        "LeftHandGripAnim": "Delivery_Bio_Tracker_1",
+        "AssetBundle": 100,
+        "BundleShard": 6
+      }
+    }
+  ],
+  "Aligns": [
+    {
+      "AlignType": 15,
+      "AlignName": "Bio_Tracker_1_Targeting"
+    },
+    {
+      "AlignType": 16,
+      "AlignName": "Bio_Tracker_1_Screen"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "name": "Delivery_Bio_Tracker",
+  "internalEnabled": true,
+  "persistentID": 3
+}

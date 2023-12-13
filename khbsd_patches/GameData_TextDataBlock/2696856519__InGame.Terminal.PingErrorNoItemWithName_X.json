@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ERROR: No item found with name {0}\n\nUSAGE: PING [NAME] [-T]\n\nAttributes:\n[NAME]         Name of item\n[-T]           Optional attribute. Pings the specified item until stopped. To stop - input Control-C.\n\nExample: PING KEY_123 -T\n\nNote that this terminal ONLY can locate items in the current zone: <b>{1}</b>",
+  "Description": "{0} is the text input from the player using the terminal.\n{1} is a zone id",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Erreur\u00A0: Aucun objet trouvé avec le nom {0}\n\nUTILISATION\u00A0: PING [NOM] [-T]\n\nAttributs\u00A0:\n[NOM]         Nom de l'objet\n[-T]           Attribut facultatif. Envoie une requête ping sur l'objet spécifié jusqu'à l'interruption. Entrez Ctrl-C pour arrêter.\n\nExemple\u00A0: PING KEY_123 -T\n\nRemarque\u00A0: ce terminal ne peut localiser QUE les objets situés dans la zone actuelle\u00A0: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ERRORE: nessun oggetto trovato con nome {0}\n\nSintassi: PING [NOME] [-T]\n\nParametri:\n[NOME]         Nome dell'oggetto\n[-T]           Parametro opzionale. Esegue il ping dell'oggetto specificato finché non viene interrotto. Per fermare, premere Ctrl-C.\n\nEsempio: PING KEY_123 -T\n\nNota: SOLO questo terminale può trovare gli oggetti nella zona corrente: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER: Kein Ziel mit dem Namen {0} gefunden\n\nEinsatz: PING [NAME] [-T]\n\nAttribute:\n[NAME]         Name des Ziels\n[-T]           Optionale Attribute. Pingt das angegebene Ziel an, bis der Vorgang abgebrochen wird. Zum Abbrechen Strg+C eingeben.\n\nBeispiel: PING KEY_123 -T\n\nHinweis: Dieses Terminal kann NUR Ziele in der aktuellen Zone lokalisieren: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ERROR: No se ha encontrado ningún objeto con el nombre {0}\n\nUSO: PING [NAME] [-T]\n\nAtributos:\n[NAME]         Nombre del objeto.\n[-T]           Atributo opcional. Realiza ping al objeto especificado hasta que se detenga. Para detener - realiza Control-C.\n\nEjemplo: PING KEY_123 -T\n\nTen en cuenta que este terminal SOLO puede localizar objetos en la zona actual: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА. Предмет с именем {0} не найден.\n\nПрименение: [NAME] [-T]\n\nПараметры:\n[NAME]         Имя предмета\n[-T]           Необязательный параметр. Пингует указанный предмет, пока процедура не будет остановлена. Для остановки нажмите Control-C.\n\nНапример, PING KEY_123 -T\n\nОбратите внимание, что данный терминал находит предметы ТОЛЬКО в текущей зоне: <b>{1}</b>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ERRO: Nenhum item encontrado com nome {0}\n\nUSO: PING [NAME] [-T]\n\nAtributos:\n[NAME]         Nome do item\n[-T]           Atributo opcional. Marca o item especificado até a parada. Para parar — insira Control-C.\n\nExemplo: PING KEY_123 -T\n\nObserve que este terminal SÓ pode localizar itens na zona atual: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BŁĄD: nie znaleziono pozycji o nazwie {0}\n\nUŻYCIE: PING [NAZWA] [-T]\n\nAtrybuty:\n[NAZWA]         Nazwa przedmiotu\n[-T]           Atrybut opcjonalny. Oznacza określony przedmiot do odwołania. Aby zatrzymać, wprowadź Control-C.\n\nPrzykład: PING KEY_123 -T\n\nUwaga: ten terminal może zlokalizować TYLKO przedmioty w bieżącej strefie: <b>{1}</b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー: {0}という名前のアイテムが見つかりません\n\n使用法: PING [NAME] [-T]\n\n属性:\n[NAME]         アイテムの名前\n[-T]           任意属性。停止するまで指定のアイテムをPINGする。止めるには - Control-Cと入力\n\n例: PING KEY_123 -T\n\nこの端末のみが現在ゾーン:<b>{1}</b>のアイテムの位置を特定できることに注意",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류: {0} 이름의 아이템을 찾을 수 없습니다.\n\n사용법: PING [이름] [-T]\n\n특성:\n[이름]           아이템명\n[-T]           선택적 특성. 중단할 때까지 특정 아이템을 핑합니다. Control-C를 입력해 중단합니다.\n\n예: PING KEY_123 -T\n\n이 터미널은 현재 구역 <b>{1}</b>의 아이템만 찾을 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤：未找到名稱為{0}的物品\n\n用法：PING [名稱] [-T]\n\n屬性：\n[名稱]         物品的名稱\n[-T]           選用屬性，標記特定物品，直至停止。若要停止，輸入Control-C。\n\n範例：PING KEY_123 -T\n\n注意，此終端只能定位目前區域<b>{1}</b>的物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误：未找到名为“{0}”的物品\n\n用法：PING [名称] [-T]\n\n属性：\n[名称]         物品的名称\n[-T]           可选属性，标记指定物品，直至停止。若要停止，请输入Control-C。\n\n例：PING KEY_123 -T\n\n请注意，此终端仅可定位当前区域<b>{1}</b>中的物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "InGame.Terminal.PingErrorNoItemWithName_X",
+  "internalEnabled": true,
+  "persistentID": 2696856519
+}

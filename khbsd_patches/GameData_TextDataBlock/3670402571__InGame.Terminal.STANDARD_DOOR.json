@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "STANDARD DOOR",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "PORTE STANDARD",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PORTA STANDARD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STANDARDTÜR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PUERTA ESTÁNDAR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СТАНДАРТНАЯ ДВЕРЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PORTA PADRÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STANDARDOWE DRZWI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "標準的なドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "일반 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標準門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标准门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.STANDARD_DOOR",
+  "internalEnabled": true,
+  "persistentID": 3670402571
+}

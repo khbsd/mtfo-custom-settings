@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown. Door requires power from a generator in</color> <color=orange>ZONE 121</color>.",
+  "Description": "Don't localize ZONE 121.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. La porte doit être alimentée par un générateur situé dans la</color> <color=orange>ZONE\u00A0121</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. Richiesta energia da un generatore della</color> <color=orange>ZONE 121</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Tür benötigt Strom von einem Generator in </color><color=orange>ZONE 121</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta en cierre de emergencia. La puerta necesita la energía de un generador en la</color> <color=orange>ZONE 121</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Для разблокировки требуется подача питания от генератора в</color> <color=orange>ZONE 121</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento de emergência. A porta pode ser destrancada na</color> <color=orange>ZONE 121</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Drzwi wymagają zasilania generatorem w</color> <color=orange>strefie 121 [ZONE 121]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアは緊急封鎖中。</color> <color=orange>ZONE 121</color> の発電機からの電力が必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 비상 폐쇄 상태입니다. </color><color=orange>ZONE 121</color> 발전기에서 문에 전력을 공급해야 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態。需要來自</color><color=orange>ZONE 121</color>的發電機供電。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁中。门需要</color><color=orange>ZONE 121</color>中的发电机提供电源。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText6_C2",
+  "internalEnabled": true,
+  "persistentID": 1415
+}

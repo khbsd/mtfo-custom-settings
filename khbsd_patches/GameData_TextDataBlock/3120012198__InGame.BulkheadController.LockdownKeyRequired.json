@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BULKHEAD LOCKDOWN initiated\nKEY REQUIRED",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VERROUILLAGE DE CLOISON INITIALISÉ\nCLÉ REQUISE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "BLOCCO PORTA STAGNA avviato\nRICHIESTA CHIAVE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERRIEGELUNG DER SCHOTTTÜR [BULKHEAD_DOOR] initiiert\nSCHLÜSSEL ERFORDERLICH",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CIERRE DE EMERGENCIA DE CONTENCIÓN iniciado\nSE NECESITA CLAVE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "РЕЖИМ ИЗОЛЯЦИИ ВОРОТ включен\nТРЕБУЕТСЯ КЛЮЧ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFINAMENTO DE SEGURANÇA iniciado\nCHAVE NECESSÁRIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BLOKADA GRODZI zainicjowana\nWYMAGANY KLUCZ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "BULKHEAD 封鎖開始\n鍵が必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "격벽 폐쇄 실시됨\n키 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "艙門封鎖已啟動\n需要鑰匙",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "舱壁封锁已发起\n需要钥匙",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadController.LockdownKeyRequired",
+  "internalEnabled": true,
+  "persistentID": 3120012198
+}

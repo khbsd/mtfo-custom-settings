@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start 2 emergency power supply unit(s) from the terminal(s) in <color=orange>ZONE 183.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Démarrez 2 unités d'alimentation de secours depuis le ou les terminaux dans la <color=orange>ZONE\u00A0183.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia 2 alimentatori di emergenza dai terminali nella <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Starten Sie 2 Notstromversorgungseinheiten am/an den Terminal(s) in <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Arranca 2 unidad(es) eléctrica(s) de apoyo en la(s) terminal(es) de la <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите 2 аварийных источника питания на терминалах в <color=orange>ZONE 183</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie 2 unidade(s) de fornecimento elétrico de emergência no(s) terminal(is) na <color=orange>ZONE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom 2 zasilacze awaryjne z terminalu w <color=orange>STREFIE 183.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 183</color>の端末で非常電力供給ユニットを2つ起動しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 183</color> 터미널에서 비상 파워 서플라이 유닛 2개 가동.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>ZONE 183</color>的終端啟動2個緊急電源裝置。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 183</color>的终端上启动2个应急电源装置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText14_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 315817890
+}

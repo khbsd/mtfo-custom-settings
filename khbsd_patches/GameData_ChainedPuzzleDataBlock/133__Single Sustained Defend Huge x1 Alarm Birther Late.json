@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S Z Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 48,
+  "SurvivalWavePopulation": 31,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 18
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 2200133294,
+  "AlarmSoundStop": 2200133294,
+  "name": "Single Sustained Defend Huge x1 Alarm Birther Late",
+  "internalEnabled": true,
+  "persistentID": 133
+}

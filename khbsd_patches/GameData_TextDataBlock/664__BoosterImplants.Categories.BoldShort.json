@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BO",
+  "Description": "\"BO\" is short for \"Bold\", and in this instance it is a description of the effect of a chemical compound/medical drug. Its active ingredient is described as \"bold\", indicating that it's rather potent/powerful.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "AU",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "POT",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "МО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AU",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MO",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "強化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "BO",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加重",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "高",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.BoldShort",
+  "internalEnabled": true,
+  "persistentID": 664
+}

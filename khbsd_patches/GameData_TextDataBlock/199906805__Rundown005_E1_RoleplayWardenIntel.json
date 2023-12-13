@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">… [alarm blaring]\n>... Fuck, I can't turn it off!\n<size=200%><color=red>>... Look for another terminal!</color></size>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... [alarme]\n>... Bordel, j'arrive pas à l'éteindre\u00A0!\n<size=200%><color=red>>... Cherchez un autre terminal\u00A0!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">… [allarme a tutto volume]\n>… Cazzo, non riesco a spegnerlo!\n<size=200%><color=red>>… Cerca un altro terminale!</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… [Alarm]\n>… Verdammt, ich kann ihn nicht abstellen!\n<size=200%><color=red>>… Such ein anderes Terminal!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">[sonido de alarma]\n>¡Mierda, no puedo desactivarla!\n<size=200%><color=red>>¡Hay que buscar otra terminal!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">... [сигнал тревоги]\n>... Черт, не могу отключить!\n<size=200%><color=red>>... Ищите другой терминал!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">… [alarme estridente]\n>... Caralho, não consigo desligar!\n<size=200%><color=red>>... Procure outro terminal!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">… [wycie alarmu]\n>... Kurwa, nie mogę go wyłączyć!\n<size=200%><color=red>>... Poszukaj innego terminalu!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">… [アラーム音]\n>... くそっ、消せん！\n<size=200%><color=red>>... ほかの端末を探せ！</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">… [경보 울림]\n>... 씨발, 안 꺼져!\n<size=200%><color=red>>... 다른 터미널을 찾아봐!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…[警報聲]\n>…該死，我沒辦法關掉！\n<size=200%><color=red>>…去找另一台終端！</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">… [警报声]\n>... 该死，我没法把它关掉！\n<size=200%><color=red>>... 去找另一台终端！</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_E1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 199906805
+}

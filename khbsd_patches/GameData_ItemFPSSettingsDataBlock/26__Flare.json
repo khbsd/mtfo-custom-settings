@@ -1,0 +1,106 @@
+{
+  "localPosHip": {
+    "x": 0.05,
+    "y": -0.14,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.105503082,
+      "y": -0.295408636,
+      "z": 0.9495277,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.4739198,
+    "sqrMagnitude": 0.224599987
+  },
+  "localRotHip": {
+    "x": -29.99,
+    "y": -6.1,
+    "z": 11.98,
+    "normalized": {
+      "x": -0.9125115,
+      "y": -0.185605884,
+      "z": 0.364517778,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 32.8653374,
+    "sqrMagnitude": 1080.13049
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 0.0,
+  "localPosRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 45,
+  "ItemCameraFOVZoom": 20,
+  "LookCameraFOVZoom": 45,
+  "canAim": false,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": true,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 14,
+  "WalkAnimation": 9,
+  "RunAnimation": 10,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "Flare",
+  "internalEnabled": true,
+  "persistentID": 26
+}

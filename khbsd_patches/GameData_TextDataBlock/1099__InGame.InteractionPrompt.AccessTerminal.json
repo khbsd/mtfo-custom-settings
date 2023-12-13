@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access terminal",
+  "Description": "I.e. \"Access this computer terminal.\" A text that appears on screen when the player is standing close to a computer terminal, so the can use it.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accéder au terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedi al terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugangsterminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceder a terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uzyskaj dostęp do terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末にアクセス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 접속",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "存取終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "访问终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.AccessTerminal",
+  "internalEnabled": true,
+  "persistentID": 1099
+}

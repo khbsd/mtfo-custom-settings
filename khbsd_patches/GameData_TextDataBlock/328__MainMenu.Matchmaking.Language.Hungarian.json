@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hungarian",
+  "Description": "A language spoken in Hungary and the Vojvodina region of Serbia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Hongrois",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ungherese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ungarisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Húngaro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Венгерский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Húngaro",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Węgierski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハンガリー語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "헝가리어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "匈牙利文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匈牙利语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Hungarian",
+  "internalEnabled": true,
+  "persistentID": 328
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Force access to adjacent zones. <color=red>WARNING! -- Requires dual bioscan procedures</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez de force aux zones adjacentes. <color=red>ALERTE\u00A0! -- Requiert deux procédures de bioscan.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Forzare l'accesso alle zone adiacenti. <color=red>ATTENZIONE! Richiede doppia procedura di bio-scansione</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erzwingen Sie den Zugang zu angrenzenden Zonen. <color=red>WARNUNG!\u00A0– Erfordert doppelte Bioscan-Verfahren.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fuerza el acceso a las zonas adyacentes. <color=red>¡ADVERTENCIA! Se necesitan procedimientos de bioescáner duales</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Принудительный доступ к соседним зонам. <color=red>ВНИМАНИЕ! Требуется двойное биосканирование.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso forçado às zonas adjacentes. <color=red>AVISO! -- Requer procedimentos de bioescâner duplo</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymuś dostęp do sąsiednich stref. <color=red>OSTRZEŻENIE! -- Wymaga podwójnej sekwencji bioskanowania</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隣接ゾーンへのアクセスを強制。<color=red>警告！――二重のバイオスキャンが必要</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인접 구역에 강제로 접근합니다. <color=red>경고! -- 이중 바이오스캔 절차가 필요합니다.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強行進入相鄰區域。<color=red>警告！-- 需要二元生物掃描程序</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强行进入相邻区域。<color=red>警告！-- 需要双重生物扫描程序</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.CustomCommand.Description.R8D2",
+  "internalEnabled": true,
+  "persistentID": 3697133860
+}

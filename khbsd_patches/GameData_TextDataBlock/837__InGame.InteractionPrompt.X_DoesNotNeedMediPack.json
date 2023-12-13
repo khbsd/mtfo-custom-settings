@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} DOES NOT NEED MEDICAL RESOURCES",
+  "Description": "This text appears on screen when the player tries to give medical aid to a teammate whose health is full. The \"{0}\" is replaced by the name of the teammate, do not alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} N'A PAS BESOIN DE RESSOURCES MÉDICALES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} NON HA BISOGNO DI RISORSE MEDICHE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} BENÖTIGT KEINE MEDIZINISCHEN RESSOURCEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} NO NECESITA RECURSOS MÉDICOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИГРОКУ {0} НЕ ТРЕБУЕТСЯ МЕДИЦИНСКАЯ ПОМОЩЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} NÃO PRECISA DE RECURSOS MÉDICOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} NIE POTRZEBUJE ŚRODKÓW MEDYCZNYCH",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} には医療物資は不要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}에게는 의료 자원이 필요하지 않습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}不需要醫療資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}无需医药资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.X_DoesNotNeedMediPack",
+  "internalEnabled": true,
+  "persistentID": 837
+}

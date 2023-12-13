@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "(HOR: {0})",
+  "Description": "\"HOR\" is short for \"horizontal\". Only translate \"HOR\", let the parentheses be.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "(HOR\u00A0: {0})",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "(ORIZ: {0})",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "(HOR: {0})",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "(HOR: {0})",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "(ГОР.: {0})",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "(HOR: {0})",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "(HOR.: {0})",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "(水平: {0})",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "(수평: {0})",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "（水平：{0}）",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "(水平：{0})",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HorizontalFOVShort_X",
+  "internalEnabled": true,
+  "persistentID": 166
+}

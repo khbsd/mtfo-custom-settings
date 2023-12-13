@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Network error caused by powergrid corruption. System reboot required. Prisoners dispatched.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Erreur de réseau causée par une corruption du réseau électrique. Redémarrage du système requis. Prisonniers envoyés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore di rete causato dal danneggiamento della rete elettrica. Richiesto riavvio del sistema. Prigionieri inviati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Netzwerkfehler durch Beschädigung des Stromnetzes. Systemneustart erforderlich. Gefangene entsandt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error de red provocado por una red eléctrica dañada. Se necesita reiniciar el sistema. Prisioneros enviados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбой в работе электросети вызвал сетевую ошибку. Необходим перезапуск системы. Задание поручено заключенным.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro de rede causado por rede elétrica corrompida. Reinicialização do sistema necessária. Prisioneiros despachados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd sieci spowodowany uszkodzeniem sieci energetycznej. Wymagane ponowne uruchomienie systemu. Wysłano więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電力網の不具合によるネットワークエラー。要システム再起動。囚人派遣。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전력망 손상으로 인한 네트워크 오류입니다. 시스템 재부팅이 필요합니다. 수감자들이 파견되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電網損壞引起網路錯誤。需要重啟系統。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电网损坏引起网络错误。需要系统重启。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown005_C3_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 3279339309
+}

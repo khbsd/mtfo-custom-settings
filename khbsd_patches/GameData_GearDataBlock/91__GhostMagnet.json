@@ -1,0 +1,143 @@
+{
+  "officialForRelease": false,
+  "publicName": "Köning: [AT]",
+  "baseItemID": 33,
+  "weaponPersonalityID": 31,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 1,
+      "macroText": "Voxel"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 6,
+      "macroText": "Treffen"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 95,
+      "partName": "Revolver_Grip"
+    },
+    {
+      "allowed": false,
+      "ID": 99,
+      "partName": "Revolver_Rhino_Grip"
+    },
+    {
+      "allowed": true,
+      "ID": 105,
+      "partName": "Hydraulic_Revolver_Grip_a"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 94,
+      "partName": "Revolver_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 97,
+      "partName": "Revolver_Rhino_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 100,
+      "partName": "Revolver_Mod_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 96,
+      "partName": "Revolver_Receiver"
+    },
+    {
+      "allowed": true,
+      "ID": 98,
+      "partName": "Revolver_Rhino_Receiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [],
+  "sightsAllowed": [
+    {
+      "allowed": false,
+      "ID": 101,
+      "partName": "Sight_Revolver_Rear_a"
+    },
+    {
+      "allowed": false,
+      "ID": 102,
+      "partName": "Sight_Revolver_Rear_b"
+    },
+    {
+      "allowed": true,
+      "ID": 103,
+      "partName": "Sight_Revolver_Optical_a"
+    }
+  ],
+  "gripsAllowed": [
+    {
+      "allowed": false,
+      "ID": 115,
+      "partName": "Grip_Default_Left"
+    },
+    {
+      "allowed": false,
+      "ID": 116,
+      "partName": "Grip_Default_Right"
+    }
+  ],
+  "muzzlesAllowed": [
+    {
+      "allowed": false,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": false,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": false,
+      "ID": 107,
+      "partName": "muzzle_c"
+    },
+    {
+      "allowed": false,
+      "ID": 111,
+      "partName": "muzzle_f"
+    },
+    {
+      "allowed": false,
+      "ID": 110,
+      "partName": "muzzle_e"
+    },
+    {
+      "allowed": false,
+      "ID": 109,
+      "partName": "muzzle_d"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "GhostMagnet",
+  "internalEnabled": true,
+  "persistentID": 91
+}

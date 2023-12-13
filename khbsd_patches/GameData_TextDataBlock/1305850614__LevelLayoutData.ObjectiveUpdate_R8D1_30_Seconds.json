@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Massive quantities of biomass detected. Estimated impact in: <color=red>30</color> seconds. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ALERTE\u00A0: grandes quantités de biomasse détectées. Durée estimée avant l'impact\u00A0: <color=red>30</color>\u00A0secondes.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: rilevate ingenti quantità di biomassa. Impatto previsto tra: <color=red>30</color> secondi. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Riesige Mengen an Biomasse entdeckt. Geschätzte Ankunftszeit in: <color=red>30</color> Sekunden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: se ha detectado una enorme cantidad de biomasa. Impacto estimado en <color=red>30</color> segundos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Обнаружено крупное скопление биосигнатур. До столкновения <color=red>30</color> секунд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Quantidades imensas de biomassa detectadas. Impacto estimado em: <color=red>30</color> segundos. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: wykryto znaczne nagromadzenie biomasy. Szacunkowy kontakt za: <color=red>30</color> sekund. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：大量の生体反応を検知。予期される影響まで：<color=red>30</color>秒。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 대규모 바이오매스 탐지됨. 충격 발생 예상 시간까지 <color=red>30</color>초.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：偵測到大量生物質。預計正面衝突時間還剩：<color=red>30</color>秒。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：探测到巨量生物质。预计距离冲击还剩：<color=red>30</color>秒。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_30_Seconds",
+  "internalEnabled": true,
+  "persistentID": 1305850614
+}

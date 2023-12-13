@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initializes a timed connection with a valid verification terminal.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Initialise une connexion limitée avec un terminal de vérification valide.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializza una connessione temporizzata con un terminale di verifica valido.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stellt eine zeitlich begrenzte Verbindung mit einem gültigen Verifizierungsterminal her.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicializa una conexión cronometrada con un terminal de verificación válido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Устанавливает синхронизированное соединение с действительным терминалом верификации.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicializa uma conexão cronometrada com um terminal de verificação válido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nawiąż połączenie czasowe z odpowiednim terminalem weryfikacyjnym.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "有効な認証端末と同期接続を初期化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유효한 검증 터미널의 시한 연결을 시작합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動與有效驗證終端之間的定時連線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发起与有效验证终端之间的定时连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.InitTimedConnectionHelp",
+  "internalEnabled": true,
+  "persistentID": 343474344
+}

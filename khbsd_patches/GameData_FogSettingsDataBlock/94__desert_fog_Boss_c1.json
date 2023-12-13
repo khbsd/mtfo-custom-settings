@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.8382432,
+    "g": 0.8458359,
+    "b": 0.8584906
+  },
+  "FogDensity": 0.0015,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.0,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.41421354,
+    "sqrMagnitude": 2.0
+  },
+  "DensityNoiseSpeed": 0.0,
+  "DensityNoiseScale": 0.001,
+  "DensityHeightAltitude": 20.0,
+  "DensityHeightRange": 20.0,
+  "DensityHeightMaxBoost": 0.001,
+  "Infection": 0.0,
+  "name": "desert_fog_Boss_c1",
+  "internalEnabled": true,
+  "persistentID": 94
+}

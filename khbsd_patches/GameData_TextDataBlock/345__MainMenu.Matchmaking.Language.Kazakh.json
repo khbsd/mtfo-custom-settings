@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Kazakh",
+  "Description": "A language spoken in Kazakhstan, Russia and parts of China.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Kazakh",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Kazako",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kasachisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Kazajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Казахский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cazaque",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kazachski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カザフ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카자흐어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "哈薩克文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "哈萨克语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Kazakh",
+  "internalEnabled": true,
+  "persistentID": 345
+}

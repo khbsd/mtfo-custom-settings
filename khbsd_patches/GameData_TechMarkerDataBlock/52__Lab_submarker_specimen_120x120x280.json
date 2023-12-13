@@ -1,0 +1,81 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V01.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V02.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V03.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V04.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V05.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_submarker_specimen_120x120x280/Lab_submarker_specimen_120x120x280_V06.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 2.0,
+        "function": 0,
+        "Shard": 8
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 11,
+    "FunctionPotential": 0.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/DataCenter_submarker_120x120x280",
+    "BoundingVolume": 4032.0
+  },
+  "name": "Lab_submarker_specimen_120x120x280",
+  "internalEnabled": true,
+  "persistentID": 52
+}

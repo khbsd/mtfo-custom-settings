@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Norwegian",
+  "Description": "A language spoken in Norway.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Norvégien",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Norvegese",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Norwegisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Noruego",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Норвежский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Norueguês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Norweski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ノルウェー語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "노르웨이어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "挪威文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "挪威语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Norwegian",
+  "internalEnabled": true,
+  "persistentID": 380
+}

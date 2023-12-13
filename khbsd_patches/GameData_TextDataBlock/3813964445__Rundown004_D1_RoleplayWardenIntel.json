@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[gunfire, commotion]\n>..Hey! See that, uh.. evil looking stuff in the ceiling?\r\n>..Yeah, what is that?\r\n<size=150%><color=red>>..I think I've seen this before..</color></size>",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[coups de feu, vacarme]\n>... Hé\u00A0! C'est quoi ce truc bizarre au plafond\u00A0?\r\n>... Hein\u00A0? C'est quoi ça\u00A0?\r\n<size=150%><color=red>>... Je crois l'avoir déjà vu avant...</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[spari, trambusto]\n>...Ehi! Vedete quella, ehm... roba dall'aspetto malvagio sul soffitto?\r\n>...Sì, che cos'è?\r\n<size=150%><color=red>>...Penso di averla già vista prima...</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[Schüsse, Aufruhr]\n>… Hey! Siehst du dieses, äh … übel aussehende Zeug an der Decke?\r\n>… Ja, was ist das?\r\n<size=150%><color=red>>… Ich glaube, ich hab das schon mal gesehen …</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[disparos, ruido]\n>¡Eh! ¿Ves esa cosa con mala pinta en el techo?\r\n>Sí, ¿qué es eso?\r\n<size=150%><color=red>>Me suena de haberlo visto antes...</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[выстрелы, шум]\n>...Эй! Видишь на потолке... стремную штуку?\r\n>...Ага. Что это?\r\n<size=150%><color=red>>...По-моему, мне такое уже попадалось.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[tiros, tumulto]\n>..Ei! Viu só?.. tem coisa que parece do mal no teto?\r\n>..Sim, o que é?\r\n<size=150%><color=red>>..Acho que já vi isso antes..</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[strzały, zamieszanie]\n>...Hej! Widzicie tę, yyy... złowrogą rzecz na suficie?\r\n>...Tak, co to?\r\n<size=150%><color=red>>...Chyba już go gdzieś widziałem...</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[銃声、騒音]\n>..おい！見ろ、あれ...天井にヤバそうなのがあるだろ？\r\n>..ああ、あれは何だ？\r\n<size=150%><color=red>>..前に見たことがある気がする..</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[총격, 소란]\n>..이봐! 저... 천장에 고약하게 생긴 거 보여?\r\n>..그래, 저게 뭐야?\r\n<size=150%><color=red>>..전에 본 적 있는 것 같아..</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[槍聲、騷動]\n>…喂！有沒有看到天花板上那個……呃，看起來很邪門的東西？\r\n>…嗯，那是什麼？\r\n<size=150%><color=red>>…我之前好像有見過……</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[炮火声、喧闹声]\n>..嘿！看到天花板上那个，呃……邪恶的玩意儿了吗？\r\n>..嗯，那是什么？\r\n<size=150%><color=red>>..我想我以前见过这个……</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown004_D1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3813964445
+}

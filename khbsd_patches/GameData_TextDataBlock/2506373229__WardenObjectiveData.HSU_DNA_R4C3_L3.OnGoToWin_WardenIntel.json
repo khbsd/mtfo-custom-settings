@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security door to [ZONE_3] unlocked",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte de sécurité vers la [ZONE_3] déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta di sicurezza per [ZONE_3] sbloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitstür zu [ZONE_3] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de seguridad a la [ZONE_3] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Защитная дверь в [ZONE_3] открыта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta de segurança para [ZONE_3] destrancada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 3 zostały [ZONE_3] odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_3]へのセキュリティドアを開錠",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_3] 보안문 방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_3]的安全門已解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往[ZONE_3]的安全门已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.HSU_DNA_R4C3_L3.OnGoToWin_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 2506373229
+}

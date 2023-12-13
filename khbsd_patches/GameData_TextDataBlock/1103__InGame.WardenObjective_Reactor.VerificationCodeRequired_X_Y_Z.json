@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "VERIFICATION ({0}/{1}). CODE REQUIRED FOR <color=orange>REACTOR_VERIFY</color> LOCATED IN LOG FILE IN {2}",
+  "Description": " {0} and {1} are numbers representing the amount of enemy waves left to do. {2} is the name of the terminal.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VÉRIFICATION ({0}/{1}). CODE REQUIS POUR <color=orange>REACTOR_VERIFY</color> DANS LE FICHIER D'HISTORIQUE DU TERMINAL {2}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VERIFICA ({0}/{1}). CODICE RICHIESTO PER <color=orange>REACTOR_VERIFY</color> NEL FILE LOG IN {2}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERIFIZIERUNG ({0}/{1}). DER FÜR <color=orange>REACTOR_VERIFY</color> ERFORDERLICHE CODE BEFINDET SICH IN DER PROTOKOLLDATEI IN {2}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "VERIFICACIÓN ({0}/{1}). CÓDIGO NECESARIO PARA <color=orange>REACTOR_VERIFY</color> UBICADO EN EL ARCHIVO DE REGISTRO DE {2}.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА ({0}/{1}). ДЛЯ КОМАНДЫ <color=orange>REACTOR_VERIFY</color> ТРЕБУЕТСЯ ФАЙЛ НА ТЕРМИНАЛЕ {2}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFICAÇÃO ({0}/{1}). CÓDIGO NECESSÁRIO PARA <color=orange>REACTOR_VERIFY</color> LOCALIZADO NO ARQUIVO DE REGISTROS EM {2}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WERYFIKACJA ({0}/{1}). W {2} ZLOKALIZOWANO KOD WYMAGANY DO PROCEDURY <color=orange>REACTOR_VERIFY</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証 ({0}/{1})。 <color=orange>REACTOR_VERIFY</color> 用のコードを {2}で検出",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인증 ({0}/{1}). <color=orange>REACTOR_VERIFY</color>을 위해 {2}의 로그 파일에 있는 코드 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證（{0}/{1}）。需要<color=orange>REACTOR_VERIFY</color>代碼，位於{2}的日誌檔案",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证（{0}/{1}）。<color=orange>REACTOR_VERIFY</color>所需代码位于{2}的日志文件中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.VerificationCodeRequired_X_Y_Z",
+  "internalEnabled": true,
+  "persistentID": 1103
+}

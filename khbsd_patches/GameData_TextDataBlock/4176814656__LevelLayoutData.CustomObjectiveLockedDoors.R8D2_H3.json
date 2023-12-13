@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Power outage in <color=#3299a8>ZONE 41</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Panne de courant dans la <color=#3299a8>ZONE\u00A041</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Interruzione di corrente in <color=#3299a8>ZONE 41</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stromausfall in <color=#3299a8>ZONE\u00A041</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pérdida de energía en la <color=#3299a8>ZONE 41</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключение электропитания в <color=#3299a8>ZONE 41</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falta de energia na <color=#3299a8>ZONE 41</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Awaria zasilania w <color=#3299a8>strefie 41 [ZONE_41]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=#3299a8>ZONE 41</color>で停電",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=#3299a8>ZONE 41</color> 전력 공급 중단",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=#3299a8>ZONE 41</color>電力中斷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=#3299a8>ZONE 41</color>断电",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.CustomObjectiveLockedDoors.R8D2_H3",
+  "internalEnabled": true,
+  "persistentID": 4176814656
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "South",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sud",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sud",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Süden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sur",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На юг",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sul",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Południe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "南だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "남쪽으로",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "南",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "往南",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.South",
+  "internalEnabled": true,
+  "persistentID": 1289
+}

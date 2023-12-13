@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REWARD",
+  "Description": "Header above an image that shows  which  vanity reward players will get",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉCOMPENSE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICOMPENSA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BELOHNUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECOMPENSA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАГРАДА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECOMPENSA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NAGRODA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "報酬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보상",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "獎勵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "奖励",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.RewardTab",
+  "internalEnabled": true,
+  "persistentID": 331207426
+}

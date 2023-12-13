@@ -1,0 +1,111 @@
+{
+  "officialForRelease": false,
+  "publicName": "[RR] Henriksen [SP] [AT] Sniper [TP] ",
+  "baseItemID": 78,
+  "weaponPersonalityID": 30,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 1,
+      "macroText": "Semi"
+    },
+    {
+      "allowed": true,
+      "archetypeID": 6,
+      "macroText": "Special Semi"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 3,
+      "macroText": "Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 7,
+      "macroText": "Special Burst"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 5,
+      "macroText": "Auto"
+    },
+    {
+      "allowed": false,
+      "archetypeID": 8,
+      "macroText": "Special Auto"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 5,
+      "partName": "Rifle_AR15_Barrel"
+    },
+    {
+      "allowed": true,
+      "ID": 22,
+      "partName": "Rifle_Hunter85_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 20,
+      "partName": "Rifle_GasParts_Receiver_a"
+    },
+    {
+      "allowed": true,
+      "ID": 24,
+      "partName": "Rifle_Hunter85_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 8,
+      "partName": "Rifle_AR15_Receiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 51,
+      "partName": "Sight_Hunter_Scope"
+    }
+  ],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": true,
+  "allowEmptySightSlot": true,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": true,
+  "allowEmptyMagazineSlot": true,
+  "name": "Basic_Hunter85",
+  "internalEnabled": true,
+  "persistentID": 79
+}

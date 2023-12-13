@@ -1,0 +1,33 @@
+{
+  "SpawnsPerZone": 7,
+  "ChanceToSpawnInResourceContainer": 0.2,
+  "SpawnData": [
+    {
+      "ItemID": 114,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 30,
+      "Weight": 0.75
+    },
+    {
+      "ItemID": 115,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 116,
+      "Weight": 0.5
+    },
+    {
+      "ItemID": 140,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 2.0
+    }
+  ],
+  "name": "ExplorationDark_Tech",
+  "internalEnabled": true,
+  "persistentID": 11
+}

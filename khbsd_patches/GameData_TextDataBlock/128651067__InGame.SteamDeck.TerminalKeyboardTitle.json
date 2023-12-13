@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enter terminal input",
+  "Description": "The title of the on-screen keyboard window on SteamDeck platform when accessing an in-game computer terminal.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrez une commande de terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserisci comando terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminalbefehl eingeben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el comando en la terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите команду на терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inserir entrada do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź komendę terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末に入力",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에 명령 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輸入終端指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "输入终端命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.SteamDeck.TerminalKeyboardTitle",
+  "internalEnabled": true,
+  "persistentID": 128651067
+}

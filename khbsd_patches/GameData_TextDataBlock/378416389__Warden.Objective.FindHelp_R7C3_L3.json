@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use maintenance terminal command PING to find [ITEM_SERIAL]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la commande PING du terminal de maintenance pour trouver [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il comando PING del terminale di manutenzione per trovare [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl PING des Wartungsterminals, um [ITEM_SERIAL] zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando PING en el terminal de mantenimiento y encuentra el objeto [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду терминала PING, чтобы найти предмет ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando PING no terminal de manutenção para encontrar [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia PING w terminalu serwisowym, aby znaleźć [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メンテナンス端末のPINGコマンドを使用して [ITEM_SERIAL]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "유지 관리 터미널 명령어 PING을 이용해 [ITEM_SERIAL] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用維護終端指令PING找到[ITEM_SERIAL]。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用维护终端命令PING找到[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.FindHelp_R7C3_L3",
+  "internalEnabled": true,
+  "persistentID": 378416389
+}

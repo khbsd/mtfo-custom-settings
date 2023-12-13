@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Collection case</color> is found",
+  "Description": "\"Collection Case\" should not be translated",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Collection Case</color> localisé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Collection Case</color> trovato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Collection Case</color> gefunden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Collection Case</color> encontrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Collection Case</color> найден",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Collection Case</color> encontrada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znaleziono <color=orange>Collection Case</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Collection Case</color>を見つけた",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Collection Case</color> 발견",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>Collection Case</color>已找到",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>Collection Case</color>已找到",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B1_Header_2",
+  "internalEnabled": true,
+  "persistentID": 2778504310
+}

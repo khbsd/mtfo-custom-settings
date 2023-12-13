@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the locations of [ALL_ITEMS]",
+  "Description": "Don't translate [ALL_ITEMS]",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Obtenez plus d'information sur les emplacements du [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazioni di [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über die Standorte von [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila información sobre las ubicaciones de [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении предмета ([ALL_ITEMS]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre as localizações de [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu: [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS]の場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ALL_ITEMS] 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集關於[ALL_ITEMS]地點的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于[ALL_ITEMS]位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Retrieve_Essential_Items_2_Cargo_Crates_R2A1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 171125406
+}

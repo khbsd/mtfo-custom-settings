@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} was revived",
+  "Description": "\"{0}\" represents a player's nickname. This text string is shown when a previously downed player has been revived (helped back up) by another player.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} a été réanimé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} è stato/a rianimato/a",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} wurde wiederbelebt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} ha resucitado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} возрождается",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} foi revivido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – reanimowano",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} は復活した",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}(이)가 소생됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}復活了",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}已复活",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GameEventLog.X_WasRevived",
+  "internalEnabled": true,
+  "persistentID": 968
+}

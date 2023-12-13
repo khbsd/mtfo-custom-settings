@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Numlock",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verr. num.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bloc Num",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Numlock",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bloq Num",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Num Lock",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Numlock",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NumLock",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Numlock",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Numlock",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Numlock",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "数字锁定键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Numlock",
+  "internalEnabled": true,
+  "persistentID": 230
+}

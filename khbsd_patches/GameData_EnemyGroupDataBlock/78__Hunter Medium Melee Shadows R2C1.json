@@ -1,0 +1,17 @@
+{
+  "Type": 6,
+  "Difficulty": 6,
+  "SpawnPlacementType": 0,
+  "MaxScore": 5.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 0,
+      "Distribution": 4
+    }
+  ],
+  "name": "Hunter Medium Melee Shadows R2C1",
+  "internalEnabled": true,
+  "persistentID": 78
+}

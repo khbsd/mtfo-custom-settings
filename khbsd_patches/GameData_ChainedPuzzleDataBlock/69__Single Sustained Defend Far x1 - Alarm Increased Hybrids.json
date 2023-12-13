@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S I Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 38,
+  "SurvivalWavePopulation": 10,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 6.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 13
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Defend Far x1 - Alarm Increased Hybrids",
+  "internalEnabled": true,
+  "persistentID": 69
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for GLP-2 canisters in the complex.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Cherchez des bombes de GLP-2 dans le complexe.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare bombole GLP-2 nel complesso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach GLP-2-Kanistern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca recipientes de GLP-2 en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите канистры с ГПП-2 в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure recipientes GLP-2 no complexo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź kanistry GLP-2 w kompleksie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内でGLP-2缶を探せ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 GLP-2 용기 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施中尋找GLP-2 罐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找GLP-2罐。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_15",
+  "internalEnabled": true,
+  "persistentID": 1351839746
+}

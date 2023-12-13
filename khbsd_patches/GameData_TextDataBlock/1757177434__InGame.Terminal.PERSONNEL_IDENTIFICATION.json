@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PERSONNEL IDENTIFICATION",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "IDENTIFICATION DU PERSONNEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IDENTIFICAZIONE PERSONALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PERSONALIDENTIFIKATION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "IDENTIFICACIÓN DEL PERSONAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИДЕНТИФИКАЦИЯ СОТРУДНИКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "IDENTIFICAÇÃO DE PESSOAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WERYFIKACJA ZAŁOGANTA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "個人識別",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개인 식별",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "人員識別",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "人员识别",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.PERSONNEL_IDENTIFICATION",
+  "internalEnabled": true,
+  "persistentID": 1757177434
+}

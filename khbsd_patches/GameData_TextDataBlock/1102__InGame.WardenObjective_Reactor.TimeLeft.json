@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TIME LEFT:",
+  "Description": "How much time is left for the players to complete the Reactor Warden Objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TEMPS RESTANT\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TEMPO RIMASTO:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZEIT ÜBRIG:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TIEMPO RESTANTE:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОСТАЛОСЬ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TEMPO RESTANTE:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POZOSTAŁY CZAS:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "残り時間：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "남은 시간:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "剩餘時間：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "剩余时间：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.TimeLeft",
+  "internalEnabled": true,
+  "persistentID": 1102
+}

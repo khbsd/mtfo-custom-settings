@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "> <b>No Conditions Available</b>",
+  "Description": "A text string that is shown if a booster (performance enhancing drug) the player currently has injected, lacks any conditions (requirements to be effective). Don't alter the RichText tags or the \">\" at the start of the text string.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "> <b>Aucune condition disponible</b>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> <b>Nessuna condizione disponibile</b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "> <b>Keine Bedingungen verfügbar</b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> <b>Sin condiciones disponibles</b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "> <b>Нет требований</b>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "> <b>Sem condições disponíveis</b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "> <b>Brak dostępnych warunków</b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "> <b>条件なし</b>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "> <b>사용 가능한 조건 없음</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "> <b>無條件</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "> <b>条件未满足</b>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.BoosterInfo.NoConditions",
+  "internalEnabled": true,
+  "persistentID": 796
+}

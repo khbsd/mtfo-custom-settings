@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "RESOURCE PACK - {0}",
+  "Description": "{0} is the type of resource.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "PACK DE RESSOURCES - {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCORTA RISORSE - {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "RESSOURCENPAKET – {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PACK DE RECURSOS - {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАБОР РЕСУРСОВ\u00A0— {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PACOTE DE RECURSO — {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PAKIET ZASOBÓW – {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースパック - {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 팩 - {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源包 - {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "资源包 - {0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.RESOURCE_PACK_X",
+  "internalEnabled": true,
+  "persistentID": 1015873811
+}

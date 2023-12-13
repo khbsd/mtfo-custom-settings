@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "日本語",
+  "Description": "The language they speak in Japan.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Japonais",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "日本語",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "日本",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Japonés",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "日本語",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Japonês",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Japoński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "日本語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "일본어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "日文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "日语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Language.Japanese",
+  "internalEnabled": true,
+  "persistentID": 1383
+}

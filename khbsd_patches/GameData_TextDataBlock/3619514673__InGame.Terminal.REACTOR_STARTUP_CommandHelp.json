@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "INITIATE THE REACTOR STARTUP SEQUENCE",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "LANCER LA SÉQUENCE DE DÉMARRAGE DU RÉACTEUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INIZIALIZZARE SEQUENZA AVVIO REATTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORSTARTSEQUENZ INITIIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIA LA SECUENCIA DE ARRANQUE DEL REACTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧИНАЕТ ЦИКЛ ЗАПУСКА РЕАКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIE A SEQUÊNCIA DE INICIALIZAÇÃO DE REATOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ROZPOCZNIJ SEKWENCJĘ ROZRUCHU REAKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクター始動シークエンスを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시동 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動反應器啟動序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "发起反应堆启动序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.REACTOR_STARTUP_CommandHelp",
+  "internalEnabled": true,
+  "persistentID": 3619514673
+}

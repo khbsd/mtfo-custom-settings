@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal Uplink",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Liaison montante de terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Uplink terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal-Uplink",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Uplink de terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение терминала",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uplink do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Łącze terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末アップリンク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 업링크",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "上行終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink.Override.Header",
+  "internalEnabled": true,
+  "persistentID": 1578
+}

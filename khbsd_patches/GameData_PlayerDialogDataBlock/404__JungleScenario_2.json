@@ -1,0 +1,84 @@
+{
+  "priority": 200,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 0,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": true,
+    "Sneaking": true,
+    "Encounter": true,
+    "Combat": true
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 585793458,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 453878651
+          },
+          {
+            "lineEvent": 4260691937,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2104320063,
+            "A": false,
+            "B": false,
+            "C": true,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 1146244563
+          },
+          {
+            "lineEvent": 3630673947,
+            "A": false,
+            "B": false,
+            "C": false,
+            "D": true,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 2335130650
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 2
+      },
+      "ActorB": {
+        "charFilter": 4
+      },
+      "ActorC": {
+        "charFilter": 8
+      },
+      "ActorD": {
+        "charFilter": 16
+      }
+    }
+  ],
+  "name": "JungleScenario_2",
+  "internalEnabled": true,
+  "persistentID": 404
+}

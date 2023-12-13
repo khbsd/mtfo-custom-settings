@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WaitForMigrationEvaluationData",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "AttenteDonnéesÉvaluationMigration",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attendere migrazione dati valutazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WartenAufMigrationsauswertungsdaten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperar a datos de evaluación de migración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание данных по переносу",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AguardarDadosAvaliativosDaMigração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OczekiwanieNaDaneOcenyMigracji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移行評価データ待機中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통합평가데이터대기중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待移轉評估資料",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待迁移评估数据",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.WaitForMigrationEvaluationData",
+  "internalEnabled": true,
+  "persistentID": 1245
+}

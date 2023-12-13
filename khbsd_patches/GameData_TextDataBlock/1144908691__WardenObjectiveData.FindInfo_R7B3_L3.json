@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the location of <color=orange>[ALL_ITEMS]]</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Obtenez plus d'information sur l'emplacement du <color=orange>[ALL_ITEMS]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazione di <color=orange>[ALL_ITEMS]</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über den Standort von <color=orange>[ALL_ITEMS]</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila información sobre la ubicación de los siguientes objetos: <color=orange>[ALL_ITEMS]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении предмета (<color=orange>[ALL_ITEMS]</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre a localização de <color=orange>[ALL_ITEMS]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu <color=orange>[ALL_ITEMS]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ALL_ITEMS]</color>の場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ALL_ITEMS]</color> 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集關於<color=orange>[ALL_ITEMS]</color>地點的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于<color=orange>[ALL_ITEMS]</color>位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindInfo_R7B3_L3",
+  "internalEnabled": true,
+  "persistentID": 1144908691
+}

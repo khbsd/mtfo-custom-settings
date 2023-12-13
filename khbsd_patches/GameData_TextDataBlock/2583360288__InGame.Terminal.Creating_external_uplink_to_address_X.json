@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Creating external uplink to address {0}, please wait",
+  "Description": "{0} is an IP adress.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Création d'une liaison montante externe vers l'adresse {0}, veuillez patienter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Creazione uplink esterno con indirizzo {0}, attendere",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Externer Uplink zur Adresse {0} wird hergestellt, bitte warten ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Creando uplink externo a dirección {0}, espera.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Создаем внешнее подключение к адресу {0}. Подождите.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Criando uplink externo para o endereço {0}; aguarde",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tworzenie połączenia zewnętrznego z adresem {0}, proszę czekać",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アドレス{0}への外部アップリンクを作成中、お待ちください",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 주소로 외부 업링크 생성 중. 잠시만 기다려 주십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在建立與位址{0}的外部上行鏈路，請稍候",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在创建与地址{0}的外部上行链路，请稍候",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Creating_external_uplink_to_address_X",
+  "internalEnabled": true,
+  "persistentID": 2583360288
+}

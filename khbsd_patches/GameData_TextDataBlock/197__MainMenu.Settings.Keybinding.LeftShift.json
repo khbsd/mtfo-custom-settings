@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Shift",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Maj gauche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Shift sinistro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linke Umschalttaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mayús izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Левая клавиша Shift",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Shift esquerdo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Lewy Shift",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左Shift",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼쪽 Shift",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左Shift",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左Shift键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.LeftShift",
+  "internalEnabled": true,
+  "persistentID": 197
+}

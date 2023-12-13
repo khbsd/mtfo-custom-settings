@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog repellers distributed by Subject will repel fog at greater range.",
+  "Description": "Describes the advantage of having a good \"fog rep. power\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les répulsifs à brouillard placés par le sujet couvrent une plus grande portée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gli anti-nebbia schierati dal soggetto respingeranno la nebbia in un'area più ampia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nebelverdränger der Versuchsperson zerstreuen den Nebel auf größere Entfernung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Los repelentes que reparta el sujeto disolverán niebla a más distancia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Антидым эффективно работает на дальнем расстоянии.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Repulsores de névoa distribuídos pelo indivíduo repelem névoa a alcances maiores.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpylany przez biorcę środek przeciwmgielny będzie działał na dłuższym zasięgu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が使用したフォグリペラーの霧を遠ざける能力が上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 배치한 안개 제거기가 더 넓은 범위의 안개를 밀어냅니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象發射的驅霧器將在較大範圍內驅散霧氣。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者投掷的驱雾器的驱雾范围扩大。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.FogRepellerEffectDescription",
+  "internalEnabled": true,
+  "persistentID": 646
+}

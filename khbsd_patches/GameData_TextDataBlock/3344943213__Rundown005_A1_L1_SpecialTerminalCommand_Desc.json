@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Overrides lockdown protocol",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Annule le protocole de verrouillage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ignora il protocollo di isolamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Überschreibt das Verriegelungsprotokoll",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Anula el protocolo de cierre de emergencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключает протокол изоляции",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Substitui o protocolo de confinamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obchodzi protokół blokady",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックダウンプロトコルをオーバーライド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 프로토콜 재정의",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "覆蓋封鎖協定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "覆盖封锁协议",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown005_A1_L1_SpecialTerminalCommand_Desc",
+  "internalEnabled": true,
+  "persistentID": 3344943213
+}

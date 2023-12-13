@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "://Missed::{0}: {1}",
+  "Description": "As in \"missed receiving a reward\" or \"failed to receive a reward\". Only translate the word \"missed\", don't alter the code-like elements.\n{0} is one of these keys: BoosterImplants.Categories.Muted, BoosterImplants.Categories.Bold, BoosterImplants.Categories.Aggressive\n{1} is a whole number",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "://Manqué:{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "://Persa::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "://Verpasst::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "://Perdido::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "://Missed::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "://Perdeu::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "://Pominięto::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "://喪失::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "://놓침::{0}: {1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "://錯失::{0}：{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "://错过::{0}：{1}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.MissedReward_X_Y",
+  "internalEnabled": true,
+  "persistentID": 460
+}

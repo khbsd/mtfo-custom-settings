@@ -1,0 +1,21 @@
+{
+  "SpawnsPerZone": 10,
+  "ChanceToSpawnInResourceContainer": 0.35,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 114,
+      "Weight": 2.0
+    }
+  ],
+  "name": "Freps_IIX_glows_Tech",
+  "internalEnabled": true,
+  "persistentID": 24
+}

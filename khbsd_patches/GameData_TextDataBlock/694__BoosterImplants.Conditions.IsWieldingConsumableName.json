@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is wielding a consumable",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have a \"consumable item equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte un consommable",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consumabile impugnato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzt Verbrauchsmaterial",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva un consumible",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С расходником",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está empunhando um consumível",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Trzyma przedmiot jednorazowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消耗品使用中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소모품 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用消耗品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在使用消耗品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingConsumableName",
+  "internalEnabled": true,
+  "persistentID": 694
+}

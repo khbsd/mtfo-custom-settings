@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.0,
+    "g": 0.3347354,
+    "b": 1.0
+  },
+  "FogDensity": 0.0004,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0,
+    "normalized": {
+      "x": 0.577350259,
+      "y": 0.577350259,
+      "z": 0.577350259,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.73205078,
+    "sqrMagnitude": 3.0
+  },
+  "DensityNoiseSpeed": 0.0372,
+  "DensityNoiseScale": 0.08,
+  "DensityHeightAltitude": -5.2,
+  "DensityHeightRange": 0.53,
+  "DensityHeightMaxBoost": 0.002,
+  "Infection": 0.0,
+  "name": "Fog_light_with_soft_layer",
+  "internalEnabled": true,
+  "persistentID": 29
+}

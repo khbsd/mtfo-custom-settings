@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Spear",
+  "Description": "A category of melee weapons",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lance",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lancia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Speer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lanza",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Копье",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Lança",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włócznia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "槍",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "창",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "矛",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "矛",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.SpearName",
+  "internalEnabled": true,
+  "persistentID": 3901540528
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[{0} uses left]",
+  "Description": "Counting how many uses are left of a multi-dose booster (a performance enhancing drug). Only translate the \"uses left\" part, leac the brackets. \"{0}\" represents the number of boosters; just put these characters in the gramatically correct place in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "[{0}\u00A0doses restantes]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[{0} utilizzi rimasti]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[{0} Nutzungen übrig]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[{0} usos restantes]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[{0} р. осталось]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[{0} usos restantes]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[Pozostałe użycia: {0}]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[残り使用回数:{0}]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[{0}회분 남음]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[剩下{0}次]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[还剩{0}次用量]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.X_UsesLeft",
+  "internalEnabled": true,
+  "persistentID": 501
+}

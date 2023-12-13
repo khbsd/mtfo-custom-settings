@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CONFIRMATION TIMEOUT",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉLAI DE CONFIRMATION DÉPASSÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TIMEOUT DI CONFERMA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZEITÜBERSCHREITUNG DER BESTÄTIGUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TIEMPO DE CONFIRMACIÓN AGOTADO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВРЕМЯ ПОДТВЕРЖДЕНИЯ ИСТЕКЛО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TEMPO ESGOTADO PARA CONFIRMAÇÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "LIMIT CZASU POTWIERDZENIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "確認時間切れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "확인 시간 초과",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確認已逾時",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "确认超时",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_TIMOUT",
+  "internalEnabled": true,
+  "persistentID": 2565630216
+}

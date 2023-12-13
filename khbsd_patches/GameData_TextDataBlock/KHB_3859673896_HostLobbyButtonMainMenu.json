@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Host Sloppy",
+  "Description": "The text that is show on the \"Host\" button when clicking an expedition in the Rundown page.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Héberger un salon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ospita lobby",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Host-Lobby",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Crear sala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Создать лобби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Criar um lobby",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hostuj lobby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーをホスト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 만들기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主持大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "创建大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.HostButton",
+  "internalEnabled": true,
+  "persistentID": 3859673896
+}

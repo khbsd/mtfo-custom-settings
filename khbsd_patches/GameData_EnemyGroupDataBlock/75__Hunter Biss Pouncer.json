@@ -1,0 +1,17 @@
+{
+  "Type": 6,
+  "Difficulty": 6,
+  "SpawnPlacementType": 0,
+  "MaxScore": 1.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 7,
+      "Distribution": 1
+    }
+  ],
+  "name": "Hunter Biss Pouncer",
+  "internalEnabled": true,
+  "persistentID": 75
+}

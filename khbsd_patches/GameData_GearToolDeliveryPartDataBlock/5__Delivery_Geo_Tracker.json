@@ -1,0 +1,25 @@
+{
+  "ModelDataPerType": {
+    "LongRangeSemi": {
+      "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Geo_Tracker_1.prefab",
+      "GearCategoryFilter": 0,
+      "AssetBundle": 100,
+      "BundleShard": 1
+    }
+  },
+  "GeneralDatas": [
+    {
+      "Type": 3,
+      "Data": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Geo_Tracker_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 100,
+        "BundleShard": 1
+      }
+    }
+  ],
+  "Aligns": [],
+  "name": "Delivery_Geo_Tracker",
+  "internalEnabled": true,
+  "persistentID": 5
+}

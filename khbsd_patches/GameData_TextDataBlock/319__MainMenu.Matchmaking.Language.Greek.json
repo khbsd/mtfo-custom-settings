@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Greek",
+  "Description": "A language spoken in Greece.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Grec",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Greco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Griechisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Griego",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Греческий",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Grego",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Grecki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ギリシャ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그리스어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "希臘文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "希腊语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Greek",
+  "internalEnabled": true,
+  "persistentID": 319
+}

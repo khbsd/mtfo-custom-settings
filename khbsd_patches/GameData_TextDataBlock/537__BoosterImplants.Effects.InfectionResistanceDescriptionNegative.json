@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will be less resistant against infection.",
+  "Description": "Describes the advantage of having a poor \"infection reistance\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet est moins résistant à l'infection.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto sarà meno resistente alle infezioni.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson ist weniger resistent gegen Infektionen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto tendrá menos resistencia a las infecciones.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Иммунитет к инфекциям понижается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo fica menos resistente a infecções.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie mniej odporny na zakażenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の感染への抵抗力が下がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 감염 저항력이 감소합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象對感染的抵抗力較低。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者对于感染的抗性减弱。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InfectionResistanceDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 537
+}

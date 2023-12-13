@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification required! Use UPLINK_VERIFY and use public key <color=orange>{0}</color> to obtain the code.",
+  "Description": "{0} is a key the players have to input into a terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Vérification requise\u00A0! Utilisez UPLINK_VERIFY et saisissez la clé publique <color=orange>{0}</color> pour obtenir le code.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica richiesta! Usare UPLINK_VERIFY e chiave pubblica <color=orange>{0}</color> per ottenere il codice.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung erforderlich! Nutzen Sie UPLINK_VERIFY und den öffentlichen Schlüssel <color=orange>{0}</color>, um den Code zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación necesaria! Usa UPLINK_VERIFY y la clave pública <color=orange>{0}</color> para obtener el código.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется верификация! Для получения кода введите команду UPLINK_VERIFY и используйте публичный ключ <color=orange>{0}</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Verificação necessária! Use UPLINK_VERIFY e chave pública <color=orange>{0}</color> para obter o código.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagana weryfikacja! Aby uzyskać kod, użyj polecenia UPLINK_VERIFY i klucza publicznego <color=orange>{0}</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証が必要！UPLINK_VERIFYとパブリックキー<color=orange>{0}</color>を使用してコードを取得。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인증 요청됨. UPLINK_VERIFY를 사용하고 <color=orange>{0}</color> 공개 키를 사용해 코드를 받으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要驗證！使用UPLINK_VERIFY和公開金鑰<color=orange>{0}</color>取得驗證碼。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要验证！使用UPLINK_VERIFY和公共密钥<color=orange>{0}</color>获取代码。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Verification_required_Use_UPLINK_VERIFY_X",
+  "internalEnabled": true,
+  "persistentID": 947485599
+}

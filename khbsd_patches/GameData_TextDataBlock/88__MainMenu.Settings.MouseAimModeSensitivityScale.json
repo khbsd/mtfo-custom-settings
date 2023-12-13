@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Aim Mode Sensitivity Scale",
+  "Description": "A headline for the game setting where you choose the mouse sensitivity when you're ADS (aiming down sight), i.e. when you pull your weapon closer to your face to shoot more accurately.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sensibilité de la souris (en visant)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità mouse per mira ravvicinata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus-Zielmodus-Empfindlichkeitsskala",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escala de sensibilidad al apuntar (ratón)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность мыши при прицеливании",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sensibilidade do modo de mira do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skala czułości w trybie celowania – mysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス照準モード感度スケール",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 조준 모드 감도 조정",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠瞄準模式靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标瞄准模式灵敏度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MouseAimModeSensitivityScale",
+  "internalEnabled": true,
+  "persistentID": 88
+}

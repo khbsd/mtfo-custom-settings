@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "In range for ping. Use the command PING {0} to be able to find the item.",
+  "Description": "{0} is an item id.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "À portée de ping. Utilisez la commande PING {0} pour localiser l'objet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "A portata di ping. Utilizzare il comando PING {0} per trovare l'oggetto.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "In Reichweite für Ping. Nutzen Sie den Befehl PING {0}, um das Ziel zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Al alcance para ping. Usa el comando PING {0} para poder encontrar el objeto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В зоне пинга. Используйте команду PING {0}, чтобы найти предмет.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "No alcance para marcar. Use o comando PING {0} para poder encontrar o item.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W zasięgu oznaczania. Użyj polecenia PING {0}, aby móc znaleźć przedmiot.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PING範囲内。コマンドPING{0}を使用し、アイテムを見つけられるようにしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "핑 범위. PING {0} 명령을 사용해 아이템을 찾으십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "標記位於範圍內。使用指令PING{0}以找到物品。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "标记位于范围内。使用命令“PING{0}”以找到物品。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.In_range_for_ping_X",
+  "internalEnabled": true,
+  "persistentID": 1568741
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ID: {0}\nITEM STATUS: {1}\nLOCATION: {2}\nPING STATUS: {3}",
+  "Description": "Extra details of an item that will show when a user queries something in the terminal.\n{0} is the item ID, example: HSU_123.\n{1} is the item status: Normal,\r Malfunctioning,\r Deactivated,\r Powered, or UnPowered.\n{2} is the zone it's in.\n{3} is either InGame.Terminal.Ping_out_of_range_X or InGame.Terminal.In_range_for_ping_X",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "ID\u00A0: {0}\nÉTAT DE L'OBJET\u00A0: {1}\nEMPLACEMENT\u00A0: {2}\nÉTAT DU PING\u00A0: {3}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ID: {0}\nSTATO OGGETTO: {1}\nPOSIZIONE: {2}\nSTATO PING: {3}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ID: {0}\nZIELSTATUS: {1}\nSTANDORT: {2}\nPING-STATUS: {3}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ID: {0}\nESTADO DEL OBJETO: {1}\nUBICACIÓN: {2}\nESTADO DE PING: {3}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ID: {0}\nСТАТУС ПРЕДМЕТА: {1}\nРАСПОЛОЖЕНИЕ: {2}\nСТАТУС ПИНГА: {3}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ID: {0}\nSTATUS DO ITEM: {1}\nLOCAL: {2}\nMARCAR STATUS: {3}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ID: {0}\nSTAN PRZEDMIOTU: {1}\nLOKALIZACJA: {2}\nOZNACZANIE STANU: {3}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ID: {0}\nアイテムの状況: {1}\n場所: {2}\nPING状況: {3}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ID: {0}\n아이템 상태: {1}\n위치: {2}\n핑 상태: {3}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ID：{0}\n物品狀態：{1}\n位置：{2}\n標記狀態：{3}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ID：{0}\n物品状态：{1}\n位置：{2}\n标记状态：{3}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.DefaultItemDetails",
+  "internalEnabled": true,
+  "persistentID": 1801618659
+}

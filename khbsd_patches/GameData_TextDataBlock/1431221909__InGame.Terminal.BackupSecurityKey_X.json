@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backup security key: {0}",
+  "Description": "A text log containging a security key {0}",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Clé de sécurité de secours\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiave sicurezza backup: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Backup-Sicherheitsschlüssel: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Clave de seguridad de respaldo: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Резервный ключ безопасности: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chave de segurança de reserva: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klucz zapasowy: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備セキュリティキー: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 보안 키: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "備份安全鑰：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备份安全密钥：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.BackupSecurityKey_X",
+  "internalEnabled": true,
+  "persistentID": 1431221909
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Photosensitivity Warning",
+  "Description": "The settings title to enable or disable the warning message at the start of the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Avertissement lié à la photosensibilité",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviso sulla fotosensibilità",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lichtempfindlichkeit-Warnung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Aviso de fotosensibilidad",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Предупреждение для людей с фоточувствительностью",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso de fotossensibilidade",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie dotyczące padaczki fotogennej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "光感受性に関する警告",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "광과민성 경고",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "光敏感警告",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "光敏警告",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PhotosensitivityWarningShow",
+  "internalEnabled": true,
+  "persistentID": 1451
+}

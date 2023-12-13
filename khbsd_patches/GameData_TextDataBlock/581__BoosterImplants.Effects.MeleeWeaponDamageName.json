@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Melee damage",
+  "Description": "I.e. how much damage you can deal with a melee weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de mêlée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da mischia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nahkampf-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño cuerpo a cuerpo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (ближний бой)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de golpe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia w walce wręcz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近接攻撃ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "근접 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "近戰傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近战伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MeleeWeaponDamageName",
+  "internalEnabled": true,
+  "persistentID": 581
+}

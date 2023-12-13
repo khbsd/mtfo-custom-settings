@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Audio",
+  "Description": "A headline for audio related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Audio",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Audio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Audio",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sonido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Звук",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Áudio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dźwięk",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーディオ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오디오",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "音訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "音频",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AudioButton",
+  "internalEnabled": true,
+  "persistentID": 64
+}

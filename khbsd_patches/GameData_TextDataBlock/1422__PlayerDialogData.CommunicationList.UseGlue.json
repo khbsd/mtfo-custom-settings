@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Glue",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Collez",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Colla",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kleber",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pegamento",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cola",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グルー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "접착제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "泡沫膠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "结沫",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.UseGlue",
+  "internalEnabled": true,
+  "persistentID": 1422
+}

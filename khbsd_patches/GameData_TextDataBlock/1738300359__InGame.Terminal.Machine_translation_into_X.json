@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machine translation into {0} in progress, stand by...",
+  "Description": "{0} is one of the supported languages of the game.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Traduction automatique en {0} en cours, veuillez patienter...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Traduzione automatica in {0} in corso, attendere...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinenübersetzung nach {0} läuft, bitte warten ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Traducción automática a {0} en progreso, espera...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Идет машинный перевод на: {0}. Ждите...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tradução automática dentro de {0} em andamento, aguarde...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tłumaczenie maszynowe na język {0} w toku, oczekuj...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}への機械翻訳が進行中、お待ちください...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}(으)로의 기계 번역 진행 중, 대기 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在以機器翻譯為{0}，待命……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在机器翻译到{0}，等待中……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Machine_translation_into_X",
+  "internalEnabled": true,
+  "persistentID": 1738300359
+}

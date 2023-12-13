@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is Last Man Standing",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be the \"last man standing\" (all other teammembers must be downed) for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dernier survivant",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ultimo soggetto in vita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steht der letzte Überlebende",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Último sujeto en pie",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Последний выживший",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "É o último vivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostatni na polu walki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自分以外のチームメンバーがダウン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "최후 생존자",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "堅持到最後",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "唯一存活者",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsLastManStandingName",
+  "internalEnabled": true,
+  "persistentID": 679
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Releasing phase lock to [ZONE 187] - Prisoners allowed to extract.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déverrouillage de la phase vers la [ZONE\u00A0187] - Évacuation des prisonniers autorisée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Rilascio blocco fase a zona 187 [ZONE_187] - Estrazione prigionieri consentita.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Freigabe der Phasensperre für [ZONE 187] – Gefangene dürfen extrahieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloqueando cierre de fase a [ZONE 187]. Extracción permitida a los prisioneros.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ZONE 187] разблокирована. Выход заключенных авторизован.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Liberando trava da fase para [ZONE 187] — Prisioneiros com permissão para extrair.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zwalnianie blokady strefy 187 [ZONE 187] – więźniowie mogą się ewakuować.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[Zone 187]へのフェーズロックを解除中 - 囚人の脱出を許可。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[Zone 187] 페이즈 록 개방 - 수감자 탈출 허용.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在解除187區[ZONE_187]的階段封鎖 - 允許囚犯撤離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在解除187区[ZONE_187]阶段锁定 - 允许囚犯撤离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnGoToWin_Intel",
+  "internalEnabled": true,
+  "persistentID": 2096802440
+}

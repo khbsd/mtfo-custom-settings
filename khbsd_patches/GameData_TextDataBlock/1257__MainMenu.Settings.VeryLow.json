@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Very Low",
+  "Description": "A text string indicating that a particular game setting is set to \"very low\". It could, for example, refer to \"fog resolution\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Très faible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Molto alta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sehr niedrig",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Muy bajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очень низк.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Muito baixo/a",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "B. nisk.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "超低",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매우 낮음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "非常低",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "极低",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.VeryLow",
+  "internalEnabled": true,
+  "persistentID": 1257
+}

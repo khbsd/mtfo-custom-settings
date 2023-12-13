@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert <color=orange>Bulkhead Security Key</color> to activate Bulkhead Door operations.",
+  "Description": "Don't localize Bulkhead Security Key and Bulkhead Door.\nA text that appears on screen when the player is standing close to a Bulkhead Door Controller and carries a Bulkhead Security Key. Don't alter the RichText tags.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérez une <color=orange>clé de cloison de sécurité</color> pour activer les opérations de la porte à cloison.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserisci la <color=orange>chiave di protezione stagna</color> per attivare le funzioni della porta stagna.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stecken Sie den <color=orange>Schott-Sicherheitsschlüssel</color> ein, um den Schotttür-Betrieb zu aktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inserta la <color=orange>llave de contención [BULKHEAD_KEY]</color> para activar las operaciones de la puerta de contención.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставьте <color=orange>ключ безопасности</color>, чтобы активировать терминал ворот.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira a <color=orange>chave de segurança</color> para ativar a operação das portas protetoras.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebujesz <color=orange>klucza grodzi</color>, aby aktywować sterowanie grodzią.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>遮断壁のセキュリティキー</color> を挿入して遮断壁を稼働。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>격벽 보안 열쇠</color>를 넣어 격벽 문을 작동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "插入<color=orange>艙門安全鑰</color>以啟動艙門操作。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "插入<color=orange>舱壁安全钥匙</color>激活舱壁门操作。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.InsertBulkheadKey",
+  "internalEnabled": true,
+  "persistentID": 872
+}

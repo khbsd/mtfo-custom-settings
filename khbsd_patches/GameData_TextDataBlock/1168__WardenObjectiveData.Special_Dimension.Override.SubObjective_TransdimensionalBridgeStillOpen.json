@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Cannot terminate quantum tether.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: impossible d'annuler le lien quantique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: impossibile terminare legame quantico.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Quantenverbindung kann nicht getrennt werden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: No se puede completar el vínculo cuántico.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Невозможно разорвать квантовую связь.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Impossível encerrar o tirante quântico.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: nie można przerwać działania uwięzi kwantowej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：クオンタムテザー終了不可。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 양자 억제 종료 불가.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：無法終止量子鏈。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：无法终止量子系连。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_TransdimensionalBridgeStillOpen",
+  "internalEnabled": true,
+  "persistentID": 1168
+}

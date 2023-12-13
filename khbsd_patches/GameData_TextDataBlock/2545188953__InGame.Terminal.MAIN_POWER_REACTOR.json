@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAIN POWER REACTOR",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "RÉACTEUR DE PUISSANCE PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "REATTORE ENERGIA PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HAUPTSTROMREAKTOR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "REACTOR DE POTENCIA PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОСНОВНОЙ РЕАКТОР",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REATOR ELÉTRICO PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GŁÓWNY REAKTOR ZASILAJĄCY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主電力リアクター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 전력 반응로",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主電源反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主电源反应堆",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.MAIN_POWER_REACTOR",
+  "internalEnabled": true,
+  "persistentID": 2545188953
+}

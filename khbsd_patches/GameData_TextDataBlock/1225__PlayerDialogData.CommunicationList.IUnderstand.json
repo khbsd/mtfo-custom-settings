@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I understand!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Compris\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Capito!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verstanden!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Entendido!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Понимаю!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entendido!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przyjąłem!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "了解！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알았다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "明白！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "明白！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.IUnderstand",
+  "internalEnabled": true,
+  "persistentID": 1225
+}

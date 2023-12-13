@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use {0}",
+  "Description": "I.e. \"use this prop\", e.g. push this button. This text string appears on screen when the player is standing close to a a prop that they can interact with, to indicate what action can be performed by pressing the appropriate keyboard key/button. The \"{0}\" is replaced by the key/button in question, do not alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を使用",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사용 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Use_X",
+  "internalEnabled": true,
+  "persistentID": 854
+}

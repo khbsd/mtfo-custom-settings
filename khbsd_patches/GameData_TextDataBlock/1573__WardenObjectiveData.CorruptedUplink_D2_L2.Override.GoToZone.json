@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ZONE_1] and [ZONE_2] to find [ALL_ITEMS]",
+  "Description": "Don't localize [ZONE_1] and [ZONE_2] to find [ALL_ITEMS]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous dans la [ZONE_1] et la [ZONE_2] et trouvez [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_1] e [ZONE_2] per trovare [ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ZONE_1] und [ZONE_2] und finden Sie [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega hasta [ZONE_1] y [ZONE_2] para encontrar [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ZONE_1] и [ZONE_2] и найдите предмет ([ALL_ITEMS]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até a [ZONE_1] e a [ZONE_2] para encontrar [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do stref [ZONE_1] oraz [ZONE_2] i znajdź [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_1]と[ZONE_2]へ行き[ALL_ITEMS]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_1] 및 [ZONE_2](으)로 이동해 [ALL_ITEMS] 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_1]與[ZONE_2]尋找[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_1]和[ZONE_2]找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.CorruptedUplink_D2_L2.Override.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 1573
+}

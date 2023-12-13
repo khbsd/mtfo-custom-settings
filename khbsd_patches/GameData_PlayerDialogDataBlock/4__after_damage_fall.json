@@ -1,0 +1,170 @@
+{
+  "priority": 100,
+  "probabilityToTrigger": 100,
+  "triggerInterval": 3,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 1,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 3.0,
+        "lines": [
+          {
+            "lineEvent": 0,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 3.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2855244908,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 3.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2872022464,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 3.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2888800086,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 2.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2905577638,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": 31,
+        "conditions": [
+          0
+        ]
+      },
+      "ActorB": {
+        "charFilter": 15,
+        "conditions": [
+          0
+        ]
+      },
+      "ActorC": {
+        "charFilter": 31,
+        "conditions": [
+          0
+        ]
+      },
+      "ActorD": {
+        "charFilter": 31,
+        "conditions": [
+          0
+        ]
+      }
+    },
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 0,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2855244908,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 2872022464,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 515366803,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 498589247,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      },
+      "ActorA": {
+        "charFilter": -17
+      },
+      "ActorB": {
+        "charFilter": 16
+      }
+    }
+  ],
+  "name": "after_damage_fall",
+  "internalEnabled": true,
+  "persistentID": 4
+}

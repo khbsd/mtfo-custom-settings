@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "East!",
+  "Description": "As in \"to the east!\" A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Est\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Est!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Osten!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al este!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На восток!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leste!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wschód!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "東だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동쪽으로!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "東！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "往东！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.East",
+  "internalEnabled": true,
+  "persistentID": 1179
+}

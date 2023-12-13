@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download <color=orange>Decryption Keys</color> on terminals in the sector and then proceed to the exit point.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Téléchargez les <color=orange>clés de décryptage</color> sur les terminaux du secteur et rendez-vous au point d'évacuation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scaricare <color=orange>chiavi di decrittazione</color> sui terminali del settore e raggiungere il punto d'estrazione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Laden Sie die <color=orange>Entschlüsselungscodes</color> auf die Terminals im Sektor herunter und begeben Sie sich dann zum Austrittspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga las <color=orange>claves de descifrado</color> en las terminales del sector y continúa al punto de evacuación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузите <color=orange>ключи шифрования</color> на терминалах в секторе и пройдите к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixe <color=orange>chaves de decodificação</color> nos terminais do setor e vá até o ponto de saída.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobierz <color=orange>klucze deszyfrujące</color> z terminali w sektorze, a następnie przejdź do punktu ewakuacyjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セクターの端末で <color=orange>解読キー</color> をダウンロードし、脱出地点へ移動しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터의 터미널에서 <color=orange>암호 키</color>를 다운로드한 후 탈출 지점으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在分區的終端下載<color=orange>解碼密鑰</color>，然後前往撤離點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在分区内的终端上下载<color=orange>解密密钥</color>，然后前往撤离点。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_3_D2.Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1565
+}

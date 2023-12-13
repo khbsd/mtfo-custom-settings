@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ITEM_ZONE] and find [ITEM_SERIAL]",
+  "Description": "A short summary of a mission objective. Don't alter the \"[ITEM_ZONE/SERIAL]\" parts, just put them in the gramatically correct positions in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous à [ITEM_ZONE] et trouvez [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Vai verso [ITEM_ZONE] e trova [ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ITEM_ZONE] und finden Sie [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora [ITEM_ZONE] y encuentra [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в зону [ITEM_ZONE] и найдите предмет ([ITEM_SERIAL]).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até [ITEM_ZONE] e encontre [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do [ITEM_ZONE] i znajdź [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE] で [ITEM_SERIAL]を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE](으)로 이동해 [ITEM_SERIAL] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ITEM_ZONE]並尋找[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ITEM_ZONE]并找到[ITEM_SERIAL]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 941
+}

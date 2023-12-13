@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carbine Rifle Damage",
+  "Description": "I.e. how much damage you can deal with a carbine rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de carabine",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da carabina",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Karabiner-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de carabina",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (карабин)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil carabina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カービンライフルダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카빈 소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "卡賓槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "卡宾枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.CarbineDamageName",
+  "internalEnabled": true,
+  "persistentID": 547
+}

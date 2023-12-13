@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Sequence 4/4 completed</color> - Complete bioscan and HSU transfer to finalize neonatal preparation",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Séquence 4/4 terminée</color> - Terminer le bioscan et lancer l’initialisation sur le terminal principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Sequenza 4/4 completata</color>: completare la bio-scansione e il trasferimento HSU per terminare la preparazione neonatale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Sequenz 4/4 abgeschlossen</color> – Schließen Sie den Bioscan und den HSU-Transfer ab, um die Vorbereitung des Neugeborenen abzuschließen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Secuencia 4/4 concluida</color> - Completa el bioescáner y el traslado de la HSU para finalizar la preparación del neonato.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Цикл 4/4 завершен</color>. Пройдите биосканирование и переместите HSU, чтобы завершить неонатальную подготовку.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Sequência 4/4 concluída</color> - Conclua o bioescâner e a transferência de HSU para finalizar a preparação do neonato",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Ukończono sekwencję 4/4</color> – Ukończ bioskan i transfer jednostki hydrostazy w celu ukończenia sekwencji przygotowania noworodka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>シークエンス4/4完了済み</color> - バイオスキャンおよびHSU移動を完了し、新生児準備をファイナライズせよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>절차 4/4 완료</color> - 바이오스캔과 HSU 운반을 완료해 신생아 준비 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>序列4/4已完成</color> - 完成生物掃描並轉移HSU來進行新生準備的最後確認。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>序列4/4已完成</color> - 完成生物扫描和HSU转移以完成新生儿准备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Objective.TimedTerminal_Done_R7D1_Fourth",
+  "internalEnabled": true,
+  "persistentID": 3581201318
+}

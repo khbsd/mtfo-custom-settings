@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the [ALL_ITEMS] in <color=orange>ZONE 246</color>",
+  "Description": "Don't localize [ALL_ITEMS] it will be replaced programmatically. Don't localize ZONE 246 either.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez l'objet\u00A0: [ALL_ITEMS] dans la <color=orange>ZONE\u00A0246</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare [ALL_ITEMS] nella <color=orange>ZONE 246</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ALL_ITEMS] in <color=orange>ZONE 246</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra [ALL_ITEMS] en la <color=orange>ZONE 246</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите в <color=orange>ZONE 246</color>: [ALL_ITEMS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ALL_ITEMS] na <color=orange>ZONE 246</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź: [ALL_ITEMS] w <color=orange>strefie 246 [ZONE_246]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ALL_ITEMS] を <color=orange>ZONE 246</color>で見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 246</color>에서 [ALL_ITEMS] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找<color=orange>ZONE 246</color>中的[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 246</color>中找到[ALL_ITEMS]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItems_R6_C2_Override.MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1365
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aim",
+  "Description": "Control key binding/mapping. This key is for ADS (aiming down sight), i.e. lifting your firearm up towards your face in order to aim and shoot more accurately.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Viser",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mira",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zielen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Apuntar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прицел",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mirar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Celuj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "覗き込み",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조준",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "瞄準",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "瞄准",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Aim",
+  "internalEnabled": true,
+  "persistentID": 141
+}

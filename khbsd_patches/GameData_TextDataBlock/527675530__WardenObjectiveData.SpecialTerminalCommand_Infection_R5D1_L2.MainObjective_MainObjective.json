@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Turn off the air filtration systems in the quadrant. Manipulate the climate system on terminal [ITEM_SERIAL].",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivez les systèmes de filtration d'air dans le quadrant. Manipulez le système de climatisation sur le terminal [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spegnere i sistemi di filtrazione dell'aria nel quadrante. Manipolare il sistema di climatizzazione sul terminale [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schalten Sie das Luftfiltersystem im Quadranten aus. Manipulieren Sie das Klimasystem an Terminal [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactiva los sistemas de filtración de aire del cuadrante. Manipula el sistema climático en la terminal [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отключите системы фильтрации воздуха в секторе. Настройте климатическую систему с помощью терминала [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desligue o sistema de filtragem de ar no quadrante. Manipule o sistema de climatização no terminal [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyłącz systemy filtracji powietrza w kwadrancie. Wpłyń na układ klimatyczny w terminalu [ITEM_SERIAL].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "四分円の換気システムをオフにしろ。端末[ITEM_SERIAL]で気候システムを操作しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사분면의 공기 여과 시스템을 끄세요. 터미널 [ITEM_SERIAL]에서 기후 시스템을 조작하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉象限內的空氣過濾系統。在終端[ITEM_SERIAL]操控氣候系統。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭象限内的空气过滤系统。在终端[ITEM_SERIAL]上操控气候系统。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Infection_R5D1_L2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 527675530
+}

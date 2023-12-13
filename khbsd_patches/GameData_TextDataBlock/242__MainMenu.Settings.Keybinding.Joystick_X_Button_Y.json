@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Joystick{0}Button {1}",
+  "Description": "A button on the joystick. Do not alter the bracket symbols. {0} and {1} is numbers between 0 and 19.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Joystick{0}Bouton {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Joystick{0}Tasto {1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Joystick{0}Taste {1}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Joystick {0} Botón {1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Джойстик{0}Кнопка {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controle{0}Botão {1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk {1} kontrolera {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ジョイスティック{0}ボタン {1}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조이스틱{0}버튼 {1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "搖桿{0}按鈕{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "游戏杆{0}按钮{1}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Joystick_X_Button_Y",
+  "internalEnabled": true,
+  "persistentID": 242
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OVERLOAD",
+  "Description": "Difficulty level shown on doors. Overload is the hardest objectives in the game.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SURCHARGE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SOVRACCARICO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HERAUSFORDERUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СПЕЦ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SOBRECARGA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NADMIAROWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーバーロード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고위험",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "超載",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "附加",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.Overload",
+  "internalEnabled": true,
+  "persistentID": 1132
+}

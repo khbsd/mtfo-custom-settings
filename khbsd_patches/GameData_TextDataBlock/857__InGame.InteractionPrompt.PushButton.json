@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Push Button",
+  "Description": "I.e. \"push this button.\" This text string appears on screen when the player is standing close to a prop with a button, to indicate that the player can push that button if they want to.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyer sur le bouton",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premi pulsante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taste drücken",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsar botón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажать кнопку",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Apertar botão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij przycisk",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボタンを押す",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "버튼 누르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按下按鈕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下按钮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.PushButton",
+  "internalEnabled": true,
+  "persistentID": 857
+}

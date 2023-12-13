@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use terminal command <color=orange>QUERY [ALL_ITEMS]</color> to locate the objective",
+  "Description": "QUERY and [ALL_ITEMS] should not be translated. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>QUERY [ALL_ITEMS]</color> sur le terminal pour localiser l'objectif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il comando da terminale <color=orange>QUERY [ALL_ITEMS]</color> per trovare l'obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Terminalbefehl <color=orange>QUERY [ALL_ITEMS]</color>, um das Ziel zu lokalisieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando del terminal <color=orange>QUERY [ALL_ITEMS]</color> para localizar el objetivo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду терминала <color=orange>QUERY [ALL_ITEMS]</color>, чтобы найти цель.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar comando de terminal <color=orange>QUERY [ALL_ITEMS]</color> para localizar o objetivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>QUERY [ALL_ITEMS]</color> w terminalu, aby zlokalizować cel",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末コマンド<color=orange>QUERY[ALL_ITEMS]</color>を使用して目標の位置を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>QUERY[ALL_ITEMS]</color> 터미널 명령을 사용해 목표 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用終端指令<color=orange>QUERY[ALL_ITEMS]</color>定位目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用终端命令<color=orange>QUERY [ALL_ITEMS]</color>定位目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8_A1_8",
+  "internalEnabled": true,
+  "persistentID": 593725369
+}

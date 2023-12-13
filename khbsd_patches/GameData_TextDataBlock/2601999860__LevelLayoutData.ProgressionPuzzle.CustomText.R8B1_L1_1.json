@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Search for the Data Cube in <color=orange>Zone 138</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le cube de données [DATA_CUBE] dans la <color=orange>zone\u00A0138</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il cubo di dati [DATA_CUBE] in <color=orange>ZONE 138</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie nach dem Datenwürfel [DATA_CUBE] in <color=orange>ZONE 138</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el cubo de datos [DATA_CUBE] en la <color=orange>ZONE 138</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите куб данных [DATA_CUBE] в <color=orange>ZONE 138</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procurar cubo de dados [DATA_CUBE] na <color=orange>Zone 138</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź kostkę danych [DATA_CUBE] w <color=orange>strefie 138 [ZONE_138]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 138</color>でデータキューブ[DATA CUBE]を探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Zone 138</color>에서 [DATA_CUBE] 데이터 큐브 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>ZONE 138</color>搜尋資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 138</color>中搜索数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText.R8B1_L1_1",
+  "internalEnabled": true,
+  "persistentID": 2601999860
+}

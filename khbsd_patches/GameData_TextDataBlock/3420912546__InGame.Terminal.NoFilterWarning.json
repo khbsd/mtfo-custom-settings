@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warning: Running LIST with no filter is not recommended. Use -A to override\n\nUsage: LIST [FILTERS]\n\nAttributes:\n[FILTERS]      One or more terms to get a smaller list of items\n[-A]           Optional attribute. Lists all items\n\nExample: LIST HSU ZONE_1, will only display data from Zone_1 containing 'HSU'",
+  "Description": "Fill out with spaces to it's exactly 15 characters where the explaining text starts after [FILTERS] and [-A], this is so the text gets properly indented.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Avertissement\u00A0: l'exécution de LIST sans filtre n'est pas recommandée. Utilisez -A pour neutraliser.\n\nUtilisation\u00A0: LIST [FILTRES]\n\nAttributs\u00A0:\n[FILTRES]      Un ou plusieurs termes visant à réduire la liste d'objets.\n[-A]           Attribut facultatif. Énumère tous les objets.\n\nExemple\u00A0: LIST HSU ZONE_1 affichera uniquement les données de la ZONE_1 contenant 'HSU'.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione: l'esecuzione di LIST senza filtro non è consigliata. Usare -A per forzare il comando\n\nSintassi: LIST [FILTRI]\n\nParametri:\n[FILTRI]       Uno o più termini per ottenere un elenco più ristretto di oggetti\n[-A]           Parametro facoltativo. Elenca tutti gli oggetti\n\nEsempio: LIST HSU ZONE_1 mostrerà solo i dati da Zone_1 contenenti \"HSU\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Die Ausführung von LIST ohne Filter wird nicht empfohlen. Override mit -A.\n\nEinsatz: LIST [FILTERS]\n\nAttribute:\n[FILTERS]      Mindestens ein Begriff, nach dem die Liste der Ziele gefiltert wird.\n[-A]           Optionale Attribute. Alle Ziele anzeigen.\n\nBeispiel: LIST HSU ZONE_1 zeigt Daten aus Zone_1 an, die „HSU“ enthalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Advertencia: No se recomienda ejecutar LIST sin filtros. Usa -A para anular.\n\nUso: LIST [FILTERS]\n\nAtributos:\n[FILTERS]      Uno o más términos para ver una lista reducida de objetos.\n[-A]           Atributo opcional. Muestra todos los objetos.\n\nEjemplo: LIST HSU ZONE_1 solo mostrará datos de la Zone_1 que contengan «HSU».",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание: не рекомендуем использовать команду LIST без фильтров. Используйте -A для отмены.\n\nПрименение: LIST [FILTERS]\n\nПараметры:\n[FILTERS]      Один или несколько терминов для уточнения списка предметов.\n[-A]           Необязательный параметр. Выводит все предметы.\n\nНапример, команда LIST HSU ZONE_1 покажет только данные из Zone_1, содержащие HSU.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso: Executar LIST sem uso de filtros não é recomendado. Use -A para substituir\n\nUso: LIST [FILTERS]\n\nAtributos:\n[FILTERS]      Um ou mais termos para obter uma lista mais curta de itens\n[-A]           Atributo opcional. Lista todos os itens\n\nExemplo: LIST HSU ZONE_1, só exibirá dados da Zone_1 contendo 'HSU'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie: wykonanie polecenia LIST bez filtrów jest niezalecane. Aby nadpisać, użyj -A.\n\nUżycie: LIST [FILTERS]\n\nAtrybuty:\n[FILTERS]      Co najmniej jeden warunek, aby uzyskać mniejszą listę\n[-A]           Atrybut opcjonalny. Wyświetla wszystkie pozycje\n\nPrzykład: polecenie LIST HSU ZONE_1 wyświetli dane jedynie dla strefy 1 zawierające jednostkę hydrostazy HSU",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：フィルタなしでのLIST実行は非推奨。-Aを使用してオーバーライド\n\n使用法: LIST [FILTERS]\n\n属性:\n[FILTERS]      1つ以上の語でアイテムのより小さいリストを出力\n[-A]           任意属性。全てのアイテムのリストを出力\n\n例: LIST HSU ZONE_1は、'HSU'を含むZone_1のデータのみを表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 필터 없는 목록 실행은 권장되지 않습니다. -A를 사용하여 재정의하십시오.\n\n사용법: LIST [필터]\n\n특성:\n[필터]           더 작은 아이템 목록을 위한 하나 이상의 용어\n[-A]           선택적 특성. 모든 아이템 목록\n\n예: LIST HSU ZONE_1, 'HSU'를 포함한 Zone_1의 데이터만 표시합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：不建議執行沒有篩選過的清單。使用-A以覆蓋\n\n用法：清單[篩選條件]\n\n屬性：\n[篩選條件]      一個以上的詞彙以獲得較短的物品清單\n[-A]           選用屬性。列出所有物品\n\n範例：LIST HSU ZONE_1，只會顯示Zone_1中包含「HSU」的資料",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：不建议不加筛选条件运行LIST命令。使用-A进行覆盖\n\n用法：LIST [筛选条件]\n\n属性：\n[筛选条件]      一个或多个条件，从而得出范围较小的物品列表\n[-A]           可选属性，列出所有物品\n\n例：“LIST HSU ZONE_1”将仅显示ZONE_1中包含“HSU”的数据",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "InGame.Terminal.NoFilterWarning",
+  "internalEnabled": true,
+  "persistentID": 3420912546
+}

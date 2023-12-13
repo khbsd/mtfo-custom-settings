@@ -1,0 +1,167 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [],
+      [
+        5,
+        0,
+        3,
+        2,
+        4,
+        1
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [
+        5,
+        0,
+        3,
+        2,
+        4,
+        1
+      ],
+      [],
+      [
+        5,
+        0,
+        3,
+        2,
+        4,
+        1
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        5,
+        0,
+        2,
+        3,
+        4,
+        1
+      ],
+      [
+        5,
+        0,
+        2,
+        4,
+        3,
+        1
+      ],
+      [],
+      [
+        5,
+        0,
+        2,
+        3
+      ],
+      [],
+      [],
+      [
+        5,
+        0,
+        2,
+        3,
+        4,
+        1
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_01.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 0.5,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_01_vA.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_02.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_03.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_04.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/Props/storage/storage_room_large_T_4000x2000/storage_room_large_T_4000x2000_HA_05.prefab",
+        "function": 0,
+        "Shard": 3
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 2,
+    "FunctionPotential": 16.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_storage_room_large_T_4000x2000",
+    "BoundingVolume": 0.0
+  },
+  "name": "mining_storage_room_large_T_4000x2000",
+  "internalEnabled": true,
+  "persistentID": 118
+}

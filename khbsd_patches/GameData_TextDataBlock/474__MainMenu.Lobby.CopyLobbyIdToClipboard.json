@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COPY LOBBY ID TO CLIPBOARD",
+  "Description": "\"LOBBY ID\" is a unique code that is generated for each lobby, that players in the lobby can share to invite other players to their lobby. \"Clipboard\" refers to the Windows clipboard, i.e. the place where text and media ends up when you use [ctrl]+C.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COPIER L'ID DE SALON DANS LE PRESSE-PAPIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COPIA ID LOBBY NEGLI APPUNTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "LOBBY-ID IN ZWISCHENABLAGE KOPIEREN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COPIAR ID. DE SALA AL PORTAPAPELES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОПИРОВАТЬ ID ЛОББИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "COPIAR ID DE LOBBY PARA ÁREA DE TRANSFERÊNCIA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKOPIUJ ID LOBBY DO SCHOWKA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロビーIDをクリップボードにコピー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "로비 ID를 클립보드에 복사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將大廳ID複製到剪貼簿",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将大厅ID复制到剪贴板",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.CopyLobbyIdToClipboard",
+  "internalEnabled": true,
+  "persistentID": 474
+}

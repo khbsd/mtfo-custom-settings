@@ -1,0 +1,23 @@
+{
+  "ForceDisableAnimator": false,
+  "AnimationControllers": -4066,
+  "MoveSlowerWhenInPlayerRoom": false,
+  "MoveSlowerWithinTargetDistance": 20.0,
+  "GlobalAnimSpeedMulti": 0.8,
+  "PathMoveAnimSpeedMulti": 1.0,
+  "RotationLerp": 6.0,
+  "RotationLerpWhenNotMoving": 6.0,
+  "BlendIntoAttackAnim": 0.15,
+  "BlendIntoScreamAnim": 0.15,
+  "AllowMovmentBlendOutOfPathMove": false,
+  "PathMoveAnimDampTime": 0.05,
+  "AllowClimbDownLadders": true,
+  "LocomotionPathMove": 2,
+  "LocomotionHitReact": 7,
+  "LocomotionDead": 11,
+  "LocomotionShooterAttack": 18,
+  "LocomotionScream": 16,
+  "name": "Shadow",
+  "internalEnabled": true,
+  "persistentID": 21
+}

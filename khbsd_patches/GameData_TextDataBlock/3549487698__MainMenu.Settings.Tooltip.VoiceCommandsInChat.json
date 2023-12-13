@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggles if the voice commands should show in the chat",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Permet d'afficher les commandes dans le chat",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Determina se i comandi vocali devono essere visualizzati nella chat",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schaltet um, ob Sprachbefehle im Chat angezeigt werden sollen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar si los comandos de voz aparecen en el chat",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включает/выключает отображение голосовых команд в чате.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alterna a opção de os comandos de voz aparecerem no chat",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza/wyłącza wyświetlanie komend głosowych w czacie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスコマンドをチャットに表示するかどうかを切り替える",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "채팅에 음성 명령을 표시할지 지정합니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換語音指令是否應在聊天中顯示",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开启后，在聊天中显示语音命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "MainMenu.Settings.Tooltip.VoiceCommandsInChat",
+  "internalEnabled": true,
+  "persistentID": 3549487698
+}

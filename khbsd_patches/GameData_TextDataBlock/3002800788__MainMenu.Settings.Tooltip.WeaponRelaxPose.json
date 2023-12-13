@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables a relaxed weapon pose when out of combat for a little while.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Baisse l'arme après être resté hors combat pendant un certain temps.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente l'impugnatura rilassata dell'arma quando non si combatte da un po'.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert eine entspannte Waffenhaltung, wenn du dich für einen Moment aus dem Kampf zurückziehst.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa una pose relajada con el arma cuando llegues tiempo sin luchar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поза ожидания включается, если персонаж некоторое время не участвует в бою.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa uma posição de arma relaxada quando não há combate por um tempo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Po dłuższym czasie poza walką umożliwia zrelaksowaną postawę z bronią.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しばらく戦闘がない時、武器の構えを解く。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "한동안 적과 싸우지 않으면 무기를 아래로 내린 자세를 취합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "離開戰鬥一小段時間後，可以稍微放下武器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "脱离战斗一会儿后启用放松的武器姿势。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.WeaponRelaxPose",
+  "internalEnabled": true,
+  "persistentID": 3002800788
+}

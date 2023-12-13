@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Windowed",
+  "Description": "The graphic setting \"full screen mode\", controls the behavior of the game application window, can have this setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fenêtré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Modalità finestra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fenstermodus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Modo ventana",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Оконный режим",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Em janela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W oknie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ウィンドウ表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "창 모드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "視窗模式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "窗口化",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Windowed",
+  "internalEnabled": true,
+  "persistentID": 186
+}

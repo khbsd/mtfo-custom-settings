@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Health {0}%",
+  "Description": "Extra info displayed in the UI when you look directly at another player or bot.\n{0} is the players current health and will be a value between 0 and 100.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Santé {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Salute {0}%",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesundheit {0} %",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Salud {0}\u00A0%",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здоровье: {0}%",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vida {0}%",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zdrowie {0}%",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "体力 {0}%",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체력 {0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生命值{0}%",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生命值{0}%",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.NavMarkerExtraInfo.Health_X",
+  "internalEnabled": true,
+  "persistentID": 3632600922
+}

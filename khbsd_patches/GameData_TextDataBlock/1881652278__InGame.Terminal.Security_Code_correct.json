@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security Code correct, preparing for next step in sequence",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Code de sécurité correct, préparation de la prochaine étape de la séquence.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Codice di sicurezza corretto, preparazione per successivo passaggio in sequenza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitscode korrekt, nächster Schritt der Sequenz wird vorbereitet ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Código de seguridad correcto, preparando el siguiente paso de la secuencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Код безопасности принят. Идет подготовка к следующему этапу цикла.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Código de segurança correto; preparando próxima etapa da sequência",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawidłowy kod bezpieczeństwa, przygotowywanie do następnego kroku sekwencji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティコード正解、シークエンスの次ステップを準備中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "올바른 보안 코드. 절차의 다음 단계 준비 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全碼正確，正在準備序列的下一步",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全码正确，正在准备序列中的下一步",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Security_Code_correct",
+  "internalEnabled": true,
+  "persistentID": 1881652278
+}

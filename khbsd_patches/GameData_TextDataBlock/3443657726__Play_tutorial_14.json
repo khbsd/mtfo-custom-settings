@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\nEliminate hostile entity using melee weapon. \r\nHold weapon tightly to charge a heavy blow.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\nÉliminez les entités hostiles à l’aide d’une arme de mêlée. \r\nMaintenez la touche d’attaque appuyée pour charger un coup plus puissant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\nEliminare l'entità ostile usando un'arma da mischia. \r\nTenere saldamente l'arma per caricare un colpo pesante.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\nEliminieren Sie die feindliche Einheit mit einer Nahkampfwaffe. \r\nHalten Sie die Waffe gut fest, um einen schweren Schlag auszuführen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\nElimina al elemento hostil empleando un arma cuerpo a cuerpo. \r\nAgárrala fuerte para cargar un ataque pesado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\nУничтожьте враждебную сущность с помощью оружия ближнего боя.\r\nДержите оружие крепко, чтобы нанести сильный удар.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\nElimine a entidade hostil usando uma arma de golpe. \r\nSegure firme a arma para preparar um ataque forte.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\nWyeliminuj nieprzyjaciela za pomocą broni do walki wręcz. \r\nPrzytrzymaj, aby wyprowadzić ciężkie uderzenie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n近接武器で敵対存在を排除せよ。\r\n武器を確実に持ち、重打撃を与えよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n근접 무기로 적대 개체를 제거하십시오. \r\n무기를 단단히 쥐고 강력한 타격을 가하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n使用近戰武器殲滅敵對物體。\r\n緊握武器可施展強力攻擊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n使用近战武器消灭敌对实体。\r\n紧紧按住武器蓄力沉重一击。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_tutorial_14",
+  "internalEnabled": true,
+  "persistentID": 3443657726
+}

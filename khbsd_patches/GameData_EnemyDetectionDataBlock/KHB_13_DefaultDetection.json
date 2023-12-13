@@ -1,0 +1,11 @@
+{
+  "weaponDetectionDistanceMin": 10.0,
+  "weaponDetectionDistanceMax": 50.0,
+  "detectionNodeDistanceMax": 2.0,
+  "movementDetectionDistance": 5.0,
+  "detectionBuildupSpeed": 1.5,
+  "detectionCooldownSpeed": 0.075,
+  "name": "DefaultDetection",
+  "internalEnabled": true,
+  "persistentID": 13
+}

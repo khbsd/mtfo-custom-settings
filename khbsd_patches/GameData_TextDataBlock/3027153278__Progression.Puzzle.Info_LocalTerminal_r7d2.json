@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door controls relegated to local</color> <color=orange>Zone 218</color> <color=red>terminal.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Commandes de la porte renvoyées au <color=red>terminal</color> local de la</color> <color=orange>zone\u00A0218</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: controlli porta confinati al</color> <color=red>terminale</color> locale <color=orange>ZONE 218.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Türsteuerung wurde auf das lokale</color> <color=red>Terminal</color> in <color=orange>Zone 218</color> übertragen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Controles de puertas transferidos al</color> <color=red>terminal local de la</color> <color=orange>Zone 218</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Управление дверями передано на локальный</color> <color=red>терминал</color> <color=orange>зоны 218.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Controles de portas rebaixados para o <color=red>terminal</color> local da </color> <color=orange>Zone 218</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: sterowanie drzwiami ograniczone do lokalnego terminalu w</color> <color=orange>strefie 218 [ZONE_218]</color><color=red>.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドア制御がローカル</color> <color=orange>Zone 218</color><color=red>端末</color>に委託されました。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문 제어</color> <color=orange>ZONE 218</color> <color=red>내부 터미널로 이전</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門禁控制降派至本地</color><color=orange>Zone 218</color><color=red>終端。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门的控制已移交到</color><color=orange>ZONE 218</color><color=red>本地终端。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Progression.Puzzle.Info_LocalTerminal_r7d2",
+  "internalEnabled": true,
+  "persistentID": 3027153278
+}

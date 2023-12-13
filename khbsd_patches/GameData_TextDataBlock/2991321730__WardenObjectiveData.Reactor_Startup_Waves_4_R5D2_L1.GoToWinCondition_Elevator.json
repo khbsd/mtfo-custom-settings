@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Push forward towards the extraction point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avanzare fino al punto di estrazione nella zona di estrazione [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stoßen Sie zum Extraktionspunkt in [EXTRACTION_ZONE] vor.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza hacia el punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Продвигайтесь к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Avance na direção do ponto de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przedostań się do punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の脱出地点へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE]의 탈출 지점으로 계속 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "往[EXTRACTION_ZONE]的撤離點推進",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "向[EXTRACTION_ZONE]的撤离点推进",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R5D2_L1.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 2991321730
+}

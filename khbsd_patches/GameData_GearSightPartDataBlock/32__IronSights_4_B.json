@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/IronSights/IronSights_4_B.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 50,
+    "BundleShard": 4
+  },
+  "Aligns": [
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    }
+  ],
+  "SightProperties": {
+    "GearFovZoom": 0,
+    "WorldFovZoom": 0,
+    "ZoomSensitivityModifier": 1.0
+  },
+  "name": "IronSights_4_B",
+  "internalEnabled": true,
+  "persistentID": 32
+}

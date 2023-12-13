@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resource here",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Voilà des ressources",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risorsa qui",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier sind Ressourcen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tengo recursos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь ресурсы",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recurso aqui",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasoby, tutaj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "資源があるぞ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 자원이다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "資源，這裡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Resource_here",
+  "internalEnabled": true,
+  "persistentID": 1335
+}

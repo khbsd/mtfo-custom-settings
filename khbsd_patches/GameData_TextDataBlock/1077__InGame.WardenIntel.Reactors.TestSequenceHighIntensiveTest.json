@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "REACTOR TEST SEQUENCE: HIGH INTENSIVE TEST",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SÉQUENCE DE TEST DU RÉACTEUR\u00A0: TEST D'INTENSITÉ ÉLEVÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SEQUENZA TEST REATTORE: TEST ALTA INTENSITÀ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "REAKTORTESTSEQUENZ: HOCHINTENSIVER TEST",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECUENCIA DE PRUEBA DEL REACTOR: PRUEBA DE INTENSIDAD ELEVADA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦИКЛ ПРОВЕРКИ РЕАКТОРА: УСИЛЕННАЯ ПРОВЕРКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SEQUÊNCIA DE TESTE DE REATOR: TESTE DE ALTA INTENSIDADE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKWENCJA TESTU REAKTORA: TEST NATĘŻENIOWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターテストシークエンス：高負荷テスト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시험 절차: 고강도 테스트",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "反應器測試序列：高密集測試",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "反应堆测试序列：高强度测试",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.Reactors.TestSequenceHighIntensiveTest",
+  "internalEnabled": true,
+  "persistentID": 1077
+}

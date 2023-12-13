@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Legs",
+  "Description": "The type of cloth to select",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Jambes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gambe",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beine",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Piernas",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ноги",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pernas",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nogi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "脚部",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "腿部",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "腿",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Clothes.Categories.Legs",
+  "internalEnabled": true,
+  "persistentID": 1163
+}

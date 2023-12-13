@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DECEASED",
+  "Description": "A classification of the vital condition of the players character. I.e. \"Vital condition: DECEASED\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "DÉCÉDÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DECEDUTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "VERSTORBEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MUERTE",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СМЕРТЬ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALECIDO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NIE ŻYJE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "死亡",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사망함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已死",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "死亡",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.VitalsDeceased",
+  "internalEnabled": true,
+  "persistentID": 893
+}

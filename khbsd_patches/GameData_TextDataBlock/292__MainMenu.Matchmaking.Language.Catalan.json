@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Catalan",
+  "Description": "A language spoken in Spain, Andorra, France and Italy.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Catalan",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Catalano",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Katalanisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Catalán",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Каталанский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Catalão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kataloński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カタロニア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카탈로니아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加泰隆尼亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加泰罗尼亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Catalan",
+  "internalEnabled": true,
+  "persistentID": 292
+}

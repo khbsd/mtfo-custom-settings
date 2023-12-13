@@ -1,0 +1,19 @@
+{
+  "General": {
+    "PublicName": "Machinegun 1",
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Machinegun_1.prefab",
+    "GearCategoryFilter": 1,
+    "AssetBundle": 30,
+    "BundleShard": 9
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_MachineGun_1",
+  "internalEnabled": true,
+  "persistentID": 1
+}

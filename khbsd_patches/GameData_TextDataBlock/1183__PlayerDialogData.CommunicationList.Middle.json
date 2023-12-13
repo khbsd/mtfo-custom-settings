@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Middle!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Milieu\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Centro!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mitte!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al centro!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "По центру!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Meio!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Środek!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "中央だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중간!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "中間！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "中间！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Middle",
+  "internalEnabled": true,
+  "persistentID": 1183
+}

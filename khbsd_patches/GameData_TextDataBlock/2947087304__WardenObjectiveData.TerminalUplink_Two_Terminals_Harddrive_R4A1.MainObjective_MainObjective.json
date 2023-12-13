@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the <u>Uplink Terminals</u> [ALL_ITEMS] and upload data segment from retreived Hard Drives",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez les <u>terminaux de liaison montante</u> [ALL_ITEMS] et téléchargez les segments de données sur les disques durs récupérés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i <u>terminali di uplink</u> [ALL_ITEMS] e caricare il segmento di dati dai dischi rigidi recuperati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie die <u>Uplink-Terminals</u> [ALL_ITEMS] und laden Sie das Datensegment von den erhaltenen Festplatten hoch.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra las <u>terminales de uplink</u> [ALL_ITEMS] y carga el segmento de datos de los discos duros recuperados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <u>терминалы подключения</u> ([ALL_ITEMS]) и загрузите часть данных из полученных жестких дисков.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre os <u>terminais de uplink</u> [ALL_ITEMS] e carregue o segmento de dados a partir dos discos rígidos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <u>terminale łącza</u> ([ALL_ITEMS]) i prześlij segment danych ze zdobytych dysków twardych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<u>アップリンク端末</u> [ALL_ITEMS]を見つけ、回収したハードドライブからデータセグメントをアップロードしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "회수한 하드 드라이브에서 <u>업링크 터미널</u> [ALL_ITEMS] 및 업로드 데이터 세그먼트 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找<u>上行終端</u>[ALL_ITEMS]並上傳從硬碟中取得的資料片段",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<u>上行链路终端</u>[ALL_ITEMS]并上传取回的硬盘中的数据段",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_Two_Terminals_Harddrive_R4A1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2947087304
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... MOVE damn it!  \r\n... <size=200%><color=red>We can still make it! She– \r</size></color>\n... [commotion, screaming] \r",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... Bougez, bordel\u00A0! \r\n... <size=200%><color=red>On peut encore y arriver\u00A0! Elle... \r</size></color>\n... [vacarme, cris] \r",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… MUOVIAMOCI, dannazione! \r\n… <size=200%><color=red>Possiamo ancora farcela! Lei… \r</size></color>\n… [trambusto, urla] \r",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… LOS! Verdammt noch mal!\r\n… <size=200%><color=red>Wir können es noch schaffen! Sie–\r</size></color>\n… [Aufruhr, Schreie]\r",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... ¡Corre, joder!  \r\n... <size=200%><color=red>¡Podemos llegar! Es... \r</size></color>\n... [ruido, gritos] \r",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Шевелитесь! \r\n... <size=200%><color=red>Еще есть шанс выбраться! Она... \r</size></color>\n [шум, крики]\r",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... VAI logo, inferno! \r\n... <size=200%><color=red>Ainda dá tempo! Ela... \r</size></color>\n... [tumulto, gritaria] \r",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "…RUCHY, do cholery!  \r\n… <size=200%><color=red>Wciąż może się nam udać! Ona… \r</size></color>\n[zamieszanie, krzyki] \r",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... 速く進め！  \r\n... <size=200%><color=red>まだ間に合う！彼女は— \r</size></color>\n... [騒ぎ、悲鳴] \r",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 빨리 가, 염병!  \r\n... <size=200%><color=red>아직 할 수 있어! 저거... \r</size></color>\n... [소란, 비명] \r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……快走，可惡！\r\n……<size=200%><color=red>我們還有機會！她—\r</size></color>\n……[騷動、尖叫聲]\r",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……动起来，可恶！\r\n……<size=200%><color=red>我们还有机会！她——\r</size></color>\n……[喧闹声、尖叫声]\r",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_3_2.RoleplayedWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1258
+}

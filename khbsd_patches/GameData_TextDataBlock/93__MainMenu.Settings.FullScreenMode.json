@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Full Screen Mode",
+  "Description": "A headline for the game setting where you choose full screen mode.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mode plein écran",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Modalità tutto schermo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollbildmodus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Modo de pantalla completa",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полноэкранный режим",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Modo Tela cheia",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tryb pełnoekranowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルスクリーンモード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전체 화면 모드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全螢幕模式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全屏模式",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.FullScreenMode",
+  "internalEnabled": true,
+  "persistentID": 93
+}

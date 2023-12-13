@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Hacking Tool",
+  "Description": "Control key binding/mapping. This key equips the player's \"hacking tool\", which is a handheld computer device.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner l'outil de piratage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona strumento da hacker",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hacking-Werkzeug wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar herramienta de hackeo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать хакерский инструмент",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar ferramenta para hackear",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór narzędzia hakerskiego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハッキングツールを選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해킹 도구 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇破解工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择侵入工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectHackingTool",
+  "internalEnabled": true,
+  "persistentID": 153
+}

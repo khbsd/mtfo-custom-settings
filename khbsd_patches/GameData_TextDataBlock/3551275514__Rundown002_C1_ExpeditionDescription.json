@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Navigation database corrupted. Vertical triangulation required to confirm cold storage bulkhead location. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: base de données de navigation corrompue. Triangulation verticale requise pour confirmer l'emplacement de la cloison de l'entrepôt frigorifique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: database di navigazione danneggiato. Richiesta triangolazione verticale per la conferma dell'ubicazione della paratia stagna della cella frigorifera.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Navigationsdatenbank beschädigt. Vertikale Triangulation erforderlich, um Position des Kühlhausschotts zu bestätigen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Navegación de base de datos dañada. Se necesita la triangulación vertical para confirmar la ubicación de la contención de almacenamiento en frío.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Навигационная база данных повреждена. Для обнаружения ворот холодильного хранилища требуется вертикальная триангуляция.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Banco de dados de navegação corrompido. Triangulação vertical necessária para confirmar localização do protetor de armazenamento frio.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: uszkodzona baza danych lokalizacyjnych. Wymagana pionowa triangulacja w celu potwierdzenia lokalizacji grodzi chłodni. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：ナビゲーションデータベース破損。冷蔵貯蔵庫隔壁の位置確定のため、垂直三角測量が必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 내비게이션 데이터베이스 손상됨. 냉장실 격벽 위치의 수직 삼각 측량 필요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：導航資料庫已毀損。需要垂直三角測量來確認冷藏庫艙門地點。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：导航数据库已损坏。需要进行竖直三角测量以确认冷藏库舱壁门位置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown002_C1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 3551275514
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Visor-Terminal connection failure. Uplink connection attempt made with <color=red>{0}</color> for security key extraction.",
+  "Description": "{0} is the name of a terminal, like TERMINAL_123",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Échec de la connexion au terminal-visière. Tentative de connexion de liaison montante effectuée avec le <color=red>{0}</color> pour l'extraction de la clé de sécurité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore di connessione visore-terminale. Tentativo di connessione uplink effettuato con <color=red>{0}</color> per estrazione chiave di sicurezza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Visor-Terminalverbindung fehlgeschlagen. Uplink-Verbindungsversuch mit <color=red>{0}</color> zur Extraktion des Sicherheitsschlüssels erfolgt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fallo de conexión visor-terminal. Intento de conexión de uplink realizado con <color=red>{0}</color> para extracción de clave de seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбой соединения визор-терминал. Попытка установки подключения к терминалу <color=red>{0}</color> для получения ключа безопасности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na conexão entre terminal e visor. Tentativa de conexão de uplink realizada com <color=red>{0}</color> para extração da chave de segurança.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd połączenia Visor-Terminal, Podjęto próbę połączenia za pomocą <color=red>{0}</color> w celu wypakowania klucza.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイザー端末接続失敗。セキュリティキー抽出のため<color=red>{0}</color>でアップリンク接続を試みました。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이저 터미널 연결 실패. 보안 키 추출을 위해 <color=red>{0}</color>(으)로 업링크 연결 시도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "面罩終端連線失敗。已嘗試與<color=red>{0}</color>建立上行鏈路連線以進行安全鑰擷取。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "面罩终端连接失败。已尝试与<color=red>{0}</color>建立上行链路连接以进行安全密钥提取。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Visor_Terminal_connection_failure_X",
+  "internalEnabled": true,
+  "persistentID": 2446647793
+}

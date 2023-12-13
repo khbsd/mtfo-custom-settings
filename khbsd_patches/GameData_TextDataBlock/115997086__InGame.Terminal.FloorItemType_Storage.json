@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Storage",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stockage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Magazzino",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lager",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Almacenamiento",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Хранение",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Armazenamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Magazyn",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ストレージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "저장",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "儲存",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "存储",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.FloorItemType_Storage",
+  "internalEnabled": true,
+  "persistentID": 115997086
+}

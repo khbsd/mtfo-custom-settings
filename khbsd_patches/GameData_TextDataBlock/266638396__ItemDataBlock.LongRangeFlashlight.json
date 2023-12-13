@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Long Range Flashlight",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Torche à longue portée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torcia a gittata lunga",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampe mit großer Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Linterna de largo alcance",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мощный фонарик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Lanterna de longo alcance",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Latarka dalekiego zasięgu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "長距離フラッシュライト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "장거리 플래시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "長程手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "远程手电筒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.LongRangeFlashlight",
+  "internalEnabled": true,
+  "persistentID": 266638396
+}

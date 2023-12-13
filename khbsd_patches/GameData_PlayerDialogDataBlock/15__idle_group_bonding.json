@@ -1,0 +1,92 @@
+{
+  "priority": 0,
+  "probabilityToTrigger": 25,
+  "triggerInterval": 5,
+  "randomDelay": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "tensionLimit": 0,
+  "dramaFilter": {
+    "Exploration": true,
+    "Alert": false,
+    "Sneaking": false,
+    "Encounter": false,
+    "Combat": false
+  },
+  "dialogAlternatives": [
+    {
+      "structure": {
+        "enabled": true,
+        "weight": 1.0,
+        "lines": [
+          {
+            "lineEvent": 3810002894,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3826780448,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3843558068,
+            "A": true,
+            "B": false,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3726114738,
+            "A": false,
+            "B": true,
+            "C": false,
+            "D": false,
+            "UNI": false,
+            "exit": 1.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3742892288,
+            "A": false,
+            "B": false,
+            "C": true,
+            "D": false,
+            "UNI": false,
+            "exit": 1.0,
+            "Subtitle": 0
+          },
+          {
+            "lineEvent": 3759669906,
+            "A": false,
+            "B": false,
+            "C": false,
+            "D": true,
+            "UNI": false,
+            "exit": 0.0,
+            "Subtitle": 0
+          }
+        ]
+      }
+    }
+  ],
+  "name": "idle_group_bonding",
+  "internalEnabled": true,
+  "persistentID": 15
+}

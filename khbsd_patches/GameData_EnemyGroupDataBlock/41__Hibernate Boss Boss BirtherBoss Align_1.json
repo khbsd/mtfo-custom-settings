@@ -1,0 +1,17 @@
+{
+  "Type": 0,
+  "Difficulty": 4,
+  "SpawnPlacementType": 2,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hibernate Boss Boss BirtherBoss Align_1",
+  "internalEnabled": true,
+  "persistentID": 41
+}

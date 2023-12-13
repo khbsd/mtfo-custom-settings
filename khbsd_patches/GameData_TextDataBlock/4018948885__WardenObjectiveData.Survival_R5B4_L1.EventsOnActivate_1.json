@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "CRITICAL POWER FAILURE - REROUTING IN PROGRESS..",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PANNE DE COURANT CRITIQUE - RÉACHEMINEMENT EN COURS...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MANCANZA ENERGIA CRITICA - DEVIAZIONE IN CORSO…",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KRITISCHER STROMAUSFALL – STROMVERSORGUNG WIRD UMGELEITET\u00A0…",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FALLO ELÉCTRICO CRÍTICO. DESVIAMIENTO EN CURSO...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КРИТИЧЕСКИЙ СБОЙ. ПОДАЧА ПИТАНИЯ ПЕРЕНАПРАВЛЯЕТСЯ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FALHA DE ENERGIA CRÍTICA — REDIRECIONAMENTO EM PROGRESSO..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KRYTYCZNA AWARIA ZASILANIA – PRZEKIEROWYWANIE W TOKU..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "危機的停電 - リルート中..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "치명적 전력 결함 발생 - 우회 진행 중..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嚴重電源故障 - 重設路線中……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关键电源故障 - 正在重定向……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_R5B4_L1.EventsOnActivate_1",
+  "internalEnabled": true,
+  "persistentID": 4018948885
+}

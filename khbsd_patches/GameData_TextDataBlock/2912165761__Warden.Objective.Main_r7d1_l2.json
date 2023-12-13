@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate filtration system with command <color=orange>FILTRATION_STARTUP</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activez le système de filtration en utilisant la commande <color=orange>FILTRATION_STARTUP</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare il sistema di filtrazione con il comando <color=orange>FILTRATION_STARTUP</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktivieren Sie das Filtersystem mit dem Befehl <color=orange>FILTRATION_STARTUP</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el sistema de filtración con el comando <color=orange>FILTRATION_STARTUP</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте систему фильтрации с помощью команды <color=orange>FILTRATION_STARTUP</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ative o sistema de filtragem com o comando <color=orange>FILTRATION_STARTUP</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom układ filtracji powietrza za pomocą polecenia <color=orange>FILTRATION_STARTUP</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>FILTRATION_STARTUP</color>コマンドで換気システムを稼働させよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>FILTRATION_STARTUP</color> 명령을 사용하여 여과 시스템 활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輸入指令<color=orange>FILTRATION_STARTUP</color>以啟動過濾系統",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>FILTRATION_STARTUP</color>命令激活过滤系统",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.Main_r7d1_l2",
+  "internalEnabled": true,
+  "persistentID": 2912165761
+}

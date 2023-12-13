@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SMEGCIAL WEAPON",
+  "Description": "An invitation for the player to select their preferred \"special\" weapon.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ARME SPÉCIALE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ARMA SPECIALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPEZIALWAFFE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ARMA ESPECIAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОСОБОЕ ОРУЖИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARMA ESPECIAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BROŃ SPECJALNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "特殊武器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "특수 무기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "特殊武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "特殊武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.PlayerBar.SelectSpecialWeapon",
+  "internalEnabled": true,
+  "persistentID": 488
+}

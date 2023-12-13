@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle {0}",
+  "Description": "To toggle something, i.e. switch something between two states, e.g. \"on\" and \"off.\"\n{0} is the name of what you are trying to interact with/toggle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer/désactiver {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} ON/OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} umschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Переключить {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "切り替え {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 켜기/끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Toggle_X",
+  "internalEnabled": true,
+  "persistentID": 830
+}

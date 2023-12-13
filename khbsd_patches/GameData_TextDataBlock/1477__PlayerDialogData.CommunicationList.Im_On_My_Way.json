@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'm on my way...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je suis en route...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Arrivo...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich bin auf dem Weg …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Allá voy...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Уже бегу...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Estou indo...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jestem w drodze...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "今行く...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "간다...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我馬上到……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我在路上……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Im_On_My_Way",
+  "internalEnabled": true,
+  "persistentID": 1477
+}

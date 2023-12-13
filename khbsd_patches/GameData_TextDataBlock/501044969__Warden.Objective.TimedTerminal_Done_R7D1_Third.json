@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Sequence 3/4 completed</color> - Complete bioscan start initialization on main terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Séquence 3/4 terminée</color> - Terminer le bioscan et lancer l’initialisation sur le terminal principal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Sequenza 3/4 completata</color>: completare la bio-scansione e avviare l'inizializzazione sul terminale principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Sequenz 3/4 abgeschlossen</color> – Schließen Sie den Bioscan ab und starten Sie die Initialisierung am Hauptterminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Secuencia 3/4 concluida</color> - Completa el bioescáner y comienza la inicialización en el terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Цикл 3/4 завершен</color>. Пройдите биосканирование и запустите инициализацию на основном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Sequência 3/4 concluída</color> - Conclua o bioescâner e comece a inicialização no terminal principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Ukończono sekwencję 3/4</color> – Ukończ bioskan, przeprowadź inicjalizację w terminalu głównym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>シークエンス3/4完了済み</color> - バイオスキャンを完了し、メイン端末で初期化を開始せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>절차 3/4 완료</color> - 바이오스캔을 완료하고 중앙 터미널에서 시행 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>序列3/4已完成</color> - 在主終端完成生物掃描並開始初始化",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>序列3/4已完成</color> - 完成生物扫描并在主终端上启动初始化",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.TimedTerminal_Done_R7D1_Third",
+  "internalEnabled": true,
+  "persistentID": 501044969
+}

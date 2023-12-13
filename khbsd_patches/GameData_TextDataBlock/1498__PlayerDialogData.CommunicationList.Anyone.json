@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Anyone...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "N'importe qui...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualcuno...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Jemand …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cualquiera...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кто-нибудь...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alguém...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ktokolwiek...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "誰か...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아무나...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "任何人…",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "来个人……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Anyone",
+  "internalEnabled": true,
+  "persistentID": 1498
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The prisoner is wielding a melee weapon",
+  "Description": "A description of a condition, i.e. the subject must have their \"melee weapon equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte une arme de mêlée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il prigioniero impugna un'arma da mischia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzt eine Nahkampfwaffe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El prisionero lleva un arma cuerpo a cuerpo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенный должен использовать оружие ближнего боя.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está empunhando uma arma de golpe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca trzyma broń do walki wręcz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人が近接武器を使用している",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "근접 무기 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯使用近戰武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在使用近战武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingMeleeDescription",
+  "internalEnabled": true,
+  "persistentID": 693
+}

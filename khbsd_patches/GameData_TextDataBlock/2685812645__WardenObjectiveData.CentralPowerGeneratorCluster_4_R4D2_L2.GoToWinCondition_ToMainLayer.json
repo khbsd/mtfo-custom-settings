@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Malfunction in air purification system. Make your way for the forward emergency exit.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dysfonctionnement du système de purification d'air. Dirigez-vous vers la sortie de secours avant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Malfunzionamento nel sistema di purificazione dell'aria. Dirigersi verso l'uscita di emergenza anteriore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Störung im Luftreinigungssystem. Begeben Sie sich zum vorderen Notausgang.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fallo en el sistema de purificación de aire. Sal por la salida de emergencia delantera.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сбой в работе системы очистки воздуха. Направляйтесь к аварийному выходу.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Defeito no sistema de purificação de ar. Encaminhe-se até a saída de emergência à frente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Awaria w systemie oczyszczania powietrza. Przejdź do wysuniętego wyjścia awaryjnego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "空気清浄システムに異常。先の非常出口へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공기 정화 시스템 오작동. 전방 비상구로 갈 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "空氣淨化系統故障。動身前往前方緊急出口。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "空气净化系统故障。设法前往前紧急出口。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CentralPowerGeneratorCluster_4_R4D2_L2.GoToWinCondition_ToMainLayer",
+  "internalEnabled": true,
+  "persistentID": 2685812645
+}

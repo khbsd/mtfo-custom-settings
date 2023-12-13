@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ready?",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Prêts\u00A0?",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pronti?",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bereit?",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¿Todo listo?",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Погнали?",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pronto?",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gotowi?",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "準備はいいか？",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "준비됐나?",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "準備好了嗎？",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备好了吗？",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.AreYouReady",
+  "internalEnabled": true,
+  "persistentID": 1191
+}

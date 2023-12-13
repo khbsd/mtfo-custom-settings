@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Serious",
+  "Description": "A classification of the vital condition of the players character. I.e. \"Vital condition: Serious\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Grave",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gravi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ernst",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Grave",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "тяжелое",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "séria",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poważny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "深刻",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "심각",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嚴重",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "严峻",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.VitalsSerious",
+  "internalEnabled": true,
+  "persistentID": 891
+}

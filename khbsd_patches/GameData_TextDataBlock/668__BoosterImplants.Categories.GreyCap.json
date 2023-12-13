@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "GreyCap",
+  "Description": "\"Cap\" is a reference to the lid of the vial that a specific drug is packaged/stored in. \"GreyCap\" means that the vial has a grey lid/cap. It is a way for the PC to identify/categorize the drug.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouchon gris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TappoGrigio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GraueKappe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tapón gris",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Серая крышка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TampaCinz",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szare.Wieko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グレーキャップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그레이캡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "灰蓋",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "灰盖",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.GreyCap",
+  "internalEnabled": true,
+  "persistentID": 668
+}

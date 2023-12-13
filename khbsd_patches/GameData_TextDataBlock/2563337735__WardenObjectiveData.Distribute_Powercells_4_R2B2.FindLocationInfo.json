@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate the Generators and bring the Power Cells to them",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez les générateurs et apportez les piles à combustible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare i generatori e portarvi le celle di energia.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie die Generatoren und bringen Sie die Energiezellen zu ihnen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Localiza los generadores y lleva allí las células de energía.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите генераторы и принесите к ним батареи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize os geradores e leve as Power Cells até eles",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj generatory i dostarcz do nich ogniwa zasilające",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発電機を見つけ、それらのところにパワーセルを運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발전기를 찾아 파워 셀을 가지고 갈 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位發電機並帶電池[CELL]給發電機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到发电机并将电池[CELL]带过去",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Distribute_Powercells_4_R2B2.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 2563337735
+}

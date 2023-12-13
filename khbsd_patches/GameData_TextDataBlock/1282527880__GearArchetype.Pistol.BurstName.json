@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Burst Pistol",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pistolet à rafales",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola a raffica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuerstoß-Pistole",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pistola de ráfaga",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пистолет-пулемет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pistola explosiva",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pistolet salwowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バーストピストル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "점사 권총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連發手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "连发手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Pistol.BurstName",
+  "internalEnabled": true,
+  "persistentID": 1282527880
+}

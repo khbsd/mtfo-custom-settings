@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Grab the item!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Prenez l'objet\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prendete l'oggetto!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gegenstand holen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Recoge el objeto!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Хватайте предмет!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegue o item!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bierz przedmiot!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテムを取れ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "물건을 집어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿物品！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拿下那东西！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.GrabTheItem",
+  "internalEnabled": true,
+  "persistentID": 1229
+}

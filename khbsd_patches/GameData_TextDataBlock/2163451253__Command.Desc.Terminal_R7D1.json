@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Activate alternative security scan for <color=orange>ZONE 193</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activez l’analyse de sécurité alternative de la <color=orange>zone\u00A0193</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attivare scansione di sicurezza alternativa per la <color=orange>ZONE 193</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktivieren Sie den alternativen Sicherheitsscan für <color=orange>ZONE 193</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el escáner de seguridad alternativo de la <color=orange>ZONE 193</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активируйте альтернативную проверку безопасности <color=orange>ZONE 193</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ative escaneamento de segurança alternativo para <color=orange>ZONE 193</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom alternatywne skanowanie dla <color=orange>strefy 193 [ZONE_193]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 193</color>の代替セキュリティスキャンを発動せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 193</color> 대체 보안 스캔 활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動<color=orange>Zone 193</color>替代安全系統掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激活<color=orange>ZONE 193</color>替代安全扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Command.Desc.Terminal_R7D1",
+  "internalEnabled": true,
+  "persistentID": 2163451253
+}

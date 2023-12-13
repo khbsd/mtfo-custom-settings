@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MATCHMAKING",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RECHERCHE DE MATCH",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABBINAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIELERSUCHE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "EMPAREJAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПОДБОР КОМАНДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "BUSCAR PARTIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MATCHMAKING",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マッチメイク中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "매치매이킹",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配對",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "匹配中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.Matchmaking",
+  "internalEnabled": true,
+  "persistentID": 251
+}

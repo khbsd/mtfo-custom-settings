@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Execute <color=orange>[OVERRIDE_LOCKDOWN]</color> command to gain access to [ZONE_5]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exécutez la commande <color=orange>[OVERRIDE_LOCKDOWN]</color> pour accéder à la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Eseguire il comando <color=orange>[OVERRIDE_LOCKDOWN]</color> per ottenere l'accesso a [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Führen Sie den Befehl <color=orange>[OVERRIDE_LOCKDOWN]</color> aus, um Zugang zu [ZONE_5] zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecuta el comando <color=orange>[OVERRIDE_LOCKDOWN]</color> para acceder a la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выполните команду <color=orange>[OVERRIDE_LOCKDOWN]</color>, чтобы получить доступ к [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Execute o comando <color=orange>[OVERRIDE_LOCKDOWN]</color> para ganhar acesso à [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonaj polecenie <color=orange>[OVERRIDE_LOCKDOWN]</color>, aby zyskać dostęp do strefy 5 [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[OVERRIDE_LOCKDOWN]</color>コマンドを実行して[ZONE_5]へのアクセスを得ろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[OVERRIDE_LOCKDOWN]</color> 명령을 실행해 [ZONE_5] 접근",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "執行<color=orange>[OVERRIDE_LOCKDOWN]</color>指令以進入[ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "执行<color=orange>[OVERRIDE_LOCKDOWN]</color>命令以进入[ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone3_Terminal_LookAt",
+  "internalEnabled": true,
+  "persistentID": 973514343
+}

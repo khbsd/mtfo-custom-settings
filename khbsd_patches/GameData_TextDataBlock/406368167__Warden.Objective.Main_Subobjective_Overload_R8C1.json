@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate central terminal on sub level 2 and perform command <color=orange>INIT_TIMED_CONNECTION</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez le terminal central du sous-niveau\u00A02 et utilisez la commande <color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare terminale centrale al sottolivello 2 ed eseguire comando <color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie das zentrale Terminal auf der Unterebene 2 und führen Sie den Befehl <color=orange>INIT_TIMED_CONNECTION</color> aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el terminal central en el subnivel 2 y realiza el comando <color=orange>INIT_TIMED_CONNECTION</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите главный терминал на подуровне 2 и введите команду <color=orange>INIT_TIMED_CONNECTION</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar terminal central no subnível 2 e executar o comando <color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj terminal centralny na podpoziomie 2 i wprowadź polecenie <color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サブレベル2で中央端末を見つけ、<color=orange>INIT_TIMED_CONNECTION</color>コマンドを実行しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서브 레벨 2에서 터미널을 찾아 <color=orange>INIT_TIMED_CONNECTION</color> 명령 실행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位地下2層的中央終端並執行指令<color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到地下2层的中央终端并执行命令<color=orange>INIT_TIMED_CONNECTION</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.Main_Subobjective_Overload_R8C1",
+  "internalEnabled": true,
+  "persistentID": 406368167
+}

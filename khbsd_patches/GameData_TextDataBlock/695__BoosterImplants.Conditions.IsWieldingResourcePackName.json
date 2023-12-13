@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resource eq.",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have a \"resource pack equipped\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pack de ressources équipé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Risorsa equip.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ressource ausgerüstet",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recurso equipado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "С набором ресурсов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recurso eq.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyposażone zasoby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースパック装備中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 팩 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已配備資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已装备资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsWieldingResourcePackName",
+  "internalEnabled": true,
+  "persistentID": 695
+}

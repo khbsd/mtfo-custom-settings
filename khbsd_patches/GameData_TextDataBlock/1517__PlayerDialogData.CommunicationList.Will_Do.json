@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Will do.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Compris.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Va bene.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mache ich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recibido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Будет сделано.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pode deixar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Robi się.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "了解。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그렇게 하지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "知道了。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可以。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Will_Do",
+  "internalEnabled": true,
+  "persistentID": 1517
+}

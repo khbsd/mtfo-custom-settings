@@ -1,0 +1,18 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_MapperDisplay_c.prefab",
+    "GearCategoryFilter": 10,
+    "AssetBundle": 30,
+    "BundleShard": 13
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Mapper_1",
+  "internalEnabled": true,
+  "persistentID": 5
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Arabic",
+  "Description": "A language spoken in North Africa and the Arabian Peninsula.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Arabe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Arabo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Arabisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Árabe",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Арабский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Árabe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Arabski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アラビア語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아랍어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "阿拉伯文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阿拉伯语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Arabic",
+  "internalEnabled": true,
+  "persistentID": 273
+}

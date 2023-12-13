@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Approach the door for more info",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Approchez-vous de la porte pour plus d'informations.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvicinarsi alla porta per maggiori informazioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nähern Sie sich für weitere Informationen der Tür.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acércate a la puerta para más información.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подойдите к двери, чтобы узнать больше.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aproxime-se da porta para obter mais informações",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbliż się do drzwi, aby uzyskaj więcej informacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアに近づいて更なる情報を得ろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문에 접근해 정보 획득",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "接近門以獲得更多資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "接近门以获得更多信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Tutorial.Zone1.LockedDoorApproach",
+  "internalEnabled": true,
+  "persistentID": 1966423500
+}

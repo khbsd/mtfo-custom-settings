@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[BISHOP]\nNo time to mess around. Let's get the datacubes before they get overrun.\r",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[BISHOP]\r\nOn n'a pas de temps à perdre. Allons récupérer les cubes de données avant qu'ils se fassent submerger.\r",
+    "ShouldTranslate": true
+  },
+  "Italian": {
+    "Translation": "[BISHOP]\r\nNon c'è tempo da perdere. Prendiamo i cubi di dati prima che vengano ammazzati.\r",
+    "ShouldTranslate": true
+  },
+  "German": {
+    "Translation": "[BISHOP]\r\nWir haben keine Zeit für Spielchen. Holen wir uns die Datenwürfel, bevor sie überrannt werden.\r",
+    "ShouldTranslate": true
+  },
+  "Spanish": {
+    "Translation": "[BISHOP]\r\nNo hay tiempo que perder. Vamos a por los cubos de datos antes de que los liquiden.\r",
+    "ShouldTranslate": true
+  },
+  "Russian": {
+    "Translation": "[БИШОП]\r\nНечего возиться. Заберем кубы данных, пока есть возможность.\r",
+    "ShouldTranslate": true
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[BISHOP]\r\nSem tempo para zoeira. Vamos pegar os cubos de dados antes que eles sejam devastados.\r",
+    "ShouldTranslate": true
+  },
+  "Polish": {
+    "Translation": "[BISHOP]\r\nNie ma czasu na ceregiele. Zdobądźmy kostki danych, zanim będzie po nich.\r",
+    "ShouldTranslate": true
+  },
+  "Japanese": {
+    "Translation": "[ビショップ]\r\nぐずぐずしている暇はない。奴らが殺される前にデータキューブを手に入れるんだ。\r",
+    "ShouldTranslate": true
+  },
+  "Korean": {
+    "Translation": "[비숍]\r\n허둥댈 시간 없어. 저쪽이 당하기 전에 [DATA_CUBE] 데이터 큐브를 확보하자.\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Traditional": {
+    "Translation": "[畢夏普]\r\n沒時間瞎晃了。我們得趕在他們被吞噬之前拿到資料方塊。\r",
+    "ShouldTranslate": true
+  },
+  "Chinese_Simplified": {
+    "Translation": "[毕夏普]\r\n没时间瞎晃了。我们得赶在他们被吞噬之前拿到数据立方。\r",
+    "ShouldTranslate": true
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 2,
+  "name": "SUBS_08_E2B_631129_01_V_AM_2",
+  "internalEnabled": true,
+  "persistentID": 352121401
+}

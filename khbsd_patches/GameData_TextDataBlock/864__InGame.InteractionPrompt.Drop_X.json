@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Drop {0}",
+  "Description": "I.e. \"drop this item on the ground.\" This text string appears on screen when the player is carrying an object and they're facing the ground, to indicate that they can drop the object if they choose to.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déposer {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lascia {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} ablegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Soltar {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бросить {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Soltar {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upuść: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を捨てる",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 버리기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "丟下{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "放下{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Drop_X",
+  "internalEnabled": true,
+  "persistentID": 864
+}

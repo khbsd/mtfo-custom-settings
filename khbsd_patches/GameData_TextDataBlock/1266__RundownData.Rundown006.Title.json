@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>ALT://</color>RUNDOWN #6.0\r\nTITLE: DESTINATION",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>ALT://</color>CAMPAGNE #6.0\r\nTITRE\u00A0: DESTINATION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>ALT://</color>PERLUSTRAZIONE #6.0\r\nTITOLO: DESTINAZIONE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>ALT://</color>RUNDOWN #6.0\r\nTITEL: ZIEL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>ALT://</color>CAMPAÑA #6.0\r\nTÍTULO: DESTINO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВАРИАНТ://</color>КАМПАНИЯ №\u00A06.0.\r\nНАЗВАНИЕ: ПУНКТ НАЗНАЧЕНИЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>ALT://</color>CAMPANHA #6.0\r\nTÍTULO: DESTINO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>ALT://</color>EKSTRAKCJI #6.0\r\nTYTUŁ: CEL",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>別://</color>ランダウン#6.0\r\nタイトル：目的地",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>대체://</color>런다운 #6.0\r\n타이틀: 목적지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>ALT://</color>遠征綱要#6.0\r\n標題：目的地",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ALT://</color>行动#6.0\r\n标题：目的地",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "RundownData.Rundown006.Title",
+  "internalEnabled": true,
+  "persistentID": 1266
+}

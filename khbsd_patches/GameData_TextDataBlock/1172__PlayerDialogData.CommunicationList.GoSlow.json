@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go slow!",
+  "Description": "A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Ralentissez\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Andate piano!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Langsam!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Ve despacio!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Помедленнее!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vai com calma!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie tak szybko!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゆっくり行け！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "천천히 가!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "慢慢來！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "慢点！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.GoSlow",
+  "internalEnabled": true,
+  "persistentID": 1172
+}

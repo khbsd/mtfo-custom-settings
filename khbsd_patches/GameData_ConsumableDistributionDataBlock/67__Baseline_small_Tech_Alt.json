@@ -1,0 +1,37 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.2,
+  "SpawnData": [
+    {
+      "ItemID": 30,
+      "Weight": 4.0
+    },
+    {
+      "ItemID": 174,
+      "Weight": 8.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 5.0
+    },
+    {
+      "ItemID": 117,
+      "Weight": 8.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 7.0
+    },
+    {
+      "ItemID": 140,
+      "Weight": 11.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 11.0
+    }
+  ],
+  "name": "Baseline_small_Tech_Alt",
+  "internalEnabled": true,
+  "persistentID": 67
+}

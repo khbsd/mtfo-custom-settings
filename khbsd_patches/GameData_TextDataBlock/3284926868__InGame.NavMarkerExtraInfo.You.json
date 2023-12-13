@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You",
+  "Description": "This text is used together with InGame.NavMarkerExtraInfo.Following_X in the case the bot player is following you.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Vous",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ihnen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ti",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "вами",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ty",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "あなた",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "나",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.NavMarkerExtraInfo.You",
+  "internalEnabled": true,
+  "persistentID": 3284926868
+}

@@ -1,0 +1,40 @@
+{
+  "Deprecated": false,
+  "PublicName": 712,
+  "Description": 0,
+  "DurationRange": {
+    "x": 1.0,
+    "y": 1.0,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.41421354,
+    "sqrMagnitude": 2.0
+  },
+  "DropWeight": 7.0,
+  "Conditions": [],
+  "RandomConditions": [],
+  "Effects": [],
+  "RandomEffects": [
+    [
+      {
+        "BoosterImplantEffect": 52,
+        "MinValue": 1.05,
+        "MaxValue": 1.15
+      },
+      {
+        "BoosterImplantEffect": 53,
+        "MinValue": 1.05,
+        "MaxValue": 1.15
+      }
+    ]
+  ],
+  "ImplantCategory": 0,
+  "MainEffectType": 1,
+  "name": "Muted_WeaponDamage",
+  "internalEnabled": true,
+  "persistentID": 25
+}

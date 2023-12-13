@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlock the Door To <color=orange>Zone 33</color>\n    >Find a <color=orange>CELL</color> by using the <color=orange>LIST CELL</color> command on a Terminal.\n     Locate it by using the <color=orange>QUERY</color> command.",
+  "Description": "Don't localize Zone 33, CELL, LIST CELL and QUERY",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Déverrouillez la porte de la <color=orange>Zone\u00A033</color>\n    >Trouvez une <color=orange>CELL</color> en utilisant la commande <color=orange>LIST CELL</color> sur un terminal.\n     Localisez-la en utilisant la commande <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccare porta per <color=orange>ZONE 33</color>\n    >Trovare una <color=orange>CELL</color> usando il comando <color=orange>LIST CELL</color> su un terminale.\n    Trovarla usando il comando <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Entriegeln Sie die Tür zu <color=orange>ZONE 33</color>.\n    >Finden Sie eine <color=orange>CELL</color>, indem Sie den Befehl <color=orange>LIST CELL</color> an einem Terminal eingeben.\n     Lokalisieren Sie sie mit dem Befehl <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloquea la puerta a la <color=orange>ZONE 33</color>\n    >Busca una <color=orange>célula [CELL]</color> usando el comando <color=orange>LIST CELL</color> en una terminal.\n     Encuéntralo usando el comando <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откройте дверь в <color=orange>ZONE 33</color>\n    >Найдите <color=orange>CELL</color> с помощью команды <color=orange>LIST CELL</color> на терминале.\n     Определите ее местоположение с помощью команды <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Destrave a porta para a <color=orange>ZONE 33</color>\n    >Encontre uma <color=orange>CELL</color> com o uso do comando <color=orange>LIST CELL</color> em um terminal.\n     Localize-a com o comando <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokuj drzwi do <color=orange>strefy 33 [ZONE_33]</color>\n    >Znajdź <color=orange>ogniwo [CELL]</color>, korzystając z polecenia <color=orange>LIST CELL</color> w terminalu.\n     Zlokalizuj je za pomocą polecenia <color=orange>QUERY</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 33</color>へのドアをロック解除\n    > <color=orange>CELL</color> を、端末で <color=orange>LIST CELL</color> コマンドを使用して発見。\n      <color=orange>QUERY</color> コマンドを使用してその位置を特定。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 33</color> 문 개방\n    >터미널에서 <color=orange>LIST CELL</color> 명령을 사용해 <color=orange>셀</color>을 찾을 것.\n     <color=orange>QUERY</color> 명령을 사용해 찾을 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解鎖通往<color=orange>ZONE 33</color>的門\n    >在終端使用<color=orange>LIST CELL</color>指令尋找<color=orange>電池[CELL]</color>。\n     使用<color=orange>QUERY</color>指令加以定位。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解锁<color=orange>ZONE 33</color>的门\n    >在终端上使用<color=orange>LIST CELL</color>命令找到<color=orange>CELL</color>。\n     使用<color=orange>QUERY</color>命令确定其位置。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LocateCellWithTerminalApproachDoor",
+  "internalEnabled": true,
+  "persistentID": 1160
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Data Cubes programmed <color=orange>0</color>/<color=orange>3</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Programmez les cubes de données [DATA_CUBE]\u00A0: <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cubi di dati [DATA_CUBE] programmati: <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Datenwürfel [DATA_CUBE] programmieren <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cubos de datos [DATA CUBE] programados <color=orange>0</color>/<color=orange>3</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрограммированные кубы данных [DATA_CUBE] (<color=orange>0</color>/<color=orange>3</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cubos de dados [DATA_CUBE] programados <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaprogramowane kostki danych: <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]プログラム完了 <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 프로그래밍됨 <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已編寫資料方塊[DATA_CUBE]程式<color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已编程数据立方[DATA_CUBE] <color=orange>0</color>/<color=orange>3</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.MainObjective.Overload_TerminalsLeft_1_R8C1",
+  "internalEnabled": true,
+  "persistentID": 3139940150
+}

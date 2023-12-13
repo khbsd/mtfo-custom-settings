@@ -1,0 +1,30 @@
+{
+  "Sound": {
+    "On": true,
+    "SoundID": 2200133294
+  },
+  "PostEffect": {
+    "On": false,
+    "ValueA": 0.0,
+    "ValueB": 0.0,
+    "ValueC": 0.0
+  },
+  "FogSettings": {
+    "On": false,
+    "ValueA": 0.0
+  },
+  "EnemyWave": {
+    "On": false,
+    "ValueA": 0.0,
+    "ValueB": 0.0,
+    "ValueC": 0.0
+  },
+  "Lights": {
+    "On": false,
+    "LightSettingsID": 0,
+    "Scope": 0
+  },
+  "name": "Decontamination Alarm",
+  "internalEnabled": true,
+  "persistentID": 5
+}

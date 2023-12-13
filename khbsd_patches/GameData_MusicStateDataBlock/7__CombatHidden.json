@@ -1,0 +1,31 @@
+{
+  "m_timing": {
+    "minTimeInState": 5.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "combat_hidden"
+    },
+    {
+      "eventName": "music_combat"
+    }
+  ],
+  "m_SwitchesOnEnter": [],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "CombatHidden",
+  "internalEnabled": true,
+  "persistentID": 7
+}

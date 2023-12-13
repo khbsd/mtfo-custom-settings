@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>ALERT:</color>Impending Matter Wave Collapse.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0:</color> Effondrement des ondes de matière imminent.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>AVVISO:</color> collasso onda di materia imminente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>ACHTUNG:</color> Kollaps der Materiewelle steht bevor.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ALERTA:</color>Colapso de onda de materia inminente.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ТРЕВОГА!</color> Ожидается коллапс материальной волны.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ALERTA:</color>Colapso de onda de matéria iminente.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>ALERT:</color>Nadchodząca zapaść fal materii.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>注意：</color>間もなくマターウェーブが崩壊。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color>물질파 붕괴 임박.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color>即將發生物質波瓦解。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color>即将发生物质波坍缩。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone1.Flash",
+  "internalEnabled": true,
+  "persistentID": 2343073730
+}

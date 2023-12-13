@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prepare Booster",
+  "Description": "\"Boosters\" are performance enhancing drugs. To \"prepare\" a booster is to choose to later administer it. You're not preparing it yourself, but telling a computer system to prepare it in order to later administer it.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Préparer le booster",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prepara potenziamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Booster aktivieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Preparar potenciador",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подготовить усилитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Preparar impulso",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przygotuj wzmacniacz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースターを準備",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터 준비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "準備強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.PrepareBooster",
+  "internalEnabled": true,
+  "persistentID": 494
+}

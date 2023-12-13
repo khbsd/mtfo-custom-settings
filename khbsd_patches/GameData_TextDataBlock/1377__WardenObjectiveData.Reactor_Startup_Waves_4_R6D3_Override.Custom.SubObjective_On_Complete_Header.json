@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Get to extraction before biomass surge!",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Rendez-vous au point d'évacuation avant l'arrivée de la biomasse\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere estrazione prima dell'ondata di biomasse!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erreichen Sie den Extraktionsunkt, bevor die Biomasse zunimmt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Ve al punto de extracción antes de que la biomasa se sobrecargue!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до точки выхода до наплыва биосигнатур!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chegue à extração antes do pico de biomassa!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Udaj się do punktu ewakuacji przed falą biomasy!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生体反応が暴走する前に脱出地点へ行け！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오매스 급증 전에 탈출 지점으로 이동할 것!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在生物質激增之前進行撤離！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在生物质涌现前到达撤离点！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_On_Complete_Header",
+  "internalEnabled": true,
+  "persistentID": 1377
+}

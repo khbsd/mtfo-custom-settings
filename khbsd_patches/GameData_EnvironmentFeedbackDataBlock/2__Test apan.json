@@ -1,0 +1,28 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupBlue",
+      "AttachToRoot": false,
+      "DoNoKill": true
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Environment/E_Env_Smoke_Vent_a_4m",
+      "AttachToRoot": false,
+      "DoNoKill": true
+    }
+  ],
+  "name": "Test apan",
+  "internalEnabled": true,
+  "persistentID": 2
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Listing all items, progress: ",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Énumération de tous les objets, progression\u00A0: ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Elenco di tutti gli oggetti, avanzamento: ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle Ziele werden aufgelistet, Fortschritt: ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mostrando todos los objetos, progreso: ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Составление полного списка предметов. Выполнение: ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Listando todos os itens; progresso: ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetlanie wszystkich przedmiotów, postęp: ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全てのアイテムをリスト表示中、進行: ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 아이템 정렬 중, 진행도: ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在列出所有物品，進度： ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在列举所有物品，进度： ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Listing_all_items_progress",
+  "internalEnabled": true,
+  "persistentID": 3186193774
+}

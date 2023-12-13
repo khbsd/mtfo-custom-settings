@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle Communication Menu",
+  "Description": "Control key binding/mapping. This key toggles the communication menu on/off.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer/désactiver le menu de communication",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Menu comunicazione ON/OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kommunikationsmenü",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Menú de comunicación (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Активировать меню связи",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ver menu de comunicação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. menu komunikacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "通信メニュー切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통신 메뉴 열기/닫기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換通訊選單",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换通讯菜单",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ToggleCommmunicationMenu",
+  "internalEnabled": true,
+  "persistentID": 672
+}

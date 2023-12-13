@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Vertical Sync",
+  "Description": "A headline for vertical sync related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Synchronisation verticale",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Vsync",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vertical Sync",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sincronización vertical",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вертикальная синхронизация",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sincronização vertical",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Synchronizacja pionowa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "VSYNC",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수직 동기화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "垂直同步",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "垂直同步",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VerticalSync",
+  "internalEnabled": true,
+  "persistentID": 92
+}

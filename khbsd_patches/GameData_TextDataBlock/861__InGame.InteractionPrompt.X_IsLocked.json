@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} is locked",
+  "Description": "I.e. \"this door is locked\". This text string appears on screen when the player is standing near a prop (e.g. a door) that can't be opened because it's locked. The \"{0}\" will be replaced with the word for the prop, don't alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} est verrouillé(e)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} è bloccato/a",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} ist verschlossen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} se ha abierto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0} (закрыто)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} está trancado/a",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "{0} – zamknięte",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} はロックされている",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 잠김",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}已鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0}已锁上",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.X_IsLocked",
+  "internalEnabled": true,
+  "persistentID": 861
+}

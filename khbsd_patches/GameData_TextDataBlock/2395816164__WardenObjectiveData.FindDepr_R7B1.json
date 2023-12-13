@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find <color=orange>Depressurizer</color> inside [ITEM_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le <color=orange>dépressurisateur</color> dans la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il <color=orange>Depressurizzatore</color> in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den <color=orange>Druckregler</color> in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca un <color=orange>despresurizador</color> en la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>депрессор</color> в [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o <color=orange>despressurizador</color> dentro de [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>depresator</color> wewnątrz strefy [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]内部で<color=orange>降圧器</color>を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE] 내부에서 <color=orange>감압기</color> 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到[ITEM_ZONE]的<color=orange>減壓器</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ITEM_ZONE]内找到<color=orange>减压器</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindDepr_R7B1",
+  "internalEnabled": true,
+  "persistentID": 2395816164
+}

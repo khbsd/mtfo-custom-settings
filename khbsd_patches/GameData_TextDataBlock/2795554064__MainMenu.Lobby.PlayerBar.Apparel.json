@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "APPAREL",
+  "Description": "Refers to the player's apparel",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VÊTEMENTS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ABBIGLIAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KLEIDUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INDUMENTARIA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЭКИПИРОВКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TRAJE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UBIÓR",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "外装",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복장",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "服裝",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "服装",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.PlayerBar.Apparel",
+  "internalEnabled": true,
+  "persistentID": 2795554064
+}

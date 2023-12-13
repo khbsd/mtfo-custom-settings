@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nHigh damage\nShort range\nLow ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nDégâts élevés\nCourte portée\nCapacité de munitions faible",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nDanni elevati\nGittata breve\nScarsa capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nHoher Schaden\nKurze Reichweite\nGeringe Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomática\nMucho daño\nCorto alcance\nCapacidad de munición baja",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nБольшой урон\nМалая дальность\nМаленькая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomática\nAlto dano\nCurto alcance\nBaixa capacidade de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalna\nDuże obrażenia\nKrótki zasięg\nMała pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n高ダメージ\n近距離\n装弾数が少ない",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n높은 대미지\n단거리\n낮은 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n高傷害\n短程\n低彈藥容量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n高伤害\n近程\n弹药容量小",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 754
+}

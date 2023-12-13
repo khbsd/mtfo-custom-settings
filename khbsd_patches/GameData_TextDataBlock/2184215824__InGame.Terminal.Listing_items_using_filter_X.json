@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Listing items using filter {0}, progress: ",
+  "Description": "{0} is the filter parameter that the player inputted.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Énumération des objets filtrés par {0}, progression\u00A0: ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Elenco di oggetti in base al filtro {0}, avanzamento: ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ziele mit Parameter {0} werden aufgelistet, Fortschritt: ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mostrando objetos con el filtro {0}, progreso: ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Составление списка предметов по фильтру ({0}). Выполнение: ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Listando itens usando o filtro {0}; progresso: ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyświetlanie przedmiotów z użyciem filtra {0}, postęp: ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フィルタ{0}を使用してアイテムをリスト表示中、進行: ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 필터로 아이템 정렬 중, 진행도: ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在列出篩選條件為{0}的物品，進度： ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在列举应用筛选条件“{0}”后的物品，进度： ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Listing_items_using_filter_X",
+  "internalEnabled": true,
+  "persistentID": 2184215824
+}

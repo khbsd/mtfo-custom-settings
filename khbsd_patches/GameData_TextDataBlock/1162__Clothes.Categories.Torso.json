@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Torso",
+  "Description": "The type of cloth to select",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Torse",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tronco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Torso",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Torso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Грудь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Torso",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Korpus",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "胴部",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "상체",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "軀幹",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "躯干",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Clothes.Categories.Torso",
+  "internalEnabled": true,
+  "persistentID": 1162
+}

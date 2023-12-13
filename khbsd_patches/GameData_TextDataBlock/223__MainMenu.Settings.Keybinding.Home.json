@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Home",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Début",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicio",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Home",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主畫面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Home键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Home",
+  "internalEnabled": true,
+  "persistentID": 223
+}

@@ -1,0 +1,58 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Main/Turret_Base_1.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Main/Turret_Base_1_GripAlign.prefab"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Turret_Base_1",
+    "RightHandGripAnim": "Turret_Base_1",
+    "AssetBundle": 80,
+    "BundleShard": 7
+  },
+  "Aligns": [
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    },
+    {
+      "AlignType": 15,
+      "AlignName": "a_targeting"
+    },
+    {
+      "AlignType": 16,
+      "AlignName": "a_screen"
+    },
+    {
+      "AlignType": 9,
+      "AlignName": "Turret_Rifle_Align"
+    },
+    {
+      "AlignType": 10,
+      "AlignName": "Turret_Rifle_Align"
+    },
+    {
+      "AlignType": 18,
+      "AlignName": "a_targeting"
+    },
+    {
+      "AlignType": 17,
+      "AlignName": "aim_reference"
+    },
+    {
+      "AlignType": 40,
+      "AlignName": "aim_reference"
+    },
+    {
+      "AlignType": 41,
+      "AlignName": "Ground_PlacementAlign"
+    }
+  ],
+  "name": "Sentry_RifleClass",
+  "internalEnabled": true,
+  "persistentID": 9
+}

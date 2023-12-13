@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Has Full Health",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have \"full health\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Santé au max",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Salute al max",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hat volle Gesundheit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Toda la salud",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полное здоровье",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tem vida completa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pełne zdrowie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "体力最大",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 체력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "生命值滿格",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "生命值为满",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasFullHealthName",
+  "internalEnabled": true,
+  "persistentID": 677
+}

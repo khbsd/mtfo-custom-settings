@@ -1,0 +1,22 @@
+{
+  "PublicAlarmName": "Class S Z Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 1,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 1.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 33
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Sustained Zone Scan - Alarm 3 sides",
+  "internalEnabled": true,
+  "persistentID": 158
+}

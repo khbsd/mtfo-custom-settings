@@ -1,0 +1,40 @@
+{
+  "PublicAlarmName": "Class M VII Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 66,
+  "SurvivalWavePopulation": 20,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 11.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 14
+    },
+    {
+      "PuzzleType": 5
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Irregular x7 - Alarm Third Bigs",
+  "internalEnabled": true,
+  "persistentID": 140
+}

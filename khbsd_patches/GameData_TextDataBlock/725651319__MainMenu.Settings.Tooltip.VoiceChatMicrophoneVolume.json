@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the input level of your microphone.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le volume de votre microphone.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il livello di entrata del microfono.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert den Aufnahmepegel Ihres Mikrofons.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el volumen de tu micrófono.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует громкость входного сигнала с микрофона.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o nível de entrada do seu microfone.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za poziom głośności wejścia mikrofonu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マイクの入力レベルを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마이크 입력 레벨을 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制麥克風的輸入量。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制麦克风的输入水平。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VoiceChatMicrophoneVolume",
+  "internalEnabled": true,
+  "persistentID": 725651319
+}

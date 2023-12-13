@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] OSIP vials and return to the point of entrance.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez [COUNT_REQUIRED]\u00A0flacons OSIP et retournez au point d'entrée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] fiale OSIP e tornare al punto d'ingresso.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] OSIP-Ampullen [OSIP] und kehren Sie zum Eintrittspunkt zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] viales OSIP y regresa al punto de entrada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите ампулы УОП ([COUNT_REQUIRED]) и вернитесь к месту начала экспедиции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] tubos OSIP e retorne ao ponto de entrada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz [COUNT_REQUIRED] szt. fiolek peptydowych i powróć do punktu wejścia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]個のOSIP小瓶を集めて入口へ戻れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "OSIP 바이알 [COUNT_REQUIRED]개를 모아 진입점으로 복귀.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集[COUNT_REQUIRED]個OSIP藥瓶並返回入口。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]个OSIP药瓶并返回入口处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_OSIPs_5_R4A3.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1123566322
+}

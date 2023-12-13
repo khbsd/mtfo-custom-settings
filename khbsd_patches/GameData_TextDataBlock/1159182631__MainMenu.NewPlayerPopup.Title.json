@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[TUTORIAL] Assessment recommended",
+  "Description": "The header text for the First Time Player Popup",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "[DIDACTICIEL] Évaluation recommandée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[TUTORIAL] Valutazione consigliata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[TUTORIAL] Bewertung empfohlen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[TUTORIAL] Se recomienda evaluación",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ОБУЧЕНИЕ] Рекомендуется оценка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[TUTORIAL] Avaliação recomendada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[SAMOUCZEK] Zalecane poddanie ocenie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[チュートリアル] アセスメント推奨",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[튜토리얼] 평가 권장",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[教學]建議評量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[教程]推荐评估",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.NewPlayerPopup.Title",
+  "internalEnabled": true,
+  "persistentID": 1159182631
+}

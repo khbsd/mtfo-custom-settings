@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access <color=orange>ZONE 188</color> from terminal in <color=orange>ZONE 328</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la <color=orange>ZONE\u00A0188</color> depuis le terminal de la <color=orange>ZONE\u00A0328</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedere a <color=orange>ZONE 188</color> dal terminale in <color=orange>ZONE 328</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erhalten Sie über das Terminal in <color=orange>ZONE 328</color> Zugang zu <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Accede a la <color=orange>ZONE 188</color> del terminal en la <color=orange>ZONE 328</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте терминал в <color=orange>ZONE 328</color>, чтобы получить доступ к <color=orange>ZONE 188</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar <color=orange>ZONE 188</color> pelo terminal na <color=orange>ZONE 328</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uzyskaj dostęp do <color=orange>strefy 188 [ZONE_188]</color> poprzez terminal w <color=orange>strefie 328 [ZONE_328]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 328</color>の端末から<color=orange>ZONE 188</color>にアクセスしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 328</color>의 터미널에서 <color=orange>ZONE 188</color> 액세스",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<color=orange>ZONE 328</color>的終端進入<color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从<color=orange>ZONE 328</color>的终端访问<color=orange>ZONE 188</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.UseTerminal_Secondary",
+  "internalEnabled": true,
+  "persistentID": 2962841513
+}

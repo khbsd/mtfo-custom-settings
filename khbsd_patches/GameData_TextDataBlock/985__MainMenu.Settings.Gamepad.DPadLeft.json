@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DPad Left",
+  "Description": "A gamepad input. DPad is short for directional pad or digital pad.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Croix directionnelle (gauche)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Croce direzionale a sinistra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DPad nach links",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dpad a la izquierda",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка влево",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DPad para a esquerda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pad kierunkowy w lewo",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "十字キー左",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "D 패드 왼쪽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "方向鍵左",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "方向键向左",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.DPadLeft",
+  "internalEnabled": true,
+  "persistentID": 985
+}

@@ -1,0 +1,125 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        6
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_cartonboxes_60x30x60/submarker_mining_storage_cartonboxes_60x30x60_a.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_plasticboxes_60x30x60/submarker_mining_storage_plasticboxes_60x30x60_b.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_woodencrates_60x30x60/submarker_mining_storage_woodencrates_60x30x60_b.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_a.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_b.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_c.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_pickup_60x30x60_HA_d.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_e.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_f.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_g.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_h.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_i.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkers/Props/submarker_mining_storage_mixed_60x30x60/submarker_mining_storage_mixed_60x30x60_HA_j.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 3.0,
+        "function": 0,
+        "Shard": 2
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 5,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 90,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_mining_storage_mixed_60x30x60",
+    "BoundingVolume": 108.0
+  },
+  "name": "mining_storage_submarker_60x30x60",
+  "internalEnabled": true,
+  "persistentID": 29
+}

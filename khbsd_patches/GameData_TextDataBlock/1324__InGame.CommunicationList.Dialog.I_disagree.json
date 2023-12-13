@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I disagree",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pas d'accord",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "No",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das sehe ich anders",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "No estoy de acuerdo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я против",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Discordo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nie zgadzam się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "異議あり",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안 돼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我不同意",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我不同意",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_disagree",
+  "internalEnabled": true,
+  "persistentID": 1324
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BlackCap",
+  "Description": "\"Cap\" is a reference to the lid of the vial that a specific drug is packaged/stored in. \"BlackCap\" means that the vial has a black lid/cap. It is a way for the PC to identify/categorize the drug.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouchon noir",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TappoNero",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SchwarzeKappe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tapón negro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Черная крышка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TampaPret",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czarne.Wieko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブラックキャップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "블랙캡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "黑蓋",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "黑盖",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.BlackCap",
+  "internalEnabled": true,
+  "persistentID": 667
+}

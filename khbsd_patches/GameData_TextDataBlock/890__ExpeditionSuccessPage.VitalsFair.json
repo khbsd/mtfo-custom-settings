@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fair",
+  "Description": "A classification of the vital condition of the players character. I.e. \"Vital condition: Fair\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Bon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Discrete",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ordentlich",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Óptima",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "удовлетворительное",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "razoável",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umiarkowany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "良い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "양호",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尚可",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一般",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.VitalsFair",
+  "internalEnabled": true,
+  "persistentID": 890
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TIME UNTIL RESET:",
+  "Description": "Time until the Reactor commands reset and can be used again.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉINITIALISATION DANS\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TEMPO AL RESET:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZEIT BIS ZUM ZURÜCKSETZEN:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TIEMPO HASTA REINICIO:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОСТАЛОСЬ ДО СБРОСА:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TEMPO RESTANTE ATÉ REINÍCIO:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CZAS DO PONOWNEGO URUCHOMIENIA:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リセットまでの時間：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초기화까지 남은 시간:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重設倒數：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重置倒计时：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenObjective_Reactor.TimeUntilReset",
+  "internalEnabled": true,
+  "persistentID": 1104
+}

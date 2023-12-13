@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "END OF LIST",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "FIN DE LA LISTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "FINE LISTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ENDE DER LISTE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "FIN DE LA LISTA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОНЕЦ СПИСКА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FIM DA LISTA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "KONIEC LISTY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リストの最後",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목록 끝",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "清單結束",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "列表结束",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.EndOfList",
+  "internalEnabled": true,
+  "persistentID": 763503651
+}

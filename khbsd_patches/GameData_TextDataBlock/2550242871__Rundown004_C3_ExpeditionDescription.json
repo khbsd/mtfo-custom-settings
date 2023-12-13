@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Prisoners to locate and return [item: Fog Repeller Turbine] prior to quadrant  quarantine. \nObjective Stack to repeat until returned [item: Fog Repeller Turbine] evaluated as fully operational. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les prisonniers doivent localiser et rapporter [objet\u00A0: turbine de répulsif à brouillard] avant la mise en quarantaine du quadrant. \nLa liste d'objectifs sera répétée jusqu'à ce que [objet\u00A0:turbine de répulsif à brouillard] soit pleinement opérationnelle. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "I prigionieri devono trovare e recuperare la [oggetto: turbina anti-nebbia] prima della quarantena del quadrante. \nCoda obiettivi da ripetere fino alla valutazione della [oggetto: turbina anti-nebbia] recuperata come pienamente operativa. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Gefangenen sollen die Nebelverdrängungsturbine [Fog Repeller Turbine] vor der Quarantäne im Quadranten lokalisieren und zurückbringen.\nZiel-Stack wird wiederholt, bis die Nebelverdrängungsturbine [Fog Repeller Turbine] wieder als voll funktionsfähig eingestuft wird. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Los prisioneros tienen que encontrar y rescatar la [objeto: turbina antiniebla] antes de la cuarentena del cuadrante. \nRegistro de objetivos: repetir hasta que se rescate la [objeto: turbina antiniebla] evaluada como totalmente operativa. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заключенным поручено найти и вернуть [предмет: антидымовая турбина] до введения карантина в секторе.\nВыполнять цель, пока возвращенный [предмет: антидымовая турбина] не будет признан рабочим. ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prisioneiros devem localizar e devolver [item: Turbina do Repulsor de Névoa] antes da quarentena do quadrante. \nConjunto de objetivos devem ser repetidos até [item: Turbina do Repulsor de Névoa] ser avaliado como totalmente operante. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Więźniowie mają zlokalizować i odzyskać [element: turbina przeciwmgielna] przed poddaniem kwadrantu kwarantannie. \nUstawiono tryb cykliczny stosu celów do czasu, gdy odzyskany [element: turbina przeciwmgielna] nie zostanie oceniony jako w pełni funkcjonalny. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人は四分円隔離の前に[アイテム：フォグリペラータービン]を発見し回収せよ。\n回収した[アイテム：フォグリペラータービン]が完全稼働の評価を得るまで繰り返し目標蓄積。 ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자들은 사분면 격리 전에 [물품: 안개 제거기 터빈]을 찾아 회수해야 합니다.\n[물품: 안개 제거기 터빈]이 완전히 작동하는 것으로 평가되기 전까지 목표 목록이 반복됩니다. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "派遣囚犯在象限隔離前定位並取回[物品：驅霧器渦輪]。\n重複目標堆疊，直到[物品：驅霧器渦輪]經評估後可全面運作正常為止。 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯需在象限隔离前找到并送回[物品：驱雾器涡轮（Fog Repeller Turbine）]。\n目标堆栈将重复，直至送回的[物品：驱雾器涡轮]被评估为完全正常。 ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown004_C3_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2550242871
+}

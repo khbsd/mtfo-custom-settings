@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: </color><color=orange>TIER 5</color><color=red> Security clearance required</color>\n",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>://ERREUR: </color>Habilitation de sécurité <color=orange>NIVEAU\u00A05</color><color=red> requise</color>\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: </color><color=red>richiesta autorizzazione di sicurezza di </color><color=orange>LIVELLO 5</color>\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: </color>Sicherheitsfreigabe der <color=orange>STUFE 5</color><color=red> erforderlich.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: </color><color=orange>Se requiere autorización de seguridad de </color><color=red>CATEGORÍA 5</color>.\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Требуется проверка безопасности на </color><color=orange>УРОВНЕ\u00A05.</color>\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: </color><color=orange>CATEGORIA 5</color><color=red> Liberação de segurança necessária</color>\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD:</color><color=red> wymagane uprawnienia</color> <color=orange>5. STOPNIA</color>\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：</color><color=orange>ティア5</color><color=red> セキュリティクリアランスが必要</color>\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: </color><color=orange>티어 5</color><color=red> 보안 승인 필요</color>\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：</color><color=orange>需要第5層</color><color=red>安全許可</color>\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：</color>需要<color=orange>5层</color><color=red>安全许可</color>\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.TIER5",
+  "internalEnabled": true,
+  "persistentID": 2707879104
+}

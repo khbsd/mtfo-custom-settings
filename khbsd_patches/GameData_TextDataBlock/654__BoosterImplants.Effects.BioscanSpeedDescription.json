@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will make bioscans process speed faster.",
+  "Description": "Describes the advantage of having a good \"bioscan speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accélère le processus de bioscan pour le sujet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto renderà più rapida l'elaborazione dei bio-scanner",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson beschleunigt den Bioscan-Vorgang.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto hará que los bioescáneres procesen a mayor velocidad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Процесс биосканирования проходит быстрее.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo faz processos de bioescâner mais rápidos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca przyspieszy przetwarzanie bioskanera.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象のバイオスキャン速度が向上する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 바이오스캔을 더 빠르게 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象會讓生物掃描處理速度變快。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生物扫描进程速度加快。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BioscanSpeedDescription",
+  "internalEnabled": true,
+  "persistentID": 654
+}

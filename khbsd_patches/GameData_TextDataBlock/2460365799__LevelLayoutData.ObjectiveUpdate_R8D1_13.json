@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access <color=orange>ZONE 425</color> using terminal commands",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la <color=orange>ZONE\u00A0425</color> en utilisant les commandes du terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedere a <color=orange>ZONE 425</color> utilizzando i comandi del terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie Terminalbefehle, um Zugang zu <color=orange>ZONE 425</color> zu erhalten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Accede a la <color=orange>ZONA 425</color> con comandos del terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Получите доступ к <color=orange>ZONE 425</color> с помощью команд терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar <color=orange>ZONE 425</color> usando comandos de terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dotrzyj do <color=orange>strefy 425 [ZONE_425]</color>, używając polecenia w terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末コマンドを使って<color=orange>ZONE 425</color>へアクセスしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 명령을 사용해 <color=orange>ZONE 425</color>에 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用終端指令進入<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用终端命令访问<color=orange>ZONE 425</color> using终端命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_13",
+  "internalEnabled": true,
+  "persistentID": 2460365799
+}

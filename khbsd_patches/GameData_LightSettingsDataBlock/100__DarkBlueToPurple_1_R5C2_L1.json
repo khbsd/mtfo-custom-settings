@@ -1,0 +1,119 @@
+{
+  "LightCategorySettings": [
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.6,
+      "ChanceBroken": 0.2,
+      "Color": {
+        "a": 1.0,
+        "r": 0.194754332,
+        "g": 0.184386984,
+        "b": 0.371
+      },
+      "IntensityMul": 0.6,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 0,
+      "Chance": 0.5,
+      "ChanceBroken": 0.2,
+      "Color": {
+        "a": 0.0,
+        "r": 0.157347545,
+        "g": 0.15456,
+        "b": 0.28
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 4,
+      "Chance": 0.6,
+      "ChanceBroken": 0.3,
+      "Color": {
+        "a": 1.0,
+        "r": 0.4555485,
+        "g": 0.45288,
+        "b": 0.629
+      },
+      "IntensityMul": 0.9,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 5,
+      "Chance": 0.7,
+      "ChanceBroken": 0.2,
+      "Color": {
+        "a": 1.0,
+        "r": 0.468557358,
+        "g": 0.466089,
+        "b": 0.629
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 3,
+      "Chance": 0.4,
+      "ChanceBroken": 0.5,
+      "Color": {
+        "a": 1.0,
+        "r": 0.387314975,
+        "g": 0.387314975,
+        "b": 0.755
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 2,
+      "Chance": 0.6,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 0.2,
+        "b": 0.2
+      },
+      "IntensityMul": 1.0,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 6,
+      "Chance": 1.0,
+      "ChanceBroken": 0.0,
+      "Color": {
+        "a": 1.0,
+        "r": 0.38833198,
+        "g": 0.397567868,
+        "b": 0.48299998
+      },
+      "IntensityMul": 0.4,
+      "Weight": 1.0
+    },
+    {
+      "On": true,
+      "Category": 1,
+      "Chance": 0.4,
+      "ChanceBroken": 0.2,
+      "Color": {
+        "a": 1.0,
+        "r": 0.29747203,
+        "g": 0.308578938,
+        "b": 0.664000034
+      },
+      "IntensityMul": 0.5,
+      "Weight": 1.0
+    }
+  ],
+  "name": "DarkBlueToPurple_1_R5C2_L1",
+  "internalEnabled": true,
+  "persistentID": 100
+}

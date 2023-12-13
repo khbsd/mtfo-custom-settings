@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the computer terminal and input command <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le terminal et utilisez la commande <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il terminale computer e inserire il comando <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Computerterminal und geben Sie den Befehl <color=orange>[\"RECYCLE_GROUP_7A42\"]</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el terminal y usa el comando <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите компьютерный терминал и введите команду <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o terminal de computador e insira o comando <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź terminal komputerowy i wprowadź polecenie <color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末を見つけ、コマンド<color=orange>[\"RECYCLE_GROUP_7A42\"]</color>を入力しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "컴퓨터 터미널을 찾아 <color=orange>[\"RECYCLE_GROUP_7A42\"]</color> 명령 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到電腦終端並輸入指令<color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到电脑终端并输入命令<color=orange>[\"RECYCLE_GROUP_7A42\"]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Zone5.OnDoorOpen.Subobjective",
+  "internalEnabled": true,
+  "persistentID": 3547381456
+}

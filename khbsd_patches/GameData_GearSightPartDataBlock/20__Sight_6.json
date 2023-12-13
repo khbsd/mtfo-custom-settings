@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Sights/Sight_6.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 50,
+    "BundleShard": 6
+  },
+  "Aligns": [
+    {
+      "AlignType": 6,
+      "AlignName": "Sight_Align"
+    }
+  ],
+  "SightProperties": {
+    "GearFovZoom": 15,
+    "WorldFovZoom": 44,
+    "ZoomSensitivityModifier": 1.0
+  },
+  "name": "Sight_6",
+  "internalEnabled": true,
+  "persistentID": 20
+}

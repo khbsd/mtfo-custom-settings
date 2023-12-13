@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to [ZONE_1]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Puerta a la [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 1 [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_1]へのドア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_1] 문",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_1]的門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_1]的门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Zone5.TransferComplete.Header",
+  "internalEnabled": true,
+  "persistentID": 305347806
+}

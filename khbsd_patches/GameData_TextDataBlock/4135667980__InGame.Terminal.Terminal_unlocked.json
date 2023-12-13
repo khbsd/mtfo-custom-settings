@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=green>Terminal unlocked.</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=green>Terminal déverrouillé.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=green>Terminale sbloccato.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=green>Terminal entriegelt.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=green>Terminal desbloqueado.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=green>Терминал разблокирован</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=green>Terminal desbloqueado.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=green>Odblokowano terminal.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=green>端末をアンロック。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=green>터미널 개방</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=green>終端已解鎖。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=green>终端已解锁。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Terminal_unlocked",
+  "internalEnabled": true,
+  "persistentID": 4135667980
+}

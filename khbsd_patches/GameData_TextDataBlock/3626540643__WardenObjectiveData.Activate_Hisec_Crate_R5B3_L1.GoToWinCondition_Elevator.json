@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return the Hisec crate to the point of entrance in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramenez la caisse HISEC au point d'entrée de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare la cassa HISEC al punto d'ingresso in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die [HISEC]-Kiste zum Eintrittspunkt in [EXTRACTION_ZONE] zurück.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Devuelve la caja de HISEC al punto de entrada en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верните контейнер HISEC к месту начала экспедиции в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Retorne a caixa HISEC ao ponto de entrada na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś skrzynię podwyższonego bezpieczeństwa do punktu wejścia w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HISECクレートを[EXTRACTION_ZONE]の入口へ戻せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하이섹 상자를 [EXTRACTION_ZONE]의 진입점으로 돌려보내기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將HISEC箱放回[EXTRACTION_ZONE]的入口",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将HISEC箱放回[EXTRACTION_ZONE]的入口处",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.GoToWinCondition_Elevator",
+  "internalEnabled": true,
+  "persistentID": 3626540643
+}

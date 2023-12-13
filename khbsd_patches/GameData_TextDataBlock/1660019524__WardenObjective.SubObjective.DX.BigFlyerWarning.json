@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red> Warning. </color> Large Bio-signature detected. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red> Alerte. </color> Grande biosignature détectée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> Attenzione. </color> Rilevata traccia biologica grande.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Warnung.</color> Große Biosignatur entdeckt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> Advertencia. </color> Gran señal biológica detectada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание!</color> Обнаружена крупная биосигнатура.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> AVISO. </color> Grande bioassinatura detectada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> Ostrzeżenie. </color> Wykryto znaczną biosygnaturę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告。</color>大型の生体反応を検出。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red> 경고. </color> 대형 생체 신호 감지됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。</color>檢測到大型生物標識。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告。</color>检测到大型生物特征。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjective.SubObjective.DX.BigFlyerWarning",
+  "internalEnabled": true,
+  "persistentID": 1660019524
+}

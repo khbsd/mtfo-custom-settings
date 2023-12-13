@@ -1,0 +1,17 @@
+{
+  "Type": 3,
+  "Difficulty": 6,
+  "SpawnPlacementType": 0,
+  "MaxScore": 6.0,
+  "ScoreInAreaPaddingMulti": 10.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 5,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Detect Biss Nightmare Scout",
+  "internalEnabled": true,
+  "persistentID": 83
+}

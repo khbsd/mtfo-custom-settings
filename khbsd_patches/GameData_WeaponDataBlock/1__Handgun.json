@@ -1,0 +1,147 @@
+{
+  "muzzleFlashFPS": "Effects/Weapon/MuzzleFlash/Pistol_MuzzleFlash_FPS",
+  "muzzleFlash3RD": "Effects/Weapon/MuzzleFlash/Pistol_MuzzleFlash_3RD",
+  "muzzleFlashFPSSpecial": "Effects/Weapon/MuzzleFlash/Pistol_MuzzleFlash_FPS",
+  "muzzleFlash3RDSpecial": "Effects/Weapon/MuzzleFlash/Pistol_MuzzleFlash_3RD",
+  "muzzleFeedback": "",
+  "shellType": 2,
+  "shellEjectFeedback": "wpn_pistol_shell",
+  "clipSize": 20,
+  "hasRotatingCylinder": false,
+  "reloadDuration": 1.0,
+  "EffectiveDamagePerSecond": "",
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.03,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.03,
+    "sqrMagnitude": 0.0009
+  },
+  "recoilPosShiftWeight": 2.0,
+  "recoilPosStiffness": 140.0,
+  "recoilPosDamping": 12.0,
+  "recoilPosImpulseWeight": 2.2,
+  "recoilCameraPosWeight": 1.0,
+  "recoilRotImpulse": {
+    "x": -1.0,
+    "y": 0.5,
+    "z": 0.5,
+    "normalized": {
+      "x": -0.816496551,
+      "y": 0.408248276,
+      "z": 0.408248276,
+      "normalized": {
+        "x": -0.8164966,
+        "y": 0.4082483,
+        "z": 0.4082483,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 1.22474492,
+    "sqrMagnitude": 1.5
+  },
+  "recoilRotStiffness": 50.0,
+  "recoilRotDamping": 8.0,
+  "recoilRotImpulseWeight": 200.0,
+  "recoilCameraRotWeight": 1.0,
+  "recoilAimingWeight": 1.0,
+  "eventOnSemiFire2D": [
+    "PistolBodyA, PistolBodyB, PistolBodyC",
+    "PistolNoiseA, PistolNoiseB, PistolNoiseC",
+    "PistolMechA, PistolMechB, PistolMechC",
+    "PistolReverb"
+  ],
+  "eventOnBurstFire2D": [
+    "PistolBodyBBurst, PistolBodyABurst, PistolBodyCBurst",
+    "PistolMechCBurst, PistolMechBBurst, PistolMechABurst",
+    "PistolNoiseBBurst, PistolNoiseCBurst, PistolNoiseABurst",
+    "PistolReverbBurst"
+  ],
+  "eventOnAutoFireStart2D": [],
+  "eventOnAutoFireEnd2D": [],
+  "eventOnSpecialSemiFire2D": [
+    "GaussPistolBodyA, GaussPistolBodyC, GaussPistolBodyB",
+    "GaussPistolMechB, GaussPistolMechA, GaussPistolMechC",
+    "GaussPistolNoiseB, GaussPistolNoiseA, GaussPistolNoiseC",
+    "GaussPistolReverb"
+  ],
+  "eventOnSpecialBurstFire2D": [
+    "GaussPistolBodyBBurst, GaussPistolBodyCBurst, GaussPistolBodyABurst",
+    "GaussPistolMechABurst, GaussPistolMechBBurst, GaussPistolMechCBurst",
+    "GaussPistolNoiseABurst, GaussPistolNoiseBBurst, GaussPistolNoiseCBurst",
+    "GaussPistolReverbBurst"
+  ],
+  "eventOnSpecialAutoFireStart2D": [],
+  "eventOnSpecialAutoFireEnd2D": [],
+  "eventOnSpecialChargeup2D": [
+    "GaussPistolChargeUp"
+  ],
+  "eventOnSpecialCooldown2D": [
+    "GaussPistolCooldown"
+  ],
+  "eventOnSpecialChargeupEnd2D": "GaussPistolChargeUpEnd",
+  "eventOnSpecialCooldownEnd2D": "GaussPistolCooldownEnd",
+  "eventOnSemiFire3D": [
+    "PistolBodyA3D, PistolBodyB3D, PistolBodyC3D",
+    "PistolNoiseA3D, PistolNoiseB3D, PistolNoiseC3D",
+    "PistolMechA3D, PistolMechB3D, PistolMechC3D",
+    "PistolReverb3D"
+  ],
+  "eventOnBurstFire3D": [
+    "PistolBodyCBurst3D, PistolBodyABurst3D, PistolBodyBBurst3D",
+    "PistolMechABurst3D PistolMechBBurst3D PistolMechCBurst3D",
+    "PistolNoiseABurst3D PistolNoiseCBurst3D PistolNoiseBBurst3D",
+    "PistolReverbBurst3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "WeaponChargeUpAlt2"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "WeaponCooldownShort1"
+  ],
+  "eventOnSpecialSemiFire3D": [
+    "GaussPistolBodyC3D, GaussPistolBodyA3D, GaussPistolBodyB3D",
+    "GaussPistolMechA3D, GaussPistolMechB3D, GaussPistolMechC3D",
+    "GaussPistolNoiseB3D, GaussPistolNoiseC3D, GaussPistolNoiseA3D",
+    "GaussPistolReverb3D"
+  ],
+  "eventOnSpecialBurstFire3D": [
+    "GaussPistolBodyBBurst3D, GaussPistolBodyCBurst3D, GaussPistolBodyABurst3D",
+    "GaussPistolMechCBurst3D, GaussPistolMechABurst3D, GaussPistolMechBBurst3D",
+    "GaussPistolNoiseBBurst3D, GaussPistolNoiseCBurst3D, GaussPistolNoiseABurst3D",
+    "GaussPistolReverbBurst3D"
+  ],
+  "eventOnSpecialAutoFireStart3D": [],
+  "eventOnSpecialAutoFireEnd3D": [],
+  "eventOnSpecialChargeup3D": [
+    "GaussPistolChargeUp"
+  ],
+  "eventOnSpecialCooldown3D": [
+    "GaussPistolCooldown"
+  ],
+  "eventOnSpecialChargeupEnd3D": "GaussPistolChargeUpEnd",
+  "eventOnSpecialCooldownEnd3D": "GaussPistolCooldownEnd",
+  "eventClick": "PistolDryFire",
+  "eventReload": "PistolReload",
+  "useSemiAudioForBurstShots": false,
+  "name": "Handgun",
+  "internalEnabled": true,
+  "persistentID": 1
+}

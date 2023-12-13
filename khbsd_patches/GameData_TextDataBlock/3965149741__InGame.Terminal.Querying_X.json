@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Querying {0}",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Requête en cours sur {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Interrogazione {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "„{0}“ wird abgefragt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Consultando {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запрос: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Consultado {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeszukiwanie {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を問い合わせ中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 쿼링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在查詢{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在查询“{0}”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Querying_X",
+  "internalEnabled": true,
+  "persistentID": 3965149741
+}

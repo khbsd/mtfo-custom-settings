@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Any Unlocked",
+  "Description": "A matchmaking setting where the user indicates that they are willing to play any expedition/mission/map they have unlocked, rather than limiting the matchmaking to a specific expedition/mission/map.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tout déverrouillé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Qualsiasi sbloccata",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alles freigeschaltet",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cualquiera desbloqueado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Любая открытая карта",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Qualquer uma desbloqueada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dowolne odblokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アンロック済みのどれでも",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 개방 항목",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "任何已解鎖內容",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "任意已解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.AnyUnlocked",
+  "internalEnabled": true,
+  "persistentID": 267
+}

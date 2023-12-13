@@ -1,0 +1,24 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Rifle_1.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Default_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "",
+    "RightHandGripAnim": "DefaultGrip",
+    "AssetBundle": 40,
+    "BundleShard": 15
+  },
+  "Aligns": [
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [],
+  "ReloadSequence": [],
+  "name": "Stock_Rifle_1",
+  "internalEnabled": true,
+  "persistentID": 7
+}

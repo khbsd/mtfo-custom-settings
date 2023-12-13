@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>[STATUS]</color>OBJECTIVE STACK ITERATION 6.0. <color=red>PROBE DEEPER.</color> NONCOMPLIANT SUBJECTS WILL BE RE-EDUCATED. \r\n\r\n<color=orange>[APPAREL]</color>IMPROVED PSYCHOLOGICAL CONDITION OBSERVED IN PRISONERS PROVIDED WITH OPTIONAL APPAREL. PRISONERS THAT <color=red>CLEAR EXPEDITION SECTORS</color> WILL GAIN ACCESS TO SURPLUS RESOURCES. \r\n\r\n<color=orange>[BOOSTERS]</color>BOOSTER MODULES WILL BE DISPENSED TO PRISONERS THAT <color=red>RETRIEVE CRYSTAL ENCASED ARTIFACTS.</color> OBJECTIVE STACK UPDATED. ",
+  "Description": "This is a message that shows up in a popup when the player presses the INTEL button on the RundownPage.\nIt is a message from the Warden and gives information about Rundown # 6.0.\nIn this text everything appart from the Rich Text tags should be localized, even [STATUS], [BOOSTERS] and [APPAREL].",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=orange>[STATUT]</color>RAPPEL DE LA LISTE D'OBJECTIFS\u00A06.0. <color=red>SONDEZ PLUS EN PROFONDEUR.</color> LES SUJETS NON CONFORMES SERONT SOUMIS À UNE RÉÉDUCATION.\r\n\r\n<color=orange>[VÊTEMENTS]</color>AMÉLIORATION DE L'ÉTAT PSYCHOLOGIQUE OBSERVÉE CHEZ LES PRISONNIERS DOTÉS DE VÊTEMENTS FACULTATIFS. LES PRISONNIERS AYANT <color=red>ACHEVÉ LES SECTEURS D'EXPÉDITION</color> AURONT ACCÈS AUX RESSOURCES EXCÉDENTAIRES.\r\n\r\n<color=orange>[BOOSTERS]</color>DES MODULES DE BOOSTERS SERONT ADMINISTRÉS AUX PRISONNIERS AYANT <color=red>RÉCUPÉRÉ DES ARTEFACTS COUVERTS DE CRISTAL.</color> LISTE D'OBJECTIFS MISE À JOUR.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>[STATO]</color>ITERAZIONE CODA OBIETTIVI 6.0. <color=red>SONDA PI PROFONDITÀ.</color> I SOGGETTI NON CONFORMI VERRANNO RIEDUCATI. \r\n\r\n<color=orange>[ABBIGLIAMENTO]</color>MIGLIORAMENTO DELLE CONDIZIONI PSICOLOGICHE OSSERVATO NEI PRIGIONIERI DOTATI DI ABBIGLIAMENTO FACOLTATIVO. I PRIGIONIERI CHE <color=red>LIBERANO I SETTORI DELLA SPEDIZIONE</color> AVRANNO ACCESSO A RISORSE IN ECCESSO.\r\n\r\n<color=orange>[POTENZIAMENTI]</color>I MODULI DI POTENZIAMENTO SARANNO EROGATI AI PRIGIONIERI CHE <color=red>RECUPERANO MANUFATTI INCORPORATI NEL CRISTALLO.</color> STACK OBIETTIVO AGGIORNATO.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>[STATUS]</color>ITERATION DES ZIEL-STACKS 6.0. <color=red>ERFORSCHUNG VERTIEFEN.</color> NICHT KOOPERIERENDE VERSUCHSPERSONEN WERDEN UMERZOGEN.\r\n\r\n<color=orange>[BEKLEIDUNG]</color>DIE PSYCHISCHE VERFASSUNG DER GEFANGENEN, DIE OPTIONALE BEKLEIDUNG ERHALTEN HABEN, HAT SICH VERBESSERT. GEFANGENE, DIE <color=red>EXPEDITIONSSEKTOREN RÄUMEN</color>, ERHALTEN ZUGANG ZU ÜBERSCHÜSSIGEN RESSOURCEN.\r\n\r\n<color=orange>[BOOSTER]</color>BOOSTER-MODULE WERDEN AN GEFANGENE AUSGEGEBEN, DIE <color=red>KRISTALLENE ARTEFAKTE BERGEN</color>. ZIEL-STACK AKTUALISIERT.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>[ESTADO]</color>ITERACIÓN DEL REGISTRO DE OBJETIVOS 6.0. <color=red>AHONDAR MÁS.</color> LOS SUJETOS QUE DESOBEDEZCAN SERÁN REEDUCADOS. \r\n\r\n<color=orange>[INDUMENTARIA]</color>SE HA OBSERVADO UNA MEJORA EN LA SALUD PSICOLÓGICA DE LOS PRISIONEROS QUE ESCOGEN SU VESTIMENTA. LOS PRISIONEROS QUE <color=red>COMPLETEN LOS SECTORES DE EXPEDICIÓN</color> PODRÁN ACCEDER A LOS EXCEDENTES DE RECURSOS. \r\n\r\n<color=orange>[POTENCIADORES]</color>LOS MÓDULOS DE POTENCIADORES SE ENTREGARÁN A LOS PRISIONEROS QUE <color=red>RECUPEREN ARTEFACTOS RECUBIERTOS DE CRISTAL.</color> REGISTRO DE OBJETIVOS ACTUALIZADO. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>[СТАТУС]</color>НАЗНАЧЕНИЕ ЦЕЛИ 6.0. <color=red>НУЖНО ДОПОЛНИТЕЛЬНОЕ ИЗУЧЕНИЕ.</color> СУБЪЕКТЫ, НЕ СООТВЕТСТВУЮЩИЕ ТРЕБОВАНИЯМ, ОБЯЗАНЫ ПРОЙТИ ПОВТОРНЫЙ ИНСТРУКТАЖ.\r\n\r\n<color=orange>[ЭКИПИРОВКА]</color>УЛУЧШЕННЫЕ ПСИХОЛОГИЧЕСКИЕ ПОКАЗАТЕЛИ У ЗАКЛЮЧЕННЫХ, ИМЕЮЩИХ ДОПОЛНИТЕЛЬНУЮ ЭКИПИРОВКУ. ЗАКЛЮЧЕННЫЕ, КОТОРЫЕ <color=red>ЗАЧИСТЯТ ЭКСПЕДИЦИОННЫЙ СЕКТОР</color>, ПОЛУЧАТ ДОСТУП К НОВЫМ РЕСУРСАМ.\r\n\r\n<color=orange>[УСИЛИТЕЛИ]</color>ЗАКЛЮЧЕННЫЕ, <color=red>КОТОРЫЕ ИЗВЛЕКУТ АРТЕФАКТЫ В КРИСТАЛЛИЧЕСКИХ КАПСУЛАХ</color>, ПОЛУЧАТ УСИЛИВАЮЩИЕ МОДУЛИ. ОПИСАНИЕ ЦЕЛИ ОБНОВЛЕНО.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>[STATUS]</color>ITERAÇÃO DE CONJUNTO DE OBJETIVOS 6.0. <color=red>SONDAGEM APROFUNDADA.</color> INDIVÍDUOS FORA DE CONFORMIDADE SERÃO REEDUCADOS. \r\n\r\n<color=orange>[TRAJE]</color>CONDIÇÃO PSICOLÓGICA APRIMORADA OBSERVADA EM PRISIONEIROS COM TRAJE ÓPTICO. PRISIONEIROS QUE <color=red>LIBERAM SETORES DA EXPEDIÇÃO</color> GANHAM ACESSO A RECURSOS EXCEDENTES. \r\n\r\n<color=orange>[IMPULSOS]</color>MÓDULOS DE IMPULSO SÃO CONCEDIDOS A PRISIONEIROS QUE <color=red>RECUPERAM ARTEFATOS REVESTIDOS DE CRISTAL.</color> CONJUNTO DE OBJETIVOS ATUALIZADO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>[STAN]</color>POWTÓRZENIE STOSU CELÓW 6.0. <color=red>POGŁĘBIONA SONDA.</color> BRAK WSPÓŁPRACY ZE STRONY OBIEKTÓW ZASKUTKUJE REEDUKACJĄ.\r\n\r\n<color=orange>[UBIÓR]</color>U WIĘŹNIÓW ZAOBSERWOWANO POPRAWIONY STAN PSYCHICZNY PO ZAOPATRZENIU W DODATKOWY UBIÓR. WIĘŹNIOWIE, KTÓRZY <color=red>OCZYSZCZĄ SEKTORY EKSPEDYCJI</color>, UZYSKAJĄ DOSTĘP DO NADMIAROWYCH ZASOBÓW.\r\n\r\n<color=orange>[WZMACNIACZE]</color>WIĘŹNIOM, KTÓRZY <color=red>ZDOBĘDĄ ARTEFAKTY W KRYSZTALE</color>, PRZYZNANE ZOSTANĄ WZMACNIACZE. ZAKTUALIZOWANO STOS CELÓW.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ステータス]</color>目標蓄積反復6.0。 <color=red>深部ヘと進め。</color> 不服従の対象は再教育される。\r\n\r\n<color=orange>[外装]</color>追加外装を与えられた囚人に精神状態の改善が見られた。<color=red>エクスペディションのセクターをクリアした</color>囚人には余剰物資が与えられる。\r\n\r\n<color=orange>[ブースター]</color> <color=red>クリスタルに内包されたアーティファクトを回収した</color>囚人にはブースターモジュールが付与される。目標蓄積更新。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[상태]</color>목표 목록 반복 6.0. <color=red>더 깊이 조사할 것.</color> 규정을 준수하지 않는 대상은 재교육 예정.\r\n\r\n<color=orange>[의류]</color>선택적 의복을 제공받은 수감자에게서 심리 상태 개선이 관찰됨. <color=red>탐사 섹터를 클리어</color>하는 수감자는 잉여 자원에 접근 가능.\r\n\r\n<color=orange>[부스터]</color>부스터 모듈은 <color=red>크리스탈에 수납된 아티팩트</color>를 회수하는 수감자에게 배포됨. 목표 목록 업데이트됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>[狀態]</color>目標堆疊疊代6.0。<color=red>進行更深入的探測。</color>不服從的實驗對象將進行再教育。\r\n\r\n<color=orange>[服裝]</color>在提供囚犯不同服裝選擇後，觀察到的心理狀況有所改善。囚犯<color=red>清空遠征分區</color>將獲得剩餘資源。\r\n\r\n<color=orange>[強化劑]</color>強化劑模組將分配給<color=red>取回水晶包覆寶物</color>的囚犯。目標堆疊已更新。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>[状态]</color>目标堆栈迭代6.0。<color=red>继续深入探查。</color>不服从的实验体将进行再教育。\r\n\r\n<color=orange>[服装]</color>据观察，配备可选服装的囚犯心理状况有所改善。<color=red>清理任务分区</color>的囚犯将获得额外资源。\r\n\r\n<color=orange>[强化剂]</color>强化剂模块将分发给<color=red>取回红晶</color>的囚犯。目标堆栈已更新。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "RundownData.Rundown006.SurfaceDescription",
+  "internalEnabled": true,
+  "persistentID": 1267
+}

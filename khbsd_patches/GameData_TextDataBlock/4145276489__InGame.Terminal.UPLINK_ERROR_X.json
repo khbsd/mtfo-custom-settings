@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>UPLINK ERROR:</color> {0}",
+  "Description": "{0} is either InGame.Terminal.Cant_run_simultaneous_uplinks or InGame.Terminal.Could_not_connect_to_X",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>ERREUR DE LIAISON MONTANTE\u00A0:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ERRORE UPLINK:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>UPLINK-FEHLER:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ERROR DE UPLINK:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ОШИБКА ПОДКЛЮЧЕНИЯ:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>ERRO DE UPLINK:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>BŁĄD ŁĄCZA:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>アップリンクエラー:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>업링크 오류:</color> {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>上行鏈路錯誤：</color>{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>上行链路错误：</color>{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.UPLINK_ERROR_X",
+  "internalEnabled": true,
+  "persistentID": 4145276489
+}

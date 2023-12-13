@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the <color=orange>LIST BULKHEAD</color> command on a Terminal to see all available Bulkhead Keys",
+  "Description": "Don't localize LIST BULKHEAD and Bulkhead Security Keys.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>LIST BULKHEAD</color> sur un terminal pour voir toutes les clés de cloison disponibles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando <color=orange>LIST BULKHEAD</color> su un terminale per vedere tutte le chiavi stagne [BULKHEAD_KEY] disponibili",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=orange>LIST BULKHEAD</color> an einem Terminal, um alle verfügbaren Bulkhead Keys zu sehen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando <color=orange>LIST BULKHEAD</color> en una terminal para ver todas las llaves de contención [BULKHEAD_KEY].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>LIST BULKHEAD</color> на терминале, чтобы увидеть все доступные ключи от ворот.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando <color=orange>LIST BULKHEAD</color> em um terminal para ver todas as chaves de segurança [BULKHEAD_KEY] disponíveis",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>LIST BULKHEAD</color> w terminalu, żeby zobaczy wszystkie dostępne klucze do grodzi [BULKHEAD_KEY].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末で <color=orange>LIST BULKHEAD</color> コマンドを使用し、全ての利用可能なBulkhead Keysを表示しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에서 <color=orange>LIST BULKHEAD</color> 명령을 사용해 사용 가능한 모든 [BULKHEAD_KEY] 격벽 키 확인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在終端使用<color=orange>LIST BULKHEAD</color>指令查看所有可用的艙門鑰匙[BULKHEAD_KEY]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端上使用<color=orange>LIST BULKHEAD</color>命令查看所有可用的舱壁钥匙[BULKHEAD_KEY]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.BulkheadKey.FoundDoor",
+  "internalEnabled": true,
+  "persistentID": 1359
+}

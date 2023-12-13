@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Security access granted, Alarm lifted.. Mainframe access granted. Security will reactivate in 140 seconds.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accréditation de sécurité délivrée, alarme interrompue. Accès autorisé à l’ordinateur central. La sécurité sera réactivée dans 140\u00A0secondes.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accesso di sicurezza concesso, allarme revocato. Accesso al mainframe concesso. La sicurezza si riattiverà tra 140 secondi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitszugang gewährt, Alarm deaktiviert. Zugang zum Hauptrechner gewährt. Das Sicherheitsprotokoll wird in 140 Sekunden wieder aktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Acceso a seguridad concedido, alarma desactivada. Acceso a unidad central concedido. Las medidas de seguridad se reactivarán dentro de 140 segundos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доступ предоставлен. Сигнализация отключена... Доступ к центральному компьютеру предоставлен. Система безопасности перезапустится через 140 секунд.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso de segurança concedido; alarme desligado... Acesso ao mainframe concedido. A segurança será reativada em 140 segundos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostęp przyznany. Alarm przerwany.. Dostęp do superkomputera przyznany. Zabezpieczenia zostaną przywrócone za 140 sekund.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティアクセス許可、警報解除.. メインフレームアクセス許可。140秒後にセキュリティ再稼働。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 접근 허용. 경보 해제됨. 메인프레임 접근 허용. 보안 140초 후 재활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "准許安全存取。警報已停用。准許存取主機電腦。安全系統將在140秒內重新啟動。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已授予安全权限，警报解除……已授予主机访问权限。安全措施将在140秒后重新激活。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Terminal_Command_Output_R7D2",
+  "internalEnabled": true,
+  "persistentID": 283183482
+}

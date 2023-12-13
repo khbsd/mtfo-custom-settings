@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Filtration system <color=orange>ON</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Système de filtration <color=orange>ACTIVÉ</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistema di filtrazione: <color=orange>ATTIVO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Filtersystem <color=orange>AN</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistema de filtrado: <color=orange>ENCENDIDO</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система фильтрации <color=orange>ВКЛ</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema de filtragem\u00A0<color=orange>LIG</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "System filtracji <color=orange>WŁĄCZONY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "換気システム： <color=orange>オン</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여과 시스템 <color=orange>켜짐</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "過濾系統：<color=orange>開啟</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "过滤系统：<color=orange>开</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_3",
+  "internalEnabled": true,
+  "persistentID": 2374160068
+}

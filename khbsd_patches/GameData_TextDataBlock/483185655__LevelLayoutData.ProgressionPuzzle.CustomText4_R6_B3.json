@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door operating system engaged.\n<color=red>WARNING: Light management system malfunction. Time until blackout: </color> <color=orange>80 seconds.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Système de commande de la porte engagé.\n<color=red>ALERTE\u00A0: dysfonctionnement du système de gestion d'éclairage. Temps restant avant la coupure totale\u00A0: </color> <color=orange>80\u00A0secondes.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistema operativo porta attivato.\n<color=red>ATTENZIONE: malfunzionamento del sistema di gestione della luce. Tempo al blackout: </color> <color=orange>80 secondi.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Türbetriebssystem aktiviert.\n<color=red>WARNUNG: Fehlfunktion des Lichtverwaltungssystems. Zeit bis zum Ausfall:</color> <color=orange>80 Sekunden</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistema de operación de puertas activado.\n<color=red>ADVERTENCIA: error en el sistema de gestión de luz. Tiempo hasta apagón: </color> <color=orange>80 segundos.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система управления дверью активирована.\n<color=red>ВНИМАНИЕ! Неисправность системы управления освещением. До отключения электроэнергии:</color> <color=orange>80 секунд</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema operacional da porta acionado.\n<color=red>AVISO: Mal funcionamento no sistema de gerenciamento de luz. Tempo até o blecaute: </color> <color=orange>80 segundos.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włączono system obsługi drzwi.\n<color=red>OSTRZEŻENIE: usterka systemu zarządzania oświetleniem. Pozostały czas do wyłączenia zasilania: </color> <color=orange>80 sekund.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドア作動システム起動。\n<color=red>警告：照明管理システムに異常。停電まで：</color> <color=orange>80秒。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "출입문 작동 시스템 가동.\n<color=red>경고: 조명 관리 시스템 고장. 정전까지 남은 시간: </color> <color=orange>80초.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "門的作業系統已啟用。\n<color=red>警告：照明管理系統故障。停電時間：</color><color=orange>80秒。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "门操作系统启用中。\n<color=red>警告：灯光管理系统故障。关灯倒计时：</color><color=orange>80秒</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 9,
+  "ImportVersion": 9,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText4_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 483185655
+}

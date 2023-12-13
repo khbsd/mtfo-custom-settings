@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "IIx Syringe",
+  "Description": "Don't localize IIx",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Seringue IIx",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Siringa IIx",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "IIx Injektionsnadel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Jeringuilla IIx",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Шприц IIx",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seringa IIx",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzykawka IIx",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "IIx注射器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "IIx 주사기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "IIx注射器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "IIx注射器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.SyringeMelee",
+  "internalEnabled": true,
+  "persistentID": 4060161095
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use information in the environment to find [ITEM_ZONE] ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez les informations dans la zone pour trouver la [ITEM_ZONE]. ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare le informazioni ambientali per trovare [ITEM_ZONE]. ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie Informationen in der Umgebung, um [ITEM_ZONE] zu finden. ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa la información del entorno para encontrar la [ITEM_ZONE]. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Осмотрите обстановку и найдите предмет ([ITEM_ZONE]). ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use as informações no ambiente para encontrar [ITEM_ZONE]. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skorzystaj z informacji środowiskowych, aby znaleźć strefę [ITEM_ZONE]. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "周囲の情報を手掛かりに[ITEM_ZONE]を見つけろ ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주변 정보를 사용해 [ITEM_ZONE] 찾을 것 ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用環境中的資訊並找到[ITEM_ZONE] ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用环境中的信息找到[ITEM_ZONE] ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalUplink_One_Terminal_R2B3.GoToZoneHelp",
+  "internalEnabled": true,
+  "persistentID": 1150921465
+}

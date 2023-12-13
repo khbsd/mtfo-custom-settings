@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Ammo Pack",
+  "Description": "Part of the map \"legend\" (icon explanations.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pack de munitions",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scorta munizioni",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Munitionspaket",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pack de munición",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Упаковка боеприпасов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pacote de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pakiet amunicji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "弾薬パック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탄약 팩",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "彈藥包",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "弹药包",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Map.MapLegend.AmmoPack",
+  "internalEnabled": true,
+  "persistentID": 815
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! - All life support and air ventillation systems shutting down...",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! Arrêt de tous les systèmes de survie et de ventilation...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! Spegnimento sistemi supporto vitale e ventilazione aerea...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – Alle Lebenserhaltungs- und Belüftungssysteme werden abgeschaltet …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Desactivando todos los sistemas de soporte vital y ventilación...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Системы вентиляции и жизнеобеспечения отключаются...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! - Todos os sistemas de suporte de vida e ventilação aéreo sendo encerrados...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – wyłączanie systemów podtrzymywania życia i wentylacji powietrza...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ - 全ての生命維持システムと換気システムが停止中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! - 전 생명 유지 및 환기 시스템 정지 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！- 所有生命支持與通風系統正在關閉……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！- 所有生命支持和空气通风系统即将关闭……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_On_Complete_Overload",
+  "internalEnabled": true,
+  "persistentID": 1456
+}

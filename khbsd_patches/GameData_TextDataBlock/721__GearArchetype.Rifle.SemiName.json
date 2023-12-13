@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.SemiName",
+  "internalEnabled": true,
+  "persistentID": 721
+}

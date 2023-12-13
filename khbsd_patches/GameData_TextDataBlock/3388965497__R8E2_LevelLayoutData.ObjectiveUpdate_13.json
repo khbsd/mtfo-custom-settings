@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Take the Data Cubes from the shuttlebox",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retirez les cubes de données de la boîte à navette.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare i cubi di dati [DATA_CUBE] alla scatola di trasferimento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Holen Sie die Datenwürfel [DATA_CUBE] von der Transferbox.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Saca los cubos de datos [DATA CUBE] de la caja de ida y vuelta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заберите кубы данных [DATA_CUBE] из подъемника.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Levar cubos de dados [DATA_CUBE] pela caixa de vaivém",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zabierz kostki danych ze skrzynki transportowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "シャトルボックスからデータキューブを手に入れろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "셔틀 박스에서 [DATA_CUBE] 데이터 큐브를 가져오기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從穿梭箱拿取資料方塊[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从穿梭箱拿取数据立方[DATA_CUBE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8E2_LevelLayoutData.ObjectiveUpdate_13",
+  "internalEnabled": true,
+  "persistentID": 3388965497
+}

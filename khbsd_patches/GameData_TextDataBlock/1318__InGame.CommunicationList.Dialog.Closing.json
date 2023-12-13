@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Closing",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "On ferme",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiusura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schließen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cerrando",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Закрываю",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fechando",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zamykam",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "閉めるぞ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "닫는다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "准备关门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Closing",
+  "internalEnabled": true,
+  "persistentID": 1318
+}

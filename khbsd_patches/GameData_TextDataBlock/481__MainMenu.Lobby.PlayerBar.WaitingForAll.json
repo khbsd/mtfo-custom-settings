@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WAITING FOR ALL PLAYERS TO BE READY",
+  "Description": "In the game lobby screen, this indicates that the game cannot be started because not all players in the lobby have indicated that they are ready by clicking their \"ready\" button,",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "EN ATTENTE DES JOUEURS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN ATTESA CHE TUTTI I GIOCATORI SIANO PRONTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARTEN, BIS ALLE SPIELER BEREIT SIND",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESPERANDO QUE ESTÉN LISTOS TODOS LOS JUGADORES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОЖИДАЮТСЯ ДРУГИЕ ИГРОКИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AGUARDANDO TODOS FICAREM PRONTOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZEKIWANIE NA GOTOWOŚĆ WSZYSTKICH GRACZY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全プレイヤーの準備が完了するのを待っています",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 플레이어의 준비 완료를 기다리는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待所有玩家就緒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待所有玩家准备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.WaitingForAll",
+  "internalEnabled": true,
+  "persistentID": 481
+}

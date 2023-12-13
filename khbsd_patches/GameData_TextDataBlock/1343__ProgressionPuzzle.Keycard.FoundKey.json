@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Return to the door and use the keycard to enter [TARGET_ZONE]",
+  "Description": "Don't localize [TARGET_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Retournez à la porte et utilisez la carte magnétique pour accéder à [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tornare alla porta e usare la chiave magnetica per accedere a [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kehren Sie zur Tür zurück und benutzen Sie die Schlüsselkarte, um [TARGET_ZONE] zu betreten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Vuelve a la puerta y usa la tarjeta de acceso para entrar en [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вернитесь к двери и используйте ключ-карту, чтобы попасть в [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volte até a porta e use o cartão de acesso para entrar em [TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wróć do drzwi i użyj karty dostępu, aby przejść do [TARGET_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドアに戻ってキーカードを使用し、 [TARGET_ZONE] に入れ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문으로 돌아가 키 카드를 사용해 [TARGET_ZONE] 진입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "回到門邊，使用鑰匙卡進入[TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "回到门口，使用钥匙卡进入[TARGET_ZONE]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ProgressionPuzzle.Keycard.FoundKey",
+  "internalEnabled": true,
+  "persistentID": 1343
+}

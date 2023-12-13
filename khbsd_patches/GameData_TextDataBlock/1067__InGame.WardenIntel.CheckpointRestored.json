@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Checkpoint restored",
+  "Description": "A checkpoint is a location in the level where the players will respawn if they all die and fail the mission.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Point de contrôle restauré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Checkpoint ripristinato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Checkpoint wiederhergestellt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Punto de control restaurado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чекпойнт восстановлен",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ponto de controle restaurado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przywrócono punkt kontrolny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チェックポイント回復",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체크포인트 복원됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重生點已恢復",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重生点已恢复",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.CheckpointRestored",
+  "internalEnabled": true,
+  "persistentID": 1067
+}

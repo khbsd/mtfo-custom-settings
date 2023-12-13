@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You need keycard {0} to unlock.",
+  "Description": "A text that informs the player what keycard they need in order to open a locked door. \"{0}\" will be replaced by the ID of the keycard; do not alter these characters, just place them in the gramatically correct position in the sentence.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Requis\u00A0: carte magnétique {0}.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Hai bisogno della chiave magnetica {0} per sbloccarla.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sie benötigen die Schlüsselkarte {0} zum Entriegeln.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesitas una tarjeta de acceso {0} para abrirla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы открыть, нужна ключ-карта {0}.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você precisa do cartão de acesso {0} para abrir.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karta dostępu {0} wymagana do odblokowania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "開錠にはキーカード {0} が必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "문을 열려면 {0} 키 카드가 필요합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要鑰匙卡{0}才能開鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要钥匙卡{0}才能打开。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.YouNeedKeycard_X",
+  "internalEnabled": true,
+  "persistentID": 849
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick up barrier",
+  "Description": "I.e. \"pick up this barrier from the ground.\" A text that appears on screen when the player is standing close to a portable protective barrier that they can pick up from the ground.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramasser la barrière",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogli barriera",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Barriere aufheben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoger barrera",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднять барьер",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegar barreira",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieś barierę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バリアを拾う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배리어 줍기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起障礙物",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拾取障碍",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.PickUpBarrier",
+  "internalEnabled": true,
+  "persistentID": 875
+}

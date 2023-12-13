@@ -1,0 +1,28 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupGreen",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 1.0,
+      "EffectPrefab": "Effects/Environment/E_Environment_VentSmokeBig",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "smoke",
+  "internalEnabled": true,
+  "persistentID": 1
+}

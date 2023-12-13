@@ -1,0 +1,93 @@
+{
+  "eventOnSemiFire2D": [
+    "BurstRifle1shotBodyC2D",
+    "BurstRifle1shotMechA2D",
+    "BurstRifle1shotNoiseC2D",
+    "BurstRifle1ShotWet2D",
+    "rifle_burst_kick_a_1shot"
+  ],
+  "eventOnBurstFire2D": [
+    "BurstRifle3shotBodyB2D",
+    "BurstRifle3shotMechB2D",
+    "BurstRifle3shotNoiseB2D",
+    "BurstRifle3ShotWet2D",
+    "rifle_burst_kick_a_3shot"
+  ],
+  "eventOnAutoFireStart2D": [
+    "BurstRifleBodyA2D",
+    "BurstRifleMechB2D",
+    "BurstRifleNoiseB2D",
+    "BurstRifleWet2D",
+    "gasrifle_kick_auto_a"
+  ],
+  "eventOnAutoFireEnd2D": [
+    "BurstRifleEnd2D",
+    "GasRifleEnd2D"
+  ],
+  "eventOnBurstFireOneShot2D": [
+    "BurstRifle1shotBodyB2D",
+    "BurstRifle1shotMechB2D",
+    "BurstRifle1shotNoiseB2D",
+    "BurstRifle1ShotWet2D",
+    "rifle_burst_kick_a_1shot"
+  ],
+  "eventOnChargeup2D": [
+    "GasRifleChargeUp"
+  ],
+  "eventOnCooldown2D": [
+    "GasRifleCooldown"
+  ],
+  "eventOnChargeupEnd2D": "GasRifleChargeUpEnd",
+  "eventOnCooldownEnd2D": "GasRifleCooldownEnd",
+  "eventOnSemiFire3D": [
+    "BurstRifle1shotBodyC3D",
+    "BurstRifle1shotMechC3D",
+    "BurstRifle1shotNoiseC3D",
+    "BurstRifle1ShotWet3D"
+  ],
+  "eventOnBurstFire3D": [
+    "BurstRifle3shotBodyB3D",
+    "BurstRifle3shotMechB3D",
+    "BurstRifle3shotNoiseB3D",
+    "BurstRifle3ShotWet3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "BurstRifleBodyA3D",
+    "BurstRifleMechA3D",
+    "BurstRifleNoiseA3D",
+    "BurstRifleWet3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "BurstRifleEnd3D"
+  ],
+  "eventOnChargeup3D": [
+    "GasRifleChargeUp"
+  ],
+  "eventOnCooldown3D": [
+    "GasRifleCooldown"
+  ],
+  "eventOnChargeupEnd3D": "GasRifleChargeUpEnd",
+  "eventOnCooldownEnd3D": "GasRifleCooldownEnd",
+  "eventOnSyncedBurstFirePerShot3D": [
+    "BurstRifle1shotBodyB3D",
+    "BurstRifle1shotMechB3D",
+    "BurstRifle1shotNoiseB3D",
+    "BurstRifle1ShotWet3D"
+  ],
+  "eventOnSyncedAutoFirePerShot3D": [
+    "BurstRifle1shotBodyA3D",
+    "BurstRifle1shotMechA3D",
+    "BurstRifle1shotNoiseA3D",
+    "BurstRifle1ShotWet3D"
+  ],
+  "eventClick": "BurstRifleDryFire",
+  "eventReload": "BurstRifleReload",
+  "TriggerBurstAudioForEachShot": false,
+  "TriggerAutoAudioForEachShot": false,
+  "eventEquip": "BurstRifleEquip",
+  "eventZoomIn": "BurstRifleIronsightIn",
+  "eventZoomOut": "BurstRifleIronsightOut",
+  "name": "Rifle_Semi_R3",
+  "internalEnabled": true,
+  "persistentID": 42
+}

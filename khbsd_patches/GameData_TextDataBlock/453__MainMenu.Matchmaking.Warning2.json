@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "#SRES_43: Segmented prisoner selection can be time consuming and the matching prisoners will have a limited social construct as a base for survival.",
+  "Description": "A text string that indicates to players (in an in-world manner) that the matchmaking system is in alpha (unfinished) state. Do not alter the code-like parts.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "#SRES_43: La sélection des prisonniers par segmentation peut prendre un certain temps, et les prisonniers sélectionnés auront accès à une construction sociale limitée comme base de survie.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "#SRES_43: La selezione frammentata dei prigionieri può richiedere molto tempo, e i prigionieri abbinati avranno un costrutto sociale limitato come base per la sopravvivenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "#SRES_43: Die segmentierte Auswahl der Gefangenen kann einige Zeit beanspruchen und gefundene Gefangene können begrenzte Überlebensgrundlagen und soziale Konstrukte besitzen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "#SRES_43: La selección segmentada de prisioneros puede llevar mucho tiempo, y los prisioneros emparejados tendrán un constructo social limitado como base para la supervivencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "#SRES_43: сегментированный подбор заключенных занимает длительное время. Предоставляются социальные функции, необходимые для выживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "#SRES_43: A seleção segmentada de prisioneiros pode demorar e a combinação de prisioneiros terá uma construção social limitada como base de sobrevivência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "#SRES_43: Segmentowana selekcja więźniów może być czasochłonna, a dopasowani więźniowie będą mieć ograniczony konstrukt społeczny jako podstawę do przetrwania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "#SRES_43:分割された囚人選択は時間を要することがあり、またマッチした囚人の生存の基礎としての社会的構造は制限される。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "#SRES_43: 수감자 선택 조건을 세분화할 경우 소요 시간이 증가할 수 있으며, 그룹 형성에도 제약이 따를 수 있음.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "#SRES_43：將囚犯選擇區段化可能會非常耗時，而且作為生存基礎的配對囚犯社會結構有限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "#SRES_43：定向选择囚犯耗时较长，且所匹配囚犯的社会组成有限，影响生存基础。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Warning2",
+  "internalEnabled": true,
+  "persistentID": 453
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Confirm an established Uplink connection with this terminal and another.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Confirme l'établissement d'une connexion de liaison montante entre ce terminal et un autre.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Confermare una connessione uplink stabilita tra questo terminale e un altro.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bestätigen Sie eine bestehende Uplink-Verbindung mit diesem und einem anderen Terminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Confirma una conexión de uplink establecida con este terminal y otro.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подтвердите установку подключения между этим и другим терминалом.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confirme uma conexão de uplink estabelecida com este terminal ou outro.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potwierdź nawiązanie połączenia między tym a innym terminalem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "この端末と他の端末との間の確立されたアップリンク接続を確認。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "이 터미널과 다른 터미널의 설정된 업링크 연결을 확인합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "確認此終端和另一終端建立的上行鏈路連線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "确认本终端和另一终端建立的上行链路连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.UPLINK_CONFIRM_Description",
+  "internalEnabled": true,
+  "persistentID": 112719254
+}

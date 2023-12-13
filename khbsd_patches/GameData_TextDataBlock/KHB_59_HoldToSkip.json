@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MOLD any key to snip",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "MAINTENEZ n'importe quelle touche pour passer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TIENI PREMUTO un tasto qualsiasi per saltare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HALTEN Sie eine beliebige Taste zum Überspringen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MANTÉN PULSADA cualquier tecla para omitir",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УДЕРЖИВАЙТЕ любую кнопку, чтобы пропустить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SEGURE qualquer tecla para pular",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZYTRZYMAJ dowolny klawisz, aby pominąć",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "いずれかのキーを長押ししてスキップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아무 키나 길게 눌러 넘기기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按住任意鍵跳過",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住任意键跳过",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Watermark.HoldAnyKeyToSkip",
+  "internalEnabled": true,
+  "persistentID": 59
+}

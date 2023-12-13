@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables the in game FPS counter.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affiche le compteur d'IPS en jeu.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra il contatore FPS in gioco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert die FPS-Anzeige im Spiel.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa el contador de FPS del juego.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает счетчик FPS в игре.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa o contador de QPS do jogo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza licznik klatek na sekundę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲーム内FPSカウンターを有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임 속 FPS 카운터를 켭니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用遊戲內FPS計數器。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启用游戏内帧率计数器。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.ShowFPSCounter",
+  "internalEnabled": true,
+  "persistentID": 1860148015
+}

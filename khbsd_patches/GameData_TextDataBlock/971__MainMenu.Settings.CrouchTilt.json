@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Crouch Tilt",
+  "Description": "Indicates if the player crouch state should lean the weapon to the side when crouched",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Incliner l'arme en étant accroupi",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inclina arma da abbassato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hocken-Neigung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inclinar el arma al agacharse",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Убрать оружие в скрытности",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Arma ao lado ao agachar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przechylenie podczas kucania",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "しゃがみ時の武器傾け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "앉을 때 기울이기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "蹲伏傾斜",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "蹲伏倾斜",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.CrouchTilt",
+  "internalEnabled": true,
+  "persistentID": 971
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nMid to long range\nWell balanced",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nMoyenne à longue portée\nBien équilibré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata da media a lunga\nBen bilanciato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nMittlere bis große Reichweite\nGut ausbalanciert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nMedio a largo alcance\nBien equilibrado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nСредняя или большая дальность\nОтличный баланс",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomático\nMédio a longo alcance\nBem equilibrado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nŚredni i długi dystans\nWszechstronny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n中距離から長距離\nバランスが良い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n중장거리\n균형 우수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n中長程\n良好平衡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n中到远程\n均衡",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 722
+}

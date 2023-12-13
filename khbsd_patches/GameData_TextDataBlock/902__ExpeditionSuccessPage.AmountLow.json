@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "low",
+  "Description": "I.e. \"NRV probe reaction: low\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "bas",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scarsa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "gering",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Baja",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "низкая",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "baixa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "niski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "낮음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "低",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.AmountLow",
+  "internalEnabled": true,
+  "persistentID": 902
+}

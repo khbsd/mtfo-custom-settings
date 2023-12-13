@@ -1,0 +1,17 @@
+{
+  "Type": 0,
+  "Difficulty": 7,
+  "SpawnPlacementType": 0,
+  "MaxScore": 8.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 2.0,
+  "Roles": [
+    {
+      "Role": 0,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hibernate Buss Melee Big Shadows",
+  "internalEnabled": true,
+  "persistentID": 63
+}

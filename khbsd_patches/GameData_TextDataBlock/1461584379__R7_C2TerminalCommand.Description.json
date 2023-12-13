@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ventilates Adjacent Quarantine Zones. WARNING! Can cause abnormal fog levels.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Aère les zones de quarantaine adjacentes. ALERTE\u00A0! Susceptible de générer des niveaux de brouillard anormaux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ventila le zone di quarantena adiacenti. ATTENZIONE! Può causare livelli di nebbia anomali.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Belüftet angrenzende Quarantänezonen. WARNUNG! Kann abnormale Nebelwerte verursachen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ventila las zonas de cuarentena adyacentes. ¡ADVERTENCIA! Puede provocar niveles anómalos de niebla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Управляет вентиляцией ближайших карантинных зон. ВНИМАНИЕ! Может спровоцировать высокий уровень задымления.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ventila zonas de quarentena adjacentes. AVISO! Podem causar níveis anormais de névoa.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wentylacja przyległych stref kwarantanny. OSTRZEŻENIE! Może skutkować anomalnym stężeniem mgły.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "隣の隔離ゾーンを換気する。警告！異常な霧を生む可能性あり。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인접 격리 구역 환기 실시. 경고! 비정상 안개 농도 유발 가능.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "為鄰近的隔離區通風換氣。警告！可能造成煙霧濃度異常。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通风邻近隔离区。警告！可能导致异常雾度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "R7_C2TerminalCommand.Description",
+  "internalEnabled": true,
+  "persistentID": 1461584379
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone 210 opened, proceed to zone 219 and insert stick into Mainframe",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Zone\u00A0210 ouverte. Rendez-vous dans la zone\u00A0219 et insérez la carte dans l’ordinateur central.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ZONE 210 aperta, procedere a ZONE 219 e inserire la scheda nel Mainframe",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zone 210 wurde geöffnet. Begeben Sie sich zu ZONE 219 und setzen Sie den Stick in den Hauptrechner ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ZONE 210 abierta. Continúa hasta la ZONE 219 e inserta el pendrive en la unidad central.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Зона 210 открыта. Направляйтесь в зону 219 и вставьте карту памяти в центральный компьютер.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Zone 210 aberta; prossiga para a Zone 219 e insira o cartão no mainframe",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strefa 210 [ZONE_210] otwarta, przejść do strefy 219 [ZONE_219] i włożyć nośnik do superkomputera",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 210が開いた。Zone 219へ進み、スティックをメインフレームに挿入しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 210 열림. ZONE 219로 이동해 메인프레임에 메모리 스틱 삽입할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Zone 210已開啟，繼續前進至Zone 219，將記憶卡插入主機電腦中",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 210已打开，前往ZONE 219并将记忆棒插入主机",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.SubObjective_MainframeDirection",
+  "internalEnabled": true,
+  "persistentID": 1315054268
+}

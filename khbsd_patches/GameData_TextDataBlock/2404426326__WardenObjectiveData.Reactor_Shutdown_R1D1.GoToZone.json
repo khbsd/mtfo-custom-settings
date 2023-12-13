@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ITEM_ZONE] and initiate the shutdown process",
+  "Description": "Don't translate [ITEM_ZONE] ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la [ITEM_ZONE] et enclenchez le processus d’extinction.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ITEM_ZONE] e avviare il processo di spegnimento.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ITEM_ZONE] und initiieren Sie die Abschaltung.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Explora la [ITEM_ZONE] e inicia el proceso de apagado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ITEM_ZONE] и запустите процесс выключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até [ITEM_ZONE] e inicialize o processo de desligamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy [ITEM_ZONE] i rozpocznij sekwencję wyłączenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]で、シャットダウンプロセスを開始せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE](으)로 이동해 정지 절차 시작할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ITEM_ZONE]並啟動關閉程序",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ITEM_ZONE]并发起关闭过程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Shutdown_R1D1.GoToZone",
+  "internalEnabled": true,
+  "persistentID": 2404426326
+}

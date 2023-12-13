@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigate to [ZONE_5] and find the computer terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la [ZONE_5] et trouvez le terminal informatique.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere [ZONE_5] e trovare il terminale computer",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zu [ZONE_5] und finden Sie das Computerterminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la [ZONE_5] y encuentra el terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отправляйтесь в [ZONE_5] и найдите компьютерный терминал.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Navegue até a [ZONE_5] e encontre o terminal de computador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do strefy\u00A0[ZONE_5] i znajdź terminal komputerowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]へ行きコンピュータ端末を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5]로 이동해 컴퓨터 터미널 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往[ZONE_5]尋找電腦終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往[ZONE_5]并找到电脑终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.ActivateSmallHSU.R7A1.Zone1.OnApproachDoor.Subobjective",
+  "internalEnabled": true,
+  "persistentID": 685204828
+}

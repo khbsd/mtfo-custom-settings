@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Transport <color=orange>MATTER_WAVE_PROJECTOR</color> to Jump Gate in [ZONE_7].",
+  "Description": "Don't localize MATTER_WAVE_PROJECTOR and [ZONE_7]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Transportez le <color=orange>MATTER_WAVE_PROJECTOR</color> à la porte de largage dans la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trasportare <color=orange>MATTER_WAVE_PROJECTOR</color> a portale di salto in [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Transportieren Sie den <color=orange>MATTER_WAVE_PROJECTOR</color> zum Sprungtor in [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Transporta el <color=orange>MATTER_WAVE_PROJECTOR</color> al portal de salto en la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Переместите <color=orange>MATTER_WAVE_PROJECTOR</color> к вратам телепортации в [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Transporte <color=orange>MATTER_WAVE_PROJECTOR</color> até o portão de salto na [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś <color=orange>projektor fal materii [MATTER_WAVE_PROJECTOR]</color> do wrót skokowych w strefie 7 [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>MATTER_WAVE_PROJECTOR</color> を [ZONE_7] のジャンプゲートに運べ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>MATTER_WAVE_PROJECTOR</color>를 [ZONE_7]의 점프 게이트로 운반.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<color=orange>MATTER_WAVE_PROJECTOR</color>傳送到[ZONE_7]的跳躍門。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<color=orange>MATTER_WAVE_PROJECTOR</color>运到[ZONE_7]的跃迁门处。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Dimension.Override.SubObjective_FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1435
+}

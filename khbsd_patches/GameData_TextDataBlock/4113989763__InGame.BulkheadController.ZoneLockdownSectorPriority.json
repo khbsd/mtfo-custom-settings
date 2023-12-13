@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ZONE LOCKDOWN\nSECTOR PRIORITY",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ZONE VERROUILLÉE\nPRIORITÉ DU SECTEUR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ISOLAMENTO ZONA\nPRIORITÀ SETTORE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ABRIEGELUNG DER ZONE\nSEKTORPRIORITÄT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "CIERRE DE SEGURIDAD DE ZONA\nPRIORIDAD DEL SECTOR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗОНА ИЗОЛЯЦИИ\nУРОВЕНЬ СЕКТОРА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONFINAMENTO DE ZONE\nPRIORIDADE DO SETOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BLOKADA STREFY\nPRIORYTET SEKTORA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゾーン封鎖\nセクター優先",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "구역 폐쇄\n섹터 우선도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "區域封鎖\n分區優先等級",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "区域封锁\n分区优先级",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadController.ZoneLockdownSectorPriority",
+  "internalEnabled": true,
+  "persistentID": 4113989763
+}

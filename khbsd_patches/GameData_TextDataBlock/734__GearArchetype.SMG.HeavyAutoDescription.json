@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nShort to mid range\nHigh ammo capacity",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCourte à moyenne portée\nCapacité de munitions élevée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nGittata da breve a media\nElevata capienza del caricatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nKurze bis mittlere Reichweite\nHohe Munitionskapazität",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automático\nCorto a medio alcance\nCapacidad de munición alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nМалая или средняя дальность\nБольшая емкость магазина",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nCurto a médio alcance\nAlta capacidade de munição",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nKrótki i średni dystans\nDuża pojemność magazynku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n近距離から中距離\n装弾数が多い",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n중단거리\n높은 탄약량",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n中短程\n高彈藥容量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n近到中程\n弹药容量大",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.HeavyAutoDescription",
+  "internalEnabled": true,
+  "persistentID": 734
+}

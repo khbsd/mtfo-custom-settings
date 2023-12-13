@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Well done!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Bien joué\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ben fatto!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gut gemacht!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Bien hecho!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Так держать!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Muito bom!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dobra robota!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "お見事！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "잘했어!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "做得好！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "做得好！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.WellDone",
+  "internalEnabled": true,
+  "persistentID": 1217
+}

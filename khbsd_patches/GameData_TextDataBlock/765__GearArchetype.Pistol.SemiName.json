@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pistol",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pistolet",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pistole",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pistola",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пистолет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pistola",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pistolet",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ピストル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "권총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Pistol.SemiName",
+  "internalEnabled": true,
+  "persistentID": 765
+}

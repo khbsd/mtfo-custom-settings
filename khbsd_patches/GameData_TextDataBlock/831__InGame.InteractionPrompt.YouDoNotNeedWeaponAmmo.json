@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "YOU DO NOT NEED WEAPON AMMUNITION",
+  "Description": "This text appears on screen when the player has the chance to receive ammunition but their inventory is full.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VOTRE RÉSERVE DE MUNITIONS D'ARME EST PLEINE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NON HAI BISOGNO DI MUNIZIONI PER ARMI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SIE BENÖTIGEN KEINE WAFFENMUNITION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "NO NECESITAS MUNICIÓN PARA ARMAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВАМ НЕ ТРЕБУЮТСЯ БОЕПРИПАСЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VOCÊ NÃO PRECISA DE MUNIÇÃO DE ARMAS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NIE POTRZEBUJESZ AMUNICJI DO BRONI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器の弾薬は不要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "당신은 무기 탄약이 필요하지 않습니다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你不需要武器彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你无需武器弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.YouDoNotNeedWeaponAmmo",
+  "internalEnabled": true,
+  "persistentID": 831
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scroll item down",
+  "Description": "Control key binding/mapping. This key cycles down through the player's inventory - each key press switches to the next piece of gear, like so: Melee weapon > primary weapon > special weapon > tool > resource pack > consumable > melee weapon",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Défilement d'objet (bas)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scorri gli oggetti in giù",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zu Gegenstand unten scrollen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar a objeto de abajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прокрутить вниз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Rolar item para baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przewiń przedmiot w dół",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテムをスクロールダウン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아래로 아이템 스크롤",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向下捲動物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "向下滚动物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ScrollItemRight",
+  "internalEnabled": true,
+  "persistentID": 3491924924
+}

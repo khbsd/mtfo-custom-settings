@@ -1,0 +1,37 @@
+{
+  "PublicAlarmName": "Scan VI Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 130,
+  "SurvivalWavePopulation": 8,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": false,
+  "WantedDistanceFromStartPos": 1.0,
+  "WantedDistanceBetweenPuzzleComponents": 0.5,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 32
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 32
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x6 alarm",
+  "internalEnabled": true,
+  "persistentID": 150
+}

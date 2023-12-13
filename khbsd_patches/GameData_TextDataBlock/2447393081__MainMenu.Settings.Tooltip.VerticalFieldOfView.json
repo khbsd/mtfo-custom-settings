@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The camera vertical field of view, in degrees.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le champ de vision vertical de la caméra (en degrés).",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il campo visivo verticale della telecamera in gradi.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das vertikale Sichtfeld der Kamera, in Grad.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El campo de visión vertical en grados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поле зрения камеры по вертикальной оси (значение в градусах).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O campo de visão vertical da câmera, em graus.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pionowe pole widzenia kamery, wyrażone w stopniach.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "度を単位としたカメラの垂直方向の視界。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "카메라 수직 시야 각도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "鏡頭垂直視野，以度為單位。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "镜头垂直视野度数。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.VerticalFieldOfView",
+  "internalEnabled": true,
+  "persistentID": 2447393081
+}

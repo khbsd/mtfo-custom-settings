@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ENTER SECURITY SCAN",
+  "Description": "Promting the player to enter the Bioscan.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "COMMENCER L'ANALYSE DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ENTRARE IN SCANSIONE SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN STARTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENTRA EN EL ANÁLISIS DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАЧАТЬ ПРОВЕРКУ БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ENTRAR NO ESCANEAMENTO DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ROZPOCZNIJ SKANOWANIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進入安全掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入安全扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.EnterSecurityScan",
+  "internalEnabled": true,
+  "persistentID": 1088
+}

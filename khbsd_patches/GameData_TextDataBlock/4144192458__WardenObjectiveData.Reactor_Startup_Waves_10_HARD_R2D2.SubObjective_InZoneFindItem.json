@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the reactor control panel and initiate the startup",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le panneau de contrôle du réacteur et enclenchez le démarrage.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il pannello di controllo del reattore e iniziare l'avvio.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie das Bedienfeld des Reaktors und initiieren Sie die Startsequenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el panel de control del reactor e inicia el arranque.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите панель управления реактора и запустите его.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o painel de controle do reator e comece a inicialização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź panel sterowania reaktora i rozpocznij rozruch",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターの制御パネルを見つけ、始動シークエンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 제어반을 찾아 시동 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到反應器控制面板，啟動開機程序",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到反应堆控制面板并发起启动过程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_10_HARD_R2D2.SubObjective_InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 4144192458
+}

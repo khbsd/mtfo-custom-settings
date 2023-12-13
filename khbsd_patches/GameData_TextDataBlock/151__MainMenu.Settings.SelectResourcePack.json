@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Resource Pack",
+  "Description": "Control key binding/mapping. This key equips the player's resource pack (it can be a package/bag with ammo, medical supplies or disinfection equipment.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner le pack de ressources",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona scorta risorse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ressourcenpaket wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar pack de recursos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать набор ресурсов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar pacote de recursos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór pakietu zasobów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リソースパックを選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자원 팩 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇資源包",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择资源包",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectResourcePack",
+  "internalEnabled": true,
+  "persistentID": 151
+}

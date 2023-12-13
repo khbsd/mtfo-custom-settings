@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Press '{0}'",
+  "Description": "A text string that instructs the player to press a specific keyboard key or mouse/gamepad button. The \"{0}\" is replaced by the name of the key/button, do not alter that part of the text string.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyez sur {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Premi '{0}'",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Drücken Sie „{0}“",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsa «{0}»",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите '{0}'",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aperte '{0}'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij '{0}'",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "'{0}'を押す",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "'{0}' 누르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按「{0}」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下'{0}'",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Press_X",
+  "internalEnabled": true,
+  "persistentID": 825
+}

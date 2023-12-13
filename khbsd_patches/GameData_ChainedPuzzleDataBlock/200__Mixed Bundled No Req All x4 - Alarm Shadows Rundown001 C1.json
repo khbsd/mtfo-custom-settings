@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV M Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 228,
+  "SurvivalWavePopulation": 51,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 5.0,
+  "WantedDistanceBetweenPuzzleComponents": 5.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Bundled No Req All x4 - Alarm Shadows Rundown001 C1",
+  "internalEnabled": true,
+  "persistentID": 200
+}

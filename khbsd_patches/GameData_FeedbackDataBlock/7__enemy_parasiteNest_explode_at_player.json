@@ -1,0 +1,26 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "ParasiteNestExplodeAtPlayer"
+    }
+  ],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupParticleFountain",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_parasiteNest_explode_at_player",
+  "internalEnabled": true,
+  "persistentID": 7
+}

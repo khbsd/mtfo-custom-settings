@@ -1,0 +1,26 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Grip/Grip_Nano_Swarm_1.prefab",
+    "Children": [
+      "Assets/Source/Graphics/Gear/ToolParts/grips/Grip_4_GripAlign.FBX"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Tools_Grip_3",
+    "RightHandGripAnim": "Tools_Grip_3",
+    "AssetBundle": 90,
+    "BundleShard": 0
+  },
+  "Aligns": [
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "name": "Grip_4",
+  "internalEnabled": true,
+  "persistentID": 6
+}

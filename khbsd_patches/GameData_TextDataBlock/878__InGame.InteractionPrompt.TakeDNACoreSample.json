@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Take DNA Core Sample",
+  "Description": "I.e. \"collect a DNA core sample here.\" A text that appears on screen when the player is standing close to a prop from which they can collect a DNA core sample. This is a common mission objective in GTFO.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Prélever un échantillon de noyau ADN",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogli campione DNA nucleo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DNA-Kernprobe nehmen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoger muestra central de ADN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Взять образец ДНК",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegar amostra principal de DNA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weź próbkę z rdzeniem DNA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "DNA核サンプルを取る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "DNA 핵심 샘플 채취",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "採集DNA核心樣本",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拿取DNA核心样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.TakeDNACoreSample",
+  "internalEnabled": true,
+  "persistentID": 878
+}

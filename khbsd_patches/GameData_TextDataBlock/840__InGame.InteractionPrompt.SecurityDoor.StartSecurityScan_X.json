@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start Security Scan Sequence <color=red>[WARNING:{0} DETECTED]</color>",
+  "Description": "A text that informs the player that if they pull the lever they're standing in front of, it will initiate a security scan sequence, and that initiating the scan sequence will trigger an alarm. Do not alter the RichText tags.\n{0} is the name of the security scan. Example: Class II Alarm.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrer la séquence d'analyse de sécurité <color=red>[ALERTE\u00A0:{0} DÉTECTÉE]</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia sequenza scansione di sicurezza <color=red>[ATTENZIONE:{0} RILEVATO]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsscan-Sequenz starten <color=red>[WARNUNG:{0} ERKANNT]</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciar secuencia de escáner de seguridad <color=red>[AVISO:{0} DETECTADO]</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начать проверку безопасности <color=red>[ВНИМАНИЕ!{0}]</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar sequência de escaneamento de segurança <color=red>[AVISO:{0} DETECTADO/A]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij sekwencję skanowania bezpieczeństwa <color=red>[OSTRZEŻENIE:WYKRYTO {0}]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンシークエンス <color=red>を開始[警告:{0} 検知済み]</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 절차 시작 <color=red>[경고:{0} 감지됨]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟動安全掃描序列<color=red>[警告：偵測到{0}]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始安全扫描序列<color=red>[警告：探测到{0}]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.StartSecurityScan_X",
+  "internalEnabled": true,
+  "persistentID": 840
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Terminal Command",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Commande de terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminalbefehl",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando de terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Команда терминала",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comando do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Polecenie terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末コマンド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 명령",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "終端指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "终端命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand.Mainobjective_Header",
+  "internalEnabled": true,
+  "persistentID": 1433
+}

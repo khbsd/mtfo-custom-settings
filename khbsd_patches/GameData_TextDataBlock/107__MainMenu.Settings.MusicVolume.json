@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Music Volume",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume (musique)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume musiche",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Musiklautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen de música",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Громкость музыки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume da música",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność muzyki",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "BGM音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음악 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "音樂音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "音乐音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MusicVolume",
+  "internalEnabled": true,
+  "persistentID": 107
+}

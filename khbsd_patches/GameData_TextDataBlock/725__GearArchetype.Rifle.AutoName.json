@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Assault Rifle",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil d'assaut",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile d'assalto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sturmgewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de asalto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Штурмовая винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil de assalto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin szturmowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アサルトライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "돌격 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "突擊步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "突击步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Rifle.AutoName",
+  "internalEnabled": true,
+  "persistentID": 725
+}

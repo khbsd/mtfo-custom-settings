@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Short range\nVery high damage\nLarge blast Cone",
+  "Description": "Removed the \"three round Burst\" line since it was only relevant for an earlier version of the gun.\nAlso removed the word \"very\" before short range singe it is actually not the case",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Courte portée\nDégâts très élevés\nGrande explosion en cône",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Gittata breve\nDanni elevatissimi\nRosa ampia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kurze Reichweite\nSehr hoher Schaden\nGroßer Sprengkegel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Corto alcance\nDaño extremo\nGran cono de disparo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Малая дальность\nОчень высокий урон\nБольшое рассеивание дроби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Curto alcance\nDano muito alto\nCone explosivo amplo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Krótki zasięg\nBardzo duże obrażenia\nSzeroki stożek ostrzału",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近距離\n超高ダメージ\n拡散率大",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "단거리\n매우 높은 대미지\n확산 범위 큼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "短程\n極高傷害\n大型爆炸錐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近程\n超高伤害\n大范围锥形弹幕",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearArchetype.Scattergun.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 1400
+}

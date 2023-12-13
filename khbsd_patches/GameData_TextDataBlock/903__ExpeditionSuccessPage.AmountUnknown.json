@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "unknown",
+  "Description": "I.e. \"NRV probe reaction: unknown\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "inconnu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sconosciuta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "unbekannt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desconocida",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "нет данных",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "desconhecido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "nieznany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不明",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알 수 없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未知",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未知",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.AmountUnknown",
+  "internalEnabled": true,
+  "persistentID": 903
+}

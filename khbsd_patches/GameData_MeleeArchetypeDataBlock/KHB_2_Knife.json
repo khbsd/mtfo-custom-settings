@@ -1,0 +1,48 @@
+{
+  "PublicName": "Knife",
+  "NoiseLevel": 1,
+  "ChargedAttackDamage": 9.5,
+  "LightAttackDamage": 2.0,
+  "LightStaggerMulti": 1.75,
+  "ChargedStaggerMulti": 1.75,
+  "LightPrecisionMulti": 1.75,
+  "ChargedPrecisionMulti": 1.5,
+  "LightEnvironmentMulti": 0.8,
+  "ChargedEnvironmentMulti": 1.5,
+  "LightBackstabberMulti": 1.75,
+  "ChargedBackstabberMulti": 1.7,
+  "LightSleeperMulti": 1.75,
+  "ChargedSleeperMulti": 1.5,
+  "SkipLimbDestruction": false,
+  "CameraDamageRayLength": 1.75,
+  "AttackSphereRadius": 0.75,
+  "PushDamageSphereRadius": 0.7,
+  "CanHitMultipleEnemies": true,
+  "EvaluateHoldBeforeAttack": true,
+  "PlayImpactEffect": true,
+  "AllowRunningWhenCharging": true,
+  "PlayerRunSpeedMultiWhileCharging": 1.0,
+  "MeleeAnimationSet": 2,
+  "MeleeSFXSet": 2,
+  "ChargedAttackStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": true,
+    "resetRestingTimerOutOfCombat": true
+  },
+  "LightAttackStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": false,
+    "resetRestingTimerOutOfCombat": false
+  },
+  "PushStaminaCost": {
+    "baseStaminaCostInCombat": 0.0,
+    "baseStaminaCostOutOfCombat": 0.0,
+    "resetRestingTimerInCombat": false,
+    "resetRestingTimerOutOfCombat": false
+  },
+  "name": "Knife",
+  "internalEnabled": true,
+  "persistentID": 2
+}

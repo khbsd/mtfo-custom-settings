@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Heavy Assault Damage",
+  "Description": "I.e. how much damage you can deal with a heavy assault rifle.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de fusil d'assaut lourd",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da assalto pesante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sturmmörser-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de fusil de asalto pesado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (ручной пулемет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de fuzil pesado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od cięż. karabinu szturmowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘビーアサルトダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중돌격소총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重型突擊步槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重型突击步枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.HeavyAssaultDamageName",
+  "internalEnabled": true,
+  "persistentID": 553
+}

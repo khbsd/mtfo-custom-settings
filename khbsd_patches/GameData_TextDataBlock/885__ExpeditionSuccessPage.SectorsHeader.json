@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECTORS CLEARED:",
+  "Description": "A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is a headline for a list of the sectors the player(s) cleared in the expedition they just cleared.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SECTEURS TERMINÉS\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SETTORI COMPLETATI:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GERÄUMTE SEKTOREN:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECTORES COMPLETADOS:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАЧИЩЕННЫЕ СЕКТОРЫ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SETORES CONCLUÍDOS:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZYSZCZONE SEKTORY:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "クリアしたセクター:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "클리어한 섹터:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成分區：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已清理分区：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.SectorsHeader",
+  "internalEnabled": true,
+  "persistentID": 885
+}

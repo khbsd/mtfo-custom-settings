@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find Unsealer [ITEM_SERIAL] and use it to open the Hisec crate",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Trouvez le déverrouilleur [ITEM_SERIAL] et utilisez-le pour ouvrir la caisse HISEC.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare Dissigillatore [Unsealer] [ITEM_SERIAL] e usarlo per aprire la cassa HISEC",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Entsiegler [UNSEALER] [ITEM_SERIAL] und nutzen Sie ihn, um die [HISEC]-Kiste zu öffnen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el permeabilizador [Unsealer] [ITEM_SERIAL] y utilízalo para abrir la caja de HISEC.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите распечатыватель ([ITEM_SERIAL]) и с его помощью откройте контейнер HISEC.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o desselante [ITEM_SERIAL] e use-o para abrir a caixa HISEC",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź rozszczelniacz [ITEM_SERIAL] i użyj go do otwarcia skrzyni podwyższonego bezpieczeństwa",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "開封器[Unsealer][ITEM_SERIAL]を見つけ、それを使ってHISECクレートを開け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "언실러 [ITEM_SERIAL]를 찾아 하이섹 상자 열기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到啟封器[UNSEALER][ITEM_SERIAL]並用來開啟HISEC箱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到启封器[UNSEALER][ITEM_SERIAL]并用它来打开HISEC箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 3330853644
+}

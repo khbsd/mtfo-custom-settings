@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse Menu Sensitivity",
+  "Description": "A headline for the game setting where you choose the mouse sensitivity in the game's menus (i.e. the mouse pointer movement speed.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sensibilité de la souris (menu)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sensibilità mouse nel menu",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus-Menüempfindlichkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sensibilidad en menús (ratón)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чувствительность мыши в меню",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sensibilidade de menu do mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czułość w menu – mysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウスメニュー感度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스 메뉴 감도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠選單靈敏度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标菜单灵敏度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MouseMenuSensitivity",
+  "internalEnabled": true,
+  "persistentID": 87
+}

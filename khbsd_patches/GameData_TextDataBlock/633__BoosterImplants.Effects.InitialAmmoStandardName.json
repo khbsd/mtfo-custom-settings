@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Main ammo",
+  "Description": "Refers to the amount of ammunition available for the player's main weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Munitions principales",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Munizione principale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primärmunition",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Munición principal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Боеприпасы (основное оружие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Munição da principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Amunicja broni głównej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メイン弾薬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기본 탄약",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.InitialAmmoStandardName",
+  "internalEnabled": true,
+  "persistentID": 633
+}

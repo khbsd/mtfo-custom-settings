@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TO {0}",
+  "Description": "i.e. To zone_123",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "À {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "A {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZU {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PARA {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PARA {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DO {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}へ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BulkheadControllerScan.To_X",
+  "internalEnabled": true,
+  "persistentID": 1108
+}

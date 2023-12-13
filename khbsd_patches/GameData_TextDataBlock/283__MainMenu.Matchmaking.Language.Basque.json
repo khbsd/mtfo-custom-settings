@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Basque",
+  "Description": "A language spoken in Spain and France.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Basque",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Basco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Baskisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Euskera",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Баскский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Basco",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Baskijski",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バスク語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바스크어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "巴斯克文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "巴斯克语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Basque",
+  "internalEnabled": true,
+  "persistentID": 283
+}

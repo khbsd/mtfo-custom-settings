@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The Objective",
+  "Description": "Category title for the Communication List. Summarizes a group of dialog lines the player can use to communicate with his/her teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objectif",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Obiettivo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Das Ziel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El objetivo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O objetivo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Cel",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Category.TheObjective",
+  "internalEnabled": true,
+  "persistentID": 1465
+}

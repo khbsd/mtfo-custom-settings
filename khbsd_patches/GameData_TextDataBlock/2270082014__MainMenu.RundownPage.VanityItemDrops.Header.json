@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "prisoner apparel requisition",
+  "Description": "A formal, almost military, header to a list of instances where the \nprisoners are rewarded with apparel drops (new clothes items they can wear)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "réquisition de vêtements pour prisonniers",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "requisizione abbigliamento prigioniero",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Requisition von Gefangenenkleidung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entrega de artículos de prisionero",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "запрос на экипировку для заключенных",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "requisição de traje de prisioneiro",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "aprowizacja więźniów w sprzęt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人外装要求",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자 의복 조건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯服裝徵用",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯服装申领",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.VanityItemDrops.Header",
+  "internalEnabled": true,
+  "persistentID": 2270082014
+}

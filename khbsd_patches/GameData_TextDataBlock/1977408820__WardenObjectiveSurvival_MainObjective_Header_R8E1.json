@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING:</color> System malfunction. Power performance unpredictable.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0:</color> Dysfonctionnement du système. Performances de l'alimentation imprévisibles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE:</color> malfunzionamento del sistema. Prestazioni energetiche imprevedibili.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG:</color> Systemfehler. Leistung unberechenbar.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA:</color> Fallo en el sistema. Poder de rendimiento impredecible.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ!</color> Ошибка системы. Возможны перебои питания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO:</color> Mal funcionamento no sistema. Suprimento de energia imprevisível.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE:</color> Awaria systemu. Stabilność zasilania niepewna.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：</color>システムの不具合。電源性能が予測不可能。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고:</color> 시스템 오작동. 전력 성능 예측 불가.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：</color>系統故障。電源效能無法預測。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：</color>系统故障。电源性能不可预测。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "WardenObjectiveSurvival_MainObjective_Header_R8E1",
+  "internalEnabled": true,
+  "persistentID": 1977408820
+}

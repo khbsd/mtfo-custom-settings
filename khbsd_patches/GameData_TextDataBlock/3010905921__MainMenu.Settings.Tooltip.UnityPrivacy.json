@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Click here to read more about Unitys Privacy settings. Ability to request your data and opt-out of data collection.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cliquez ici pour en savoir plus sur les paramètres de confidentialité d'Unity. Vous pouvez demander vos données et refuser la collecte de données.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Clicca qui per ulteriori informazioni sulle impostazioni della Privacy di Unity. Possibilità di richiedere i propri dati e di revocare l'autorizzazione alla loro raccolta.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier klicken, um mehr über die Datenschutzeinstellungen von Unitys zu erfahren. Sie haben die Möglichkeit, Ihre Daten anzufordern und der Datenerfassung zu widersprechen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Haz clic aquí para obtener más información sobre los ajustes de privacidad de Unity. Puedes elegir que no se recopilen tus datos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите здесь, чтобы узнать подробнее о настройках конфиденциальности Unity. Вы можете запросить свои данные или отказаться от сбора данных.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Clique aqui para ler mais sobre as configurações de privacidade da Unitys. Possibilidade de solicitar seus dados e cancelar a coleta de dados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kliknij tutaj, aby dowiedzieć się więcej na temat Polityki prywatności Unity. Możliwość uzyskania danych na żądanie i rezygnacji z gromadzenia danych.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Unityのプライバシー設定に関する詳細は、ここをクリックしてください。あなたのデータを要求できることとデータ収集のオプトアウトについてです。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Unity 개인정보 취급방침을 자세히 알아보려면 여기를 클릭하십시오. 데이터를 요청하고 데이터 수집을 거부할 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按此處閱讀關於Unity隱私權設定的更多資訊。要求收集你的資料與選擇退出資料收集的權限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "点击此处阅读更多有关Unity隐私设置的信息。你可以请求你的数据以及选择不参加数据收集。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.UnityPrivacy",
+  "internalEnabled": true,
+  "persistentID": 3010905921
+}

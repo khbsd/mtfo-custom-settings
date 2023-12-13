@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Always show teammate info",
+  "Description": "In the 1st person view, the player can aim at a teammate to make an info box appear, showing the teammate's health, ammo, etc. This \"Always show teammate info\" game setting allows the user to have these info boxes be permanently showing.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Toujours afficher les infos des coéquipiers",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mostra sempre info compagno di squadra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Teammitglieder-Info immer anzeigen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ver siempre información de compañeros",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Всегда показывать сведения о напарниках",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sempre mostrar informações do aliado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zawsze pokazuj informacje o członku drużyny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チームメイト情報を常に表示",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "팀원 정보 항상 표기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "永遠顯示隊友資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "始终显示队友信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AlwaysShowTeammateInfo",
+  "internalEnabled": true,
+  "persistentID": 122
+}

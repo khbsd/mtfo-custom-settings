@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warden Artifact: {0}",
+  "Description": "{0} is one of the artifact categories: Muted, Bold or Aggressive.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Artefact du gardien\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Manufatto guardiano: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aufseher-Artefakt: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Artefacto de guardián: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Артефакт смотрителя: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Artefato da guarda: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Artefakt strażnika: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ウォーデンアーティファクト： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "교도관 아티팩트: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "典獄長寶物：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "督察红晶：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.WardenArtifact_X",
+  "internalEnabled": true,
+  "persistentID": 1994337092
+}

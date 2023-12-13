@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING! -- SURGE IMMINENT! --- SECTOR SWARMED!",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ALERTE\u00A0! -- ARRIVÉE IMMINENTE\u00A0! --- SECTEUR ENVAHI\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE! -- ONDATA IMMINENTE! --- SETTORE INVASO!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! – WELLE STEHT BEVOR! – SEKTOR ÜBERRANT!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ADVERTENCIA! ¡SOBRECARGA INMINENTE! ¡EL SECTOR ESTÁ PLAGADO!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! НАПЛЫВ БИОМАССЫ! СЕКТОР ЗАПОЛНЕН!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO! — Pico iminente! — SETOR INFESTADO!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE – FALA NIEUNIKNIONA – SEKTOR OPANOWANY!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！ -- 暴走寸前！ --- セクターに大群襲来！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! -- 급증 임박! --- 섹터 내 개체 수 대량 증가!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！大批敵人逼近！--- 分區爆滿！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！ -- 涌现来临！ --- 分区已挤满！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_On_Complete_Intel_lost_4",
+  "internalEnabled": true,
+  "persistentID": 1380
+}

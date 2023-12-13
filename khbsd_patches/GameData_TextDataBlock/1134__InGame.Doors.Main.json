@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAIN",
+  "Description": "Difficulty level shown on doors.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRINCIPALE",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HAUPT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГЛАВН.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRINCIPAL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "GŁÓWNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "主",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "主要",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "主要",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Doors.Main",
+  "internalEnabled": true,
+  "persistentID": 1134
+}

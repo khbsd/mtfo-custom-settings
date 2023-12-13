@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Initiate containment zone purge on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lancez la purge de la zone de confinement depuis le terminal\u00A0[ITEM_SERIAL]. Utilisez la commande de sécurité suivante\u00A0: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inizializzare depurazione zona di contenimento su terminale [ITEM_SERIAL]. Utilizzare il seguente comando di sicurezza: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Initiieren Sie die Reinigung der Eindämmungszone an Terminal [ITEM_SERIAL]. Nutzen Sie den folgenden Sicherheitsbefehl: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la purga de la zona de contención en el terminal [ITEM_SERIAL]. Utiliza el siguiente comando de seguridad: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите очистку зоны сдерживания на терминале [ITEM_SERIAL]. Используйте следующую команду безопасности: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie a expurgação de zona de contenção no terminal [ITEM_SERIAL]. Use o comando de segurança a seguir: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uruchom czyszczenie strefy izolacji w terminalu [ITEM_SERIAL]. Użyj następującego polecenia zabezpieczenia: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末[ITEM_SERIAL]で封鎖Zone浄化を開始せよ。次のセキュリティコマンドを使用: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 [ITEM_SERIAL]에서 격리 구역 제거 시행. 다음 보안 명령 사용: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ITEM_SERIAL]終端上啟動隔離區淨化。使用以下安全指令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在终端[ITEM_SERIAL]上发起控制区清除。使用以下安全命令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Warden.Objective.Main_R7C3_L2",
+  "internalEnabled": true,
+  "persistentID": 2386399507
+}

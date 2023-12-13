@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use Terminal",
+  "Description": "I.e. \"use this computer terminal.\" This text string appears on screen when the player is standing close to a computer terminal, to indicate that they can use the terminal by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utiliser le terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminal benutzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usar terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末を使う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 사용",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.UseTerminal",
+  "internalEnabled": true,
+  "persistentID": 860
+}

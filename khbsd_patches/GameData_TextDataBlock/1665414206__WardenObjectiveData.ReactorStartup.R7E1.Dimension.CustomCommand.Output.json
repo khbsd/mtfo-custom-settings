@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Matter Wave link established. Initializing…</color",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>Lien de vague de matière établi. Initialisation...</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Collegamento onda di materia stabilito. Inizializzazione...</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Materiewellenlink hergestellt. Wird initialisiert …</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Enlace de onda de materia establecido. Inicializando...</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Установлено подключение материальной волны. Инициализация...</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Link de onda de matéria estabelecido. Inicializando…</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Łącze fal materii ustanowione. Inicjowanie…</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>マターウェーブリンク確立。初期化中...</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>물질파 연결 설정됨. 시작 중...</color",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>物質波連結已建立。正在初始化……</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>物质波链接已建立。正在初始化……</color",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.ReactorStartup.R7E1.Dimension.CustomCommand.Output",
+  "internalEnabled": true,
+  "persistentID": 1665414206
+}

@@ -1,0 +1,21 @@
+{
+  "SpawnsPerZone": 5,
+  "ChanceToSpawnInResourceContainer": 0.2,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 5.0
+    },
+    {
+      "ItemID": 140,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 1.0
+    }
+  ],
+  "name": "Small_fog_Tech_Alt",
+  "internalEnabled": true,
+  "persistentID": 74
+}

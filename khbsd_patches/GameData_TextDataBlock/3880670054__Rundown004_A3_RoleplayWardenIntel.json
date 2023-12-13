@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<size=200%><color=red>>...We're running out of resources...</color></size>\r\n>...At least we have the foam grenades, might as well put them to good use.",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<size=200%><color=red>>... On va tomber à court de ressources...</color></size>\r\n>... Au moins, il nous reste les grenades à mousse. Autant les utiliser à bon escient.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<size=200%><color=red>>...Stiamo finendo le risorse...</color></size>\r\n>...Almeno abbiamo le granate a schiuma, tanto vale sfruttarle.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<size=200%><color=red>>… Unsere Ressourcen werden knapp …</color></size>\r\n>… Immerhin haben wir die Foam-Granaten, dann können wir die auch sinnvoll einsetzen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<size=200%><color=red>>Nos estamos quedando sin recurso...</color></size>\r\n>Por lo menos, nos quedan las granadas de espuma. Será mejor aprovecharlas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<size=200%><color=red>>...Ресурсы на исходе.</color></size>\r\n>...Ну хоть пенные гранаты остались. Еще могут пригодиться.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<size=200%><color=red>>...Estamos ficando sem recursos...</color></size>\r\n>...Pelo menos ainda temos as granadas de espuma, talvez seja a hora de começar a usar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<size=200%><color=red>>...Kończą się nam zasoby...</color></size>\r\n>...Mamy przynajmniej granaty piankowe, pora zrobić z nich dobry użytek.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<size=200%><color=red>>...リソースがなくなりそうだ...</color></size>\r\n>...少なくともフォームグレネードはある。うまく使おう。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<size=200%><color=red>>...자원이 부족하다...</color></size>\r\n>...적어도 품 수류탄은 있으니 잘 사용해야지.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<size=200%><color=red>>…資源快耗盡了……</color></size>\r\n>…幸好還有泡沫榴彈，不用白不用。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<size=200%><color=red>>...我们的资源不够了...</color></size>\r\n>...至少我们有结沫弹，不妨好好利用它们。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown004_A3_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 3880670054
+}

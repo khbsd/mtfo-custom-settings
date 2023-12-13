@@ -1,0 +1,14 @@
+{
+  "RoleDatas": [
+    {
+      "Role": 6,
+      "Difficulty": 0,
+      "Enemy": 32,
+      "Cost": 1.0,
+      "Weight": 1.0
+    }
+  ],
+  "name": "PatrolDebug",
+  "internalEnabled": true,
+  "persistentID": 6
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TRAINING",
+  "Description": "A button that takes player to a training level.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ENTRAÎNEMENT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ADDESTRAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "TRAINING",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENTRENAMIENTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОБУЧЕНИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TREINAMENTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SZKOLENIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "訓練",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "훈련",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "訓練",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "培训",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.TrainingButton",
+  "internalEnabled": true,
+  "persistentID": 2151984317
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "External timed verification protocol 1.531.bioSec",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Protocole de vérification externe chronométré 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Protocollo di verifica a tempo esterno 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Externes zeitgesteuertes Verifizierungsprotokoll 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Protocolo externo de verificación cronometrada 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внешний синхронизированный протокол верификации 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Protocolo de verificação cronometrada externo 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Protokół zewnętrznej weryfikacji czasowej 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "外部同期認証プロトコル 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "외부 시한 승인 프로토콜 1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "外部限時驗證協定1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "外部定时验证协议1.531.bioSec",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalConnect_ExternalProtocol",
+  "internalEnabled": true,
+  "persistentID": 1816779383
+}

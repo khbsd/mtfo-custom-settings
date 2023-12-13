@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "We need a terminal",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "On doit trouver le terminal",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ci serve un terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wir brauchen ein Terminal",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Necesitamos una terminal",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужен терминал",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Precisamos de um terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Potrzebujemy terminala",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末が必要だ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널이 필요해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我們需要終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我们需要终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.We_need_a_terminal",
+  "internalEnabled": true,
+  "persistentID": 1313
+}

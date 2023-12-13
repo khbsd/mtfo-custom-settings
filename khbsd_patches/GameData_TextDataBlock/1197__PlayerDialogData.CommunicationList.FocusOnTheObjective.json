@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Focus on the objective!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Concentrez-vous sur l'objectif\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Concentratevi sull'obiettivo!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auf das Ziel konzentrieren!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Céntrate en el objetivo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сосредоточимся на цели!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Foco no objetivo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skupić się na celu!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標に集中しろ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표에 집중해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "專心在目標上！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "专注在目标上！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.FocusOnTheObjective",
+  "internalEnabled": true,
+  "persistentID": 1197
+}

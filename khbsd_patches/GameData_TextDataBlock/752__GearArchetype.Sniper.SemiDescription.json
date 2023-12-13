@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nLong range\nHollow point rounds\nVery high precision damage",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nLongue portée\nBalles à pointe creuse\nDégâts de précision très élevés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata lunga\nPallottole a espansione\nColpi estremamente precisi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nGroße Reichweite\nHohlspitzgeschosse\nSehr präzise Schäden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nLargo alcance\nBalas de punta hueca\nDaño de precisión muy elevado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nБольшая дальность\nЭкспансивные пули\nБольшой урон и высокая точность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomático\nLongo alcance\nMunição de ponta oca\nMuito dano de alta precisão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nDługi dystans\nPociski półpłaszczowe z wgłębieniem wierzchołkowym\nDuże obrażenia i precyzja",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n長距離\nホローポイント弾\n特大精密ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n장거리\n할로우 포인트탄\n매우 높은 정밀 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n長程\n中空彈\n非常精確的傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n远程\n空尖子弹\n超高精准伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Sniper.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 752
+}

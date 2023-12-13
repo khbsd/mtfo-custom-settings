@@ -1,0 +1,18 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Rifle_3.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 30,
+    "BundleShard": 1
+  },
+  "Aligns": [
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Rifle_3",
+  "internalEnabled": true,
+  "persistentID": 13
+}

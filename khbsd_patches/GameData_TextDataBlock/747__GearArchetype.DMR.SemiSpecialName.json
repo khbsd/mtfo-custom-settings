@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DMR",
+  "Description": "A firearm category. \"DMR\" stands for \"designated marksman rifle.\"",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DMR",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile da battaglia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "DMR",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de tirador designado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Марксманская винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DMR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin wyborowy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "DMR",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "DMR",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "精準步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "精确步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.DMR.SemiSpecialName",
+  "internalEnabled": true,
+  "persistentID": 747
+}

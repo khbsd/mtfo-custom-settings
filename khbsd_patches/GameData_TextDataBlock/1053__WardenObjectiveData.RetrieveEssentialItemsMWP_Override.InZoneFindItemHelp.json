@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING - UNKNOWN ENERGY SIGNATURE DETECTED - Proceed with caution",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT - SIGNATURE ÉNERGÉTIQUE INCONNUE DÉTECTÉE - Soyez prudent",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE - RILEVATA TRACCIA ENERGETICA SCONOSCIUTA - Procedere con cautela",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG – UNBEKANNTE ENERGIESIGNATUR ENTDECKT – Gehen Sie mit Vorsicht vor",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: SEÑAL DE ENERGÍA DESCONOCIDA DETECTADA. CUIDADO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! ОБНАРУЖЕНЫ СЛЕДЫ НЕИЗВЕСТНОЙ ЭНЕРГИИ. Действуйте осторожно.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO — ASSINATURA ENERGÉTICA DESCONHECIDA DETECTADA - Prossiga com cautela",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: WYKRYTO NIEZNANĄ SYGNATURĘ ENERGII – należy zachować ostrożność.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告 - 未知のエネルギーシグネチャを検出 - 注意して進むこと",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고 - 미확인 에너지 신호 탐지 - 주의해서 접근할 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告 - 偵測到未知能量標識 - 謹慎進行",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告 - 检测到未知能量特征 - 谨慎推进",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.InZoneFindItemHelp",
+  "internalEnabled": true,
+  "persistentID": 1053
+}

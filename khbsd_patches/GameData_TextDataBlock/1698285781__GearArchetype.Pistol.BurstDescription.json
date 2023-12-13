@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Two shot burst\nShort to mid range\nBalanced recoil",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rafale de deux balles\nCourte à moyenne portée\nRecul équilibré",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raffica a due colpi\nGittata da breve a media\nRinculo equilibrato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "2-Schuss-Salve\nKurze bis mittlere Reichweite\nAusgewogener Rückstoß",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Disparo doble\nCorto a medio alcance\nRetroceso equilibrado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очередь по два выстрела\nМалая или средняя дальность\nУмеренная отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Disparo duplo\nCurto a médio alcance\nRecuo equilibrado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dwustrzałowa salwa\nKrótki i średni dystans\nUmiarkowany odrzut",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "2点バースト\n近距離から中距離\nバランスの取れた反動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "2발 점사\n중단거리\n안정된 반동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "二連發\n中短程\n平衡後座力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "两连发\n近到中程\n后坐力中等",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "GearArchetype.Pistol.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 1698285781
+}

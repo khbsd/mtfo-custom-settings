@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Equip Weapon",
+  "Description": "As in \"equip this weapon.\" In the list over available weapons the player can choose from, this button equips the currently selected weapon, i.e. it confirms the player's choice of weapon.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Équiper l'arme",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Equipaggia arma",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Waffe ausrüsten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Equipar arma",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Использовать оружие",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Equipar arma",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyposaż broń",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器を装備",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기 장비",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "配備武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "装备武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.EquipWeapon",
+  "internalEnabled": true,
+  "persistentID": 491
+}

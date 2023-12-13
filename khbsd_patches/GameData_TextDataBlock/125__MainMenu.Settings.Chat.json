@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Chat",
+  "Description": "A headline for game settings related to the HUD's chat log.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chat",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chat",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Chat",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chat",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чат",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chat",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czat",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "チャット",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "채팅",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "聊天",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "聊天",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Chat",
+  "internalEnabled": true,
+  "persistentID": 125
+}

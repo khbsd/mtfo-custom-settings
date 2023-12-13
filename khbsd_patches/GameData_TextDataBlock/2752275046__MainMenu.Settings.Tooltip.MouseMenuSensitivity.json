@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The speed of your mouse in the menus. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la vitesse de déplacement de la souris dans les menus.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità del mouse nei menu.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Geschwindigkeit Ihrer Maus in Menüs.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La velocidad del ratón en los menús.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость перемещения мыши в меню.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A velocidade do seu mouse nos menus.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość ruchu myszy w menu.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニューでのマウスの速度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴의 마우스 속도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠在選單中的速度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标在菜单中的速度。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MouseMenuSensitivity",
+  "internalEnabled": true,
+  "persistentID": 2752275046
+}

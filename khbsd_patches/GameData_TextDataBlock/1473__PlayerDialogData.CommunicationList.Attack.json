@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Attack.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Attaquez.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attacco.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Angreifen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ataca.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В атаку.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ataque.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Atakować.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "攻撃しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공격해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "攻擊。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "攻击。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Attack",
+  "internalEnabled": true,
+  "persistentID": 1473
+}

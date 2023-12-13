@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency lockdown lifted. Door to [ZONE_4] unlocked.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillage d'urgence désactivé. Porte vers la [ZONE_4] déverrouillée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento d'emergenza revocato. Porta per [ZONE_4] sbloccata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notverriegelung aufgehoben. Tür zu [ZONE_4] entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia anulado. La puerta a la [ZONE_4] está desbloqueada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим изоляции отменен. Дверь в [ZONE_4] открыта.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento de emergência desativado. Porta para [ZONE_4] destrancada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada awaryjna zniesiona. Drzwi do strefy 4 [ZONE_4] odblokowane.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急封鎖解除。[ZONE_4]へのドアを開錠。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 폐쇄 해제됨. [ZONE_4] 문 개방됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緊急封鎖已解除。通往[ZONE_4]的門已解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "紧急封锁已解除。通往[ZONE_4]的门已解锁。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.DistributePowerCells_2_R4E1_L1.OnGotoWin_WardenIntel",
+  "internalEnabled": true,
+  "persistentID": 2084756978
+}

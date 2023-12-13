@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.03137255,
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.7137255
+  },
+  "FogDensity": 0.007,
+  "FogAmbience": 0.0001,
+  "DensityNoiseDirection": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "magnitude": 1.0,
+    "sqrMagnitude": 1.0
+  },
+  "DensityNoiseSpeed": 0.065,
+  "DensityNoiseScale": 0.045,
+  "DensityHeightAltitude": 3.0,
+  "DensityHeightRange": 0.5,
+  "DensityHeightMaxBoost": 0.0006,
+  "Infection": 0.03,
+  "name": "Fog_light_inverted_mid3_INFECTION",
+  "internalEnabled": true,
+  "persistentID": 82
+}

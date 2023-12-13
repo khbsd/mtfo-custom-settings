@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ERROR! -- Critical Malfunction! ---Sequence terminated!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ERREUR\u00A0! -- Dysfonctionnement critique\u00A0! ---Séquence interrompue\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ERRORE! -- Malfunzionamento critico! ---Sequenza terminata!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER! – Kritische Fehlfunktion! – Sequenz abgebrochen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡ERROR! ¡Fallo crítico! ¡Secuencia finalizada!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОШИБКА! Критический сбой! Цикл остановлен!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ERRO! -- Malfuncionamento crítico! --- Sequência cancelada!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BŁĄD – awaria krytyczna – sekwencja zakończona!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー！ -- 危機的動作不良！ ---シークエンス終了！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류! -- 치명적 작동 오류! --- 절차 종료!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤！-- 嚴重故障！--- 序列已終止！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误！-- 关键故障！--- 序列已终止！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R5D2_L1.ReactorWave_Intel_8",
+  "internalEnabled": true,
+  "persistentID": 3309452783
+}

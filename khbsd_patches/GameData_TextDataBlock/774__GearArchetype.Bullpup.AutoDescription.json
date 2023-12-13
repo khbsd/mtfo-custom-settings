@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": true,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nHigh firerate\nBalanced recoil\nMedium range",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nCadence de tir élevée\nRecul équilibré\nMoyenne portée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nElevata cadenza di tiro\nRinculo equilibrato\nGittata media",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nHohe Feuerrate\nAusgewogener Rückstoß\nMittlere Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automático\nCadencia de tiro alta\nRetroceso equilibrado\nMedio alcance",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nВысокая скорострельность\nУмеренная отдача\nСредняя дальность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automático\nAlta cadência de tiros\nRecuo equilibrado\nMédio alcance",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nWysoka szybkostrzelność\nUmiarkowany odrzut\nŚredni dystans",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n高速連射\nバランスの取れたリコイル\n中距離",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n높은 발사 속도\n안정된 반동\n중거리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n高射速\n平衡後座力\n中程",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n高射速\n后坐力中等\n中程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Bullpup.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 774
+}

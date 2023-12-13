@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the item somewhere inside <color=orange>ZONE 80</color>",
+  "Description": "Don't localize ZONE 80.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez l'objet situé quelque part dans la <color=orange>ZONE\u00A080</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare l'oggetto nella <color=orange>ZONE 80</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Gegenstand irgendwo in <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el objeto en algún lugar de la <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет в <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o item em algum lugar dentro da <color=orange>ZONE 80</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź przedmiot gdzieś wewnątrz <color=orange>strefy 80 [ZONE_80]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 80</color>内のどこかにあるアイテムを見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 80</color> 어딘가에서 아이템 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>ZONE 80</color>內的某處尋找物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到位于<color=orange>ZONE 80</color>内某处的物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 1052
+}

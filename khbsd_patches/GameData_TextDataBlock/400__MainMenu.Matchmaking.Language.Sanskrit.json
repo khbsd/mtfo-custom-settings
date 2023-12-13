@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sanskrit",
+  "Description": "A language spoken in India and throughout South Asia.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sanskrit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sanscrito",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sanskrit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sánscrito",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Санскрит",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sânscrito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sanskryt",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サンスクリット語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "산스크리트어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "梵文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "梵语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Sanskrit",
+  "internalEnabled": true,
+  "persistentID": 400
+}

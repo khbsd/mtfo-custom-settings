@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red> Warning. </color> Outer perimeter breached.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red> Alerte. </color> Brèche détectée dans le périmètre extérieur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red> Attenzione. </color> Perimetro esterno violato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Warnung.</color> Äußere Sicherungslinie durchbrochen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red> Advertencia. </color> Violación del perímetro externo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Внимание!</color> Внешний периметр нарушен.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red> Aviso. </color> Perímetro externo violado.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red> Ostrzeżenie. </color> Naruszono zewnętrzny obwód.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告。</color>外部防御線が破損。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red> 경고. </color> 외부 침입자 발생.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告。</color>外圍遭到侵害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告。</color>外围已被破坏。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjective.SubObjective.DX.BreachWarning_Incomming",
+  "internalEnabled": true,
+  "persistentID": 2831289700
+}

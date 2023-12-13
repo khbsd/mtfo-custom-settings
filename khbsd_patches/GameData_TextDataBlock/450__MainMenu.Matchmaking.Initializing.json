@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "INITIALIZING...",
+  "Description": "A text string that indicates that the matchmaking is underway.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "INITIALISATION...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INIZIALIZZAZIONE...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "INITIALISIERUNG LÄUFT ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INICIALIZANDO...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАПУСК...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INICIALIZANDO...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "INICJOWANIE...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "初期化中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "초기화 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在初始化……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在初始化……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Initializing",
+  "internalEnabled": true,
+  "persistentID": 450
+}

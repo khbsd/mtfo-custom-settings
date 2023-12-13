@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to Plant Nursery in <color=orange>ZONE 425</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rendez-vous dans la pépinière de la <color=orange>ZONE\u00A0425</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere il vivaio in <color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Begeben Sie sich zur Gärtnerei in <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Continúa hasta el vivero en la <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь в теплицу в <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prosseguir para o Berçário de Plantas na <color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do plantacji roślin w <color=orange>strefie 425 [ZONE_425]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 425</color>の育種所へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 425</color>의 묘목밭으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往<color=orange>ZONE 425</color>的苗圃",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往<color=orange>ZONE 425</color>中的苗圃",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_23",
+  "internalEnabled": true,
+  "persistentID": 1584476049
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Max render queue frames",
+  "Description": "Controls the maximum amount of frames the graphics driver is allowed to queue up for rendering. A smaller value can reduce input latency, but might result in an overall lower framerate.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "File d'attente de rendu maximum",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Max fotogrammi in coda per rendering",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Max. Renderwarteschlangen-Frames",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fotogramas máximos en cola",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Макс. количество кадров в буфере",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Quadros de fila de renderização máx.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Limit kolejki renderowania klatek",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "最大レンダーキューフレーム",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "최대 렌더 큐 프레임",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "渲染佇列幀數上限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "最大渲染队列帧数",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MaxRenderQueueFrames",
+  "internalEnabled": true,
+  "persistentID": 101
+}

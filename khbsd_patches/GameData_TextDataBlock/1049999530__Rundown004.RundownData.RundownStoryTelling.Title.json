@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>ALT://</color>RUNDOWN #4.0\r\nTITLE: CONTACT",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>ALT://</color>CAMPAGNE #4.0\r\nTITRE\u00A0: CONTACT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>ALT://</color>PERLUSTRAZIONE #4.0\r\nTITOLO: CONTATTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>ALT://</color>RUNDOWN #4.0\r\nTITEL: KONTAKT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>ALT://</color>CAMPAÑA #4.0\r\nTÍTULO: CONTACTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВАРИАНТ://</color>КАМПАНИЯ №\u00A04.0.\r\nНАЗВАНИЕ: КОНТАКТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>ALT://</color>CAMPANHA #4.0\r\nTÍTULO: CONTATO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>ALT://</color>EKSTRAKCJA #4.0\r\nTYTUŁ: KONTAKT",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>別://</color>ランダウン#4.0\r\nタイトル：接触",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>대체://</color>런다운 #4.0\r\n타이틀: 접촉",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>替代://</color>遠征綱要#4.0\r\n標題：接觸",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ALT://</color>行动#4.0\r\n标题：接触",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown004.RundownData.RundownStoryTelling.Title",
+  "internalEnabled": true,
+  "persistentID": 1049999530
+}

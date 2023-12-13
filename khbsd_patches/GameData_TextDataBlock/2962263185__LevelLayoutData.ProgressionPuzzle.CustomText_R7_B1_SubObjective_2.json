@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Take the <color=orange>Collection case</color> to the <color=orange>Shuttlebox</color>",
+  "Description": "\"Collection Case\" should not be translated",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Apportez le <color=orange>Collection case</color> à la <color=orange>boîte à navette</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare il <color=orange>Collection case</color> alla <color=orange>scatola di trasferimento</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie den <color=orange>Collection case</color> zur <color=orange>Transferbox</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva la <color=orange>Collection case</color> a la <color=orange>caja de ida y vuelta</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите <color=orange>Collection case</color> к <color=orange>подъемнику</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Leve a <color=orange>Collection case</color> até a <color=orange>caixa de vaivém</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zanieś <color=orange>Collection case</color> do <color=orange>skrzynki transportowej</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Collection case</color>を<color=orange>シャトルボックス</color>へ運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>Collection case</color>를 <color=orange>셔틀 박스</color>로 가지고 가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<color=orange>Collection case</color>帶到<color=orange>穿梭箱</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<color=orange>Collection case</color>拿到<color=orange>穿梭箱</color>中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_B1_SubObjective_2",
+  "internalEnabled": true,
+  "persistentID": 2962263185
+}

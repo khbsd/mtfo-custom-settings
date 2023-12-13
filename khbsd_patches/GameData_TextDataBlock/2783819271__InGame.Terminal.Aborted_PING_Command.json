@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Aborted PING Command",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Commande PING annulée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando PING annullato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PING-Befehl abgebrochen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando PING abortado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Команда PING отменена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Suspendeu comando PING",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przerwano polecenie OZNACZANIA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "PINGコマンドを中断",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중단된 PING 명령",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已中斷PING指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已中断PING命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "InGame.Terminal.Aborted_PING_Command",
+  "internalEnabled": true,
+  "persistentID": 2783819271
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UPLINK VERIFICATION: {0}",
+  "Description": "A headline for a verification (a password) needed in order to establish a computer connection (an uplink.) \"{0}\" will be replaced by the \"password\", do not alter those characters.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "VÉRIFICATION DE LIAISON MONTANTE\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "VERIFICA UPLINK: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UPLINK-VERIFIZIERUNG: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENLACE DE VERIFICACIÓN: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПАРОЛЬ ПОДКЛЮЧЕНИЯ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "VERIFICAÇÃO DE UPLINK: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WERYFIKACJA ŁĄCZA: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク認証: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 확인: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "上行驗證：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "上行链路验证：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.UplinkVerification_X",
+  "internalEnabled": true,
+  "persistentID": 882
+}

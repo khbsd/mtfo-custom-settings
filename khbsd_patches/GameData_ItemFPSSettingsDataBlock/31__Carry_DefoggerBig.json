@@ -1,0 +1,127 @@
+{
+  "localPosHip": {
+    "x": -0.1,
+    "y": -0.3,
+    "z": 0.63,
+    "normalized": {
+      "x": -0.141861811,
+      "y": -0.425585449,
+      "z": 0.8937294,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.704911351,
+    "sqrMagnitude": 0.4969
+  },
+  "localRotHip": {
+    "x": 30.71,
+    "y": -12.9,
+    "z": 7.0,
+    "normalized": {
+      "x": 0.90225476,
+      "y": -0.3789999,
+      "z": 0.205658853,
+      "normalized": {
+        "x": 0.902254641,
+        "y": -0.378999829,
+        "z": 0.205658823,
+        "normalized": {
+          "x": 0.9022547,
+          "y": -0.378999859,
+          "z": 0.205658838,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 1.00000012,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 34.03695,
+    "sqrMagnitude": 1158.514
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.03,
+    "y": -0.05,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.06611394,
+      "y": -0.110189915,
+      "z": 0.9917092,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.453762054,
+    "sqrMagnitude": 0.205899984
+  },
+  "localRotRelaxed": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localPosZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 45,
+  "ItemCameraFOVZoom": 25,
+  "LookCameraFOVZoom": 40,
+  "canAim": false,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 0,
+  "WalkAnimation": 9,
+  "RunAnimation": 10,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "Carry_DefoggerBig",
+  "internalEnabled": true,
+  "persistentID": 31
+}

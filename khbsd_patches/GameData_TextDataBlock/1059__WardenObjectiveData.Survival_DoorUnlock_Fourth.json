@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Primary security server rebooted. Elevator access granted.",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Serveur de sécurité principal redémarré. Accès à l'ascenseur autorisé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Server di sicurezza primario riavviato. Autorizzato accesso all'ascensore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Primäre Sicherheitsroutine wurde neu gestartet. Zugang zum Aufzug gewährt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Servidor de seguridad principal reiniciado. Acceso a ascensor concedido.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Основная система безопасности перезагружена. Доступ к подъемнику открыт.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Servidor de segurança primária reinicializado. Acesso ao elevador concedido.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Główny serwer zabezpieczeń uruchomiony ponownie. Przyznano dostęp do windy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プライマリセキュリティサーバー再起動完了。エレベーターアクセス取得。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주 보안 시스템 서버 재부팅 완료. 엘리베이터 접근 허가됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "一級安全伺服器重新啟動。授予電梯存取權限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一级安全服务器已重启。电梯访问权限已开放。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival_DoorUnlock_Fourth",
+  "internalEnabled": true,
+  "persistentID": 1059
+}

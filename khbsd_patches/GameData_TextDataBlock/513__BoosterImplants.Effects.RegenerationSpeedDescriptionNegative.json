@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will regenerate health slower.",
+  "Description": "Describes the disadvantage of having a poor \"regeneration speed\" value. Essentially this means that when the subject's own health is regenerating, it will go slower than usual.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet régénère sa santé moins rapidement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La salute del soggetto migliorerà più lentamente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson regeneriert Gesundheit langsamer.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto recuperará salud más despacio.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здоровье восстанавливается медленнее.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo regenera saúde mais devagar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie wolniej regenerował zdrowie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の体力リジェネが遅くなる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상의 체력이 더 늦게 회복됩니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象生命值恢復速度較慢。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生命值恢复速度减慢。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.RegenerationSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 513
+}

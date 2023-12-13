@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Navigation database rebuild required. Prisoners sent to gather all PIDs from designated area. \r\n\r\n##WARNING: High fatality rate presumed## ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Reconstruction de la base de données de navigation requise. Les prisonniers ont été envoyés pour récupérer toutes les pièces d’identité de la zone appropriée.\r\n\r\n##AVERTISSEMENT\u00A0: Taux de mortalité élevé présumé##",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesta ricostruzione database navigazione. Prigionieri inviati a raccogliere tutti gli ID del personale nell'area designata. \r\n\r\n##ATTENZIONE: stimato elevato tasso di mortalità##",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Wiederherstellung der Navigationsdatenbank erforderlich. Gefangene entsandt, um alle PIDs aus angegebenem Gebiet zu sammeln.\r\n\r\n##WARNUNG: Hohe Mortalitätsrate erwartet##",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se necesita reconstruir la base de datos de navegación. Prisioneros destinados a reunir todas las ID de personal de la zona designada. \r\n\r\n##ADVERTENCIA: Índice de letalidad en los prisioneros se estima como elevado##",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется реконструкция навигационной базы данных. Заключенным поручено собрать идентификаторы в указанной области.\r\n\r\n##ВНИМАНИЕ! Потенциально высокая смертность.##",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reconstrução de banco de dados de navegação necessária. Prisioneiros enviados para coletar todos os IDs de pessoal na área determinada. \r\n\r\n##AVISO: Alta taxa de mortalidade esperada## ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagana odbudowa bazy danych lokalizacyjnych. Wysłano więźniów, aby zebrać wszystkie identyfikatory pracownicze w wyznaczonym obszarze. \r\n\r\n##OSTRZEŻENIE: zakładana wysoka śmiertelność## ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナビゲーションデータベース再構築が必要。指定エリアの個人IDすべてを集めるため、囚人を派遣した。\r\n\r\n##警告：高死亡率を予測##",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내비게이션 데이터베이스 재구축 필요. 지정 구역에서 모든 개인 ID를 수집하기 위해 수감자 배치.\r\n\r\n##경고: 사망률 높을 것으로 예상##",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要重建導航資料庫。已派遣囚犯收集指定區域中的人員ID。\r\n\r\n##警告：預估高死亡率##",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要重建导航数据库。囚犯派去收集指定区域内的所有人员ID。\r\n\r\n##警告：推测死亡率高##",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown002_C2_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 1444521434
+}

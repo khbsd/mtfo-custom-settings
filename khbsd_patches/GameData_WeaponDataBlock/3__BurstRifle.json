@@ -1,0 +1,178 @@
+{
+  "muzzleFlashFPS": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_FPS",
+  "muzzleFlash3RD": "Effects/Weapon/MuzzleFlash/SubMachine_MuzzleFlash_3RD",
+  "muzzleFlashFPSSpecial": "Effects/Weapon/MuzzleFlash/AssaultRifle_MuzzleFlash_FPS",
+  "muzzleFlash3RDSpecial": "Effects/Weapon/MuzzleFlash/AssaultRifle_MuzzleFlash_3RD",
+  "muzzleFeedback": "",
+  "shellType": 2,
+  "shellEjectFeedback": "wpn_assault_shell",
+  "clipSize": 30,
+  "hasRotatingCylinder": false,
+  "reloadDuration": 1.2,
+  "EffectiveDamagePerSecond": "",
+  "recoilPosImpulse": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": -2.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.04993762,
+      "z": -0.998752356,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 2.00249839,
+    "sqrMagnitude": 4.01
+  },
+  "recoilPosShift": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": -1.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.09950372,
+      "z": -0.995037138,
+      "normalized": {
+        "x": 0.0,
+        "y": 0.0995037258,
+        "z": -0.9950372,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 1.0049876,
+    "sqrMagnitude": 1.01
+  },
+  "recoilPosShiftWeight": 0.03,
+  "recoilPosStiffness": 100.0,
+  "recoilPosDamping": 12.0,
+  "recoilPosImpulseWeight": 0.2,
+  "recoilCameraPosWeight": 0.05,
+  "recoilRotImpulse": {
+    "x": -80.0,
+    "y": 0.0,
+    "z": -10.0,
+    "normalized": {
+      "x": -0.9922779,
+      "y": 0.0,
+      "z": -0.12403474,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.00000012
+    },
+    "magnitude": 80.6225739,
+    "sqrMagnitude": 6500.0
+  },
+  "recoilRotStiffness": 350.0,
+  "recoilRotDamping": 15.0,
+  "recoilRotImpulseWeight": 1.0,
+  "recoilCameraRotWeight": 0.5,
+  "recoilAimingWeight": 0.4,
+  "eventOnSemiFire2D": [
+    "BurstRifle1shotBodyC2D, BurstRifle1shotBodyA2D, BurstRifle1shotBodyB2D ",
+    "BurstRifle1shotMechA2D, BurstRifle1shotMechB2D, BurstRifle1shotMechC2D ",
+    "BurstRifle1shotNoiseB2D, BurstRifle1shotNoiseA2D, BurstRifle1shotNoiseC2D ",
+    "BurstRifle1ShotWet2D"
+  ],
+  "eventOnBurstFire2D": [
+    "BurstRifle4shotBodyB2D, BurstRifle4shotBodyA2D, BurstRifle4shotBodyC2D ",
+    "BurstRifle4shotMechA2D, BurstRifle4shotMechB2D, BurstRifle4shotMechC2D",
+    "BurstRifle4shotNoiseB2D, BurstRifle4shotNoiseA2D, BurstRifle4shotNoiseC2D ",
+    "BurstRifle4ShotWet2D"
+  ],
+  "eventOnAutoFireStart2D": [
+    "BurstRifleBodyC2D, BurstRifleBodyB2D, BurstRifleBodyA2D",
+    "BurstRifleMechA2D, BurstRifleMechC2D, BurstRifleMechB2D",
+    "BurstRifleNoiseA2D, BurstRifleNoiseC2D, BurstRifleNoiseB2D",
+    "BurstRifleWet2D"
+  ],
+  "eventOnAutoFireEnd2D": [
+    "BurstRifleEnd2D"
+  ],
+  "eventOnSpecialSemiFire2D": [
+    "GasRifle1shotBodyA2D, GasRifle1shotBodyC2D, GasRifle1shotBodyB2D",
+    "GasRifle1shotMechB2D, GasRifle1shotMechA2D, GasRifle1shotMechC2D",
+    "GasRifle1shotNoiseC2D, GasRifle1shotNoiseB2D, GasRifle1shotNoiseA2D",
+    "GasRifle1ShotWet2D"
+  ],
+  "eventOnSpecialBurstFire2D": [
+    "GasRifle4shotBodyB2D, GasRifle4shotBodyC2D, GasRifle4shotBodyA2D",
+    "GasRifle4shotMechB2D, GasRifle4shotMechC2D, GasRifle4shotMechA2D",
+    "GasRifle4shotNoiseC2D, GasRifle4shotNoiseB2D, GasRifle4shotNoiseA2D",
+    "GasRifle4ShotWet2D"
+  ],
+  "eventOnSpecialAutoFireStart2D": [
+    "GasRifleBodyB2D, GasRifleBodyC2D, GasRifleBodyA2D",
+    "GasRifleMechC2D, GasRifleMechB2D, GasRifleMechA2D",
+    "GasRifleNoiseC2D, GasRifleNoiseA2D, GasRifleNoiseB2D",
+    "GasRifleWet2D"
+  ],
+  "eventOnSpecialAutoFireEnd2D": [
+    "GasRifleEnd2D"
+  ],
+  "eventOnSpecialChargeup2D": [
+    "GasRifleChargeUp"
+  ],
+  "eventOnSpecialCooldown2D": [
+    "GasRifleCooldown"
+  ],
+  "eventOnSpecialChargeupEnd2D": "GasRifleChargeUpEnd",
+  "eventOnSpecialCooldownEnd2D": "GasRifleCooldownEnd",
+  "eventOnSemiFire3D": [
+    "BurstRifle1shotBodyC3D, BurstRifle1shotBodyA3D, BurstRifle1shotBodyB3D ",
+    "BurstRifle1shotMechA3D, BurstRifle1shotMechB3D, BurstRifle1shotMechC3D ",
+    "BurstRifle1shotNoiseB3D, BurstRifle1shotNoiseA3D, BurstRifle1shotNoiseC3D ",
+    "BurstRifle1ShotWet3D"
+  ],
+  "eventOnBurstFire3D": [
+    "BurstRifle4shotBodyB3D, BurstRifle4shotBodyA3D, BurstRifle4shotBodyC3D ",
+    "BurstRifle4shotMechA3D, BurstRifle4shotMechB3D, BurstRifle4shotMechC3D",
+    "BurstRifle4shotNoiseB3D, BurstRifle4shotNoiseA3D, BurstRifle4shotNoiseC3D ",
+    "BurstRifle4ShotWet3D"
+  ],
+  "eventOnAutoFireStart3D": [
+    "BurstRifleBodyC3D, BurstRifleBodyA3D, BurstRifleBodyB3D",
+    "BurstRifleMechC3D, BurstRifleMechA3D, BurstRifleMechB3D",
+    "BurstRifleNoiseC3D, BurstRifleNoiseB3D, BurstRifleNoiseA3D",
+    "BurstRifleWet3D"
+  ],
+  "eventOnAutoFireEnd3D": [
+    "BurstRifleEnd3D"
+  ],
+  "eventOnSpecialSemiFire3D": [
+    "GasRifle1shotBodyA3D, GasRifle1shotBodyC3D, GasRifle1shotBodyB3D",
+    "GasRifle1shotMechB3D, GasRifle1shotMechC3D, GasRifle1shotMechA3D",
+    "GasRifle1shotNoiseC3D, GasRifle1shotNoiseA3D, GasRifle1shotNoiseB3D",
+    "GasRifle1ShotWet3D"
+  ],
+  "eventOnSpecialBurstFire3D": [
+    "GasRifle4shotBodyA3D, GasRifle4shotBodyC3D, GasRifle4shotBodyB3D",
+    "GasRifle4shotMechC3D, GasRifle4shotMechB3D, GasRifle4shotMechA3D",
+    "GasRifle4shotNoiseC3D, GasRifle4shotNoiseA3D, GasRifle4shotNoiseB3D",
+    "GasRifle4ShotWet3D"
+  ],
+  "eventOnSpecialAutoFireStart3D": [
+    "GasRifleBodyC3D, GasRifleBodyB3D, GasRifleBodyA3D",
+    "GasRifleMechB3D, GasRifleMechA3D, GasRifleMechC3D",
+    "GasRifleNoiseB3D, GasRifleNoiseC3D, GasRifleNoiseA3D",
+    "GasRifleWet3D"
+  ],
+  "eventOnSpecialAutoFireEnd3D": [
+    "GasRifleEnd3D"
+  ],
+  "eventOnSpecialChargeup3D": [
+    "GasRifleChargeUp"
+  ],
+  "eventOnSpecialCooldown3D": [
+    "GasRifleCooldown"
+  ],
+  "eventOnSpecialChargeupEnd3D": "GasRifleChargeUpEnd",
+  "eventOnSpecialCooldownEnd3D": "GasRifleCooldownEnd",
+  "eventClick": "BurstRifleDryFire",
+  "eventReload": "BurstRifleReload",
+  "useSemiAudioForBurstShots": false,
+  "name": "BurstRifle",
+  "internalEnabled": true,
+  "persistentID": 3
+}

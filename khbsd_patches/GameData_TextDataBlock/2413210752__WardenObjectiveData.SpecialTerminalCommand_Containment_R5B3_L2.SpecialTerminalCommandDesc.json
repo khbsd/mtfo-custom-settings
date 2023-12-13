@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Opens containment chambers",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ouvre les chambres de confinement",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Apre le camere di contenimento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Öffnet Eindämmungskammern.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abre las cámaras de contención.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Открывает камеры сдерживания.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Abre as câmaras de contenção",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otwiera komory izolacyjne",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "封鎖チェンバーオープン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "격리 챔버 열기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "打開遏制室",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "打开控制室",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Containment_R5B3_L2.SpecialTerminalCommandDesc",
+  "internalEnabled": true,
+  "persistentID": 2413210752
+}

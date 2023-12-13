@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECURITY SCAN - SOLO",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ANALYSE DE SÉCURITÉ - SOLO",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SCANSIONE SICUREZZA - SOLO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN – SOLO",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ANÁLISIS DE SEGURIDAD (INDIVIDUAL)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОВЕРКА БЕЗОПАСНОСТИ\u00A0— ОДИН ЧЕЛОВЕК",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESCANEAMENTO DE SEGURANÇA — SOLO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SKANOWANIE – W POJEDYNKĘ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャン - ソロ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 - 단독",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安全掃描 - 單獨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安全扫描 - 单人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.SoloSecurityScan",
+  "internalEnabled": true,
+  "persistentID": 1094
+}

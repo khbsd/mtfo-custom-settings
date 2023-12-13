@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Limited vision.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Mon champ de vision est limité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Visione limitata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eingeschränkte Sicht.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Visión reducida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Видимость ограничена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Visão limitada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ograniczona widoczność.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "視界が悪い。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "시야가 제한됐다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "視野有限。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "视野受限。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Limited_Vision",
+  "internalEnabled": true,
+  "persistentID": 1494
+}

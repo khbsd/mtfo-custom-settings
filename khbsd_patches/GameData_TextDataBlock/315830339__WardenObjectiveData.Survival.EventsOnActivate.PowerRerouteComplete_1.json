@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "POWER REROUTE COMPLETE - RESTORING SYSTEMS.. ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "COURANT RÉACHEMINÉ - RÉTABLISSEMENT DES SYSTÈMES...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DEVIAZIONE ENERGIA COMPLETATA - RIPRISTINO SISTEMI... ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UMLEITUNG DER STROMVERSORGUNG ABGESCHLOSSEN – SYSTEME WERDEN WIEDERHERGESTELLT …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESVIAMIENTO DE ENERGÍA COMPLETADO. RESTAURANDO SISTEMAS... ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПИТАНИЕ ПЕРЕНАПРАВЛЕНО. РАБОТА СИСТЕМ ВОССТАНОВЛЕНА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "REDIRECIONAMENTO DE ENERGIA CONCLUÍDO — RESTAURANDO SISTEMAS.. ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PRZEKIEROWANIE ZASILANIA UKOŃCZONE – PRZYWRACANIE SYSTEMÓW..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "電力リルート完了 - システムを回復中..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동력 우회 완료 - 시스템 복구 중..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電源重設路線完成 - 修復系統……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电源重定向完成 - 正在恢复系统……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Survival.EventsOnActivate.PowerRerouteComplete_1",
+  "internalEnabled": true,
+  "persistentID": 315830339
+}

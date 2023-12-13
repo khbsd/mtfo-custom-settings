@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DONE\t",
+  "Description": "Feedback to the player that this condition has been fuliflled and a vanity item has been unlocked.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "FATTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ERLEDIGT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "HECHO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ГОТОВО",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRONTO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SPEŁNIONE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.Done",
+  "internalEnabled": true,
+  "persistentID": 2762767104
+}

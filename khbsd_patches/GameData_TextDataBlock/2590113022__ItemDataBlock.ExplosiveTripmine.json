@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Explosive Trip Mine",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mine à déclencheur explosive",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mina adesiva esplosiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Explosive Stolpermine",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mina de detección explosiva",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Взрывная мина с лазерным датчиком",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mina explosiva",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mina wybuchowa z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "爆破トリップマイン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "爆炸絆雷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "爆炸绊雷",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.ExplosiveTripmine",
+  "internalEnabled": true,
+  "persistentID": 2590113022
+}

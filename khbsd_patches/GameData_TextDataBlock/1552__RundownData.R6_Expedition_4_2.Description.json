@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PGD data restricted by ciphertext security. Decryption keys required. Prisoners dispatched. ",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Données du PGD cryptées. Clés de décryptage requises. Les prisonniers ont été envoyés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dati PGD protetti da sicurezza ciphertext. Richieste chiavi di decrittazione. Prigionieri inviati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "PGD-Daten durch Sicherheitsmaßnahme im Chiffretext gesichert. Entschlüsselungscodes erforderlich. Gefangene entsandt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Datos de BDGP restringidos por texto encriptado. Se requieren claves de descifrado. Prisioneros enviados. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Данные PGD зашифрованы. Требуются ключи шифрования. Задание поручено заключенным.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dados PGD restritos por segurança de texto cifrado. Chaves de decodificação necessária. Prisioneiros despachados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dane ograniczone przez szyfrogram. Wymagane klucze deszyfrujące. Wysłano więźniów. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "暗号セキュリティによりPGDデータは制限されている。解読キーが必要。囚人を派遣した。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "암호문 보안으로 PGD 데이터 제한. 암호 키 필요. 수감자 파견. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "PGD資料受密文保護限制。需要解碼密鑰。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "PGD数据受密文保护限制。需要解密密钥。已派遣囚犯。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_4_2.Description",
+  "internalEnabled": true,
+  "persistentID": 1552
+}

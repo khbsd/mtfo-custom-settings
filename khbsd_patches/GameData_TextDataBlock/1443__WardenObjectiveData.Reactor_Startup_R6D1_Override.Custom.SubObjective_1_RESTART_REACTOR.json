@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warning :// POWER OFFLINE.. RESTART REACTOR IN <color=orange>Zone 90</color>",
+  "Description": "Don't localize Zone 90",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Avertissement\u00A0:// ALIMENTATION ÉLECTRIQUE COUPÉE... REDÉMARREZ LE RÉACTEUR DANS LA <color=orange>Zone 90</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione:// ENERGIA OFFLINE. RIAVVIARE REATTORE IN <color=orange>ZONE 90</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warnung :// STROM OFFLINE … STARTEN DIE DEN REAKTOR IN <color=orange>ZONE 90</color> NEU.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA:// ENERGÍA DESACTIVADA. REINICIA EL REACTOR DE LA <color=orange>ZONE 90</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание:// ОТКЛЮЧЕНИЕ ПИТАНИЯ. ПЕРЕЗАПУСК РЕАКТОРА В <color=orange>ZONE 90</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso:// ENERGIA OFFLINE.. REINICIAR REATOR NA <color=orange>ZONE 90</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie :// ZASILANIE WYŁĄCZONE.. URUCHOM REAKTOR PONOWNIE W <color=orange>strefie 90 [ZONE_90]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告 :// 電力供給なし.. <color=orange>Zone 90</color>のリアクターを再起動",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고 :// 전력 끊김.. <color=orange>ZONE 90</color>에서 반응로 재가동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告://電源離線……在<color=orange>ZONE 90</color>重新啟動反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告://电源离线……重启<color=orange>ZONE 90</color>反应堆",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_R6D1_Override.Custom.SubObjective_1_RESTART_REACTOR",
+  "internalEnabled": true,
+  "persistentID": 1443
+}

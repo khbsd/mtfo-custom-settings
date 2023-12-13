@@ -1,0 +1,17 @@
+{
+  "Type": 1,
+  "Difficulty": 3,
+  "SpawnPlacementType": 2,
+  "MaxScore": 10.0,
+  "ScoreInAreaPaddingMulti": 1.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 4,
+      "Distribution": 5
+    }
+  ],
+  "name": "Hibernate Pure Sneak Miniboss BirtherBoss Align_1",
+  "internalEnabled": true,
+  "persistentID": 71
+}

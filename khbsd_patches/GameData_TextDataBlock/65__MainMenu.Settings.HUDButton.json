@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HUD",
+  "Description": "A headline for HUD (heads up display) related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affichage tête haute",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "HUD",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HUD",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Interfaz",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "HUD",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Interface",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Interfejs",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HUD",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HUD",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "抬頭顯示器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "平视显示",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.HUDButton",
+  "internalEnabled": true,
+  "persistentID": 65
+}

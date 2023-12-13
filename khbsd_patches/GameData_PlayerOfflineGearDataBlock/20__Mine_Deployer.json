@@ -1,0 +1,7 @@
+{
+  "Type": 1,
+  "GearJSON": "{\"Ver\":1,\"Name\":\"Krieger O4\",\"Packet\":{\"Comps\":{\"Length\":10,\"a\":{\"c\":2,\"v\":13},\"b\":{\"c\":3,\"v\":37},\"c\":{\"c\":4,\"v\":14},\"d\":{\"c\":27,\"v\":12},\"e\":{\"c\":30,\"v\":2},\"f\":{\"c\":33,\"v\":2},\"g\":{\"c\":37,\"v\":1},\"h\":{\"c\":40,\"v\":1},\"i\":{\"c\":42,\"v\":6}},\"MatTrans\":{\"tDecalA\":{\"scale\":0.1},\"tDecalB\":{\"scale\":0.1},\"tPattern\":{\"scale\":0.1}},\"publicName\":{\"data\":\"Krieger O4\"}}}",
+  "name": "Mine_Deployer",
+  "internalEnabled": true,
+  "persistentID": 20
+}

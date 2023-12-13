@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use the '<color=red>UPLINK_CONFIRM</color>' command on the Uplink receiver terminal to bypass protocol failure...",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Utilisez la commande '<color=red>UPLINK_CONFIRM</color>' depuis le terminal destinataire de la liaison montante pour ignorer l'échec du protocole...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usare il comando \"<color=red>UPLINK_CONFIRM</color>\" sul terminale del ricevitore uplink per bypassare l'errore del protocollo...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie den Befehl <color=red>UPLINK_CONFIRM</color> am Uplink-Empfangsterminal, um den Protokollfehler zu umgehen ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando «<color=red>UPLINK_CONFIRM</color>» en el terminal receptor de uplink para anular el fallo de protocolo...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=red>UPLINK_CONFIRM</color> на терминале приемника линии связи, чтобы обойти ошибку протокола...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use o comando '<color=red>UPLINK_CONFIRM</color>' no terminal receptor de uplink para contornar a falha de protocolo...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=red>UPLINK_CONFIRM</color> przy terminalu odbiorczym łącza, aby obejść błąd protokołu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク受信端末に'<color=red>UPLINK_CONFIRM</color>'コマンドを使用してプロトコル失敗をバイパス...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 수신 터미널에서 '<color=red>UPLINK_CONFIRM</color>' 명령을 사용해 프로토콜 실패 우회...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在上行鏈路接收終端使用「<color=red>UPLINK_CONFIRM</color>」指令以繞過協定失敗……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在上行链路接收终端上使用“<color=red>UPLINK_CONFIRM</color>”命令以旁通协议失败……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Use_UPLINK_CONFIRM_command",
+  "internalEnabled": true,
+  "persistentID": 3435969025
+}

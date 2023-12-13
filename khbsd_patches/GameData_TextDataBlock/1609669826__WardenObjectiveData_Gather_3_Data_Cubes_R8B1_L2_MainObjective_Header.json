@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather Backup Data Cube.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez les cubes de données [DATA_CUBE] de secours",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere il cubo di dati [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie den Backup-Datenwürfel [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila cubos de datos [DATA CUBE] de seguridad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите резервный куб данных [DATA_CUBE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete cubo de dados [DATA_CUBE] de backup.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz zapasową kostkę danych [DATA-CUBE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックアップデータキューブ[DATA CUBE]を集めろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[DATA_CUBE] 데이터 큐브 백업 수집.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集備份資料方塊[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集备份数据立方[DATA_CUBE]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData_Gather_3_Data_Cubes_R8B1_L2_MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 1609669826
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Await WARDEN protocol <color=orange>[sys_purge]</color> initiation. [EXTRACTION_ZONE] unlocks when complete.",
+  "Description": "Don't localize [EXTRACTION_ZONE] and [sys_purge]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Attendez le protocole d'initialisation du GARDIEN <color=orange>[sys_purge]</color>. [EXTRACTION_ZONE] se déverrouillera une fois terminé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attendere avvio protocollo GUARDIANO <color=orange>[sys_purge]</color>. Sblocco [EXTRACTION_ZONE] al termine.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warten Sie auf die Initiierung des AUFSEHER-Protokolls <color=orange>[sys_purge]</color>. [EXTRACTION_ZONE] wird nach Abschluss freigegeben.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Espera a que se inicie el protocolo de guardián <color=orange>[sys_purge]</color>. [EXTRACTION_ZONE] se desbloquea al completar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидается активация протокола СМОТРИТЕЛЯ: <color=orange>[sys_purge]</color>. По окончании откроется зона [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguarde a inicialização do protocolo da GUARDA <color=orange>[sys_purge]</color>. [EXTRACTION_ZONE] desbloqueado ao concluir.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekuj na uruchomienie protokołu STRAŻNIKA <color=orange>[sys_purge]</color>. Po zakończeniu nastąpi odblokowanie strefy ewakuacji [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ウォーデンプロトコル <color=orange>[sys_purge]</color> 開始を待機。 完了時に [EXTRACTION_ZONE] がロック解除。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[sys_purge]</color> 가동 교도관 프로토콜을 대기할 것. 완료 시 [EXTRACTION_ZONE] 개방.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待典獄長協定<color=orange>[sys_purge]</color>啟動。[EXTRACTION_ZONE]完成後解鎖。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待督察协议<color=orange>[sys_purge]</color>发起。完成时解锁[EXTRACTION_ZONE]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveSurvival_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 1136
+}

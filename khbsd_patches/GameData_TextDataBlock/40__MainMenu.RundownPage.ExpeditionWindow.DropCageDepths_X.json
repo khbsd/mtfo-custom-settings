@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Drop cage target depth: {0}",
+  "Description": "\"Drop cage\" is the term for the contraption which player characters are strapped to when sent down into the underground complex. If you can't translate it to a similarly \"cool\" and unique term, just use \"elevator\". \"Target depth\" represents how deep (in meters) the drop cage will go before it drops off the prisoners (the player characters).",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Profondeur cible de la cage de largage\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Profondità discesa: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zieltiefe des Käfigabwurfs: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Profundidad objetivo de plataforma: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Глубина отправки подъемника: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Profundidade-alvo do elevador: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głębokość docelowa klatki zrzutowej: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ドロップケージ目標深度: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "드롭 케이지 목표 깊이: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "投放籠目標深度：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "投放笼梯目标深度：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.DropCageDepths_X",
+  "internalEnabled": true,
+  "persistentID": 40
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "ARTIFACT",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "ARTEFACT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MANUFATTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ARTEFAKT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ARTEFACTO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "АРТЕФАКТ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARTEFATO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ARTEFAKT",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アーティファクト",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아티팩트",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "寶物",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "红晶",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.WardenIntel.ArtifactPickup.Artifact",
+  "internalEnabled": true,
+  "persistentID": 1069
+}

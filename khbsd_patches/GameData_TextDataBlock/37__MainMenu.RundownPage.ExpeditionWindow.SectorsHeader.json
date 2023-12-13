@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "://Sectors_&&_progression_permits_",
+  "Description": "\"Sectors\" represent isolated areas or parts of a certain mission/map. Once you have cleared a certain number of \"sectors\" in your currently accessible missions/maps, you are granted access (\"progression permit\") to new missions/maps. Only translate the words \"sectors\" and \"progression permits\". Do not remove the \"://\", the \"&&\" or the underscores (\"_\").",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "://Secteurs_&&_badges_de_progression",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "://Settori_&&_permessi_avanzamento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "://Sektoren_&&_Fortschrittsbewilligungen_",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "://Permisos_&&_progreso_sectores_",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "://Sectors_&&_progression_permits_",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "://Permissões_ progressão_&&_setores_",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "://Sektory_&&_pozwolenia_postępu_",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "://セクター_&&_進捗_許可_",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "://섹터_&&_진행_허가_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "://分區_&&_進度_權限_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "://分区_&&_推进_许可_",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.SectorsHeader",
+  "internalEnabled": true,
+  "persistentID": 37
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Access [ZONE_2] from terminal in [ZONE_5]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Accédez à la [ZONE_2] depuis le terminal de la [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Accedere a [ZONE_2] dal terminale in [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erhalten Sie über das Terminal in [ZONE_5] Zugang zu [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Accede a la [ZONE_2] del terminal en la [ZONE_5].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте терминал в [ZONE_5], чтобы получить доступ к [ZONE_2].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acessar [ZONE_2] pelo terminal na [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uzyskaj dostęp do strefy 2 [ZONE_2] poprzez terminal w strefie 5 [ZONE_5]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_5]で端末から[ZONE_2]にアクセスしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_5]의 터미널에서 [ZONE_2] 액세스",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從[ZONE_5]的終端進入[ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从[ZONE_5]的终端访问[ZONE_2]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone2.UseTerminal_Main",
+  "internalEnabled": true,
+  "persistentID": 1740778309
+}

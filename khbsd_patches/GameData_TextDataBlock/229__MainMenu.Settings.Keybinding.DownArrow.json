@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Down Arrow",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Flèche bas",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Freccia giù",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Pfeiltaste nach unten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Flecha abajo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стрелка вниз",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Seta para baixo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strzałka w dół",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "方向キー下",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아래쪽 화살표",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向下箭頭",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下箭头键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.DownArrow",
+  "internalEnabled": true,
+  "persistentID": 229
+}

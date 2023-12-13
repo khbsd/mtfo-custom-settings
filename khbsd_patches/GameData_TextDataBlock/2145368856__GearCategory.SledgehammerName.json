@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sledgehammer",
+  "Description": "A category of melee weapons",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Masse",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mazza",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vorschlaghammer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mazo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Кувалда",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Marreta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Młot",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スレッジハンマー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "슬레지해머",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "巨槌",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大锤",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearCategory.SledgehammerName",
+  "internalEnabled": true,
+  "persistentID": 2145368856
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[SCHAEFFER] \nHey! Are you listening? I figured out the problem. No more mistakes! \nYou're going to find something for me. \nWe need a hydrokinetic fluid collection case. I don't know what it looks like, \nbut there will be one somewhere in your zone. \nPut it in the orange Shuttlebox. There should be one nearby.",
+  "Description": "Sound played through speakersystem as players get close to locked door",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[SCHAEFFER] \nEh, vous m’écoutez\u00A0? J’ai trouvé le problème. À partir de maintenant, tout va rouler\u00A0!\nVous allez devoir me trouver un truc. \nOn a besoin d’un caisson de collecte pour fluide hydrocinétique. Je sais pas à quoi ça ressemble, \nmais il y en a un quelque part dans votre zone. \nMettez-le dans la boîte à navette orange à proximité.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[SCHAEFFER] \nEhi! State ascoltando? Ho capito qual è il problema. Niente più errori! \nTroverete qualcosa per me. \nAbbiamo bisogno di un contenitore da raccolta per il fluido idrocinetico. Non so che aspetto abbia, \nma ce ne sarà uno da qualche parte nella vostra zona. \nMettetelo nella scatola di trasferimento arancione. Dovrebbe essercene una nelle vicinanze.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[SCHAEFFER] \nHey! Hörst du mir zu? Ich habe das Problem gelöst. Keine Fehler mehr! \nDu wirst etwas für mich finden. \nWir brauchen einen Sammelbehälter für hydrokinetische Flüssigkeiten. Ich weiß nicht, wie der aussieht, \naber irgendwo in deiner Zone sollte einer sein. \nPlatziere ihn in der orangen Transferbox. Da sollte eine in der Nähe sein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[SCHAEFFER] \n¡Eo! ¿Me escucháis? Ya he resuelto el problema. ¡Se acabaron los errores! \nVais a buscarme una cosa. \nNecesitamos una caja de muestras de fluidos hidrocinéticos. No sé qué pinta tiene, \npero hay una en la zona donde estáis. \nMetedla en la caja de ida y vuelta de color naranja. Debería haber una cerca.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ШЕФФЕР]\nЭй! Ты меня слышишь? Я понял, в чем была проблема. Теперь все будет гладко!\nТебе придется кое-что для меня разыскать.\nНам нужен контейнер для сбора гидрокинетической жидкости. Только я не знаю, как он выглядит.\nНо он точно где-то в твоей зоне.\nПомести его в оранжевый подъемник. Он тоже должен быть неподалеку.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[SCHAEFFER] \nEi! Está ouvindo? Descobri qual é o problema. Chega de erros! \nVocê vai encontrar algo para mim. \nPrecisamos de uma maleta de coleta de fluído hidrocinético. Não faço ideia de como seja, \nmas vai ter uma em algum lugar na sua zona. \nColoque-a dentro da caixa de vaivém laranja. Deve haver uma nas proximidades.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[SCHAEFFER] \nHej! Słyszycie mnie? Wiem już, w czym problem. Koniec z błędami! \nMusicie coś dla mnie znaleźć. \nPotrzebujemy pojemnika zbiorczego z cieczą hydrokinetyczną. Nie wiem, jak wygląda, \nale powinna się znajdować w waszej strefie. \nUmieśćcie ją w pomarańczowej skrzynce transportowej. Znajdziecie ją w okolicy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[シェフェール] \nおい！聞こえるか？問題の解決策を思いついたぞ。もうミスなしだ！ \nあるものを見つけてきてほしい。 \n流体力学液体回収ケースが必要なんだ。どんな外見かは分からないが\nそのゾーンに1つあるはずだ。\nそれをオレンジのシャトルボックスに入れてくれ。近くにあるはずだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[쉐퍼] \n이봐! 듣고 있어? 문제를 해결했다. 이제 실수는 용납 못 해! \n물건을 좀 찾아줘야겠어. \n유체 역학 용액 컬렉션 케이스가 필요하다. 어떻게 생겼는지는 몰라. \n너네 구역에서 발견할 수 있을 거다. \n주황색 셔틀 박스에 넣으면 돼. 근처에 하나 있을 거다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[薛佛] \n喂！你在聽嗎？我找到問題所在了。別再犯錯了！\n你得去幫我找一樣東西。\n我們需要流體動力液體收集箱，我不知道那東西長什麼樣子，\n可是你們的區段會有一個。\n找到後就放進橘色的穿梭箱，附近應該會有。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[谢弗] \n嘿！你们在听吗？我找出问题了。不会再出现错误了！\n你们要给我找个东西。\n我们需要一个流体动力液体收集盒。我不知道那东西长什么样，\n不过你们的区域里会有一个。\n把它放到橙色的穿梭箱里。附近应该就有一个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Play_07a_640109_01_v_AM_start",
+  "internalEnabled": true,
+  "persistentID": 1401623223
+}

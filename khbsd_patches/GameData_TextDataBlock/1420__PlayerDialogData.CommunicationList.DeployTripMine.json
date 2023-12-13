@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Trip mine",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mine à déclencheur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mina adesiva",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stolpermine",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mina de detección",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мина с лазерным датчиком",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mina",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Minę z potykaczem",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トリップマイン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트립 마인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "絆雷",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "绊雷",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.DeployTripMine",
+  "internalEnabled": true,
+  "persistentID": 1420
+}

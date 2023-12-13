@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "HEL Damage",
+  "Description": "I.e. how much damage you can deal with a HEL gun (Hybrid Electrothermal Light-gas.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de HEL",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da pistola HEL",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HEL-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de HEL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (пушка HEL)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de HEL",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od HEL-u",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HELダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "HEL 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "HEL傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "HEL伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.HELDamageName",
+  "internalEnabled": true,
+  "persistentID": 551
+}

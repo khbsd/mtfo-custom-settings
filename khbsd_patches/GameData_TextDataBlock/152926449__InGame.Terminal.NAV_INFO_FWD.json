@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "NAV INFO FWD: ",
+  "Description": "NAV is short for Navigation. FWD is short for Forward.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "INFOS DE NAV. AVT\u00A0: ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INFO SUCC: ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NAV-INFO VW: ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INFO. NAV. ADELANTE: ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НАВ. ИНФ. ВПР: ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVAN INFO NAV: ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "PD INFO NAW: ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ナビ情報前方: ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐색 정보 전달: ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向前導航資訊： ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "向前导航信息： ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.NAV_INFO_FWD",
+  "internalEnabled": true,
+  "persistentID": 152926449
+}

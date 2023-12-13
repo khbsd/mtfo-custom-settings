@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I will do it",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Je m'en occupe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lo farò",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich übernehme das",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Yo me ocupo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Я справлюсь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Deixe comigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Robi się",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任せろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그렇게 하지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我來",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "交给我",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.I_will_do_it",
+  "internalEnabled": true,
+  "persistentID": 1329
+}

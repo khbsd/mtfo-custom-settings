@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Look for Hard drives in the complex",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez des disques durs dans le complexe",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cercare i dischi rigidi nel complesso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Suchen Sie im Komplex nach Festplatten [HARD_DRIVE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca discos duros en el complejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите жесткие диски в комплексе.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procure discos rígidos no complexo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odnajdź dyski twarde w kompleksie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "複合施設内でハードドライブを探せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "복합단지에서 하드 드라이브 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在綜合設施中尋找硬碟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在建筑中寻找硬盘",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Harddriver_6_R4A1.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 253361772
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Bullpup Rifle",
+  "Description": "A firearm category. A \"bullpup\" firearm is one whose action is located behind the trigger instead of in front of it. This creates an overall more compact and maneuverable weapon",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil bullpup",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile Bullpup",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bullpup-Gewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil bullpup",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Укороченная винтовка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil bullpup",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin typu bullpup",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルパップライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "불펍 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "犢牛式步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "无托步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Bullpup.AutoName",
+  "internalEnabled": true,
+  "persistentID": 773
+}

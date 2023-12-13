@@ -1,0 +1,123 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_SMG_4.prefab",
+    "Children": [
+      "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_SMG_4_GripAlign.fbx"
+    ],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "SMG_Front_4_Idle",
+    "RightHandGripAnim": "",
+    "AssetBundle": 20,
+    "BundleShard": 11
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    },
+    {
+      "AlignType": 8,
+      "AlignName": "RightHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "SMG_Front_4_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "SMG_Front_4_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 9,
+      "StringData": "SMG_Front_4_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "SMG_Front_4_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.4,
+      "Type": 5,
+      "StringData": "SMG_RELOAD_1_MAG_OUT"
+    },
+    {
+      "TriggerTime": 0.6,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 5,
+      "StringData": "smg_reload_3_grab_mag"
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.3,
+      "Type": 5,
+      "StringData": "SMG_RELOAD_2_MAG_IN"
+    },
+    {
+      "TriggerTime": 1.4,
+      "Type": 5,
+      "StringData": "smg_reload_5_slide_release"
+    },
+    {
+      "TriggerTime": 1.6,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 1.63,
+      "Type": 5,
+      "StringData": "smg_reload_4_pat_mag"
+    },
+    {
+      "TriggerTime": 1.9,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 2.4,
+      "Type": 7
+    }
+  ],
+  "name": "Front_SMG_4",
+  "internalEnabled": true,
+  "persistentID": 23
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Restarting from checkpoint",
+  "Description": "A text in the expedition failed screen, that says that the host decided to restart from checkpoint",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Redémarrage depuis le point de contrôle",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricomincia dal checkpoint",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neustart vom letzten Checkpoint",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reiniciando desde punto de control",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запуск с последнего чекпойнта",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Reiniciando no ponto de controle",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wznawianie od punktu kontrolnego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "最後のチェックポイントから再開中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "체크포인트에서 다시 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從重生點重啟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从重生点重新开始",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "ExpeditionFailPage.RestartingCheckpoint",
+  "internalEnabled": true,
+  "persistentID": 2465570218
+}

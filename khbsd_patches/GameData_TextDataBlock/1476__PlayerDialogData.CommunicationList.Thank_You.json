@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Thank you.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Merci.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grazie.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Danke.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gracias.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Спасибо.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Valeu.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dziękuję.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ありがとう。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고마워.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "謝謝。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "谢谢。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Thank_You",
+  "internalEnabled": true,
+  "persistentID": 1476
+}

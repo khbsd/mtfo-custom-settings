@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>[WARNING: Class S Diminished Alarm] ://ERROR: Door in emergency lockdown, unable to operate.</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>[ALERTE\u00A0: Alarme de classe\u00A0S réduite] ://ERREUR: La porte est bloquée par le verrouillage d'urgence, impossible de continuer.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>[ATTENZIONE: allarme ridotto a classe S] ://ERRORE: Porta in blocco d'emergenza, impossibile azionare.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>[WARNUNG: Eingeschränkter Alarm der Klasse S]: ://FEHLER: Tür in Notverriegelung, keine Bedienung möglich.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>[ADVERTENCIA: alarma de clase S desactivada] ://ERROR: Puerta en cierre de emergencia. No se puede operar.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>[ВНИМАНИЕ! Сниженный уровень тревоги класса S] ://ОШИБКА. Действует режим изоляции. Дверь заблокирована.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>[AVISO: Alarme de Classe S Reduzido] ://ERRO: Porta em confinamento de emergência; incapaz de operar.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>[OSTRZEŻENIE: ograniczony alarm klasy S] ://BŁĄD: drzwi poddane blokadzie awaryjnej, sterowanie uniemożliwione.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>[警告：クラスC低減警報] ://エラー: ドアは緊急封鎖中。作動不可。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>[경고: 클래스 S 감소 경보] ://오류: 문이 비상 폐쇄 상태여서 작동 불가능합니다.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>[警告：S級削減警告]://錯誤：這扇門處於緊急封鎖狀態，無法操作。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>[警告：S级缩小警报] ://错误：门处于紧急封锁状态，无法操作。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData_R5A3_L1_SecurityDoorErrorAlarm",
+  "internalEnabled": true,
+  "persistentID": 1430376640
+}

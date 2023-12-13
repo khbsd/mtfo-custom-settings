@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: EMERGENCY REACTOR SHUTDOWN.. AWAITING MANUAL RESTART COMMAND..",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: ARRÊT D'URGENCE DU RÉACTEUR... REDÉMARRAGE MANUEL EN ATTENTE...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: ARRESTO D'EMERGENZA REATTORE. ATTESA COMANDO RIAVVIO MANUALE.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: NOTABSCHALTUNG DES REAKTORS … BEREIT FÜR BEFEHL ZUM MANUELLEN NEUSTART …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: CIERRE DEL REACTOR DE EMERGENCIA. ESPERANDO AL COMANDO DE REINICIO MANUAL.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! АВАРИЙНОЕ ВЫКЛЮЧЕНИЕ РЕАКТОРА. ТРЕБУЕТСЯ РУЧНАЯ ПЕРЕЗАГРУЗКА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: ENCERRAMENTO DE EMERGÊNCIA DO REATOR.. AGUARDANDO COMANDO DE REINÍCIO MANUAL..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: AWARYJNE WYŁĄCZENIE REAKTORA.. OCZEKIWANIE NA POLECENIE RĘCZNEGO URUCHOMIENIA..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告：リアクター緊急停止.. 手動再起動コマンドを待機中..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 비상 반응로 정지.. 수동 재시작 명령 대기 중..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：緊急反應器關閉……等待手動重啟指令……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：紧急关闭反应堆……正在等待手动重启命令……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Reactor_terminalCommand_D1_subInfo",
+  "internalEnabled": true,
+  "persistentID": 1165
+}

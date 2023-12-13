@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate Bulkhead Key in [ZONE_1]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez la clé de cloison dans la [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare la chiave stagna in [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie den Schott-Schlüssel [BULKHEAD_KEY] in [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra la llave de contención en la [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите ключ от ворот в [ZONE_1].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar chave de segurança [BULKHEAD_KEY] na [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj gródź w strefie 1 [ZONE_1]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_1]で隔壁キーを見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_1]에서 격벽 열쇠 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "定位[ZONE_1]中的艙門鑰匙[BULKHEAD_KEY]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到[ZONE_1]中的舱壁钥匙[BULKHEAD_KEY]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.BulkheadKey",
+  "internalEnabled": true,
+  "persistentID": 1967831010
+}

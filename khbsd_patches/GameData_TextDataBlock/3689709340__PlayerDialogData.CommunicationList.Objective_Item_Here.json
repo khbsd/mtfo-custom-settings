@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Objective item here.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Objet d'objectif ici.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Oggetto obiettivo qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Zielgegenstand.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Un objeto de objetivo aquí.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь требуемый предмет.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Item de objetivo aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przedmiot powiązany z celem, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標アイテムだ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 목표 아이템이다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有目標物品。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有目标物品。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.Objective_Item_Here",
+  "internalEnabled": true,
+  "persistentID": 3689709340
+}

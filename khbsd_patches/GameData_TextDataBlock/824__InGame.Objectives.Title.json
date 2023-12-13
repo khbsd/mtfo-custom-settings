@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OBJECTIVES & BOOSTERS",
+  "Description": "A headline for the info page where the player can read detailed information about the mission's objective and the boosters (performance enhancing drugs) they have injected.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "OBJECTIFS & BOOSTERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "OBIETTIVI E POTENZIAMENTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZIELE & BOOSTER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "OBJETIVOS Y POTENCIADORES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЦЕЛИ И УСИЛИТЕЛИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "OBJETIVOS E IMPULSOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "CELE I WZMACNIACZE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "目標とブースター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "목표 및 부스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目標與強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "目标与强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.Title",
+  "internalEnabled": true,
+  "persistentID": 824
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Resquart all prisoners to sloppy",
+  "Description": "A button shown in the expedition failed/success screen, that takes the players back to the lobby screen.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Renvoyer tous les prisonniers dans le salon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riporta tutti i prigionieri alla lobby",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Alle Gefangenen in die Lobby zurückschicken.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva a todos los prisioneros a la sala",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вернуть заключенных в лобби",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mandar todos os prisioneiros ao lobby",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przenieś wszystkich więźniów do lobby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "全囚人をロビーに戻す",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "모든 수감자를 로비로 돌려보내기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將所有囚犯送回大廳",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "送所有囚犯回大厅",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.ReturnPrisonersButton",
+  "internalEnabled": true,
+  "persistentID": 913
+}

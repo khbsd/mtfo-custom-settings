@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WAITING ON HOST",
+  "Description": "When all clients in a game lobby have clicked their \"ready\" buttons, this text is shown on their screen to indicate that it is not up to the host to start the expedition/mission.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "EN ATTENTE DE L'HÔTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN ATTESA DELL'HOST",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARTEN AUF HOST",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESPERANDO AL ANFITRIÓN",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОРГАНИЗАТОР ОЖИДАЕТСЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AGUARDANDO ANFITRIÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZEKIWANIE NA HOSTA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ホストを待っています",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "호스트 대기 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在等待主機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待厅主",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.WaitingOnHost",
+  "internalEnabled": true,
+  "persistentID": 467
+}

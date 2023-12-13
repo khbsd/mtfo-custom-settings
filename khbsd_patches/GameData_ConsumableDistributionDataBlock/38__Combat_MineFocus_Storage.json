@@ -1,0 +1,29 @@
+{
+  "SpawnsPerZone": 14,
+  "ChanceToSpawnInResourceContainer": 1.0,
+  "SpawnData": [
+    {
+      "ItemID": 142,
+      "Weight": 3.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 1.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 2.0
+    },
+    {
+      "ItemID": 139,
+      "Weight": 5.0
+    },
+    {
+      "ItemID": 144,
+      "Weight": 4.0
+    }
+  ],
+  "name": "Combat_MineFocus_Storage",
+  "internalEnabled": true,
+  "persistentID": 38
+}

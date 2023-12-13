@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "mm hitty whacky yeah",
+  "Description": "An invitation for the player to select their preferred melee weapon.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ARME DE MÊLÉE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ARMA DA MISCHIA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NAHKAMPFWAFFE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ARMA CUERPO A CUERPO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОРУЖИЕ БЛИЖНЕГО БОЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARMA DE GOLPE",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BROŃ DO WALKI WRĘCZ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "近接武器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "근접 무기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "近戰武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "近战武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.PlayerBar.SelectMeleeWeapon",
+  "internalEnabled": true,
+  "persistentID": 490
+}

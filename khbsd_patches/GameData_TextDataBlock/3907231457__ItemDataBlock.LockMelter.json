@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lock Melter",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Casse-verrou",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fondi-serratura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schlossschmelzer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fundecerraduras",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Расплавитель",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fundidor de fechadura",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Roztapiacz zamków",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロックメルター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "록멜터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "熔鎖器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "熔锁器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.LockMelter",
+  "internalEnabled": true,
+  "persistentID": 3907231457
+}

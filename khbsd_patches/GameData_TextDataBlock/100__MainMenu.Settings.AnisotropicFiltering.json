@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Anisotropic Filtering",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Filtrage anisotrope",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Filtro anisotropico",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Anisotrope Filterung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Filtrado anisotrópico",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Анизотропная фильтрация",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Filtro anisotrópico",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Filtrowanie anizotropowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "異方性フィルタリング",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비등방성 필터링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "非等向性過濾",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "各向异性过滤",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.AnisotropicFiltering",
+  "internalEnabled": true,
+  "persistentID": 100
+}

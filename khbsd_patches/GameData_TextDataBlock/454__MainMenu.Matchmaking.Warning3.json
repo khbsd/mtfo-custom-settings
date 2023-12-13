@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "#SRES_07: Increase survival rates by enforcing strict communication protocols",
+  "Description": "A text string that describes (in an in-world manner) that using voice chat gives players better chance of success.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "#SRES_07: Augmentez vos chances de survie en imposant des protocoles de communication stricts.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "#SRES_07: Aumenta il tasso di sopravvivenza applicando rigidi protocolli di comunicazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "#SRES_07: Erhöhen sie die Überlebenschance, indem Sie strenge Kommunikationsprotokolle durchsetzen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "#SRES_07: Aumenta los índices de supervivencia al reforzar los protocolos de comunicación estrictos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "#SRES_07: шанс выживания повышается благодаря более строгим протоколам взаимодействия.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "#SRES_07: Aumente as chances de sobrevivência impondo protocolos de comunicação rígidos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "#SRES_07: Zwiększ współczynnik przeżywalności poprzez egzekwowanie ścisłych protokołów komunikacyjnych",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "#SRES_07:厳格な通信プロトコルを実施して生存率を上げろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "#SRES_07: 엄격한 통신 프로토콜을 적용하여 생존율을 높입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "#SRES_07：強制執行嚴格通訊協定以提高生存率",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "#SRES_07：实施严格的通讯协议以提高生存几率",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Warning3",
+  "internalEnabled": true,
+  "persistentID": 454
+}

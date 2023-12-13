@@ -1,0 +1,153 @@
+{
+  "officialForRelease": true,
+  "publicName": "Revolver [AT][TP]",
+  "baseItemID": 33,
+  "weaponPersonalityID": 29,
+  "showAmmoInGUI": true,
+  "archetypesAllowed": [
+    {
+      "allowed": false,
+      "archetypeID": 1,
+      "macroText": ""
+    },
+    {
+      "allowed": true,
+      "archetypeID": 6,
+      "macroText": "semi"
+    }
+  ],
+  "ClassAmmoCostFactor": 1.0,
+  "PublicGearInfo": "Semi automatic\r\nMedium range\r\nHigh recoil\r",
+  "dropPeriodRange": [],
+  "structualModsAllowedGrip": [
+    {
+      "allowed": false,
+      "ID": 95,
+      "partName": "Revolver_Grip"
+    },
+    {
+      "allowed": false,
+      "ID": 99,
+      "partName": "Revolver_Rhino_Grip"
+    },
+    {
+      "allowed": false,
+      "ID": 105,
+      "partName": "Hydraulic_Revolver_Grip_a"
+    }
+  ],
+  "structualModsAllowedStock": [],
+  "structualModsAllowedBarrel": [
+    {
+      "allowed": false,
+      "ID": 94,
+      "partName": "Revolver_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 97,
+      "partName": "Revolver_Rhino_Barrel"
+    },
+    {
+      "allowed": false,
+      "ID": 100,
+      "partName": "Revolver_Mod_Barrel"
+    }
+  ],
+  "structualModsAllowedReceiver": [
+    {
+      "allowed": false,
+      "ID": 96,
+      "partName": "Revolver_Receiver"
+    },
+    {
+      "allowed": false,
+      "ID": 98,
+      "partName": "Revolver_Rhino_Receiver"
+    }
+  ],
+  "visualModsAllowed": [],
+  "toolsAllowed": [
+    {
+      "allowed": true,
+      "ID": 17,
+      "partName": "Tool_M9_Flashlight"
+    },
+    {
+      "allowed": true,
+      "ID": 16,
+      "partName": "Tool_flashlight_small_led"
+    },
+    {
+      "allowed": true,
+      "ID": 15,
+      "partName": "Tool_flashlight_small_incandescent"
+    },
+    {
+      "allowed": true,
+      "ID": 14,
+      "partName": "Tool_flashlight_small_halogen"
+    }
+  ],
+  "sightsAllowed": [
+    {
+      "allowed": true,
+      "ID": 101,
+      "partName": "Sight_Revolver_Rear_a"
+    },
+    {
+      "allowed": true,
+      "ID": 102,
+      "partName": "Sight_Revolver_Rear_b"
+    },
+    {
+      "allowed": false,
+      "ID": 103,
+      "partName": "Sight_Revolver_Optical_a"
+    }
+  ],
+  "gripsAllowed": [],
+  "muzzlesAllowed": [
+    {
+      "allowed": false,
+      "ID": 106,
+      "partName": "muzzle_a"
+    },
+    {
+      "allowed": false,
+      "ID": 108,
+      "partName": "muzzle_b"
+    },
+    {
+      "allowed": true,
+      "ID": 107,
+      "partName": "muzzle_c"
+    },
+    {
+      "allowed": false,
+      "ID": 111,
+      "partName": "muzzle_f"
+    },
+    {
+      "allowed": false,
+      "ID": 110,
+      "partName": "muzzle_e"
+    },
+    {
+      "allowed": false,
+      "ID": 109,
+      "partName": "muzzle_d"
+    }
+  ],
+  "magazinesAllowed": [],
+  "allowEmptyStructualModSlot": true,
+  "allowEmptyVisualModSlot": true,
+  "allowEmptyToolSlot": false,
+  "allowEmptySightSlot": false,
+  "allowEmptyGripSlot": true,
+  "allowEmptyMuzzleSlot": false,
+  "allowEmptyMagazineSlot": true,
+  "name": "Special_Revolver",
+  "internalEnabled": true,
+  "persistentID": 22
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING: Voltage drop in the electrical power system detected. Attempting to restore functionality. Stand by.</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0: chute de tension détectée dans le système d'alimentation électrique. Tentative de restauration de la fonctionnalité. En attente de rétablissement.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: rilevata caduta di tensione nell'impianto elettrico. Tentativo di ripristino della funzionalità. Attendere.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG: Spannungsabfall im Stromnetz festgestellt. Es wird versucht, die Funktionalität wiederherzustellen. Warten Sie.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: Bajada de tensión en el sistema eléctrico detectada. Intentando restablecer funcionalidad. Un momento.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! Обнаружено падение напряжения в системе электроснабжения. Система восстанавливается. Ожидайте</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO: Queda na voltagem do sistema elétrico detectada. Tentando restaurar funcionamento. Aguarde.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE: wykryto spadek napięcia w instalacji elektrycznej. Próba przywrócenia funkcjonalności. Proszę czekać.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告：電力系統の電圧低下を検知。機能回復を試行中。待機せよ。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고: 전력 시스템의 전압이 저하됐습니다. 기능 복구 중입니다. 대기하십시오.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告：檢測到電力系統的電壓下降。正在嘗試恢復功能。待命。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告：检测到电力系统电压下降。正在尝试恢复功能。待机中。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 9,
+  "ImportVersion": 9,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 1932174680
+}

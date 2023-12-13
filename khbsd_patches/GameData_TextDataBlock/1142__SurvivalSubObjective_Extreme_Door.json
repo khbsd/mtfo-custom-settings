@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Additional Cells detected in <color=orange>Zone 177</color> - <color=orange>[Zone 177]</color>\nReleasing Zone locks..",
+  "Description": "Don't localize [ZONE 177]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Cellules supplémentaires détectées dans la <color=orange>Zone\u00A0177</color> - <color=orange>[Zone\u00A0177]</color>\nDéverrouillage de la zone...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Celle [CELL] aggiuntive rilevate nella <color=orange>ZONE 177</color> - <color=orange>Zone 177</color>\nRimozione blocchi zone.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zusätzliche Zellen entdeckt in <color=orange>ZONE 177</color> – <color=orange>[Zone 177]</color>\nZonensperren werden deaktiviert …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Celdas adicionales detectadas en la <color=orange>ZONE 177</color> - <color=orange>ZONE 177</color>.\nEliminando cierres de zona.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обнаружены дополнительные батареи [CELL] в <color=orange>ZONE 177</color> — <color=orange>ZONE 177</color>\nРазблокировка замков.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Cells adicionais detectadas na <color=orange>ZONE 177</color> - <color=orange>[ZONE 177]</color>\nLiberando travas da zona..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykryto dodatkowe ogniwa w <color=orange>strefie 177 [ZONE_177]</color> – <color=orange>[ZONE_177]</color>\nZwalnianie blokady strefy.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ゾーン177</color> で追加セルを検出 - <color=orange>[Zone 177]</color>\nゾーンロックを解放..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 177</color> - <color=orange>[Zone 177]</color>에서 추가 [CELL] 셀 탐지\n구역 잠금 해제 중..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>ZONE 177</color> - <color=orange>ZONE 177</color>中偵測到額外電池[CELL]\n正在解除區域鎖……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 177</color>中检测到更多电池[CELL] - <color=orange>ZONE 177</color>\n正在解除区域锁定……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "SurvivalSubObjective_Extreme_Door",
+  "internalEnabled": true,
+  "persistentID": 1142
+}

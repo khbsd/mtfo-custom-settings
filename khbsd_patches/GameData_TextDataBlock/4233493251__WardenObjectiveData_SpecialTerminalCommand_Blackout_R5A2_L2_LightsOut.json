@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>:://CRITICAL FAILURE - SUPPORT SYSTEMS OFFLINE</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>:://ERREUR CRITIQUE - SYSTÈMES D'ASSISTANCE HORS-LIGNE</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>:://ERRORE CRITICO - SISTEMI DI SUPPORTO OFFLINE</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>:://KRITISCHES VERSAGEN – UNTERSTÜTZUNGSSYSTEME OFFLINE</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>:://FALLO CRÍTICO: SISTEMAS DE SOPORTE DESCONECTADOS</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>:://КРИТИЧЕСКАЯ ОШИБКА. СИСТЕМЫ ОБСЛУЖИВАНИЯ ОТКЛЮЧЕНЫ</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>:://FALHA CRÍTICA - SISTEMAS DE SUPORTE OFFLINE</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>:://AWARIA KRYTYCZNA – UKŁADY ZAPASOWE WYŁĄCZONE</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>:://致命的障害 - サポートシステムがオフライン</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>:://치명적인 오류 - 지원 시스템 오프라인</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>:://嚴重故障 - 備用電力系統離線</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>:://致命故障 - 支持系统离线</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData_SpecialTerminalCommand_Blackout_R5A2_L2_LightsOut",
+  "internalEnabled": true,
+  "persistentID": 4233493251
+}

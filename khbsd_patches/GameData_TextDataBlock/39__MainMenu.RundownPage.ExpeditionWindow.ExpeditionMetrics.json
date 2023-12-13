@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ":://Expedition_metrics_",
+  "Description": "Quantifiable information (numbers) regarding the mission/map in question. Do not remove the \"://\", the \"&&\" or the underscores (\"_\").",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": ":://Données_d'expédition_",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ":://Metriche_spedizione_",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ":://Expedition_Metrik_",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ":://Métricas_expedición_",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ":://Expedition_metrics_",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ":://Métricas_expedição_",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ":://Parametry_ekspedycji_",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ":://エクスペディション_メトリクス_",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ":://탐사지_지표_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ":://遠征_計量_",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ":://任务_指标_",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ExpeditionWindow.ExpeditionMetrics",
+  "internalEnabled": true,
+  "persistentID": 39
+}

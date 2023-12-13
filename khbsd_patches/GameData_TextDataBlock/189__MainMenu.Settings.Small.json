@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Small",
+  "Description": "This setting is about CPU workload quantity and can be either Small, Medium, Large or Extreme.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réduite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Basso",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Klein",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pequeño",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Малая",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pequena",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Małe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "小",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "작음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "小",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Small",
+  "internalEnabled": true,
+  "persistentID": 189
+}

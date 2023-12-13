@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Building uplink verification signature",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Création d'une signature de vérification de liaison montante",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Creazione traccia verifica uplink",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Uplink-Verifizierungssignatur wird erstellt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Creando firma de verificación de uplink.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Создание сигнатуры верификации подключения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Construindo assinatura de verificação de uplink",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Budowa sygnatury weryfikacji łącza",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アップリンク認証シグネチャを構築中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "업링크 승인 서명 구축 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在構建上行鏈路驗證簽名",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在构建上行链路验证签名",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Building_uplink_verification_signature",
+  "internalEnabled": true,
+  "persistentID": 27959760
+}

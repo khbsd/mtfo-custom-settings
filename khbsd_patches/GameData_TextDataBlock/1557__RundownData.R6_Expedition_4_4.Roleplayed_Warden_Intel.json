@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "... We're... back... \r\n... This will go quick then! \r\n... No, <size=200%><color=red>wait-</color></size>\n... [screeching, gunfire]",
+  "Description": "Warden Intel messages like these, with the >... symbols, are transcriptions of voice recordings.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... On est... de retour... \r\n... Alors finissons-en vite\u00A0! \r\n... Non, <size=200%><color=red>attendez\u00A0!</color></size>\n... [cris, coups de feu]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "… Siamo… tornati… \r\n… Sarà una cosa veloce allora! \r\n… No, <size=200%><color=red>un attimo…</color></size>\n… [stridio, spari]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… Wir sind … zurück …\r\n… Dann sollte das schnell gehen!\r\n… Nein, <size=200%><color=red>warte–</color></size>\n… [Kreischen, Schüsse]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... Aquí estamos... otra vez... \r\n... ¡Entonces lo liquidaremos rapidito! \r\n... ¡Quieto, <size=200%><color=red>para...!</color></size>\n... [chillidos, disparos]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "... Мы... вернулись...\r\n... Быстро справимся!\r\n... Нет, <size=200%><color=red>погоди...</color></size>\n[визг, выстрелы]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... Nós... voltamos... \r\n... Então isso aqui vai acabar rápido! \r\n... Não, <size=200%><color=red>espere...</color></size>\n... [berros, tiros]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...Wróciliśmy... \r\n...W takim razie szybko pójdzie! \r\n...Nie, <size=200%><color=red>czekaj…</color></size>\n[wrzask, strzały]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "... ここへ... 戻ってきた... \r\n... じゃあ早いな！ \r\n... いや、<size=200%><color=red>待て-</color></size>\n... [金切り声、銃撃]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "... 돌아... 왔다... \r\n... 그럼 금방 끝날 거야! \r\n... 아니, <size=200%><color=red>잠깐...</color></size>\n... [소란, 총격]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "……我們……回來了……\r\n……那這個會很快！\r\n……不，<size=200%><color=red>等等—</color></size>\n……[尖叫聲、槍聲]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……我们……回来了……\r\n……那这个会很快的！\r\n……不，<size=200%><color=red>等等——</color></size>\n……[尖叫声、炮火声]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "RundownData.R6_Expedition_4_4.Roleplayed_Warden_Intel",
+  "internalEnabled": true,
+  "persistentID": 1557
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deactivate Security lockdown level:<color=red> Omega </color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Désactivez le verrouillage de sécurité de niveau\u00A0: <color=red> Oméga </color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Disattivare il livello di blocco di sicurezza:<color=red> Omega </color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsverriegelungsstufe deaktivieren:<color=red> Omega </color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desactivar bloqueo de seguridad de nivel:<color=red> Omega </color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Деактивация изоляции безопасности, уровень <color=red>Омега</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Desativar nível de confinamento de segurança:<color=red> Ômega </color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dezaktywuj poziom blokady bezpieczeństwa:<color=red> omega </color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティロックダウンレベル：<color=red>オメガ</color>を無効化",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 폐쇄 수준:<color=red> 오메가 </color> 비활성화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解除安全封鎖等級：<color=red>Omega</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭安全封锁等级：<color=red>欧米伽</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.SpecialTerminalCommand_Description_R7D2",
+  "internalEnabled": true,
+  "persistentID": 3107304601
+}

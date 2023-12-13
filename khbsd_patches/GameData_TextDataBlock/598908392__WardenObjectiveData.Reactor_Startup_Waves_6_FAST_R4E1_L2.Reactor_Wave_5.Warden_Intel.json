@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Auxiliary Terminal located in [ZONE_7]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Terminal auxiliaire situé dans la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Terminale ausiliario situato in [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hilfsterminal in [ZONE_7] lokalisiert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Terminal auxiliar ubicada en la [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Резервный терминал расположен в [ZONE_7].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Terminal auxiliar localizado na [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Terminal pomocniczy w strefie 7 [ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_7]で予備端末を発見",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_7]에서 보조 터미널 발견",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "輔助終端位於[ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备用终端位于[ZONE_7]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_6_FAST_R4E1_L2.Reactor_Wave_5.Warden_Intel",
+  "internalEnabled": true,
+  "persistentID": 598908392
+}

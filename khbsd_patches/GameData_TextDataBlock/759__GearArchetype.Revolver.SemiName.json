@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Revolver",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Revolver",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Revolver",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Revolver",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Revólver",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Револьвер",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Revólver",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rewolwer",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リボルバー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "리볼버",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左輪手槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左轮手枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Revolver.SemiName",
+  "internalEnabled": true,
+  "persistentID": 759
+}

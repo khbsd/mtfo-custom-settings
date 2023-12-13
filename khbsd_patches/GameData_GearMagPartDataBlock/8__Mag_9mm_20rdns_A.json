@@ -1,0 +1,16 @@
+{
+  "ClipSizeMultiplier": 1.0,
+  "ReloadTimeMultiplier": 1.0,
+  "ReloadLeftHandGripAnim": "",
+  "DropSoundType": 1,
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Mags/Mag_9mm_20rdns_A.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 60,
+    "BundleShard": 16
+  },
+  "Aligns": [],
+  "name": "Mag_9mm_20rdns_A",
+  "internalEnabled": true,
+  "persistentID": 8
+}

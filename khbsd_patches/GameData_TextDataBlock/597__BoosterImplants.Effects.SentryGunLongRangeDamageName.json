@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "LR sentry damage",
+  "Description": "\"LR\" stands for \"long range\". The \"LR sentry damage\" refers to how much damage a sentry gun deals against long range targets.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de tourelle LD",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da torr. a gitt. lunga",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sentry-Fernschaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de centinela (LA)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (турель, дальнее действие)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de sentinela à distância",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia działka wartowniczego na długim dystansie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "遠距離セントリーダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "LR 센트리 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "遠距自動砲台傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "远程哨戒炮伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunLongRangeDamageName",
+  "internalEnabled": true,
+  "persistentID": 597
+}

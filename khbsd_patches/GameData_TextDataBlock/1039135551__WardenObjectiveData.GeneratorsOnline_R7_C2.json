@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Generators Online: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Générateurs en ligne\u00A0: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Generatori online: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Generatoren online: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Generadores activados: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запущено генераторов: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Geradores Online: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włączone generatory: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オフライン発電機: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "발전기 온라인: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "發電機上線：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在线发电机：[COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.GeneratorsOnline_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1039135551
+}

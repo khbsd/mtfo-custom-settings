@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Move Forward",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Avancer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento in avanti",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vorwärts bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover hacia delante",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вперед",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover para frente",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ruch do przodu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "前進",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "앞으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向前移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前进",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MoveForward",
+  "internalEnabled": true,
+  "persistentID": 134
+}

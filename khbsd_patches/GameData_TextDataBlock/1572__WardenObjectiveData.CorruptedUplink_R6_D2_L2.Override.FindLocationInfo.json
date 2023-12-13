@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather information about the location of the terminals",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Obtenez plus d'informations sur l'emplacement des terminaux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare informazioni su ubicazione dei terminali",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie Informationen über den Standort der Terminals.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recopila información sobre la ubicación de las terminales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите сведения о местоположении терминалов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete informações sobre a localização do terminal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz informacje o położeniu terminali",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末の場所に関する情報を集めろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 위치 정보 수집",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集關於終端地點的資訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集关于终端位置的信息",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.CorruptedUplink_R6_D2_L2.Override.FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1572
+}

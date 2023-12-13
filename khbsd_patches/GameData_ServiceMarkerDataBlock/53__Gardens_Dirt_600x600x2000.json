@@ -1,0 +1,101 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        3
+      ],
+      [],
+      [],
+      [
+        3
+      ],
+      [
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        1,
+        4,
+        3,
+        2
+      ],
+      [
+        1,
+        4,
+        3,
+        2
+      ],
+      [],
+      [],
+      [
+        3
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_600x600x2000/Gardens_Dirt_600x600x2000_V01.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_600x600x2000/Gardens_Dirt_600x600x2000_V02.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_600x600x2000/Gardens_Dirt_600x600x2000_V03.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_600x600x2000/Gardens_Dirt_600x600x2000_V04.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_600x600x2000/Gardens_Dirt_600x600x2000_V05.prefab",
+        "function": 0,
+        "Shard": 8
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Gardens_600x600x2000",
+    "BoundingVolume": 720000.0
+  },
+  "name": "Gardens_Dirt_600x600x2000",
+  "internalEnabled": true,
+  "persistentID": 53
+}

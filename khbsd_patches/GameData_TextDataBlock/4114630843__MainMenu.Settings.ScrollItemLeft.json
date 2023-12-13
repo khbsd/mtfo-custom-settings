@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scroll item up",
+  "Description": "Control key binding/mapping. This key cycles up through the player's inventory - each key press switches to the next piece of gear, like so: Melee weapon > consumable >  resource pack > tool > special weapon > primary weapon > melee weapon.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Défilement d'objet (haut)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scorri gli oggetti in su",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zu Gegenstand oben scrollen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cambiar a objeto de arriba",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прокрутить вверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Rolar item para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przewiń przedmiot w górę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテムをスクロールアップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "위로 아이템 스크롤",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向上捲動物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "向上滚动物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.ScrollItemLeft",
+  "internalEnabled": true,
+  "persistentID": 4114630843
+}

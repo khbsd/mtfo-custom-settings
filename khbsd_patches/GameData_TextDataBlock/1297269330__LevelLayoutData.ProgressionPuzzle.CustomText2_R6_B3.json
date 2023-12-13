@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backup power supply unit: <color=orange>ONLINE</color>",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Unité d'alimentation de secours\u00A0: <color=orange>EN LIGNE</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Alimentatore di backup: <color=orange>ONLINE</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Reservestromversorgungseinheit: <color=orange>ONLINE</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Unidad eléctrica de apoyo: <color=orange>ACTIVADA</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Резервный источник питания: <color=orange>ВКЛЮЧЕН</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Unidade de fornecimento elétrico de reserva: <color=orange>ONLINE</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasilacz rezerwowy: <color=orange>WŁĄCZONY</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備電力供給ユニット：<color=orange>オンライン</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 파워 서플라이 유닛: <color=orange>온라인</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "備用電源裝置：<color=orange>線上</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备用电源装置：<color=orange>在线</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText2_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 1297269330
+}

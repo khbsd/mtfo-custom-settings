@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert {0}",
+  "Description": "I.e. \"insert this item into the machine.\" This text string appears on screen when the player is standing close to a machine, while also carrying an object that can be inserted into that machine.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insérer {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserisci {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} einfügen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Insertar {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вставить {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inserir {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włóż: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を挿入",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 삽입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "插入{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "插入{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Insert_X",
+  "internalEnabled": true,
+  "persistentID": 865
+}

@@ -1,0 +1,23 @@
+{
+  "ForceDisableAnimator": false,
+  "AnimationControllers": 4,
+  "MoveSlowerWhenInPlayerRoom": true,
+  "MoveSlowerWithinTargetDistance": 23.0,
+  "GlobalAnimSpeedMulti": 1.5,
+  "PathMoveAnimSpeedMulti": 1.0,
+  "RotationLerp": 1.5,
+  "RotationLerpWhenNotMoving": 0.8,
+  "BlendIntoAttackAnim": 0.5,
+  "BlendIntoScreamAnim": 0.5,
+  "AllowMovmentBlendOutOfPathMove": true,
+  "PathMoveAnimDampTime": 0.05,
+  "AllowClimbDownLadders": false,
+  "LocomotionPathMove": 2,
+  "LocomotionHitReact": 7,
+  "LocomotionDead": 11,
+  "LocomotionShooterAttack": 18,
+  "LocomotionScream": 16,
+  "name": "Tank",
+  "internalEnabled": true,
+  "persistentID": 34
+}

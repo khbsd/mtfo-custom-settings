@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Select Tool",
+  "Description": "Control key binding/mapping. This key equip the player's tool (not a carpenter tool, but a gadget like sentry gun or motion tracker.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sélectionner l'outil",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Seleziona strumento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Werkzeug wählen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Seleccionar herramienta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выбрать устройство",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Selecionar ferramenta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wybór narzędzia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ツールを選択",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "도구 선택",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選擇工具",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "选择工具",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SelectTool",
+  "internalEnabled": true,
+  "persistentID": 149
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>COMPLETE SCAN TO FINALIZE PROCESS</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>TERMINEZ L'ANALYSE POUR FINALISER LE PROCESSUS</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>COMPLETARE SCANSIONE PER FINALIZZARE LA PROCEDURA</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>SCHLIESSEN SIE DEN SCAN AB, UM DEN VORGANG ABZUSCHLIESSEN.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>COMPLETA EL ANÁLISIS PARA FINALIZAR EL PROCESO</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>ВЫПОЛНИТЕ ПРОВЕРКУ, ЧТОБЫ ЗАВЕРШИТЬ ПРОЦЕСС.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>CONCLUIR ESCÂNER PARA FINALIZAR PROCESSO</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>UKOŃCZ SKANOWANIE, ABY UKOŃCZYĆ PROCEDURĘ</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>スキャンを完了し、プロセスを終了しろ</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>스캔을 완료해 절차 마무리</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>完成掃描以結束處理程序</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>完成扫描以结束进程</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "R8B2.Dimension3.PostCommandOutputs2",
+  "internalEnabled": true,
+  "persistentID": 151450606
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scan complete. Open door to <color=orange>ZONE 74</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Analyse terminée. Ouvrez la porte vers la <color=orange>ZONE\u00A074</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansione completata. Aprire porta per <color=orange>ZONE 74</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scan abgeschlossen. Öffnen Sie die Tür zu <color=orange>ZONE 74</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escaneo completado. Abre la puerta a la <color=orange>ZONE 74</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сканирование завершено. Откройте дверь в <color=orange>ZONE 74</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escaneamento concluído. Abra a porta para a <color=orange>ZONE 74</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skanowanie ukończone. Otwórz drzwi do <color=orange>strefy 74 [ZONE_74]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャン完了。<color=orange>ZONE 74</color>へのドアを開け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔 완료. <color=orange>ZONE 74</color> 문 열기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描完成。打開通往<color=orange>ZONE 74</color>的門",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描完成。打开<color=orange>ZONE 74</color>的门",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenObjectiveData.Tutorial.Zone3.OnScanDone.SubObjective",
+  "internalEnabled": true,
+  "persistentID": 3044442201
+}

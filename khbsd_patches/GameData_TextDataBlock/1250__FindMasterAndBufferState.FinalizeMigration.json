@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FinalizeMigration",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "TerminerMigration",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Finalizza migrazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MigrationAbschließen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Finalizar migración",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершить перенос",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "FinalizarMigração",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UkończMigrację",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移行最終決定",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "통합완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成移轉",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成迁移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "FindMasterAndBufferState.FinalizeMigration",
+  "internalEnabled": true,
+  "persistentID": 1250
+}

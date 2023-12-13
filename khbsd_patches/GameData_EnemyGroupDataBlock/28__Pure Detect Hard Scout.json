@@ -1,0 +1,17 @@
+{
+  "Type": 3,
+  "Difficulty": 2,
+  "SpawnPlacementType": 0,
+  "MaxScore": 6.0,
+  "ScoreInAreaPaddingMulti": 3.0,
+  "RelativeWeight": 1.0,
+  "Roles": [
+    {
+      "Role": 5,
+      "Distribution": 5
+    }
+  ],
+  "name": "Pure Detect Hard Scout",
+  "internalEnabled": true,
+  "persistentID": 28
+}

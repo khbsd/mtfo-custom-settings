@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PROGRESSION",
+  "Description": "The tag that is displayed next to a progression objective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "PROGRESSION",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVANZAMENTO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FORTSCHRITT",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PROGRESO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОГРЕСС",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PROGRESSÃO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "POSTĘP",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "進捗",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "진행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "推进",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.GameObjective.Progression",
+  "internalEnabled": true,
+  "persistentID": 2804195192
+}

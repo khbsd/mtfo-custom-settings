@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Executing '{0}'",
+  "Description": "{0} is the text input from the player using the terminal.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Exécution de '{0}'",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Esecuzione \"{0}\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "„{0}“ wird ausgeführt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecutando «{0}»",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выполнение: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Executando '{0}'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonywanie '{0}'",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "'{0}'を実行中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "'{0}' 실행 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在執行「{0}」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在执行“{0}”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Executing_X",
+  "internalEnabled": true,
+  "persistentID": 528912994
+}

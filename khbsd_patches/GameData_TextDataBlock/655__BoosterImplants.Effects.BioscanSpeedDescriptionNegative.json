@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will make bioscans process speed slower.",
+  "Description": "Describes the disadvantage of having a poor \"bioscan speed\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ralentit le processus de bioscan pour le sujet.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto renderà più lenta l'elaborazione dei bio-scanner",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verlangsamt den Bioscan-Vorgang.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto hará que los bioescáneres procesen a menor velocidad.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Процесс биосканирования проходит медленнее.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo faz processos de bioescâner mais lentos.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca spowolni przetwarzanie bioskanera.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象のバイオスキャン速度が低下する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 바이오스캔을 더 느리게 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象會讓生物掃描處理速度變慢。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者的生物扫描进程速度减慢。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.BioscanSpeedDescriptionNegative",
+  "internalEnabled": true,
+  "persistentID": 655
+}

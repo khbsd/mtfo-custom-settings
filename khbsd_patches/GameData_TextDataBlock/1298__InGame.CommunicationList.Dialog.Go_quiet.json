@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go quiet",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pas un bruit",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Silenzio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leise",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Con calma",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Тихо",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Em silêncio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zachować ciszę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "静かに行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "조용히 해",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "安靜點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "安静",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Go_quiet",
+  "internalEnabled": true,
+  "persistentID": 1298
+}

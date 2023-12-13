@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Artifact Heat:",
+  "Description": "In GTFO you can find artifacts around the maps. If the \"artifact heat\" of a particular mission is high, the artifacts found on this mission will be valuable and can be exchanged for other valuable items. If the \"artifact heat\" is low, the artifacts will be less valuable. So the value of artifacts go up and down like a stock, and the term \"artifact heat\" represents the \"exchange rate\" (i.e. the current value) of the artifacts in a given mission.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Intensité d'artefact\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Probabilità manufatto:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Artefakthitze:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Calor de artefacto:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Качество артефактов:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Probab. de artefato:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ciepło artefaktów:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アーティファクトヒート:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아티팩트 온도:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "寶物熱度：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "红晶热力：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.ArtifactHeat",
+  "internalEnabled": true,
+  "persistentID": 14
+}

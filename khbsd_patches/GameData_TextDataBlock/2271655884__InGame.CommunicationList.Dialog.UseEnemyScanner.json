@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scan",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Analyser",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansiona",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scannen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escáner",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сканируйте",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escanear",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skanuj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.UseEnemyScanner",
+  "internalEnabled": true,
+  "persistentID": 2271655884
+}

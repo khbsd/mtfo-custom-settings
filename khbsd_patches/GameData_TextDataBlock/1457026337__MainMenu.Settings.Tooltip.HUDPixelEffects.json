@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "A graphic setting that makes it so that text in the game's user interfaces have a mirroring/drop shadow-like effect",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active un effet de miroir/ombre portée sur l'interface.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un'impostazione grafica che fa sì che il testo nelle interfacce del gioco abbia un effetto simile al mirroring/ombra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eine Grafikeinstellung, die dafür sorgt, dass der Text in den Benutzeroberflächen des Spiels einen spiegelnden/schattenähnlichen Effekt hat",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Un ajuste gráfico para que el texto en las interfaces del jugador tengan un efecto similar a una sombra o reflejo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Графический параметр, который позволяет добавить тексту в игровом интерфейсе эффект отражения/тени.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Uma configuração gráfica que faz com que o texto nas interfaces do usuário tenha um efeito parecido com sombra espelhada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustawienie graficzne sprawiające, że tekst w interfejsie użytkownika gry ma przypominający cień efekt zwierciadła/kropli",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ゲームのUIテキストにミラーリング/ドロップシャドウ風効果を持たせるグラフィック設定。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "게임의 사용자 인터페이스에 있는 텍스트가 미러링/그림자 같은 효과를 갖도록 하는 그래픽 설정입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使遊戲使用者介面中的文字具有鏡像/陰影效果的圖形設定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一种图形设置，让游戏用户界面中的文本显示出类似镜像/投影的效果。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.HUDPixelEffects",
+  "internalEnabled": true,
+  "persistentID": 1457026337
+}

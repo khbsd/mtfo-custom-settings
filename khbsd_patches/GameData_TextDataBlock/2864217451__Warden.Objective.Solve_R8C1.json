@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use [ITEM_SERIAL] to establish uplink to [UPLINK_ADDRESS]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez [ITEM_SERIAL] pour établir une liaison montante vers [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare [ITEM_SERIAL] per stabilire uplink con [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie [ITEM_SERIAL], um einen Uplink zu [UPLINK_ADDRESS] herzustellen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa [ITEM_SERIAL] para establecer el uplink a la [UPLINK_ADDRESS].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте [ITEM_SERIAL], чтобы подключиться к [UPLINK_ADDRESS].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar [ITEM_SERIAL] para estabelecer uplink com [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj przedmiotu [ITEM_SERIAL], aby ustanowić łącze z [UPLINK_ADDRESS]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL]を使用して、[UPLINK_ADDRESS]へのアップリンクを確立しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_SERIAL]을 사용해 [UPLINK_ADDRESS] 업링크 설치",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用[ITEM_SERIAL]建立到[UPLINK_ADDRESS]的上行鏈路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用[ITEM_SERIAL]建立到[UPLINK_ADDRESS]的上行链路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Objective.Solve_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2864217451
+}

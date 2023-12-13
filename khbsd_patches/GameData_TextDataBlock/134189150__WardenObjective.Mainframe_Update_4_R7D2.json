@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=Red>Error</color> Local zone clearance overridden. Proceed to zone 6 or Zone 7 to activate maintenance mode.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=Red>Erreur</color> Habilitation de la zone locale neutralisée. Rendez-vous dans la zone\u00A06 ou 7 pour activer le mode maintenance.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=Red>Errore</color>. Autorizzazione zona locale sovrascritta. Procedere a Zone 6 o 7 per attivare la modalità di manutenzione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=Red>Fehler</color> Lokale Zonenfreigabe überschrieben. Begeben Sie sich zu Zone 6 oder Zone 7, um den Wartungsmodus zu aktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=Red>Error</color> Autorización de zona local anulada. Ve a la Zone 6 o a la Zone 7 para activar el modo de mantenimiento.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=Red>Ошибка</color>: отключена проверка в локальной зоне. Для активации режима техобслуживания проследуйте в зону 6 или 7.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=Red>Erro</color> Liberação de zona local revogada. Vá até a Zone 6 ou Zone 7 para ativar o modo de manutenção.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=Red>Błąd</color> Nadpisanie dostępu do strefy lokalnej. Przejdź do strefy 6 lub 7 w celu uruchomienia trybu konserwacji.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=Red>エラー</color>ローカルゾーンクリアランスがオーバーライド。Zone 6またはZone 7に進みメンテナンスモードを起動しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=Red>오류</color> 내부 구역 승인 무시. Zone 6 또는 Zone 7로 이동해 점검 모드를 활성화하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=Red>錯誤</color>：本地區域許可已覆蓋。前往ZONE 6或ZONE 7來啟動維護模式。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=Red>错误</color>：本地区域许可已被覆盖。前往ZONE 6或ZONE 7来激活维护模式。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.Mainframe_Update_4_R7D2",
+  "internalEnabled": true,
+  "persistentID": 134189150
+}

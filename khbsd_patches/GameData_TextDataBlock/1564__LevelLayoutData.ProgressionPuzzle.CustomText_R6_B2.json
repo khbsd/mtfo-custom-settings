@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door locked, unable to operate. Complete HSU scan to gain entrance.</color>",
+  "Description": "Don't localize HSU. \nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Porte verrouillée, ouverture impossible. Effectuez une analyse HSU pour entrer.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta bloccata e non funzionante. Completare scansione HSU per accedere.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür verschlossen, keine Operation möglich. Führen Sie einen HSU-Scan durch, um Zugang zu erhalten.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta cerrada, no se puede operar. Completa el escaneo de las HSU para acceder.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Дверь заблокирована. Для разблокировки завершите проверку HSU.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta trancada, incapaz de operar. Conclua o escaneamento HSU para conseguir entrar.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: drzwi zamknięte, sterowanie uniemożliwione. Aby uzyskać dostęp, ukończ skanowanie HSU.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアはロック中。作動不可。HSUスキャンを完了して進入。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 폐쇄되어 작동할 수 없습니다. 진입하려면 HSU 스캔을 완료하십시오.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門已上鎖，無法操作。完成HSU掃描以獲得進入權限。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门已锁上，无法操作。完成HSU扫描以进入。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R6_B2",
+  "internalEnabled": true,
+  "persistentID": 1564
+}

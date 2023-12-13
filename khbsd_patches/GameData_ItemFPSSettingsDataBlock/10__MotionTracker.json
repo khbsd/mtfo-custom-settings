@@ -1,0 +1,148 @@
+{
+  "localPosHip": {
+    "x": 0.12,
+    "y": -0.13,
+    "z": 0.52,
+    "normalized": {
+      "x": 0.2184709,
+      "y": -0.2366768,
+      "z": 0.9467072,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.549272239,
+    "sqrMagnitude": 0.301699966
+  },
+  "localRotHip": {
+    "x": -1.01,
+    "y": -4.2,
+    "z": -1.91,
+    "normalized": {
+      "x": -0.213840082,
+      "y": -0.889236,
+      "z": -0.404390663,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 4.7231555,
+    "sqrMagnitude": 22.3081989
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": 5.0,
+  "localPosRelaxed": {
+    "x": 0.16,
+    "y": -0.11,
+    "z": 0.53,
+    "normalized": {
+      "x": 0.283463478,
+      "y": -0.194881141,
+      "z": 0.9389727,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.5644466,
+    "sqrMagnitude": 0.318599969
+  },
+  "localRotRelaxed": {
+    "x": 1.15,
+    "y": 2.2,
+    "z": -10.03,
+    "normalized": {
+      "x": 0.111297809,
+      "y": 0.212917566,
+      "z": -0.970710456,
+      "normalized": {
+        "x": 0.111297816,
+        "y": 0.212917581,
+        "z": -0.9707105,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 10.3326378,
+    "sqrMagnitude": 106.7634
+  },
+  "localPosZoom": {
+    "x": 0.07,
+    "y": -0.11,
+    "z": 0.52,
+    "normalized": {
+      "x": 0.130573392,
+      "y": -0.205186754,
+      "z": 0.9699737,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.536097,
+    "sqrMagnitude": 0.287399977
+  },
+  "localRotZoom": {
+    "x": -1.01,
+    "y": -4.2,
+    "z": -1.91,
+    "normalized": {
+      "x": -0.213840082,
+      "y": -0.889236,
+      "z": -0.404390663,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 4.7231555,
+    "sqrMagnitude": 22.3081989
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": 0.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.1,
+    "sqrMagnitude": 0.0100000007
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 35,
+  "ItemCameraFOVZoom": 20,
+  "LookCameraFOVZoom": 45,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.0,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 0,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 20,
+  "WalkAnimation": 18,
+  "RunAnimation": 22,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 0.8
+  },
+  "name": "MotionTracker",
+  "internalEnabled": true,
+  "persistentID": 10
+}

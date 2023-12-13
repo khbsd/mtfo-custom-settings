@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Insert",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Insér.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ins",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einfügen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Insert",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Insert键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Insert",
+  "internalEnabled": true,
+  "persistentID": 221
+}

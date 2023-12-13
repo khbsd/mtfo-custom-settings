@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Clear a path to the exit point in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Frayez-vous un chemin vers le point d'évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Liberare un percorso verso il punto d'estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bahnen Sie sich einen Weg zum Austrittspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Despeja un camino hasta el punto de evacuación en la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Расчистите путь в точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Libere o caminho para o ponto de saída na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Utoruj sobie drogę do punkty ewakuacyjnego w [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[EXTRACTION_ZONE]の脱出地点への道を通行可能にしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE]의 탈출구로 가는 길 정리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "清出通往[EXTRACTION_ZONE]撤離點的路",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "清理一条通往[EXTRACTION_ZONE]出口处的路",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Clear_A_Path_R2B1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2978451308
+}

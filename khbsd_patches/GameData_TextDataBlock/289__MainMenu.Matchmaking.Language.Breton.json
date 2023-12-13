@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Breton",
+  "Description": "A language spoken in the Bretagne region of France.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Breton",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bretone",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bretonisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bretón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бретонский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bretão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bretoński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブルトン語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "브르타뉴어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "布里敦文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "布列塔尼语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Breton",
+  "internalEnabled": true,
+  "persistentID": 289
+}

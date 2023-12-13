@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hurry",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dépêchez-vous",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbrigatevi",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Beeilung",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Más rápido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Быстрее",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Rápido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "急げ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "서둘러",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "趕快",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "赶快",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Hurry",
+  "internalEnabled": true,
+  "persistentID": 1278
+}

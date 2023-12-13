@@ -1,0 +1,51 @@
+{
+  "publicName": "Disinfection Pack",
+  "LocalizedName": 0,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 13,
+  "inventorySlot": 4,
+  "FPSSettings": 18,
+  "crosshair": 0,
+  "HUDIcon": "GUI/Player/silouette_disinfection",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 0.5,
+  "ConsumableAmmoMin": 0,
+  "ConsumableAmmoMax": 0,
+  "audioEventEquip": "",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/MiscPickups/DisinfectonPackFirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/MiscPickups/DisinfectonPack.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Utils/EmptyThirdPerson.prefab",
+    "Assets/AssetPrefabs/Items/MiscPickups/DisinfectonPack_ThirdPerson.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/MiscPickups/DisinfectonPackPickup.prefab"
+  ],
+  "InstancePrefabs": [],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "DisinfectionPack_idle",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "DisinfectionPack_idle",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "DisinfectionPack",
+  "internalEnabled": true,
+  "persistentID": 132
+}

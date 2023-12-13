@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Attention. Capacitor flush sequence activated.  <color=red>Reactor offline.</color> ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Attention. Séquence d'évacuation des condensateurs activée. <color=red>Réacteur hors ligne.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione. Sequenza scarico condensatore attivata. <color=red>Reattore offline.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Achtung. Kondensator-Entladungssequenz aktiviert. <color=red>Reaktor offline.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Atención: secuencia de descarga de condensador activada. <color=red>Reactor desactivado.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание! Активирован цикл разрядки конденсатора. <color=red>Реактор выключен</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Atenção. Sequência de fluxo do condensador ativada. <color=red>Reator offline.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uwaga. Uruchomiono sekwencję zalania kondensatora. <color=red>Reaktor wyłączony.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "注意。コンデンサフラッシュシークエンス始動。<color=red>リアクターオフライン。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주의. 캐패시터 방전 절차 가동됨. <color=red>반응로 오프라인.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "注意。電容器排清序列已啟用。<color=red>反應器離線。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "注意。电容器放电序列已激活。<color=red>反应堆离线。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 4,
+  "ImportVersion": 4,
+  "name": "WardenSubObjectiveUpdate_LightsOut_r6dx",
+  "internalEnabled": true,
+  "persistentID": 4091980069
+}

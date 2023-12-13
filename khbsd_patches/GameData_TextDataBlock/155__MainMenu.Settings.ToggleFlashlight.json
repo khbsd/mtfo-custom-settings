@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Toggle Flashlight",
+  "Description": "Control key binding/mapping. This key toggles the flashlight on/off.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activer/désactiver la torche",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torcia ON/OFF",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampe umschalten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Linterna (alternar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включить фонарик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar lanterna",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wł./wył. latarkę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライト切り替え",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시 켜기/끄기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "切換手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "切换手电筒",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.ToggleFlashlight",
+  "internalEnabled": true,
+  "persistentID": 155
+}

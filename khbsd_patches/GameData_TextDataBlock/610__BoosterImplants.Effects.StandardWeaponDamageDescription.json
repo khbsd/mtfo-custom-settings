@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will deal more damage with their main weapon.",
+  "Description": "Describes the advantage of having a good \"main damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le sujet inflige plus de dégâts avec son arme principale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto infliggerà danni maggiori con la propria arma principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson verursacht mehr Schaden mit der Primärwaffe.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto infligirá más daño con su arma principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый основным оружием, повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo causa mais danos com sua arma principal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca będzie zadawał więcej obrażeń bronią główną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象のメイン武器のダメージが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 주 무기로 더 많은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象的主要武器會造成較多傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者通过主武器造成的伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.StandardWeaponDamageDescription",
+  "internalEnabled": true,
+  "persistentID": 610
+}

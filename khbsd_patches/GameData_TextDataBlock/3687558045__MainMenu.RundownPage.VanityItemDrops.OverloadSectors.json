@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "OVERLOAD SECTORS:",
+  "Description": "The sectors which have a overload objective level.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SECTEURS DE SURCHARGE\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SETTORI SOVRACCARICO:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "HERAUSFORDERUNGSSEKTOREN:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SOBRECARGA DE SECTORES:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СПЕЦИАЛЬНЫЕ СЕКТОРЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SETORES DE SOBRECARGA:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKTORY NADMIAROWE:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーバーロードセクター：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "고위험 섹터:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "超載分區：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "附加分区：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.VanityItemDrops.OverloadSectors",
+  "internalEnabled": true,
+  "persistentID": 3687558045
+}

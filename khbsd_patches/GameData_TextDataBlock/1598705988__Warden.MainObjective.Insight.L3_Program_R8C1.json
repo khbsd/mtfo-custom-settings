@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Program Data Cubes with membrane coordinates using <color=orange>Terminal Uplink</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Programmez les cubes de données [DATA_CUBE] avec les coordonnées de membrane à l'aide des <color=orange>liaisons montantes du terminal</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Programmare cubi di dati [DATA_CUBE] con coordinate membrana utilizzando <color=orange>uplink terminale</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Programmieren Sie die Datenwürfel [DATA_CUBE] mithilfe des <color=orange>Terminal-Uplinks</color> mit Membrankoordinaten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Programa cubos de datos [DATA CUBE] con coordenadas de membrana con el <color=orange>uplink del terminal</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=orange>Подключитесь к терминалу</color> и запрограммируйте кубы данных [DATA_CUBE], используя координаты мембраны.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Programar cubos de dados [DATA_CUBE] com coordenadas de membrana usando <color=orange>uplink de terminal</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zaprogramuj kostki danych przy użyciu współrzędnych membrany, korzystając z <color=orange>łącza terminala</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>端末アップリンク</color>を使い、膜座標でデータキューブ[DATA CUBE]をプログラムしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>터미널 업링크</color>를 사용해 [DATA_CUBE] 데이터 큐브를 멤브레인 좌표로 프로그래밍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用<color=orange>終端上行鏈路</color>在資料方塊[DATA_CUBE]中編入膜面座標",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>终端上行链路</color>在数据立方[DATA_CUBE]中编入位面坐标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.MainObjective.Insight.L3_Program_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1598705988
+}

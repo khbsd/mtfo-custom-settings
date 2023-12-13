@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BIOCOM controlled security system not responding. External uplink required. ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le système de sécurité contrôlé par BIOCOM ne répond pas. Liaison montante externe requise.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mancata risposta da sistema di sicurezza controllato da BIOCOM. Necessario uplink esterno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BIOCOM-gesteuertes Sicherheitssystem antwortet nicht. Externer Uplink benötigt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sistema de seguridad controlado Biocom no responde. Se necesita un uplink externo. ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Система безопасности Biocom не отвечает. Требуется внешний канал подключения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistema de segurança controlado por BIOCOM não responsivo. Uplink externo necessário.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Brak odpowiedzi systemu zabezpieczeń sterowanego przez mainframe BIOCOM. Wymagane łącze zewnętrzne. ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオコム制御のセキュリティシステムから応答なし。外部アップリンクが必要。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "BIOCOM 제어 보안 시스템 응답 없음. 외부 업링크 필요. ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "BIOCOM控制的安全系統沒有回應。需要外部上行鏈路。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "BIOCOM控制的安全系统无响应。需要外部上行链路。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown002_B3_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2645567440
+}

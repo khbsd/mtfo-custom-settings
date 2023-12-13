@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Quadrant Warp gate access required. Prisoners sent to power up local Generator cluster. Abnormal atmospheric conditions will increase prisoner casualties.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Accès au portail de téléportation du quadrant nécessaire. Prisonniers envoyés pour activer la grappe de générateurs locale. Prévision de pertes élevées en raison des conditions atmosphériques anormales.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Richiesto l'accesso al portale di teletrasporto del quadrante. Prigionieri inviati ad accendere il gruppo elettrogeno locale. Condizioni atmosferiche anormali faranno aumentare le vittime tra i prigionieri.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugang zum Warp-Tor des Quadranten erforderlich. Gefangene entsandt, um den lokalen Generatorcluster mit Energie zu versorgen. Abnormale atmosphärische Bedingungen erhöhen die Zahl der Opfer unter den Gefangenen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se requiere acceso a puerta de curvatura del cuadrante. Prisioneros destinados a activar clúster de generadores local. Las anomalías atmosféricas provocarán más bajas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Требуется доступ к варп-вратам сектора. Заключенным приказано включить локальный кластер генераторов. В связи с атмосферными аномалиями ожидается рост безвозвратных потерь среди заключенных.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Acesso ao portão de distorção do quadrante necessário. Prisioneiros enviados para ligar o grupo de geradores locais. Condições atmosféricas anormais aumentarão as baixas de prisioneiros.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wymagany dostęp do kwadrantu portalu teleportacyjnego. Wysłano więźniów, aby zasilić miejscowy zespół generatorów. Anomalie atmosferyczne zwiększą straty wśród więźniów.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "量子ワープゲートへのアクセスが必要。囚人たちはローカル発電機群の起動のために送り出された。異常な大気条件により囚人の犠牲者が増えるだろう。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사분 워프 게이트 접근 필요. 수감자 내부 발전기 클러스터 전력 공급에 배치됨. 비정상적인 대기 조건이 수감자의 사상률을 증가시킵니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "需要存取象限傳送門。已派出囚犯前往啟動本地發電機叢集。異常大氣狀況將影響囚犯傷亡人數。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "需要通过象限跃迁门。派囚犯去启动本地发电机集群。异常空气状况将增加囚犯伤亡人数。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C2_1",
+  "internalEnabled": true,
+  "persistentID": 2522754843
+}

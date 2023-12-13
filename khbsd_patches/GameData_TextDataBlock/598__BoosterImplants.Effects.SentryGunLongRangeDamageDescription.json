@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sentry guns placed by Subject will deal more damage at long range.",
+  "Description": "Describes the advantage of having a good \"LR sentry damage\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les tourelles déployées par le sujet infligent plus de dégâts à longue distance.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Le torrette automatiche schierate dal soggetto infliggeranno danni maggiori sulla lunga distanza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Von der Versuchsperson platzierte Sentry-Geschütze verursachen mehr Schaden auf große Reichweite.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Las centinelas que coloque el sujeto infligirán más daño a largo alcance.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон, наносимый турелью с большого расстояния, повышается.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "As armas sentinelas posicionadas pelo indivíduo causam mais danos a longo alcance.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działko wartownicze biorcy będzie zadawać większe obrażenia na długim dystansie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が設置したセントリーガンの遠距離でのダメージが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 배치한 센트리 건이 원거리에서 더 많은 대미지를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象放置的自動砲台會在遠距離造成較多傷害。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者布置的哨戒炮远距离造成的伤害增加。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.SentryGunLongRangeDamageDescription",
+  "internalEnabled": true,
+  "persistentID": 598
+}

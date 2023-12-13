@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the main reactor for the floor and make sure it is back online.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez le réacteur principal de l’étage et remettez-le en marche.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il reattore principale per il piano e assicurarsi che sia di nuovo online.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Hauptreaktor der Etage und stellen Sie sicher, dass er wieder online ist.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca el reactor principal del piso y asegúrate de que vuelve a estar en marcha.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите главный реактор уровня и включите его.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o reator principal do andar e garanta que ele volte a funcionar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź główny reaktor na poziomie, a następnie uruchom go ponownie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "このフロアのメインリアクターを見つけ、稼働状態に戻っていることを確認しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해당 층의 메인 반응로를 찾아 다시 작동시킬 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到樓層的主反應器，確認其已重新連上線。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到楼层的主反应堆并确保其恢复连接。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_10_HARD_R2D2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2871850210
+}

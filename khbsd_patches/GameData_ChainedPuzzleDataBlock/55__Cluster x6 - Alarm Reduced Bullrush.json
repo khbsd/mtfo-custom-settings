@@ -1,0 +1,37 @@
+{
+  "PublicAlarmName": "Class VI Cluster Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 228,
+  "SurvivalWavePopulation": 13,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 5.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 9
+    },
+    {
+      "PuzzleType": 9
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Cluster x6 - Alarm Reduced Bullrush",
+  "internalEnabled": true,
+  "persistentID": 55
+}

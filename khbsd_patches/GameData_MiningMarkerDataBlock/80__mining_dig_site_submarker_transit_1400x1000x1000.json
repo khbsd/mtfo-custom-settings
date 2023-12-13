@@ -1,0 +1,97 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [],
+      [],
+      [
+        0,
+        1
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_transit_1400x1000x1000/dig_site_submarker_transit_1400x1000x1000_HA_02.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Mining/SubMarkersDigSite/Props/dig_site_submarker_transit_1400x1000x1000/dig_site_submarker_transit_1400x1000x1000_HA_03.prefab",
+        "function": 0,
+        "Shard": 8
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 7,
+    "FunctionPotential": 6.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/SM_dig_site_submarker_transit_1400x1000x1000",
+    "BoundingVolume": 1400000.0
+  },
+  "name": "mining_dig_site_submarker_transit_1400x1000x1000",
+  "internalEnabled": true,
+  "persistentID": 80
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find <color=orange>[ALL_ITEMS]</color> and bring it to the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Cherchez <color=orange>[ALL_ITEMS]</color> et amenez-le au scanner d’évacuation de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare <color=orange>[ALL_ITEMS]</color> e portarlo alla scansione di estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie <color=orange>[ALL_ITEMS]</color> und bringen Sie es zum Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva al escáner de extracción de la [EXTRACTION_ZONE] los siguientes objetos: <color=orange>[ALL_ITEMS]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет (<color=orange>[ALL_ITEMS]</color>) и отнесите к сканеру извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre <color=orange>[ALL_ITEMS]</color> e leve até o escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź <color=orange>[ALL_ITEMS]</color> i zanieś do skanera punktu ewakuacyjnego w strefie [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>[ALL_ITEMS]</color>を見つけ、それを[EXTRACTION_ZONE]の脱出スキャンまで運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ALL_ITEMS]</color>을(를) 찾고 [EXTRACTION_ZONE]의 탈출 스캔으로 운반",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "找到<color=orange>[ALL_ITEMS]</color>並帶到[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "找到<color=orange>[ALL_ITEMS]</color>并将其带到[EXTRACTION_ZONE]的撤离扫描点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.FindItem_R7B3_L3",
+  "internalEnabled": true,
+  "persistentID": 1365670692
+}

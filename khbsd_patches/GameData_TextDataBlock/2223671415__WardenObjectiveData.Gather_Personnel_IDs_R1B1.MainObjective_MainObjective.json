@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Gather [COUNT_REQUIRED] Personnel IDs and return the data to be processed.",
+  "Description": "Don't translate [COUNT_REQUIRED] ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez [COUNT_REQUIRED] pièces d’identité du personnel et rapportez les données pour traitement.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogliere [COUNT_REQUIRED] ID del personale e consegnare i dati da elaborare.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie [COUNT_REQUIRED] Personal-IDs und geben Sie die zu verarbeitenden Daten ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Reúne [COUNT_REQUIRED] ID de miembros del personal y trae los datos para procesarlos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Соберите идентификаторы сотрудников ([COUNT_REQUIRED]) и принесите данные для обработки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Colete [COUNT_REQUIRED] IDs de pessoal e insira os dados para processamento.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz [COUNT_REQUIRED] szt. identyfikatorów pracowniczych przekaż dane do przetwarzania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[COUNT_REQUIRED]枚の個人IDを収集し、処理のためにデータを返還せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "개인 ID [COUNT_REQUIRED]개를 수집해 처리할 데이터 반환",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "收集幾份[COUNT_REQUIRED]人員ID，並交回資料進行處理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "收集[COUNT_REQUIRED]份人员ID并返回数据进行处理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Gather_Personnel_IDs_R1B1.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 2223671415
+}

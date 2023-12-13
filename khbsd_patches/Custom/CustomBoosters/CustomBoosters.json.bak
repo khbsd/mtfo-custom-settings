@@ -1,0 +1,1099 @@
+{
+  "UseCustomData": false,
+  "CustomBoosters": [
+    {
+      "PublicName": "AXON",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "HackingProficiency",
+          "PublicShortName": "Hac-S",
+          "PublicName": "Hacking skill",
+          "Description": "Subject will find hacking puzzles easier to complete.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 1.4
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "SOLID",
+      "Description": "",
+      "MainEffectType": "InitialState",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "InitialAmmoStandard",
+          "PublicShortName": "RAm-I",
+          "PublicName": "Main ammo",
+          "Description": "Subject will start off with more ammo for their main weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their main weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        },
+        {
+          "Effect": "InitialAmmoSpecial",
+          "PublicShortName": "SAm-I",
+          "PublicName": "Special ammo",
+          "Description": "Subject will start off with more ammo for their special weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their special weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        },
+        {
+          "Effect": "InitialAmmoTool",
+          "PublicShortName": "TAm-I",
+          "PublicName": "Tool ammo",
+          "Description": "Subject will start off with more ammo for their tool.",
+          "DescriptionNegative": "Subject will start off with less ammo for their tool.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        },
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "Reg-C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is raised.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 1.25
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "RECOVERY",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "RegenerationSpeed",
+          "PublicShortName": "Reg-S",
+          "PublicName": "Regen. speed",
+          "Description": "Subject will regenerate health faster.",
+          "DescriptionNegative": "Subject will regenerate health slower.",
+          "EffectCategory": "Health",
+          "Value": 1.25
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROVISION",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "ReviveSpeedSupport",
+          "PublicShortName": "Rev-Q",
+          "PublicName": "Rev. speed",
+          "Description": "Subject will revive others at increased speed.",
+          "DescriptionNegative": "Subject will revive others at decreased speed.",
+          "EffectCategory": "Health",
+          "Value": 1.13
+        },
+        {
+          "Effect": "HealSupport",
+          "PublicShortName": "Med-X",
+          "PublicName": "Med efficiency",
+          "Description": "Subject will get more out of MediPacks.",
+          "DescriptionNegative": "Subject will get less out of MediPacks.",
+          "EffectCategory": "Health",
+          "Value": 1.15
+        },
+        {
+          "Effect": "AmmoSupport",
+          "PublicShortName": "Re-d",
+          "PublicName": "Supply efficiency",
+          "Description": "Subject will get more out of ammo and tool refill packs.",
+          "DescriptionNegative": "Subject will get less out of ammo and tool refill packs.",
+          "EffectCategory": "Damage",
+          "Value": 1.15
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "DEX LITE",
+      "Description": "",
+      "MainEffectType": "Tool",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "GlowstickEffect",
+          "PublicShortName": "Glo-F",
+          "PublicName": "Glow stick power",
+          "Description": "Glow sticks distributed by Subject will shine brighter and last longer.",
+          "DescriptionNegative": "Glow sticks distributed by Subject will shine less and last shorter.",
+          "EffectCategory": "Tool",
+          "Value": 1.3
+        },
+        {
+          "Effect": "FogRepellerEffect",
+          "PublicShortName": "Fog-F",
+          "PublicName": "Fog rep. power",
+          "Description": "Fog repellers distributed by Subject will repel fog at greater range.",
+          "DescriptionNegative": "Fog repellers distributed by Subject will repel fog at lesser range.",
+          "EffectCategory": "Tool",
+          "Value": 1.3
+        },
+        {
+          "Effect": "ScannerRechargeSpeed",
+          "PublicShortName": "Tr-CS",
+          "PublicName": "Tracker CPU speed",
+          "Description": "Subject\u0027s biotracker will recharge faster.",
+          "DescriptionNegative": "Subject\u0027s biotracker will recharge slower.",
+          "EffectCategory": "Tool",
+          "Value": 1.1
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PURE",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 1.18
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "DETOX",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "InfectionResistance",
+          "PublicShortName": "Inf-R",
+          "PublicName": "Infection resist.",
+          "Description": "Subject will be more resistant against infection.",
+          "DescriptionNegative": "Subject will be less resistant against infection.",
+          "EffectCategory": "Health",
+          "Value": 1.25
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROTEC",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.15
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.15
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROTEC\u002B",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.1
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.1
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "STIM SHOT",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "StandardWeaponDamage",
+          "PublicShortName": "StW-D",
+          "PublicName": "Main damage",
+          "Description": "Subject will deal more damage with their main weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their main weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.15
+        },
+        {
+          "Effect": "SpecialWeaponDamage",
+          "PublicShortName": "SpW-D",
+          "PublicName": "Special damage",
+          "Description": "Subject will deal more damage with their special weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their special weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.15
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROVISION",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "ReviveSpeedSupport",
+          "PublicShortName": "Rev-Q",
+          "PublicName": "Rev. speed",
+          "Description": "Subject will revive others at increased speed.",
+          "DescriptionNegative": "Subject will revive others at decreased speed.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        },
+        {
+          "Effect": "HealSupport",
+          "PublicShortName": "Med-X",
+          "PublicName": "Med efficiency",
+          "Description": "Subject will get more out of MediPacks.",
+          "DescriptionNegative": "Subject will get less out of MediPacks.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        },
+        {
+          "Effect": "AmmoSupport",
+          "PublicShortName": "Re-d",
+          "PublicName": "Supply efficiency",
+          "Description": "Subject will get more out of ammo and tool refill packs.",
+          "DescriptionNegative": "Subject will get less out of ammo and tool refill packs.",
+          "EffectCategory": "Damage",
+          "Value": 1.3
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "DETOX",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "InfectionResistance",
+          "PublicShortName": "Inf-R",
+          "PublicName": "Infection resist.",
+          "Description": "Subject will be more resistant against infection.",
+          "DescriptionNegative": "Subject will be less resistant against infection.",
+          "EffectCategory": "Health",
+          "Value": 1.6
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "RECOVERY",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "RegenerationSpeed",
+          "PublicShortName": "Reg-S",
+          "PublicName": "Regen. speed",
+          "Description": "Subject will regenerate health faster.",
+          "DescriptionNegative": "Subject will regenerate health slower.",
+          "EffectCategory": "Health",
+          "Value": 2
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "PROTEC",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.2
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROTEC\u002B",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.15
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.15
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "STEROIDS",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "MeleeDamage",
+          "PublicShortName": "Me-D",
+          "PublicName": "Melee damage",
+          "Description": "Subject will deal more damage when using melee weapons.",
+          "DescriptionNegative": "Subject will deal less damage when using melee weapons.",
+          "EffectCategory": "Damage",
+          "Value": 1.3
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "STIM SHOT",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "StandardWeaponDamage",
+          "PublicShortName": "StW-D",
+          "PublicName": "Main damage",
+          "Description": "Subject will deal more damage with their main weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their main weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.2
+        },
+        {
+          "Effect": "SpecialWeaponDamage",
+          "PublicShortName": "SpW-D",
+          "PublicName": "Special damage",
+          "Description": "Subject will deal more damage with their special weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their special weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "DEX",
+      "Description": "",
+      "MainEffectType": "Tool",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "GlueEfficiency",
+          "PublicShortName": "Glu-P",
+          "PublicName": "C-foam portion",
+          "Description": "Subject will render more C-foam blobs from their C-foam ammo.",
+          "DescriptionNegative": "Subject will render less C-foam blobs from their C-foam ammo.",
+          "EffectCategory": "Tool",
+          "Value": 1.6
+        },
+        {
+          "Effect": "SentryGunSpeed",
+          "PublicShortName": "SGu-S",
+          "PublicName": "Sentry CPU speed",
+          "Description": "Subject will overclock its sentry gun, giving it increased detection, rotation and firing speed.",
+          "DescriptionNegative": "Subject will deploy sentry guns with decreased detection, rotation and firing speed.",
+          "EffectCategory": "Tool",
+          "Value": 1.25
+        },
+        {
+          "Effect": "SentryGunDamage",
+          "PublicShortName": "SGu-D",
+          "PublicName": "Sentry damage",
+          "Description": "Subject\u0027s sentry gun will deal more damage.",
+          "DescriptionNegative": "Subject\u0027s sentry gun will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.2
+        },
+        {
+          "Effect": "SentryGunShortRangeDamage",
+          "PublicShortName": "SGu-SR",
+          "PublicName": "SR sentry damage",
+          "Description": "Sentry guns placed by Subject will deal more damage at short range.",
+          "DescriptionNegative": "Sentry guns placed by Subject will deal less damage at short range.",
+          "EffectCategory": "Tool",
+          "Value": 1.3
+        },
+        {
+          "Effect": "TripMineDamage",
+          "PublicShortName": "Trp-D",
+          "PublicName": "Trip Mine Damage",
+          "Description": "Trip mine placed by Subject will deal more damage.",
+          "DescriptionNegative": "Trip mine placed by Subject will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.55
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "AXON",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "HackingProficiency",
+          "PublicShortName": "Hac-S",
+          "PublicName": "Hacking skill",
+          "Description": "Subject will find hacking puzzles easier to complete.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PURE",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 1.18
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "SOLID",
+      "Description": "",
+      "MainEffectType": "InitialState",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "InitialAmmoStandard",
+          "PublicShortName": "RAm-I",
+          "PublicName": "Main ammo",
+          "Description": "Subject will start off with more ammo for their main weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their main weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.35
+        },
+        {
+          "Effect": "InitialAmmoSpecial",
+          "PublicShortName": "SAm-I",
+          "PublicName": "Special ammo",
+          "Description": "Subject will start off with more ammo for their special weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their special weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.35
+        },
+        {
+          "Effect": "InitialAmmoTool",
+          "PublicShortName": "TAm-I",
+          "PublicName": "Tool ammo",
+          "Description": "Subject will start off with more ammo for their tool.",
+          "DescriptionNegative": "Subject will start off with less ammo for their tool.",
+          "EffectCategory": "InitialState",
+          "Value": 1.35
+        },
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "Reg-C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is raised.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 1.6
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PROVISION",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "ReviveSpeedSupport",
+          "PublicShortName": "Rev-Q",
+          "PublicName": "Rev. speed",
+          "Description": "Subject will revive others at increased speed.",
+          "DescriptionNegative": "Subject will revive others at decreased speed.",
+          "EffectCategory": "Health",
+          "Value": 2
+        },
+        {
+          "Effect": "MeleeDamage",
+          "PublicShortName": "Me-D",
+          "PublicName": "Melee damage",
+          "Description": "Subject will deal more damage when using melee weapons.",
+          "DescriptionNegative": "Subject will deal less damage when using melee weapons.",
+          "EffectCategory": "Damage",
+          "Value": 0.95
+        },
+        {
+          "Effect": "InfectionResistance",
+          "PublicShortName": "Inf-R",
+          "PublicName": "Infection resist.",
+          "Description": "Subject will be more resistant against infection.",
+          "DescriptionNegative": "Subject will be less resistant against infection.",
+          "EffectCategory": "Health",
+          "Value": 0.87
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 0.87
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "DETOX",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "InfectionResistance",
+          "PublicShortName": "Inf-R",
+          "PublicName": "Infection resist.",
+          "Description": "Subject will be more resistant against infection.",
+          "DescriptionNegative": "Subject will be less resistant against infection.",
+          "EffectCategory": "Health",
+          "Value": 2
+        },
+        {
+          "Effect": "MeleeDamage",
+          "PublicShortName": "Me-D",
+          "PublicName": "Melee damage",
+          "Description": "Subject will deal more damage when using melee weapons.",
+          "DescriptionNegative": "Subject will deal less damage when using melee weapons.",
+          "EffectCategory": "Damage",
+          "Value": 0.95
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "RECOVERY",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "RegenerationSpeed",
+          "PublicShortName": "Reg-S",
+          "PublicName": "Regen. speed",
+          "Description": "Subject will regenerate health faster.",
+          "DescriptionNegative": "Subject will regenerate health slower.",
+          "EffectCategory": "Health",
+          "Value": 2.5
+        },
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 0.95
+        },
+        {
+          "Effect": "HackingProficiency",
+          "PublicShortName": "Hac-S",
+          "PublicName": "Hacking skill",
+          "Description": "Subject will find hacking puzzles easier to complete.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 0.95
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "PROTEC",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.4
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.4
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "PROTEC\u002B",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "Mel-R",
+          "PublicName": "Melee resist.",
+          "Description": "Subject will take less damage from melee attacks.",
+          "DescriptionNegative": "Subject will take more damage from melee attacks.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        },
+        {
+          "Effect": "HackingProficiency",
+          "PublicShortName": "Hac-S",
+          "PublicName": "Hacking skill",
+          "Description": "Subject will find hacking puzzles easier to complete.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 0.95
+        },
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 0.95
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human proximity",
+          "Description": "Subject must be within 7 meters of another human for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "STEROIDS",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "MeleeDamage",
+          "PublicShortName": "Me-D",
+          "PublicName": "Melee damage",
+          "Description": "Subject will deal more damage when using melee weapons.",
+          "DescriptionNegative": "Subject will deal less damage when using melee weapons.",
+          "EffectCategory": "Damage",
+          "Value": 1.6
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "Pro-R",
+          "PublicName": "Projectile resist.",
+          "Description": "Subject will take less damage from projectiles.",
+          "DescriptionNegative": "Subject will take more damage from projectiles.",
+          "EffectCategory": "Health",
+          "Value": 0.9
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "HasHighHealth",
+          "PublicShortName": "",
+          "PublicName": "Health \u003E 50%",
+          "Description": "Subject must have 50% health or more for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "ADROIT",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "StandardWeaponDamage",
+          "PublicShortName": "StW-D",
+          "PublicName": "Main damage",
+          "Description": "Subject will deal more damage with their main weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their main weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.3
+        },
+        {
+          "Effect": "SpecialWeaponDamage",
+          "PublicShortName": "SpW-D",
+          "PublicName": "Special damage",
+          "Description": "Subject will deal more damage with their special weapon.",
+          "DescriptionNegative": "Subject will deal less damage with their special weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.3
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "HasHighHealth",
+          "PublicShortName": "",
+          "PublicName": "Health \u003E 50%",
+          "Description": "Subject must have 50% health or more for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "DEX",
+      "Description": "",
+      "MainEffectType": "Tool",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "GlueEfficiency",
+          "PublicShortName": "Glu-P",
+          "PublicName": "C-foam portion",
+          "Description": "Subject will render more C-foam blobs from their C-foam ammo.",
+          "DescriptionNegative": "Subject will render less C-foam blobs from their C-foam ammo.",
+          "EffectCategory": "Tool",
+          "Value": 2
+        },
+        {
+          "Effect": "SentryGunSpeed",
+          "PublicShortName": "SGu-S",
+          "PublicName": "Sentry CPU speed",
+          "Description": "Subject will overclock its sentry gun, giving it increased detection, rotation and firing speed.",
+          "DescriptionNegative": "Subject will deploy sentry guns with decreased detection, rotation and firing speed.",
+          "EffectCategory": "Tool",
+          "Value": 1.4
+        },
+        {
+          "Effect": "SentryGunDamage",
+          "PublicShortName": "SGu-D",
+          "PublicName": "Sentry damage",
+          "Description": "Subject\u0027s sentry gun will deal more damage.",
+          "DescriptionNegative": "Subject\u0027s sentry gun will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.3
+        },
+        {
+          "Effect": "SentryGunShortRangeDamage",
+          "PublicShortName": "SGu-SR",
+          "PublicName": "SR sentry damage",
+          "Description": "Sentry guns placed by Subject will deal more damage at short range.",
+          "DescriptionNegative": "Sentry guns placed by Subject will deal less damage at short range.",
+          "EffectCategory": "Tool",
+          "Value": 1.4
+        },
+        {
+          "Effect": "TripMineDamage",
+          "PublicShortName": "Trp-D",
+          "PublicName": "Trip Mine Damage",
+          "Description": "Trip mine placed by Subject will deal more damage.",
+          "DescriptionNegative": "Trip mine placed by Subject will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "AXON",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "HackingProficiency",
+          "PublicShortName": "Hac-S",
+          "PublicName": "Hacking skill",
+          "Description": "Subject will find hacking puzzles easier to complete.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 2.2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "PURE",
+      "Description": "",
+      "MainEffectType": "ProcessingSpeed",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 1.25
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "HasHighHealth",
+          "PublicShortName": "",
+          "PublicName": "Health \u003E 50%",
+          "Description": "Subject must have 50% health or more for booster to be active."
+        }
+      ]
+    },
+    {
+      "PublicName": "SOLID",
+      "Description": "",
+      "MainEffectType": "InitialState",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "InitialAmmoStandard",
+          "PublicShortName": "RAm-I",
+          "PublicName": "Main ammo",
+          "Description": "Subject will start off with more ammo for their main weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their main weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.53
+        },
+        {
+          "Effect": "InitialAmmoSpecial",
+          "PublicShortName": "SAm-I",
+          "PublicName": "Special ammo",
+          "Description": "Subject will start off with more ammo for their special weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their special weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.53
+        },
+        {
+          "Effect": "InitialAmmoTool",
+          "PublicShortName": "TAm-I",
+          "PublicName": "Tool ammo",
+          "Description": "Subject will start off with more ammo for their tool.",
+          "DescriptionNegative": "Subject will start off with less ammo for their tool.",
+          "EffectCategory": "InitialState",
+          "Value": 1.53
+        },
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "Reg-C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is raised.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "STEROIDS",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "MeleeDamage",
+          "PublicShortName": "Me-D",
+          "PublicName": "Melee damage",
+          "Description": "Subject will deal more damage when using melee weapons.",
+          "DescriptionNegative": "Subject will deal less damage when using melee weapons.",
+          "EffectCategory": "Damage",
+          "Value": 1.15
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "DEX",
+      "Description": "",
+      "MainEffectType": "Tool",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "GlueEfficiency",
+          "PublicShortName": "Glu-P",
+          "PublicName": "C-foam portion",
+          "Description": "Subject will render more C-foam blobs from their C-foam ammo.",
+          "DescriptionNegative": "Subject will render less C-foam blobs from their C-foam ammo.",
+          "EffectCategory": "Tool",
+          "Value": 1.25
+        },
+        {
+          "Effect": "SentryGunSpeed",
+          "PublicShortName": "SGu-S",
+          "PublicName": "Sentry CPU speed",
+          "Description": "Subject will overclock its sentry gun, giving it increased detection, rotation and firing speed.",
+          "DescriptionNegative": "Subject will deploy sentry guns with decreased detection, rotation and firing speed.",
+          "EffectCategory": "Tool",
+          "Value": 1.15
+        },
+        {
+          "Effect": "SentryGunDamage",
+          "PublicShortName": "SGu-D",
+          "PublicName": "Sentry damage",
+          "Description": "Subject\u0027s sentry gun will deal more damage.",
+          "DescriptionNegative": "Subject\u0027s sentry gun will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.1
+        },
+        {
+          "Effect": "SentryGunShortRangeDamage",
+          "PublicShortName": "SGu-SR",
+          "PublicName": "SR sentry damage",
+          "Description": "Sentry guns placed by Subject will deal more damage at short range.",
+          "DescriptionNegative": "Sentry guns placed by Subject will deal less damage at short range.",
+          "EffectCategory": "Tool",
+          "Value": 1.15
+        },
+        {
+          "Effect": "TripMineDamage",
+          "PublicShortName": "Trp-D",
+          "PublicName": "Trip Mine Damage",
+          "Description": "Trip mine placed by Subject will deal more damage.",
+          "DescriptionNegative": "Trip mine placed by Subject will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.3
+        }
+      ],
+      "Conditions": []
+    }
+  ]
+}

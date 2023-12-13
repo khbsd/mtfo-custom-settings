@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting for host to return you to lobby...",
+  "Description": "A text that is shown for clients in the expedition failed/success screen, to indicate that it is up to the host to return the group to the lobby.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "En attente de l'hôte pour retourner au salon...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa che l'host ti riporti alla lobby...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Auf den Host warten, der Sie in die Lobby zurückbringt ...",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando a que el anfitrión vuelva a la sala...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидайте, пока организатор вернет вас в лобби...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando o anfitrião devolver você ao lobby...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na przeniesienie do lobby przez hosta...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ホストがあなたをロビーに戻すのを待っています...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "호스트가 로비로 돌아오기를 기다리는 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待主機將你送回大廳……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待厅主送回大厅……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.WaitingForHostButton",
+  "internalEnabled": true,
+  "persistentID": 914
+}

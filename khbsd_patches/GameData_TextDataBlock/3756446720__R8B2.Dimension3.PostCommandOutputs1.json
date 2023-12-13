@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=green>DATA CUBE FORMATTED SUCCESSFULLY</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=green>FORMATAGE DU CUBE DE DONNÉES [DATA_CUBE] TERMINÉ</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=green>CUBO DI DATI [DATA_CUBE] FORMATTATO CON SUCCESSO</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=green>DATENWÜRFEL [DATA_CUBE] ERFOLGREICH FORMATIERT.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=green>CUBO DE DATOS [DATA CUBE] FORMATEADO CORRECTAMENTE</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=green>ФОРМАТИРОВАНИЕ КУБА ДАННЫХ [DATA_CUBE] ЗАВЕРШЕНО.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=green>CUBO DE DADOS [DATA_CUBE] FORMATADO COM SUCESSO</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=green>FORMATOWANIE KOSTKI DANYCH UKOŃCZONE</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=green>データキューブ[DATA CUBE]のフォーマット完了</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=green>[DATA_CUBE] 데이터 큐브 포맷 성공</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=green>資料方塊[DATA_CUBE]格式化成功</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=green>数据立方[DATA_CUBE]格式化成功</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8B2.Dimension3.PostCommandOutputs1",
+  "internalEnabled": true,
+  "persistentID": 3756446720
+}

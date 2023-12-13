@@ -1,0 +1,27 @@
+{
+  "m_pauseBeforeStart": 10.0,
+  "m_pauseBetweenGroups": 90.0,
+  "m_wavePauseMin_atCost": 1.0,
+  "m_wavePauseMax_atCost": 10.0,
+  "m_wavePauseMin": 0.0,
+  "m_wavePauseMax": 0.0,
+  "m_populationFilter": [
+    1,
+    2
+  ],
+  "m_filterType": 0,
+  "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+  "m_chanceToRandomizeSpawnDirectionPerGroup": 0.8,
+  "m_overrideWaveSpawnType": true,
+  "m_survivalWaveSpawnType": 6,
+  "m_populationPointsTotal": 90.0,
+  "m_populationPointsPerWaveStart": 90.0,
+  "m_populationPointsPerWaveEnd": 90.0,
+  "m_populationPointsMinPerGroup": 15.0,
+  "m_populationPointsPerGroupStart": 10.0,
+  "m_populationPointsPerGroupEnd": 18.0,
+  "m_populationRampOverTime": 100.0,
+  "name": "Survival phase2_6R_C3",
+  "internalEnabled": true,
+  "persistentID": 82
+}

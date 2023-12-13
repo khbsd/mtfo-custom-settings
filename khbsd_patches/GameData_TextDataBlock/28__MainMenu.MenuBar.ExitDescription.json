@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Exit the expedition, leave your teammates and return to the rundown interface.\n\n<size=90%><color=orange>NOTE: All collected artifacts will be LOST, you will <u>NOT</u> gain any boosters.</color></size>",
+  "Description": "\"Expedition\" is GTFO's word for \"mission\" or \"map\". \"Rundown\" is GTFO's word for \"campaign\", i.e. a set of expeditions.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Quitte l'expédition, abandonne vos coéquipiers et vous renvoie dans l'interface de campagne.\n\n<size=90%><color=orange>NOTE\u00A0: Tous les artefacts obtenus seront PERDUS, et vous n'obtiendrez <u>PAS</u> de boosters.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbandona la spedizione e i tuoi compagni di squadra e torna all'interfaccia della perlustrazione.\n\n<size=90%><color=orange>NOTA: PERDERAI tutti i manufatti raccolti, e <u>NON</u> otterrai alcun potenziamento.</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Expedition beenden, Teammitglieder verlassen und zur Rundown-Oberfläche zurückkehren.\n\n<size=90%><color=orange>HINWEIS: Alle gesammelten Artefakte gehen VERLOREN, Sie erhalten <u>KEINE</u> Booster.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Abandona la expedición, deja a tus compañeros y regresa a la interfaz de campaña.\n\n<size=90%><color=orange>AVISO: Perderás todos los artefactos obtenidos, <u>no</u> recibirás ningún potenciador.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вы завершите экспедицию, покинете напарников и вернетесь в меню кампании.\n\n<size=90%><color=orange>ВНИМАНИЕ! Все собранные артефакты ИСЧЕЗНУТ. Вы <b>НЕ</b> получите усилители.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Saia da expedição, deixe seus aliados e volte à interface da campanha.\n\n<size=90%><color=orange>OBS.: Todos os artefatos coletados serão PERDIDOS, você <u>NÃO</u> ganhará impulsos.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Opuść ekspedycję, pozostaw członków drużyny i powróć do interfejsu ekstrakcji.\n\n<size=90%><color=orange>UWAGA: Wszystkie zebrane artefakty zostaną UTRACONE, <u>NIE</u> zyskasz żadnych wzmacniaczy.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションとチームメイトから離脱し、ランダウンインターフェースに戻ります。\n\n<size=90%><color=orange>注:収集したアーティファクトは全て失われ、ブースターは <b>入手できません</b>。</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "탐사를 종료하고 팀원들을 떠나 런다운 인터페이스로 돌아갑니다.\n\n<size=90%><color=orange>참고: 수집한 아티팩트는 모두 손실되며 부스터를 얻을 수 <b>없습니다</b>.</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出遠征，離開隊友，回到遠征綱要介面。\n\n<size=90%><color=orange>注意：所有收集的寶物都會遺失，你將<b>不會</b>獲得任何強化劑。</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出任务，离开队友，返回行动界面。\n\n<size=90%><color=orange>注：你将失去收集的所有红晶，<b>无法</b>获得任何强化剂。</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.MenuBar.ExitDescription",
+  "internalEnabled": true,
+  "persistentID": 28
+}

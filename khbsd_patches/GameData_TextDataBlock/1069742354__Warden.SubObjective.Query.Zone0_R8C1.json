@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate <color=orange>DATASPHERE_741</color> in [ZONE_1], [ZONE_2] or [ZONE_3]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez <color=orange>DATASPHERE_741</color> dans la [ZONE_1], [ZONE_2] ou [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare <color=orange>DATASPHERE_741</color> in [ZONE_1], [ZONE_2] o [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie <color=orange>DATENKUGEL 741</color> [DATASPHERE_741] in [ZONE_1] [ZONE_2] oder [ZONE_3].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra <color=orange>DATASPHERE_741</color> en [ZONE_1], [ZONE_2] o [ZONE_3].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите <color=orange>DATASPHERE_741</color> в [ZONE_1], [ZONE_2] или [ZONE_3].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localizar <color=orange>DATASPHERE_741</color> na [ZONE_1], [ZONE_2] ou [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj <color=orange>sferę danych 741 [DATASPHERE_741]</color> w strefie 1 [ZONE_1], strefie 2 [ZONE_2] lub strefie 3 [ZONE_3]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ZONE_1]、[ZONE_2]または[ZONE_3]で、<color=orange>DATASPHERE_741</color>を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ZONE_1], [ZONE_2] 또는 [ZONE_3]에서 <color=orange>DATASPHERE_741</color> 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ZONE_1]、[ZONE_2]或[ZONE_3]中定位<color=orange>資料球_741[DATASPHERE_741]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ZONE_1]、[ZONE_2]或[ZONE_3]中找到<color=orange>数据球_741[DATASPHERE_741]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "Warden.SubObjective.Query.Zone0_R8C1",
+  "internalEnabled": true,
+  "persistentID": 1069742354
+}

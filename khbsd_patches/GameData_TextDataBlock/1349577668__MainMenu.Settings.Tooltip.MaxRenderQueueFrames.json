@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the maximum number of frames the graphics driver is allowed to queue up. A higher value can improve performance, but might introduce some latency.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le nombre maximum d'images que le pilote graphique est autorisé à mettre en attente. Une valeur plus élevée peut améliorer les performances, mais peut entraîner une latence plus élevée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il numero massimo di frame che il driver grafico può mettere in coda. Un valore più alto può migliorare le prestazioni, ma potrebbe introdurre una certa latenza.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die maximale Anzahl an Frames, die der Grafiktreiber in der Warteschlange platzieren darf. Ein höherer Wert kann die Leistung verbessern, führt aber möglicherweise zu einer gewissen Latenz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el número máximo de fotogramas que puede alinea el controlador de gráficos. Un valor mayor mejorará el rendimiento, aunque puede producirse latencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует максимальное число кадров, которое графический драйвер сохраняет в буфере. Высокое значение может повысить производительность, но вызвать задержки.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o número máximo de quadro que o driver de gráficos pode enfileirar. Um valor mais alto pode melhorar o desempenho, mas pode gerar latência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za maksymalną liczbę klatek, które sterownik graficzny może kolejkować. Wyższa wartość może poprawić wydajność, ale może skutkować opóźnieniami.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グラフィックドライバがキューに追加できるフレームの最大数を決める。値を大きくするとパフォーマンスが向上するが、レイテンシが発生することがある。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그래픽 드라이버가 대기할 수 있는 최대 프레임 수를 제어합니다. 값이 높으면 성능이 향상되지만 약간의 대기 시간이 발생할 수 있습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制圖形驅動程式允許佇列的最大幀數。較高的值可以提高效能，但可能會造成延遲。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制显卡驱动允许加入队列的最大帧数量。此值较高时，可提高性能，但可能导致一定的延迟。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.MaxRenderQueueFrames",
+  "internalEnabled": true,
+  "persistentID": 1349577668
+}

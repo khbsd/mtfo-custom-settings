@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Tracker CPU speed",
+  "Description": "Refers to how powerful the cumputer processor within the player's bio tracker (a sort of motion detector) is. If the processor is more powerful, the tracker will recharge its tagging ability faster.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Traceur overclocké",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Velocità CPU localizzatore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tracker-CPU-Geschwindigkeit",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Velocidad de rastreo de CPU",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скорость ЦП трекера",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Velocidade da CPU do rastreador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Szybkość CPU wykrywacza",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "トラッカーCPU速度",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "트래커 CPU 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "追蹤器CPU速度",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "追踪器CPU速度",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ScannerRechargeSpeedName",
+  "internalEnabled": true,
+  "persistentID": 621
+}

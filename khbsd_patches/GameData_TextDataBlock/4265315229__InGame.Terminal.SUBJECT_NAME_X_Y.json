@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SUBJECT NAME: {0}, {1}",
+  "Description": "{0} is a last name and {1} is a first name. Random between be either US or Hispanic names.",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "NOM DU SUJET\u00A0: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "NOME SOGGETTO: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "NAME DER VERSUCHSPERSON: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "NOMBRE DEL SUJETO: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИМЯ СУБЪЕКТА: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "NOME DO INDIVÍDUO: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "IMIĘ I NAZWISKO BIORCY: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象の名前: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상 이름: {0}, {1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象姓名：{0}，{1}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者姓名：{0}，{1}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.SUBJECT_NAME_X_Y",
+  "internalEnabled": true,
+  "persistentID": 4265315229
+}

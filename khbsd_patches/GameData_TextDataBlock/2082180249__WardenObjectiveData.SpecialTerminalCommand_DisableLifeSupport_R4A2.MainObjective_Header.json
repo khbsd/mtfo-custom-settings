@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backdoor Command",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Commande de porte dérobée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Comando backdoor",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hintertür-Befehl",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Comando de puerta trasera",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Секретная команда",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Comando de backdoor",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Polecenie tylnego wejścia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックドアコマンド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백도어 명령",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "後門指令",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "后门命令",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_DisableLifeSupport_R4A2.MainObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 2082180249
+}

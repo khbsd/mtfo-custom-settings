@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Slug Shotgun",
+  "Description": "Weapon category name",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Carabine",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a pompa Slug",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta de slug",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Гладкоствольное ружье",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda de balote",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Breneka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スラッグショットガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "슬러그 샷건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "獨頭彈霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "独头弹霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "GearArchetype.Shotgun.SlugName",
+  "internalEnabled": true,
+  "persistentID": 3837272169
+}

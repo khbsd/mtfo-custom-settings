@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Creating external timed verification link with Terminal, please wait",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Création, d’un lien de vérification externe chronométré à l’aide du terminal. Veuillez patienter.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Creazione collegamento di verifica a tempo esterno con Terminale, attendere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stelle zeitgesteuerten Verifizierungslink mit Terminal her, bitte warten …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Creando enlace externo de verificación cronometrada con terminal. Un momento, por favor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Устанавливается внешнее синхронизированное подключение верификации с терминалом. Подождите.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Criando link de verificação cronometrada externa com o terminal; aguarde",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ustanawianie zewnętrznego czasowego łącza weryfikacyjnego z terminalem, proszę czekać…",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末との外部同期認証リンクを生成中です。お待ちください",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 연결 외부 시한 승인 생성 중. 잠시만 기다려주십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在與終端建立外部限時驗證連結。請稍候。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在创建与终端的外部定时验证链接，请稍候",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.StartTimedTerminalSequence",
+  "internalEnabled": true,
+  "persistentID": 2625944978
+}

@@ -1,0 +1,126 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Precision_3.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Precision_3_Player_Idle",
+    "AssetBundle": 20,
+    "BundleShard": 7
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "a_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Precision_3_Parts_Fire"
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 7
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_Precision_3_WeaponMovement_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Precision_3_Parts_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_Precision_3_Player_Reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 0.2,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_out"
+    },
+    {
+      "TriggerTime": 0.5,
+      "Type": 10,
+      "StringData": "drop"
+    },
+    {
+      "TriggerTime": 0.75,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick_soft"
+    },
+    {
+      "TriggerTime": 0.9,
+      "Type": 10,
+      "StringData": "show"
+    },
+    {
+      "TriggerTime": 1.04,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 1.35,
+      "Type": 5,
+      "StringData": "carbine_reload_5_release_slide"
+    },
+    {
+      "TriggerTime": 1.83,
+      "Type": 5,
+      "StringData": "cannon_reload_mag_in"
+    },
+    {
+      "TriggerTime": 1.9,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 1.9,
+      "Type": 5,
+      "StringData": "cannon_reload_foley_move"
+    },
+    {
+      "TriggerTime": 2.1,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    }
+  ],
+  "name": "Front_Precision_3",
+  "internalEnabled": true,
+  "persistentID": 19
+}

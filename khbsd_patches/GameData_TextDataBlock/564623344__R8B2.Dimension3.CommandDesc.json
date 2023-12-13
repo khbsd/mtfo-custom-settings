@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>WARNING! SECURITY SCAN PROTOCOL REQUIRED</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=red>ALERTE\u00A0! PROTOCOLE D'ANALYSE DE SÉCURITÉ REQUIS</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>ATTENZIONE: RICHIESTO PROTOCOLLO DI SCANSIONE DI SICUREZZA</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>WARNUNG! SICHERHEITSSCAN-PROTOKOLL ERFORDERLICH.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>ADVERTENCIA: SE NECESITA UN PROTOCOLO DE ANÁLISIS DE SEGURIDAD</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>ВНИМАНИЕ! ТРЕБУЕТСЯ ПРОТОКОЛ ПРОВЕРКИ БЕЗОПАСНОСТИ.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>AVISO! PROTOCOLO DE ESCANEAMENTO DE SEGURANÇA NECESSÁRIO</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>OSTRZEŻENIE! WYMAGANY PROTOKÓŁ SKANOWANIA</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>警告！セキュリティスキャンプロトコルが必要</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>경고! 보안 스캔 프로토콜 필요</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>警告！需要安全掃描協定</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>警告！需要安全扫描协议</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "R8B2.Dimension3.CommandDesc",
+  "internalEnabled": true,
+  "persistentID": 564623344
+}

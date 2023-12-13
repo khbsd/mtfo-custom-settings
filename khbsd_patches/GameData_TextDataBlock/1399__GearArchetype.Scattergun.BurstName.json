@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scattergun",
+  "Description": "A type of shotgun",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Canon disperseur",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile a dispersione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schrotflinte",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escopeta de dispersión",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ружье",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Espingarda Scattergun",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Śrutówka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャッターガン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캐터건",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "霰彈槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "三管霰弹枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Scattergun.BurstName",
+  "internalEnabled": true,
+  "persistentID": 1399
+}

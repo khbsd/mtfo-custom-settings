@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download decryption keys from [4] sector terminals \nProgress: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Téléchargez les clés de décryptage à partir de [4]\u00A0terminaux de secteur.\nProgression\u00A0: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scaricare le chiavi di decrittazione terminali del settore [4] \nProgresso: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Dechiffrierschlüssel von [4] Sektorterminals herunterladen \nFortschritt: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga las claves de descifrado de [4] terminales de sector. \nProgreso: [COUNT_CURRENT]/[COUNT_REQUIRED].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузите ключи шифрования из [4] терминалов сектора.\nПрогресс: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Baixar chaves de decodificação pelos terminais do setor [4] \nProgresso: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobierz klucze deszyfrujące z [4] terminali sektorowych. \nPostęp: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[4]セクター端末より解読キーをダウンロード\n進捗状況：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터 터미널 [4]개에서 암호 키 다운로드 \n진행: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從[4]個分區終端下載解碼密鑰。\n進度：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从[4]个分区终端下载解密密钥。\n进度：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "R8A2.MainObjective_Decryption_Update",
+  "internalEnabled": true,
+  "persistentID": 943699965
+}

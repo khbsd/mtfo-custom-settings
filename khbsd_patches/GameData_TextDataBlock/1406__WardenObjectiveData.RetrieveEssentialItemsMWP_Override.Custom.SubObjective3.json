@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Complete the bioscan sequence to deactivate the door <color=orange>ALARM</color>",
+  "Description": "ALARM is not a terminal command and should be localized.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Terminez la séquence de bioscan pour désactiver la porte d'<color=orange>ALARME</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completare la sequenza di bio-scansione per disattivare <color=orange>ALARM</color> porta",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Führen Sie die Bioscan-Sequenz durch, um den <color=orange>ALARM</color> der Tür zu deaktivieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Completa la secuencia de bioescáner para desactivar la\u00A0<color=orange>ALARMA</color>\u00A0de la puerta.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Завершите биосканирование, чтобы отключить <color=orange>СИГНАЛ ТРЕВОГИ</color> на двери.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Conclua a sequência de bioescâner para desativar o <color=orange>ALARM</color> da porta",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeprowadź sekwencję bioskanowania, aby dezaktywować <color=orange>ALARM</color> drzwi.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バイオスキャンシークエンスを完了してドアの <color=orange>警報</color>を解除しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오스캔 절차를 실시해 문 <color=orange>경보</color> 해제",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成生物掃描序列以停用門<color=orange>警報</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成生物扫描序列以关闭门禁<color=orange>警报</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.Custom.SubObjective3",
+  "internalEnabled": true,
+  "persistentID": 1406
+}

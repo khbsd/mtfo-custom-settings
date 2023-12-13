@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reach the armory and stock up on resources",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Atteignez l'arsenal et faites le plein de ressources.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere l'armeria e fare scorta di risorse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Erreichen Sie die Waffenkammer und füllen Sie Ihre Ressourcen auf.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llega a la armería y haz acopio de recursos.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доберитесь до оружейной и пополните запас ресурсов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alcance o arsenal e reabasteça seus recursos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do zbrojowni i uzupełnij zasoby",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器庫へ行き資源を蓄えろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기고에 도달해 자원 비축",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "到達軍械庫並儲備資源",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "到达军械库并储备资源",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjectiveData.Tutorial.ElevatorLand.Header",
+  "internalEnabled": true,
+  "persistentID": 4225881121
+}

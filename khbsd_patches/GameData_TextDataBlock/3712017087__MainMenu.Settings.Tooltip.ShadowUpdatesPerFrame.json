@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the number of allowed shadow updates during one frame. A lower value is faster, but might appear laggy.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle le nombre d'actualisations d'ombres autorisées sur une seule image. Une valeur inférieure est plus rapide, mais le rendu peut sembler saccadé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla il numero di aggiornamenti delle ombre consentiti durante un fotogramma. Con un valore più basso è più veloce, ma potrebbe apparire a scatti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Anzahl der erlaubten Schattenaktualisierungen während eines Frames. Ein niedriger Wert ist schneller, kann aber verzögert wirken.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el número de refresco de sombras que se permite durante un fotograma. En valores bajos será más rápido, pero puede ralentizar la imagen.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Устанавливает разрешенное количество обновлений теней за один кадр. Меньшее значение повышает производительность, но может тормозить изображение.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o número de atualizações de sombreamento permitidas durante um quadro. Um valor mais baixo é mais rápido, mas pode parecer mais falho.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za dopuszczalną liczbę odświeżeń cieni na klatkę. Niższa wartość zapewnia zwiększoną wydajność, ale może sprawiać wrażenie opóźnień.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "1フレーム内で許可される影の更新回数を決める。数値が小さいと速いが、ラグが生じやすい。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "한 프레임 중 허용되는 그림자 업데이트 수를 제어합니다. 값이 낮으면 속도가 빨라지지만 그래픽이 거칠어집니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制一幀期間允許的陰影更新次數。較低的值較快，但可能會看起來遲滯。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制一帧中允许的阴影更新数量。此值越低，速度越快，但可能看起来有延迟。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Settings.Tooltip.ShadowUpdatesPerFrame",
+  "internalEnabled": true,
+  "persistentID": 3712017087
+}

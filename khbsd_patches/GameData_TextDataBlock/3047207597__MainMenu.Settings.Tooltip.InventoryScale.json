@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Controls the size of the inventory",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Contrôle la taille de l'inventaire.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Controlla le dimensioni dell'inventario",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Steuert die Größe des Inventars.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Controla el tamaño del inventario.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Регулирует размер инвентаря.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Controla o tamanho do inventário.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odpowiada za rozmiar ekwipunku.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "インベントリのサイズを決める。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인벤토리 크기를 조절합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "控制物品欄大小",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "控制物品栏的大小。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.InventoryScale",
+  "internalEnabled": true,
+  "persistentID": 3047207597
+}

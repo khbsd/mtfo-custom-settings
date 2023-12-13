@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hack security lock <color=red>[WARNING:ALARM DETECTED]</color>",
+  "Description": "A text that appears on screen when the player is standing close to a security door, proposing to the player that they hack a security lock, while also warning for an alarm connected to the door.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Pirater le verrou de sécurité <color=red>[ALERTE\u00A0: ALARME DÉTECTÉE]</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Forza serratura di sicurezza <color=red>[ATTENZIONE: ALLARME RILEVATO]</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sicherheitsschloss hacken <color=red>[WARNUNG: ALARM ERKANNT]</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hackear cerradura de seguridad <color=red>[AVIS: ALARMA DETECTADA]</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Взломайте замок безопасности <color=red>[ВНИМАНИЕ! ОБНАРУЖЕНА ТРЕВОГА]</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Hackeie a trava de segurança <color=red>[AVISO: ALARME DETECTADO]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sforsuj blokadę <color=red>[OSTRZEŻENIE:WYKRYTO ALARM]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティロック <color=red>をハッキングしろ[警告:警報を検知]</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "해킹 보안 잠금 <color=red>[경고:경보 감지]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "破解安全鎖<color=red>[警告：偵測到警報]</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "侵入安全锁<color=red>[警告：探测到警报器]</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.SecurityDoor.HackSecurityLock",
+  "internalEnabled": true,
+  "persistentID": 847
+}

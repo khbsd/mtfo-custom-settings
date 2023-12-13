@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Verification failed! The Uplink protocol is complete.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Échec de la vérification\u00A0! Protocole de liaison montante terminé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Verifica fallita! Il protocollo uplink è completo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verifizierung fehlgeschlagen! Uplink-Protokoll abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Verificación fallida! El protocolo de uplink está completo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Верификация не пройдена! Протокол подключения завершен.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Falha na verificação! O protocolo de uplink está completo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Weryfikacja nieudana! Protokół łącza ukończony.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証失敗！アップリンクプロトコル完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 실패! 업링크 프로토콜이 완료되었습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證失敗！上行鏈路協定完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证失败！上行链路协议完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.Terminal.Verification_failed_The_Uplink_protocol_is_complete",
+  "internalEnabled": true,
+  "persistentID": 4080876165
+}

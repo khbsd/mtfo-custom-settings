@@ -1,0 +1,28 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/EnemyAttack/E_Siren_WaveRippleSound",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockBigSphere",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    }
+  ],
+  "name": "enemy_ab_siren_alarm_active",
+  "internalEnabled": true,
+  "persistentID": 17
+}

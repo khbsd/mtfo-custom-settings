@@ -1,0 +1,47 @@
+{
+  "m_timing": {
+    "minTimeInState": 0.0,
+    "maxTimeInState": 0.0,
+    "stateAfterMaxTime": 0
+  },
+  "m_gameEventSounds": [],
+  "m_EventsOnEnter": [
+    {
+      "eventName": "music_tensionmax"
+    }
+  ],
+  "m_SwitchesOnEnter": [
+    {
+      "switchGroup": "randomizer_tensionmax_loop",
+      "switchName": "tensionmax_",
+      "randomCount": 45
+    }
+  ],
+  "m_SwitchesOnCustomCue": [],
+  "m_EventsOnTime": [
+    {
+      "timeIsClockRelative": false,
+      "active": false,
+      "nextTrigger": 30.0,
+      "time": 30.0,
+      "repeat": false,
+      "events": [
+        {
+          "eventName": "music_tensionmax_timeout"
+        }
+      ]
+    }
+  ],
+  "m_SwitchesOnTime": [],
+  "m_EventsOnTimeInactive": [],
+  "m_SwitchesOnTimeInactive": [],
+  "m_RTPC_1": "",
+  "m_RTPC_2": "",
+  "m_RTPC_3": "",
+  "m_EventOnSmallScare": "",
+  "m_EventOnBigScare": "",
+  "m_EventsOnExit": [],
+  "name": "TensionMax",
+  "internalEnabled": true,
+  "persistentID": 17
+}

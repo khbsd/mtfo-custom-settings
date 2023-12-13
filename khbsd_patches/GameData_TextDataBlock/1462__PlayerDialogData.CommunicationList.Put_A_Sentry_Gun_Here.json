@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sentry gun here.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Voilà une tourelle.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torretta automatica qui.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier ist ein Sentry-Geschütz.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hace falta una centinela.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Установите турель.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sentinela aqui.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Działko wartownicze, tutaj.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここにセントリーガンを。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 센트리 건이 있다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在這裡放自動砲台",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这里放哨戒炮。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Put_A_Sentry_Gun_Here",
+  "internalEnabled": true,
+  "persistentID": 1462
+}

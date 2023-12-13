@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">...This bioscan--\r\n<size=200%><color=red>>...GET BACK IN! It's going backwards!</color></size>\r\n>...Oh fuck!",
+  "Description": "Don't translate the text in between the \"<>\" tags.\r",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">... Ce bioscan...\r\n<size=200%><color=red>>... RENTREZ\u00A0! Il est en train de reculer\u00A0!</color></size>\r\n>... Oh bordel\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">...Questa bio-scansione...\r\n<size=200%><color=red>>...TORNA DENTRO! Sta tornando indietro!</color></size>\r\n>...Oh, merda!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Dieser Bioscan–\r\n<size=200%><color=red>>… KOMM ZURÜCK! Er bewegt sich in die falsche Richtung!</color></size>\r\n>… Oh, verdammt!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">Este bioescáner...\r\n<size=200%><color=red>>¡VUELVE DENTRO! ¡Está yendo hacia atrás!</color></size>\r\n>¡Mierda!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">...Биосканер...\r\n<size=200%><color=red>>...НАЗАД! Прогресс сбрасывается!</color></size>\r\n>...Вот черт!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">...Este bioescâner--\r\n<size=200%><color=red>>...VOLTEM PARA DENTRO! Ele está indo para trás!</color></size>\r\n>...Ah, caralho!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">...Ten bioskan...\r\n<size=200%><color=red>>...Ładować się do środka! To wraca!</color></size>\r\n>...O kurwa!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">...このバイオスキャン--\r\n<size=200%><color=red>>...戻れ！後退してるぞ！</color></size>\r\n>...ああ、クソ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">...이 바이오스캔--\r\n<size=200%><color=red>>...돌아가! 뒤로 간다!</color></size>\r\n>...이런 씨발!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…生物掃描……\r\n<size=200%><color=red>>…往回走！讀數倒退了！</color></size>\r\n>…幹！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">...这个生物扫描——\r\n<size=200%><color=red>>...快回来！进度后退了！</color></size>\r\n>...噢，该死！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "Rundown004_B3_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 1493359598
+}

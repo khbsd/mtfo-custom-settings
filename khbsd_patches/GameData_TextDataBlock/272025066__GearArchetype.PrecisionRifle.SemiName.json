@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Precision Rifle",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Fusil de précision",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fucile di precisione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Präzisionsgewehr",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fusil de precisión",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Винтовка точного боя",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fuzil de precisão",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Karabin precyzyjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "精密ライフル",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정밀 소총",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "精準步槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "精准步枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.PrecisionRifle.SemiName",
+  "internalEnabled": true,
+  "persistentID": 272025066
+}

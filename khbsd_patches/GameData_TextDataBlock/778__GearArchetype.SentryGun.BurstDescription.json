@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deployable\nAutomatic enemy detection\nMedium range burst fire",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Déployable\nDétection automatique des ennemis\nTir en rafale à moyenne portée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Schierabile\nRilevamento automatico nemici\nRaffica a gittata media",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Einsetzbar\nAutomatische Feinderkennung\nFeuerstoß auf mittlere Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Implementable\nDetección automática del enemigo\nMedio alcance de disparo explosivo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Стационарное оружие\nАвтораспознавание врагов\nСредняя дальность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Possível alocar\nDetecção automática do inimigo\nPoder de fogo de médio alcance",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozstawiane\nAutomatyczne wykrywanie przeciwników\nŚredni dystans\nOgień seryjny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "配置可能\n自動敵探知\n中距離バースト射撃",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배치 가능\n자동 적 감지\n중거리 점사",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "可部署\n自動敵人偵測\n中程連發",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可部署\n自动探测敌人\n中程点射",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SentryGun.BurstDescription",
+  "internalEnabled": true,
+  "persistentID": 778
+}

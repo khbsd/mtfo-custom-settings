@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Vertical Field Of View",
+  "Description": "A headline for the vertical FOV (field of view) game setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Champ de vision vertical",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Campo visivo verticale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vertikales Sichtfeld",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Campo de visión vertical",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вертикальное поле зрения",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Campo de visão vertical",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pionowe pole widzenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "垂直視野角(FOV)",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수직 시야각",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "垂直視野",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "垂直视野",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VerticalFOV",
+  "internalEnabled": true,
+  "persistentID": 91
+}

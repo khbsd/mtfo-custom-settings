@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Heavy SMG",
+  "Description": "A firearm category.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SMG lourd",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mitra pesante",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schwere MP",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Subfusil pesado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Крупнокалиберный пистолет-пулемет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Submetralhadora pesada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ciężki karabinek automatyczny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヘビーSMG",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "헤비 SMG",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重型衝鋒槍",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "重型冲锋枪",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.HeavyAutoName",
+  "internalEnabled": true,
+  "persistentID": 733
+}

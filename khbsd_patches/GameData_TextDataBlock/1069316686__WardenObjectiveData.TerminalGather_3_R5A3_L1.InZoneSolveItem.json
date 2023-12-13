@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Copy files from the terminals.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Copiez les fichiers des terminaux.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Copiare i file dai terminali.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Kopieren Sie Dateien von den Terminals.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Copia archivos de las terminales.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Скопируйте файлы с терминалов.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Copie arquivos dos terminais.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skopiuj pliki z terminali.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末からファイルをコピーしろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널에서 파일을 복사하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從終端複製檔案。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从终端复制文件。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.TerminalGather_3_R5A3_L1.InZoneSolveItem",
+  "internalEnabled": true,
+  "persistentID": 1069316686
+}

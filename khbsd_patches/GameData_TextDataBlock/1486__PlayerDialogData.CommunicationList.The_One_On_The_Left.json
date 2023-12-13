@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "...the one on the left.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "... celui à gauche.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "...quello a sinistra.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "… den auf der linken Seite.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "... del que está a la izquierda.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "...враг слева.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "... o que está à esquerda.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "...tego po lewej.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "...左の奴は。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "...왼쪽에 있는 거.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "…左邊那個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "……左边的那个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.The_One_On_The_Left",
+  "internalEnabled": true,
+  "persistentID": 1486
+}

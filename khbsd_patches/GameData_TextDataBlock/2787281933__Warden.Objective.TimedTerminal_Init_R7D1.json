@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start sequence with command <color=orange>INIT_TIMED_SEQUENCE</color> on main terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrez la séquence en saisissant la commande <color=orange>INIT_TIMED_SEQUENCE</color> sur le terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avviare la sequenza con il comando <color=orange>INIT_TIMED_SEQUENCE</color> sul terminale principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Starten Sie die Sequenz am Hauptterminal mit dem Befehl <color=orange>INIT_TIMED_SEQUENCE</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Inicia la secuencia con el comando <color=orange>INIT_TIMED_SEQUENCE</color> en el terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Чтобы начать цикл, введите команду <color=orange>INIT_TIMED_SEQUENCE</color> на основном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inicie a sequência com o comando <color=orange>INIT_TIMED_SEQUENCE</color> no terminal principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij sekwencję poleceniem <color=orange>INIT_TIMED_SEQUENCE</color> w terminalu głównym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メイン端末で<color=orange>INIT_TIMED_SEQUENCE</color>のコマンドを使用してシークエンスを開始せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "중앙 터미널에서 <color=orange>INIT_TIMED_SEQUENCE</color> 명령을 입력해 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在主終端輸入<color=orange>INIT_TIMED_SEQUENCE</color>指令以開始序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在主终端上使用<color=orange>INIT_TIMED_SEQUENCE</color>命令启动序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Warden.Objective.TimedTerminal_Init_R7D1",
+  "internalEnabled": true,
+  "persistentID": 2787281933
+}

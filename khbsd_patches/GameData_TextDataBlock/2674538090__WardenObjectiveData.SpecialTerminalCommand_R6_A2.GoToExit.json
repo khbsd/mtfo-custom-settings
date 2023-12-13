@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go to exit",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Aller à la sortie",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raggiungere l'uscita",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gehen Sie zum Ausgang",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ve a la salida.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Направляйтесь к выходу.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ir para a saída",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przejdź do wyjścia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "出口へ行け",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "출구로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "前往出口",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "前往出口",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.GoToExit",
+  "internalEnabled": true,
+  "persistentID": 2674538090
+}

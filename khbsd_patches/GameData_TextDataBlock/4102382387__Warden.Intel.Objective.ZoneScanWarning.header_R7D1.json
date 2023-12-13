@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Input command <color=orange>Override_Security_Gate_A193</color> in local <color=orange>Zone 199</color> terminal.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Saisissez la commande <color=orange>Override_Security_Gate_A193</color> sur le terminal local de la <color=orange>zone\u00A0199</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Inserire il comando <color=orange>Override_Security_Gate_A193</color> nel terminale locale della <color=orange>ZONE 199</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Geben Sie den Befehl <color=orange>Override_Security_Gate_A193</color> im lokalen Terminal in <color=orange>Zone 199</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Introduce el comando <color=orange>Override_Security_Gate_A193</color> en el terminal local de la <color=orange>Zone 199</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Введите команду <color=orange>Override_Security_Gate_A193</color> на локальном терминале <color=orange>зоны 199</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Insira o comando <color=orange>Override_Security_Gate_A193</color> no terminal local da <color=orange>Zone 199</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wprowadź polecenie <color=orange>Override_Security_Gate_A193</color> w lokalnym terminalu <color=orange>strefy 199 [ZONE_199]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ローカル<color=orange>Zone 199</color>端末にコマンド<color=orange>Override_Security_Gate_A193</color>を入力せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 199</color> 터미널에서 <color=orange>Override_Security_Gate_A193</color> 명령 입력",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>Zone 199</color>本地終端輸入指令<color=orange>Override_Security_Gate_A193</color>。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 199</color>本地终端上输入命令<color=orange>Override_Security_Gate_A193</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Intel.Objective.ZoneScanWarning.header_R7D1",
+  "internalEnabled": true,
+  "persistentID": 4102382387
+}

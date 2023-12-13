@@ -1,0 +1,17 @@
+{
+  "SpawnsPerZone": 9,
+  "ChanceToSpawnInResourceContainer": 0.5,
+  "SpawnData": [
+    {
+      "ItemID": 117,
+      "Weight": 10.0
+    },
+    {
+      "ItemID": 142,
+      "Weight": 3.0
+    }
+  ],
+  "name": "ExplorationFog_Tech_v02_Alt",
+  "internalEnabled": true,
+  "persistentID": 75
+}

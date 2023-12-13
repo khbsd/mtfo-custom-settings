@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WhiteCap",
+  "Description": "\"Cap\" is a reference to the lid of the vial that a specific drug is packaged/stored in. \"WhiteCap\" means that the vial has a white lid/cap. It is a way for the PC to identify/categorize the drug.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Bouchon blanc",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TappoBianco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WeißeKappe",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tapón blanco",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Белая крышка",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TampaBran",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Białe.Wieko",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ホワイトキャップ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "화이트캡",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "白蓋",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "白盖",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.WhiteCap",
+  "internalEnabled": true,
+  "persistentID": 670
+}

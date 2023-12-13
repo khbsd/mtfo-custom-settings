@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPUTER TERMINAL",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "TERMINAL INFORMATIQUE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "TERMINALE COMPUTER",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "COMPUTERTERMINAL",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "TERMINAL",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КОМПЬЮТЕРНЫЙ ТЕРМИНАЛ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "TERMINAL DE COMPUTADOR",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "TERMINAL KOMPUTEROWY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "コンピュータ端末",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "컴퓨터 터미널",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "電腦終端",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "电脑终端",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ComputerTerminal",
+  "internalEnabled": true,
+  "persistentID": 2971608684
+}

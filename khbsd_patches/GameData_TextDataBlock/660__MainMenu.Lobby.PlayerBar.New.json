@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "New!",
+  "Description": "This text shows above a booster when it's newly acquired.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Nouveau\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Nuovo!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Neu!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Nuevo!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Новинка!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Novo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nowość!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "NEW!",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "신규!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "新！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "新！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.New",
+  "internalEnabled": true,
+  "persistentID": 660
+}

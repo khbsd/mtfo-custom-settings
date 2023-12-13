@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Reload",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Recharger",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ricarica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nachladen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recargar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Перезарядить",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recarregar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przeładowanie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リロード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "재장전",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "重新載入",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "装弹",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Reload",
+  "internalEnabled": true,
+  "persistentID": 145
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "BOOSTERS",
+  "Description": "\"Boosters\" are performance enhancing drugs.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "BOOSTERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "POTENZIAMENTI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "BOOSTER",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "POTENCIADORES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "УСИЛИТЕЛИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "IMPULSOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WZMACNIACZE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強化劑",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强化剂",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Boosters",
+  "internalEnabled": true,
+  "persistentID": 571
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Execute set-up script from <color=orange>terminal</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exécutez le script d'installation depuis le <color=orange>terminal</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Eseguire script di configurazione da <color=orange>terminale</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Führen Sie das Ausführungsskript am <color=orange>Terminal</color> aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecuta un script de configuración en el <color=orange>terminal</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Выполните сценарий настройки на <color=orange>терминале</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Executar script de configuração pelo <color=orange>terminal</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonaj zaprogramowany skrypt w <color=orange>terminalu</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>端末</color>からセットアップスクリプトを実行しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>터미널</color>에서 셋업 스크립트 실행",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從<color=orange>終端</color>執行設定指令碼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从<color=orange>终端</color>执行设置脚本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenObjectiveData.Empty_R8B2_L1.Intel.DimensionTerminal",
+  "internalEnabled": true,
+  "persistentID": 1375056186
+}

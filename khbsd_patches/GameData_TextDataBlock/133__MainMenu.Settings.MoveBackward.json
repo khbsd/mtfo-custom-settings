@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Move Backward",
+  "Description": "Control key binding/mapping. Should be self explanatory.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Reculer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento indietro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rückwärts bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover hacia atrás",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Назад",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover para trás",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ruch do tyłu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "後退",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "뒤로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "向後移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "后退",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MoveBackward",
+  "internalEnabled": true,
+  "persistentID": 133
+}

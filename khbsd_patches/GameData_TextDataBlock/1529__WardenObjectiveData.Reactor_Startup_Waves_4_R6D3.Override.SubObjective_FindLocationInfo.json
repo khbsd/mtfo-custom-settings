@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find the Reactor in [ITEM_ZONE]",
+  "Description": "Don't localize [ITEM_ZONE]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez le réacteur dans la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare il reattore in [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie den Reaktor in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra el reactor en la [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите реактор в [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre o reator na [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź reaktor w strefie [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_ZONE]でリアクターを見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE]에서 반응로를 찾을 것",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ITEM_ZONE]尋找反應器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ITEM_ZONE]找到反应堆",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3.Override.SubObjective_FindLocationInfo",
+  "internalEnabled": true,
+  "persistentID": 1529
+}

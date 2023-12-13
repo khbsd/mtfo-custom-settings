@@ -1,0 +1,155 @@
+{
+  "localPosHip": {
+    "x": 0.12,
+    "y": -0.18,
+    "z": 0.45,
+    "normalized": {
+      "x": 0.2403367,
+      "y": -0.360505074,
+      "z": 0.901262641,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.4992995,
+    "sqrMagnitude": 0.249299988
+  },
+  "localRotHip": {
+    "x": -1.0,
+    "y": 0.0,
+    "z": 5.0,
+    "normalized": {
+      "x": -0.196116135,
+      "y": 0.0,
+      "z": 0.9805807,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 5.09901953,
+    "sqrMagnitude": 26.0
+  },
+  "SwayAmount": 1.0,
+  "crouchTiltAngle": -4.0,
+  "localPosRelaxed": {
+    "x": 1.24,
+    "y": -0.74,
+    "z": 0.35,
+    "normalized": {
+      "x": 0.8345486,
+      "y": -0.49803707,
+      "z": 0.235558078,
+      "normalized": {
+        "x": 0.834548652,
+        "y": -0.4980371,
+        "z": 0.2355581,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 1.48583317,
+    "sqrMagnitude": 2.2077
+  },
+  "localRotRelaxed": {
+    "x": 19.0,
+    "y": -5.11,
+    "z": -10.42,
+    "normalized": {
+      "x": 0.8533932,
+      "y": -0.229517862,
+      "z": -0.4680188,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 22.2640629,
+    "sqrMagnitude": 495.6885
+  },
+  "localPosZoom": {
+    "x": 0.14,
+    "y": -0.16,
+    "z": 0.4,
+    "normalized": {
+      "x": 0.309057534,
+      "y": -0.3532086,
+      "z": 0.883021533,
+      "normalized": {
+        "x": 0.309057564,
+        "y": -0.353208631,
+        "z": 0.8830216,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.9999999
+    },
+    "magnitude": 0.452990085,
+    "sqrMagnitude": 0.2052
+  },
+  "localRotZoom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 10.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 10.0,
+    "sqrMagnitude": 100.0
+  },
+  "bodyOffsetLocal": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": 0.0,
+    "normalized": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 0.1,
+    "sqrMagnitude": 0.0100000007
+  },
+  "bodyRotationOffsetLocal": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "ItemCameraFOVDefault": 40,
+  "ItemCameraFOVZoom": 40,
+  "LookCameraFOVZoom": 55,
+  "canAim": true,
+  "onlyStartAimOnPressed": false,
+  "canRelax": false,
+  "customDelayUntilRelax": 0.5,
+  "allowRotToAimPos": false,
+  "rotToAimPosMinDis": 1.0,
+  "transitionToAim": 1,
+  "RecoilAnimation": 0,
+  "IdleAnimation": 20,
+  "WalkAnimation": 18,
+  "RunAnimation": 19,
+  "JumpAnimation": 7,
+  "LandAnimation": 8,
+  "ChargeCancelAnimation": 0,
+  "DofDefault": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "DofAim": {
+    "enabled": true,
+    "focusDistance": 90.0,
+    "aperture": 0.15,
+    "focalLength": 1.0
+  },
+  "name": "Nano_Swarm",
+  "internalEnabled": true,
+  "persistentID": 44
+}

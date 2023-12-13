@@ -1,0 +1,27 @@
+{
+  "PublicName": 0,
+  "Description": 0,
+  "BaseItem": 108,
+  "HUDIcon": "",
+  "IconRotationOffset": 0.0,
+  "IconZoomOffset": 0.48,
+  "FPSArmPoseName": "",
+  "ThirdPersonFullbodyMovement": 1,
+  "SemiArchetype": 41,
+  "BurstArchetype": 42,
+  "AutoArchetype": 66,
+  "SemiBurstArchetype": 44,
+  "MeleeArchetype": 0,
+  "PartAlignPriority": [
+    {
+      "AlignType": 5,
+      "PartPrio": [
+        2,
+        4
+      ]
+    }
+  ],
+  "name": "Pistol_Stagger",
+  "internalEnabled": true,
+  "persistentID": 21
+}

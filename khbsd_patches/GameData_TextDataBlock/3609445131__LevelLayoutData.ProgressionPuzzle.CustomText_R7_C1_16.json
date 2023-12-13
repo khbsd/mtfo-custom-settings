@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Current progress: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "Progression actuelle\u00A0: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Progresso attuale: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktueller Fortschritt: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Progreso actual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Текущий прогресс: [COUNT_CURRENT] / [COUNT_REQUIRED].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Progresso atual: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Bieżący postęp: [COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "現在の進行状況: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "현재 진행도: [COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "目前進度：[COUNT_CURRENT]/[COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "当前进度：[COUNT_CURRENT] / [COUNT_REQUIRED]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C1_16",
+  "internalEnabled": true,
+  "persistentID": 3609445131
+}

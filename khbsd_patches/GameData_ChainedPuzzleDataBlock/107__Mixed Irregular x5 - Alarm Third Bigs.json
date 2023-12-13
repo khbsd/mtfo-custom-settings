@@ -1,0 +1,34 @@
+{
+  "PublicAlarmName": "Class V M Alarm ",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 66,
+  "SurvivalWavePopulation": 33,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 0.0,
+  "WantedDistanceBetweenPuzzleComponents": 11.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 2
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 5
+    },
+    {
+      "PuzzleType": 14
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed Irregular x5 - Alarm Third Bigs",
+  "internalEnabled": true,
+  "persistentID": 107
+}

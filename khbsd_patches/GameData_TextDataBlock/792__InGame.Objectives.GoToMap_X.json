@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "MAP {0}",
+  "Description": "A headline for a map of the structure the player is currently exploring. {0} is the keybinding the player have selected to open the map with.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CARTE {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MAPPA {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "KARTE {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MAPA {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "КАРТА {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MAPA {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "MAPA {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マップ {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "맵 {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "地圖{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "地图{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.GoToMap_X",
+  "internalEnabled": true,
+  "persistentID": 792
+}

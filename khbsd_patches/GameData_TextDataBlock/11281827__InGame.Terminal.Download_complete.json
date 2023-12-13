@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Download complete.",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Téléchargement terminé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Download completato.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Download abgeschlossen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Descarga completada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Загрузка завершена",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Download concluído.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Pobieranie ukończone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ダウンロード完了。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "다운로드 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "下載完成。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "下载完成。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Download_complete",
+  "internalEnabled": true,
+  "persistentID": 11281827
+}

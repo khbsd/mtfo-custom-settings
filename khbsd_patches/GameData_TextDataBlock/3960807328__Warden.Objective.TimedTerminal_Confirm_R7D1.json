@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "After verification - confirm sequence with command <color=orange>CONFIRM_TIMED_SEQUENCE</color> on main terminal",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Après vérification, confirmez la séquence en saisissant la commande <color=orange>CONFIRM_TIMED_SEQUENCE</color> sur le terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Dopo la verifica, confermare la sequenza con il comando <color=orange>CONFIRM_TIMED_SEQUENCE</color> sul terminale principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bestätigen Sie nach der Verifizierung die Sequenz mit dem Befehl <color=orange>CONFIRM_TIMED_SEQUENCE</color> am Hauptterminal.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Tras la verificación, confirma la secuencia con el comando <color=orange>CONFIRM_TIMED_SEQUENCE</color> en el terminal principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "После верификации подтвердите цикл командой <color=orange>CONFIRM_TIMED_SEQUENCE</color> на основном терминале.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Após a verificação, confirme a sequência com o comando <color=orange>CONFIRM_TIMED_SEQUENCE</color> no terminal principal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Po dokonaniu weryfikacji zatwierdź sekwencję poleceniem <color=orange>CONFIRM_TIMED_SEQUENCE</color> w terminalu głównym",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "認証後、メイン端末で<color=orange>CONFIRM_TIMED_SEQUENCE</color>のコマンドを使用してシークエンスを確認せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 후 중앙 터미널에 <color=orange>CONFIRM_TIMED_SEQUENCE</color> 명령을 입력해 절차 확인",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驗證後，在主終端輸入<color=orange>CONFIRM_TIMED_SEQUENCE</color>指令以確認序列。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "验证后，在主终端上使用<color=orange>CONFIRM_TIMED_SEQUENCE</color>命令确认序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "Warden.Objective.TimedTerminal_Confirm_R7D1",
+  "internalEnabled": true,
+  "persistentID": 3960807328
+}

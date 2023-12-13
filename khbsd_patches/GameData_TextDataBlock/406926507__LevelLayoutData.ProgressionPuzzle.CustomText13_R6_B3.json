@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color> Establish a connection to <color=orange>[SANTONIAN_WIRE_UGC343]</color> to proceed.",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: verrouillage d'urgence de la porte enclenché, opération impossible. </color> Établissez une connexion avec <color=orange>[SANTONIAN_WIRE_UGC343]</color> pour continuer.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza, impossibile azionare.</color> Stabilire una connessione con <color=orange>[SANTONIAN_WIRE_UGC343]</color> per procedere.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung, Bedienung nicht möglich.</color> Stellen Sie eine Verbindung zu <color=orange>[SANTONIAN_WIRE_UGC343]</color> her, um fortzufahren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta en cierre de emergencia. No se puede operar.</color> Establece conexión con <color=orange>[SANTONIAN_WIRE_UGC343]</color> para continuar.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Дверь заблокирована</color>. Чтобы продолжить, установите подключение к <color=orange>[SANTONIAN_WIRE_UGC343]</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento de emergência; incapaz de operar.</color> Estabeleça uma conexão com <color=orange>[SANTONIAN_WIRE_UGC343]</color> para continuar.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Drzwi poddane blokadzie awaryjnej, sterowanie uniemożliwione.</color> Aby kontynuować, należy ustanowić połączenie w: <color=orange>[SANTONIAN_WIRE_UGC343]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>://エラー：ドアは緊急封鎖中。作動負荷。</color><color=orange>[SANTONIAN_WIRE_UGC343]</color>への接続を確立して前へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 비상 폐쇄 상태여서 작동 불가능합니다.</color> <color=orange>[SANTONIAN_WIRE_UGC343]</color>에 연결해 진행하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態，無法操作。</color>建立與<color=orange>[SANTONIAN_WIRE_UGC343]</color>的連線以繼續。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁状态，无法操作。</color>与<color=orange>[SANTONIAN_WIRE_UGC343]</color>建立连接以继续。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText13_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 406926507
+}

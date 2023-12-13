@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Left Hand Mode",
+  "Description": "A game option for left handed players.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Mode gaucher",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Modalità mancini",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Linkshänder-Modus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Modo para zurdos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим левой руки",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Modo Canhoto",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Tryb leworęczny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "左利きモード",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "왼손잡이 모드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "左手模式",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "左手模式",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.LeftHandMode",
+  "internalEnabled": true,
+  "persistentID": 78
+}

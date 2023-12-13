@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables higher quality textures when looking at surfaces at a grazing angle.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Affiche des textures de meilleure qualité en surface sur certains angles.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente texture di qualità superiore quando si osservano le superfici ad un angolo radente.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert qualitativ hochwertigere Texturen, wenn Sie Oberflächen in einem Streifwinkel betrachten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa las texturas de alta calidad al mirar superficies desde un ángulo de incidencia.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Повышает качество текстур на наклонных поверхностях.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa texturas de melhor qualidade ao observar superfícies em um ângulo de incidência.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza tekstury wysokiej jakości przy spoglądaniu na powierzchnie pod niskim kątem.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グレージング角で表面を見た時のテクスチャのクオリティが上がる。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "지표각의 표면을 볼 때 더 높은 품질의 텍스처를 표시하게 합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "以掠射角觀看表面時，啟用更高品質的紋理。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从掠射角查看表面时，启用更高质量的纹理。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.AnisotropicFiltering",
+  "internalEnabled": true,
+  "persistentID": 2642636337
+}

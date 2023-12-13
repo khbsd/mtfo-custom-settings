@@ -1,0 +1,19 @@
+{
+  "PublicName": "Hacking tool",
+  "Description": 0,
+  "BaseItem": 53,
+  "HUDIcon": "",
+  "IconRotationOffset": 0.0,
+  "IconZoomOffset": 0.0,
+  "FPSArmPoseName": "",
+  "ThirdPersonFullbodyMovement": 1,
+  "SemiArchetype": 0,
+  "BurstArchetype": 0,
+  "AutoArchetype": 0,
+  "SemiBurstArchetype": 0,
+  "MeleeArchetype": 0,
+  "PartAlignPriority": [],
+  "name": "HackingTool",
+  "internalEnabled": true,
+  "persistentID": 15
+}

@@ -1,0 +1,83 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        1
+      ],
+      [],
+      [
+        2
+      ],
+      [],
+      [],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Signs/sign_2x3.prefab",
+        "function": 9,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/AirSupply_2x3.prefab",
+        "function": 5,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/dig_site_submarker_120x120x240_Terminal_wall_01.prefab",
+        "function": 7,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/mining_function_wall_200x50x300_locker_01.prefab",
+        "function": 10,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/mining_function_wall_200x50x300_locker_security_01.prefab",
+        "function": 11,
+        "Shard": 19
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 2,
+    "Group": 6,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_fallback_200x50x300",
+    "BoundingVolume": 3000.0
+  },
+  "name": "mining_function_wall_200x50x300",
+  "internalEnabled": true,
+  "persistentID": 60
+}

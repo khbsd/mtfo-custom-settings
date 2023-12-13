@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi-automatic\nShort to medium range\nHigh rate of fire\nWell balanced recoil\n",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nCourte à moyenne portée\nCadence de tir élevée\nRecul équilibré\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nGittata da breve a media\nElevata cadenza di tiro\nRinculo ben equilibrato\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nKurze bis mittlere Reichweite\nHohe Feuerrate\nAusgewogener Rückstoß\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomática\nCorto a medio alcance\nCadencia de tiro alta\nRetroceso bien equilibrado\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nМалая или средняя дальность\nВысокая скорострельность\nМалая отдача\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomática\nCurto a médio alcance\nAlta cadência de tiros\nRecuo bem equilibrado\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Półautomatyczny\nKrótki i średni dystans\nDuża szybkostrzelność\nWyważony odrzut\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "半自動\n近距離から中距離\n高速連射\nバランスの優れた反動\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "빈자동\n단-중거리\n빠른 발사 속도\n균형 우수\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n中短程\n高射速\n良好平衡後座力\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n近到中程\n高射速\n均衡后坐力\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.SMG.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 4085860013
+}

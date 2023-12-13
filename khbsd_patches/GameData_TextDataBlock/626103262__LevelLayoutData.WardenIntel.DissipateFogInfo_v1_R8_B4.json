@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Scan Commenced\n> Use terminal vent protocol to dissipate mist",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Analyse en cours\n> Utilisez le protocole de ventilation du terminal pour dissiper la brume.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Scansione iniziata\n> Utilizzare il protocollo di ventilazione del terminale per dissipare la nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Scan gestartet\n>Benutzen Sie das Terminal-Entlüftungsprotokoll, um den Nebel zu zerstreuen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Escáner iniciado\n> Usa el protocolo de ventilación de terminales para disipar la niebla.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начато сканирование.\n> Используйте протокол вентиляции на терминале, чтобы устранить дым.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Escaneamento Iniciado\n> Use o protocolo de ventilação do terminal para dissipar a névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skanowanie rozpoczęte\n> Użyj w terminalu protokołu wentylacyjnego, aby rozproszyć mgłę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "スキャン開始\n> 端末換気プロトコルを使用して霧を放散せよ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스캔 실시됨\n> 터미널 환기 프로토콜을 사용하여 미스트 분산",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "掃描已開始\n> 使用終端通風協定以驅霧",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "扫描已开始\n> 使用终端通风协议以驱散迷雾",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.WardenIntel.DissipateFogInfo_v1_R8_B4",
+  "internalEnabled": true,
+  "persistentID": 626103262
+}

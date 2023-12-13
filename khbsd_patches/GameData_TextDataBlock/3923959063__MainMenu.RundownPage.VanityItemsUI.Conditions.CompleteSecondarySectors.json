@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "COMPLETE {0} SECONDARY SECTORS",
+  "Description": "Vanity item condition: completing a number of secondary sectors",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER {0}\u00A0SECTEURS SECONDAIRES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "COMPLETA {0} SETTORI SECONDARI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SCHLIESSEN SIE {0} SEKUNDÄRSEKTOREN AB",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "COMPLETA {0} SECTORES SECUNDARIOS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ПРОЙДИТЕ ВТОРОСТЕПЕННЫЕ СЕКТОРЫ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "CONCLUA {0} SETORES SECUNDÁRIOS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "UKOŃCZ {0}× SEKTOR POBOCZNY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "完了{0}副セクター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 섹터 {0}개 완료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "完成{0}個次級分區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "完成{0}个次要分区",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.Conditions.CompleteSecondarySectors",
+  "internalEnabled": true,
+  "persistentID": 3923959063
+}

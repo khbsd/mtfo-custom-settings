@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Sardinian",
+  "Description": "A language spoken in the Sardinia region of Italy.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sarde",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sardo",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sardisch",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sardo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сардинский",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sardo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Sardyński",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "サルデーニャ語",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "사르디니아어",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "薩丁尼亞文",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "萨丁尼亚语",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Matchmaking.Language.Sardinian",
+  "internalEnabled": true,
+  "persistentID": 401
+}

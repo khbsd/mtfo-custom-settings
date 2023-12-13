@@ -1,0 +1,28 @@
+{
+  "PublicAlarmName": "Class III Scan",
+  "TriggerAlarmOnActivate": false,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": false,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 20.0,
+  "WantedDistanceBetweenPuzzleComponents": 20.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 4
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Small Cluster x3 - No Alarm Stealth",
+  "internalEnabled": true,
+  "persistentID": 77
+}

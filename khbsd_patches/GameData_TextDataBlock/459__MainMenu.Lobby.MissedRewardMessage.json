@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "IF YOU HAD ROOM IN YOUR INVENTORY, YOU WOULD HAVE RECEIVED <color=orange>[{0}]</color> BOOSTER(S) AT THIS MOMENT. BECAUSE YOUR INVENTORY IS FULL, THE REWARD IS <color=red>REVOKED</color>.\n\n<color=red>USE</color> OR <color=red>DISCARD</color> BOOSTERS TO MAKE ROOM IN YOUR INVENTORY BEFORE THE NEXT TIME YOU EXPECT TO RECEIVE A BOOSTER.",
+  "Description": "A text that informs the player that they don't have enough room in their inventory to receive more boosters. Do not alter the RichTExt tags.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "SI VOUS AVIEZ PLUS DE PLACE DANS VOTRE INVENTAIRE, VOUS AURIEZ REÇU UN TOTAL DE <color=orange>[{0}]</color>\u00A0BOOSTER(S). PUISQUE VOTRE INVENTAIRE EST PLEIN, LA RÉCOMPENSE A ÉTÉ <color=red>ANNULÉE</color>.\n\n<color=red>UTILISEZ</color> OU <color=red>JETEZ</color> DES BOOSTERS POUR LIBÉRER DE LA PLACE DANS VOTRE INVENTAIRE LA PROCHAINE FOIS QUE VOUS PENSEZ RECEVOIR UN BOOSTER.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SE AVESSI AVUTO SPAZIO NEL TUO INVENTARIO, ORA AVRESTI RICEVUTO <color=orange>[{0}]</color> POTENZIAMENTO/I. DAL MOMENTO CHE IL TUO INVENTARIO È PIENO, LA RICOMPENSA È <color=red>ANNULLATA</color>.\n\n<color=red>USA</color> O <color=red>SCARTA</color>\u00A0DEI POTENZIAMENTI PER FARE SPAZIO NEL TUO INVENTARIO IN TEMPO PER POTER RICEVERE IL PROSSIMO POTENZIAMENTO.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WENN SIE PLATZ IN IHREM INVENTAR GEHABT HÄTTEN, HÄTTEN SIE IN DIESEM MOMENT <color=orange>[{0}]</color> BOOSTER ERHALTEN. DA IHR INVENTAR VOLL IST, WIRD DIE BELOHNUNG <color=red>WIDERRUFEN</color>.\n\n<color=red>NUTZEN</color> ODER <color=red>ENTFERNEN</color> SIE BOOSTER, UM PLATZ IN IHREM INVENTAR ZU SCHAFFEN, EHE SIE DAS NÄCHSTE MAL ERWARTEN, EINEN BOOSTER ZU ERHALTEN.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SI TUVIERAS ESPACIO EN EL INVENTARIO, HABRÍAS RECIBIDO <color=orange>[{0}]</color> POTENCIADOR(ES). COMO TU INVENTARIO ESTÁ LLENO, LA RECOMPENSA QUEDA <color=red>ANULADA</color>.\n\n<color=red>USA POTENCIADORES</color> O <color=red>ELIMINA</color> ALGUNOS PARA HACER HUECO Y EVITAR QUE VUELVA A OCURRIRTE ESTO.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЕСЛИ БЫ В ИНВЕНТАРЕ БЫЛО МЕСТО, ВЫ ПОЛУЧИЛИ БЫ УСИЛИТЕЛИ: <color=orange>[{0}]</color>. ИНВЕНТАРЬ ПЕРЕПОЛНЕН. НАГРАДА <color=red>АННУЛИРОВАНА</color>.\n\n<color=red>ИСПОЛЬЗУЙТЕ</color> ИЛИ <color=red>УДАЛИТЕ</color> УСИЛИТЕЛИ, ЧТОБЫ ОСВОБОДИТЬ МЕСТО В ИНВЕНТАРЕ И ПОЛУЧИТЬ УСИЛИТЕЛИ В СЛЕДУЮЩИЙ РАЗ.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SE TIVESSE ESPAÇO NO SEU INVENTÁRIO, VOCÊ TERIA RECEBIDO <color=orange>[{0}]</color> IMPULSO(S) AGORA. COMO SEU INVENTÁRIO ESTÁ CHEIO, A RECOMPENSA FOI <color=red>CANCELADA</color>.\n\n<color=red>USE</color> OU <color=red>DESCARTE</color> IMPULSOS PARA ABRIR ESPAÇO NO INVENTÁRIO ANTES DA PRÓXIMA VEZ QUE FOR RECEBER UM IMPULSO.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "JEŚLI MIAŁBYŚ MIEJSCE W SWOIM EKWIPUNKU, OTRZYMAŁBYŚ W TEJ CHWILI <color=orange>[{0}]</color> WZMACNIACZE(-Y). PONIEWAŻ twój ekwipunek jest pełny, NAGRODA ZOSTAJE <color=red>USUNIĘTA</color>.\n\n<color=red>UŻYJ</color> LUB <color=red>ODRZUĆ</color> WZMACNIACZE, ABY ZROBIĆ MIEJSCE W SWOIM EKWIPUNKU, ZANIM PONOWNIE OTRZYMASZ WZMACNIACZ.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "インベントリに空きがあれば、今 <color=orange>[{0}]</color> ブースターを受け取れていた。インベントリに空きがないため、報酬は <color=red>取り消された</color>。\n\n次にブースターを受け取るまでに、ブースターを<color=red>使う</color> か <color=red>捨てる</color> かしてインベントリに空きを作っておこう。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "인벤토리에 여유가 있었다면 지금 부스터 <color=orange>[{0}]</color>개를 받았을 것입니다. 인벤토리가 가득 차서 보상 지급이 <color=red>취소</color>되었습니다.\n\n다음에 부스터를 받기 전에 지금 가진 부스터를 <color=red>사용</color>하거나 <color=red>버려서</color> 인벤토리에 공간을 확보하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "如果物品欄有足夠的空間，此時你會收到<color=orange>[{0}]</color>份強化劑。由於物品欄已滿，獎勵已<color=red>撤銷</color>。\n\n<color=red>使用</color>或<color=red>丟棄</color>強化劑，以在下次收到強化劑之前騰出空間。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "如果你的物品栏还有空间，现在原本可以获得<color=orange>[{0}]</color>份强化剂。由于物品栏已满，奖励<color=red>撤回</color>。\n\n下次如果想要领取强化剂，提前<color=red>使用</color>或<color=red>丢弃</color>强化剂以腾出物品栏空间。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.MissedRewardMessage",
+  "internalEnabled": true,
+  "persistentID": 459
+}

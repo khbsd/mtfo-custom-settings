@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use <color=orange>INIT_TIMED_SEQUENCE</color> command to start writing sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Utilisez la commande <color=orange>INIT_TIMED_SEQUENCE</color> pour démarrer la séquence d'écriture",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare il comando <color=orange>INIT_TIMED_SEQUENCE</color> per avviare la sequenza di scrittura",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Benutzen Sie den Befehl <color=orange>INIT_TIMED_SEQUENCE</color>, um die Schreibsequenz zu initiieren.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa el comando <color=orange>INIT_TIMED_SEQUENCE</color> para iniciar la secuencia escrita.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используйте команду <color=orange>INIT_TIMED_SEQUENCE</color>, чтобы запустить цикл записи.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Usar comando <color=orange>INIT_TIMED_SEQUENCE</color> para começar a sequência de gravação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Użyj polecenia <color=orange>INIT_TIMED_SEQUENCE</color>, aby rozpocząć sekwencję zapisu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>INIT_TIMED_SEQUENCE</color>のコマンドを使用して、書き込みシーケンスを開始しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>INIT_TIMED_SEQUENCE</color> 명령을 사용해 작성 절차 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用<color=orange>INIT_TIMED_SEQUENCE</color>指令開始撰寫序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用<color=orange>INIT_TIMED_SEQUENCE</color>命令开始书写序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.TimedTerminal_Init_R8C1",
+  "internalEnabled": true,
+  "persistentID": 4198859833
+}

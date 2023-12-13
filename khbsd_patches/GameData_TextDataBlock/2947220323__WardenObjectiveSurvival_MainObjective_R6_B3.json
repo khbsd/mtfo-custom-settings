@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Stand by for download from network <color=orange>[SANTONIAN_WIRE_UGC343]</color>, then proceed to extract in [EXTRACTION_ZONE].",
+  "Description": "Don't localize [EXTRACTION_ZONE] and [sys_purge]",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Attendez le téléchargement depuis le réseau <color=orange>[SANTONIAN_WIRE_UGC343]</color>, puis rendez-vous au point d'évacuation [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attendere il download dalla rete <color=orange>[SANTONIAN_WIRE_UGC343]</color>, quindi procedere con l'estrazione in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warten Sie auf den Download aus dem Netzwerk <color=orange>[SANTONIAN_WIRE_UGC343]</color> und begeben Sie sich dann zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Espere la descarga de la red <color=orange>[SANTONIAN_WIRE_UGC343]</color> y continúe con la extracción en [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дождитесь окончания загрузки из сети <color=orange>[SANTONIAN_WIRE_UGC343]</color>. Затем пройдите к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguarde o download da rede <color=orange>[SANTONIAN_WIRE_UGC343]</color>, depois continue a extração na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekuj na pobranie z sieci <color=orange>[SANTONIAN_WIRE_UGC343]</color>, a następnie dokonaj ewakuacji w strefie [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ネットワークからのダウンロードに備え<color=orange>[SANTONIAN_WIRE_UGC343]</color>、[EXTRACTION_ZONE]の脱出口へ進め。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[SANTONIAN_WIRE_UGC343]</color> 네트워크에서 다운로드한 후 [EXTRACTION_ZONE]에서 탈출할 준비를 할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待從網路<color=orange>[SANTONIAN_WIRE_UGC343]</color>下載，然後在[EXTRACTION_ZONE]進行撤離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "等待从网络<color=orange>[SANTONIAN_WIRE_UGC343]</color>下载，然后从[EXTRACTION_ZONE]撤离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "WardenObjectiveSurvival_MainObjective_R6_B3",
+  "internalEnabled": true,
+  "persistentID": 2947220323
+}

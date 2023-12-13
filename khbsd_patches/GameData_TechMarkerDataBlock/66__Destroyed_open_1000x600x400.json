@@ -1,0 +1,93 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        2,
+        1
+      ],
+      [],
+      [],
+      [
+        2
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [],
+      [
+        2,
+        1,
+        0
+      ],
+      [
+        2
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        2,
+        1,
+        0
+      ],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_open_1000x600x400/Destroyed_open_1000x600x400_V01.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_open_1000x600x400/Destroyed_open_1000x600x400_V02.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Destroyed_open_1000x600x400/Destroyed_open_1000x600x400_V03.prefab",
+        "function": 0,
+        "Shard": 11
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 4.0,
+    "RotationSnap": 180,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_Destroyed_open_1000x600x400",
+    "BoundingVolume": 240000.0
+  },
+  "name": "Destroyed_open_1000x600x400",
+  "internalEnabled": true,
+  "persistentID": 66
+}

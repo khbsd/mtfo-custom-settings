@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to <color=orange>Zone 335</color> unlocked by reactor startup sequence",
+  "Description": "Don't localize Zone 335",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Porte vers la <color=orange>ZONE\u00A0335</color> déverrouillée par la séquence de démarrage du réacteur.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per <color=orange>ZONE 335</color> sbloccata da sequenza avvio reattore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu <color=orange>ZONE 335</color> durch Reaktorstartsequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la <color=orange>ZONE 335</color> se ha desbloqueado con una secuencia de arranque del reactor.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Цикл запуска реактора разблокировал дверь в <color=orange>ZONE 335</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a <color=orange>ZONE 335</color> destrancada pela sequência de inicialização do reator",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do <color=orange>strefy 335 [ZONE_335]</color> odblokowane przez sekwencję rozruchu reaktora",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 335</color> へのドアがリアクター始動シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로 시동 절차에 따라 <color=orange>ZONE 335</color> 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往<color=orange>ZONE 335</color>的門已由反應器啟動序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>ZONE 335</color>的门已由反应堆启动序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Reactor_Startup_Waves_4_R6D3_Override.Custom.SubObjective_Intel_4",
+  "internalEnabled": true,
+  "persistentID": 1368
+}

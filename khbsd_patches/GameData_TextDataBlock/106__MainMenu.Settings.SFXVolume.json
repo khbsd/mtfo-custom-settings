@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SFX Volume",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Volume (effets sonores)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Volume SFX",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SFX-Lautstärke",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Volumen de efectos de sonido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Громкость звуковых эффектов",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Volume dos sons",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Głośność efektów",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "SFX音量",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "SFX 볼륨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "音效音量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "特效音量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.SFXVolume",
+  "internalEnabled": true,
+  "persistentID": 106
+}

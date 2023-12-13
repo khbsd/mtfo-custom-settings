@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Go loud!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Faites du bruit\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Fuoco a volontà!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Feuer eröffnen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡A por todas!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Пошумим!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Manda chumbo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ognia!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "派手に行け！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "공격해!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大聲點！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开火！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.GoLoud",
+  "internalEnabled": true,
+  "persistentID": 1193
+}

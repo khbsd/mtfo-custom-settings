@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warning! Regenerating Biomass detected",
+  "Description": "A warning for players to understand the threat of the respawning enemies",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alerte\u00A0! Biomasse en cours de régénération détectée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione! Rilevata rigenerazione biomassa.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG! Regenerierende Biomasse entdeckt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Advertencia! Regeneración de biomasa detectada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание! Зафиксирована регенерация биосигнатур.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso! Biomassa em regeneração detectada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie! Wykryto regenerującą się biomasę",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告！このゾーン内に再生中の生体反応を検知",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고! 바이오매스 재생 감지됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告！偵測到重新生成的生物質",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告！检测到重新生成的生物质",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7B3",
+  "internalEnabled": true,
+  "persistentID": 374276142
+}

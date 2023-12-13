@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">… My lungs… get me out of here!\n>… We can’t clear this fog without power!\n>… <size=200%><color=red>Everyone ready?</color></size> Okay, grab the power ce—",
+  "Description": "A text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": ">… Mes poumons... Sortez-moi de là\u00A0!\n>… On ne pourra pas disperser le brouillard sans électricité\u00A0!\n>… <size=200%><color=red>Tout le monde est prêt\u00A0?</color></size> Bon, prenez la cellu...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> I miei polmoni... Portami fuori di qui!\n> Non possiamo eliminare questa nebbia senza alimentazione!\n> <size=200%><color=red>Tutti pronti?</color></size> Ok, prendete la cella di ener...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">… Meine Lunge … hol mich hier raus!\n>… Ohne Strom können wir den Nebel nicht entfernen!\n>… <size=200%><color=red>Alle bereit?</color></size> Okay, schnappt euch das Stromka–",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">... Los pulmones... ¡Sacadme de aquí!\n>... ¡Sin corriente, no podemos despejar la niebla!\n>... <size=200%><color=red>¿Todo el mundo a punto?</color></size> Vale, coged la célula de ene...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">... Мои легкие... Выпустите меня отсюда!\n>... Без электричества нам с дымом не совладать!\n>... <size=200%><color=red>Все готовы?</color></size> Так, берем акку...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">… Meus pulmões… Me tirem daqui!\n>… Não tem como dispersar a névoa sem energia!\n>… <size=200%><color=red>Todos prontos?</color></size> Peguem o energ...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">… Moje płuca… wyciągnijcie mnie stąd!\n>… Nie pozbędziemy się tej mgły bez zasilania!\n>… <size=200%><color=red>Wszyscy gotowi?</color></size> Dobra, idźcie po ogniwa za…",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">... 肺が... ここから出してくれ！\n>... 電力がないと霧を払えない！\n>...\u00A0<size=200%><color=red>みんな、準備はいいか？</color></size> よし、パワーセルを—",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">… 숨이… 여기서 꺼내줘!\n>… 전력 없인 안개를 제거할 수 없다!\n>… <size=200%><color=red>다들 준비됐나?</color></size> 좋아. 손잡이를—",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">…我的肺……快帶我離開！\n>…沒電力就沒辦法驅散這片霧氣！\n>…<size=200%><color=red>大家都準備好了嗎？</color></size>好，去拿那個電……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">… 我的肺……带我离开这里！\n>… 没有电的话，我们清除不了这片雾霾！\n>… <size=200%><color=red>大家都准备好了吗？</color></size> 好的，拿上电——",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R7_C2_2",
+  "internalEnabled": true,
+  "persistentID": 3945516749
+}

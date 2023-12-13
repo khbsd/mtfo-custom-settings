@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Plus",
+  "Description": "A gamepad button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Plus",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Più",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Plus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Más",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "+",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mais",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk Plus",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プラス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "+",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "加",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "加号",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.Plus",
+  "internalEnabled": true,
+  "persistentID": 1004
+}

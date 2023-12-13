@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "serious",
+  "Description": "A summary of the player's medical status. I.e. \"Medical status: serious.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "grave",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grave",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ernst",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Grave",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "тяжелое",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "sério",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "poważny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "深刻",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "심각",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嚴重",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "严峻",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MedicalStatusSerious",
+  "internalEnabled": true,
+  "persistentID": 908
+}

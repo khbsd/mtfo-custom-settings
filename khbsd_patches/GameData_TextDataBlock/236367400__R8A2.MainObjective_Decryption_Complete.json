@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Decryption keys downloaded. Proceed to <color=orange>ZONE 68</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Clés de décryptage téléchargées. Rendez-vous dans la <color=orange>ZONE\u00A068</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chiavi di decrittazione scaricate. Procedere a <color=orange>ZONE 68</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Dechiffrierschlüssel heruntergeladen\u00A0– begeben Sie sich zu <color=orange>ZONE 68</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Claves de descifrado descargadas. Continúa hasta la <color=orange>ZONE 68</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ключи шифрования загружены. Направляйтесь в <color=orange>ZONE 68</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chaves de decodificação baixadas. Prosseguir para a <color=orange>ZONE 68</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klucze deszyfrujące pobrane. Przejdź do <color=orange>strefy 68 [ZONE_68]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "解読キーダウンロード完了。<color=orange>ZONE 68</color>へ進め",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "암호 키를 다운로드했습니다. <color=orange>ZONE 68</color>로 이동하십시오",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解碼密鑰已下載。前往<color=orange>ZONE 68</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解密密钥已下载。前往<color=orange>ZONE 68</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "R8A2.MainObjective_Decryption_Complete",
+  "internalEnabled": true,
+  "persistentID": 236367400
+}

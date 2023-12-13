@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Voice Chat - Push to talk",
+  "Description": "Control key binding/mapping. This is the key you push in order to talk to teammates via voice chat.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Chat vocal - PTT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Chat vocale: push to talk",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sprachchat – Push-to-Talk",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Chat de voz (pulsar para hablar)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Голосовой <nobr>чат —</nobr> режим рации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Chat de voz — apertar para falar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Czat głosowy – Naciśnij, aby mówić",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ボイスチャット - 通話ボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "음성 채팅 - 눌러서 말하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "語音聊天 - 隨按即說",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "语音聊天 - 按下说话",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.VoiceChatPushToTalk",
+  "internalEnabled": true,
+  "persistentID": 162
+}

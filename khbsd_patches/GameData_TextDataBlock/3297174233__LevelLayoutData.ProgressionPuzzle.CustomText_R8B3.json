@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>://ERROR: Door in emergency lockdown. Door can be unlocked from <color=orange>ZONE 114</color>.</color>",
+  "Description": "Don't localize ZONE 114.\nA text string that appears on screen when the player attempts to open a door which is locked due to an emergency lockdown. Don't alter the RichText tags.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "<color=red>://ERREUR\u00A0: Verrouillage d'urgence activé. La porte peut être déverrouillée depuis la <color=orange>ZONE\u00A0114</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>://ERRORE: porta in blocco d'emergenza. Può essere sbloccata dalla <color=orange>ZONE 114</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>://FEHLER: Tür in Notverriegelung. Die Tür kann von <color=orange>ZONE\u00A0114</color> aus entriegelt werden.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>://ERROR: Puerta en cierre de emergencia. La puerta se puede desbloquear desde la <color=orange>ZONE 114</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>://ОШИБКА. Действует режим изоляции. Для разблокировки отправляйтесь в <color=orange>ZONE 114</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>://ERRO: Porta em confinamento de emergência. A porta pode ser destrancada na <color=orange>ZONE 114</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>://BŁĄD: Blokada awaryjna drzwi. Drzwi można odblokować w <color=orange>strefie 114 [ZONE_114]</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": " <color=red>://エラー：ドアは緊急封鎖中。 <color=orange>ZONE 114</color>でロック解除可能。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>://오류: 문이 비상 폐쇄 상태입니다. <color=orange>ZONE 114에서 문을 개방할 수 있습니다</color>.</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>://錯誤：門處於緊急封鎖狀態。可以從<color=orange>ZONE 114</color>解鎖門。</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>://错误：门处于紧急封锁状态。可从<color=orange>ZONE 114</color>解锁。</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8B3",
+  "internalEnabled": true,
+  "persistentID": 3297174233
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "-> Advanced",
+  "Description": "Short title of a dialog option that will show more advanced dialog options the player can choose to speak.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "- > Avancé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "-> Avanzate",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "-> Erweitert",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "-> Avanzado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "-> Дополнительно",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "-> Avançado",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "->Zaawansowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "-> 詳細",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "-> 고급",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "-> 進階",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "-> 高级",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.ToggleCommsAdvancedMode",
+  "internalEnabled": true,
+  "persistentID": 1425
+}

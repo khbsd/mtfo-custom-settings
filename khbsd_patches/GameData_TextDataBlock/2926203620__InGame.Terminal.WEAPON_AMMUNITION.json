@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WEAPON AMMUNITION",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "MUNITIONS D'ARME",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "MUNIZIONI PER ARMI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WAFFENMUNITION",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "MUNICIÓN DE ARMAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "БОЕПРИПАСЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "MUNIÇÃO DE ARMAS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "AMUNICJA DO BRONI",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器弾薬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기 탄약",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "武器彈藥",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "武器弹药",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.WEAPON_AMMUNITION",
+  "internalEnabled": true,
+  "persistentID": 2926203620
+}

@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV Surge Alarm",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 21,
+  "SurvivalWavePopulation": 1,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 15.0,
+  "WantedDistanceBetweenPuzzleComponents": 20.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 8
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Single Far Separated x4 - Alarm Surge",
+  "internalEnabled": true,
+  "persistentID": 40
+}

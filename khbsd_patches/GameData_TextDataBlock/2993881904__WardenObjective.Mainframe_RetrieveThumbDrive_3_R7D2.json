@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Retreive Trojan Thumbdrive from Zone 1",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez la clé de cheval de Troie dans la zone\u00A01.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Recuperare Trojan Thumbdrive da Zone 1",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Holen Sie den Trojaner-Thumbdrive aus Zone 1.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recupera la unidad extraíble del troyano en la Zone 1.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Заберите носитель с вирусом из Zone 1.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Recupere o pendrive com vírus da Zone 1",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zdobądź dysk przenośny Trojan ze strefy 1",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 1からトロイのサムドライブを回収",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 1에서 트로이 썸 드라이브 회수",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "從ZONE 1擷取特洛伊木馬隨身碟",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "从ZONE 1找回木马拇指驱动器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjective.Mainframe_RetrieveThumbDrive_3_R7D2",
+  "internalEnabled": true,
+  "persistentID": 2993881904
+}

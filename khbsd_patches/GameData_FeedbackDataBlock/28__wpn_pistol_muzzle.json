@@ -1,0 +1,48 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/MuzzleFlash/RandomSmoke/MuzzleSmoke_ADD_1",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/MuzzleFlash/RandomSmoke/MuzzleSmoke_ADD_2",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/MuzzleFlash/RandomSmoke/Muzzle_spark_ADD_1",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/Tracer/E_TracerAssultRifle",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "wpn_pistol_muzzle",
+  "internalEnabled": true,
+  "persistentID": 28
+}

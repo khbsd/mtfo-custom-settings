@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Stick Button",
+  "Description": "A gamepad input.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Stick droit (bouton)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pressione levetta destra",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechter-Stick-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsar stick derecho",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая кнопка мини-джойстика",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Botão direcional direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przycisk prawego drążka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右スティックボタン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "R 스틱 버튼",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右搖桿按鈕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右摇杆按钮",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Gamepad.RightStickButton",
+  "internalEnabled": true,
+  "persistentID": 982
+}

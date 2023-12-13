@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "[VOICE]\r\n6:Security doors require a bioscan. Pull the lever to commence the scan.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "[VOIX]\r\n6\u00A0: Les portes de sécurité nécessitent un bioscan. Actionnez la manette pour démarrer l’analyse.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "[VOCE]\r\n6:Le porte di sicurezza richiedono una bio-scansione. Tirare la leva per iniziare la scansione.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "[STIMME]\r\n6:Sicherheitstüren erfordern einen Bioscan. Ziehen Sie am Hebel, um den Scan zu starten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "[VOZ]\r\n6:Las puertas de seguridad requieren un bioescáner. Tira de la palanca para realizarlo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "[ГОЛОС]\r\n6: Защищенные двери оснащены биосканером. Потяните рычаг, чтобы начать сканирование.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "[VOZ]\r\n6:Portas de segurança requerem um bioescâner. Puxe a alavanca para começar a escanear.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "[GŁOS]\r\n6:Drzwi z zabezpieczeniami wymagają bioskanu. Pociągnij dźwignię, aby rozpocząć skanowanie.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[声]\r\n6:セキュリティドアにはバイオスキャンが必要。レバーを引いてスキャンを開始せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[음성]\r\n6: 보안 문은 바이오스캔이 필요합니다. 레버를 당겨 스캔을 시작하십시오.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "[聲音]\r\n6：安全門需要生物掃描才能通行。拉動手柄開始掃描。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[语音]\r\n6:安全门需要进行生物扫描。拉动控制杆开始扫描。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Play_tutorial_06",
+  "internalEnabled": true,
+  "persistentID": 809021239
+}

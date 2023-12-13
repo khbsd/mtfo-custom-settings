@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Error. Power redirection denied. Door unpowered, back-up cell required",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Erreur. Redirection de l'énergie refusée. Porte hors tension, pile de secours requise.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Errore. Deviazione alimentazione negata. Porta non alimentata, richiesta cella di backup.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "FEHLER. Energieumleitung verweigert. Tür ohne Strom, Reservezelle erforderlich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Error. Redirección de energía denegada. Puerta sin alimentación, se necesita una célula de apoyo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ошибка. Перенаправление питания отклонено. Дверь обесточена, требуется резервная батарея.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Erro. Redirecionamento elétrico negado. Porta sem energia; célula reserva necessária",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Błąd. Odmówiono przekierowania zasilania. Brak zasilania drzwi, wymagane ogniwo zapasowe",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エラー。送電先変更が拒否。ドア電源喪失、予備セルが必要",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오류. 전력 경로 재설정 거부됨. 문 전력 부족. 백업 셀 필요",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "錯誤。電源重新定向遭拒絕。門未通電，需要備份電池[CELL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "错误。电源重定向被拒绝。门未通电，需要备份电池[CELL]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjective.Mainframe_Update_5_R7D2",
+  "internalEnabled": true,
+  "persistentID": 2754472232
+}

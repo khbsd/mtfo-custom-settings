@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=orange>Balanced</color>\nMedium Range\nHigh Damage",
+  "Description": "A short description of what advantages melee weapons have, and how they're used. I.e. they can be used to kill enemies silently (as opposed to firearms which are loud), it requires you to be close to the target, and you can charge up the attack to make it more powerful.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "<color=orange>Équilibré</color>\nMoyenne portée\nDégâts élevés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=orange>Bilanciato</color>\nGittata media\nDanni elevati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=orange>Ausbalanciert</color>\nMittlere Reichweite\nHoher Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=orange>Equilibrada</color>\nMedio alcance\nMucho daño",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бесшумность\nБлижняя дистанция\nЕсть усиленный удар",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=orange>Equilibrado</color>\nMédio alcance\nAlto dano",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=orange>Wszechstronny</color>\nŚredni dystans\nDuże obrażenia",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>バランスが良い</color>\n中距離\n高ダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>균형 잡힘</color>\n중거리\n높은 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>平衡</color>\n中程\n高傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>均衡</color>\n中程\n高伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GearCategory.MeleeDescription_Sledgehammer",
+  "internalEnabled": true,
+  "persistentID": 822
+}

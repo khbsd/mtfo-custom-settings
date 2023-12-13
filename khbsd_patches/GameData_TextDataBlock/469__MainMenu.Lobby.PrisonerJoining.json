@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "PRISONER\nJOINING",
+  "Description": "This text is shown in the lobby screen, in an empty player slot, to indicate that a player is joining and will soon appear in that slot.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "PRISONNIER\nEN ATTENTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PRIGIONIERO\nIN ARRIVO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "GEFANGENER\nTRITT BEI",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ENTRA UN\nPRISIONERO",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАКЛЮЧЕННЫЙ\nПРИСОЕДИНЯЕТСЯ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PRISIONEIRO\nENTRANDO",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "DOŁĄCZA\nWIĘZIEŃ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人\n参加中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자\n참가 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "囚犯\n加入中",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "囚犯\n正在加入",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PrisonerJoining",
+  "internalEnabled": true,
+  "persistentID": 469
+}

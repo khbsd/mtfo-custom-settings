@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "://ERROR --- Critical power failure!",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "://ERREUR\u00A0: --- Panne de courant critique\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "://ERRORE --- Mancanza energia critica!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "://FEHLER – Kritischer Stromausfall!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "://ERROR --- ¡Fallo eléctrico crítico!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "://ОШИБКА. Критический сбой электросети!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "://ERRO --- Falha de energia crítica!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "://BŁĄD – krytyczna awaria zasilania!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "://エラー --- 危機的停電！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "://오류 --- 치명적 전력 결함!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "://錯誤 --- 嚴重電源故障！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "://错误 --- 关键电源故障！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R5C3_L2.ActivateHSU_Intel_2",
+  "internalEnabled": true,
+  "persistentID": 3930330602
+}

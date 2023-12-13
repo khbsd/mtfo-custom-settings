@@ -1,0 +1,12 @@
+{
+  "PublicName": "Warden Artifact: Aggressive",
+  "ArtifactCategory": 2,
+  "PrefabPath": "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_Medium_Artifact_a.prefab",
+  "PrefabPaths": [
+    "Assets/AssetPrefabs/Items/Commodities/Artifacts/pickup_artifact_b Variant.prefab"
+  ],
+  "TagsID": 2,
+  "name": "Rare_Anywhere",
+  "internalEnabled": true,
+  "persistentID": 13
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "INFECTION : {0}",
+  "Description": "Info on you HUD when you have infection above 10%. \n{0} represents a percentage value between 10% - 100%",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "INFECTION\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "INFEZIONE: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "INFEKTION: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "INFECCIÓN: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ИНФИЦИРОВАНИЕ: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "INFECÇÃO: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZAKAŻENIE: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "感染： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "感染：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "感染：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "InGame.PlayerStatus.InfectionLevel_X",
+  "internalEnabled": true,
+  "persistentID": 3229812851
+}

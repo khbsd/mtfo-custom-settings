@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Surplus apparel provided for improved Expedition sector clearance:\n\n{0}",
+  "Description": "A formal, cold and almost robotic text that informs the player that the last expedition/mission rewarded them with an item with the name  {0} ",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Excédent de vêtements fournis pour avoir terminé un secteur d'expédition rapidement\u00A0:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Abbigliamento eccedente fornito per il migliore completamento del settore Spedizione:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Überschüssige Kleidung erhöht die Erfolgschance bei der Räumung von Expeditionssektoren:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Excedente de artículos obtenidos por mejorar la limpieza del sector durante la expedición:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дополнительная экипировка для более эффективной зачистки сектора в экспедиции:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Traje excedente fornecido para melhoria na conclusão da expedição de setor: \n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostarczono nadwyżkę sprzętu w celu usprawnionego oczyszczania sektorów przez ekspedycję:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エクスペディションのセクター探索を助ける余剰外装を付与した：\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "섹터 탐사 완료 지원을 위해 여분의 의복 지급됨:\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "由於改善遠征分區清空工作提供多餘的服裝：\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鉴于任务分区清理进展，提供额外服装：\n\n{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 8,
+  "ImportVersion": 8,
+  "name": "MainMenu.Lobby.VanityItemRewardMessage_X_Roleplayed",
+  "internalEnabled": true,
+  "persistentID": 903050506
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Machine Gun Damage",
+  "Description": "I.e. how much damage you can deal with a machine gun.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Dégâts de mitrailleuse",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Danno da mitragliatrice",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maschinengewehr-Schaden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Daño de metralleta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Урон (пулемет)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dano de metralhadora",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Obrażenia od karabinu maszynowego",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マシンガンダメージ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "기관총 대미지",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "機槍傷害",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "机关枪伤害",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.MachineGunDamageName",
+  "internalEnabled": true,
+  "persistentID": 563
+}

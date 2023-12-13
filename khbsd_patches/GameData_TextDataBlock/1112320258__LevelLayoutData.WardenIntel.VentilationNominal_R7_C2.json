@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Ventilation Systems nominal. All Alarms Deactivated.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Systèmes de ventilation nominaux. Alarmes désactivées.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sistemi di ventilazione nominali. Tutti gli allarmi disattivati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Belüftungssysteme nominal. Alle Alarme deaktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sistemas de ventilación funcionales. Todas las alarmas desactivadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Системы вентиляции работают штатно. Сигнализация полностью отключена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sistemas de ventilação mínimos. Todos os alarmes desativados.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Systemy wentylacyjne nominalne. Wszystkie alarmy wyłączone.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "換気システム稼働。全警報を解除。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "환기 시스템 기능하지 않음. 모든 경보 꺼짐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通風系統無效。所有警報已停用。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通风系统无效。所有警报已关闭。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "LevelLayoutData.WardenIntel.VentilationNominal_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1112320258
+}

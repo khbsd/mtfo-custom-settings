@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables automatic reloading of empty weapons when possible.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Recharge automatiquement les armes vides quand cela est possible.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente la ricarica automatica delle armi scariche quando possibile.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert das automatische Nachladen von leeren Waffen, wenn möglich.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa la recarga automáticamente de armas vacías cuando sea posible.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Автоматическая перезарядка пустого магазина.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa a recarga automática das armas vazias quando possível.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Gdy to możliwe, umożliwia automatyczne przeładowanie broni po opróżnieniu magazynku.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "可能な場合、撃ち尽くした武器を自動的にリロードする。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "가능할 때 탄약이 빈 무기를 자동 장전합니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在可能的情況下啟用空武器的自動重新裝填。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "可行时自动给空武器装弹。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.AutoReload",
+  "internalEnabled": true,
+  "persistentID": 2474371331
+}

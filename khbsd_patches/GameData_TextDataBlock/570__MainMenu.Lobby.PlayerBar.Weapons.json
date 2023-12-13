@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WEAPONS",
+  "Description": "A headline above a list of firearms.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "ARMES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ARMI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WAFFEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ARMAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОРУЖИЕ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ARMAS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "BROŃ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "武器",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "武器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "武器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Weapons",
+  "internalEnabled": true,
+  "persistentID": 570
+}

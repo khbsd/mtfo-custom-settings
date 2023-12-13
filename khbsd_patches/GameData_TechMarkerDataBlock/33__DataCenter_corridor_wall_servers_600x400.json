@@ -1,0 +1,169 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        11
+      ],
+      [
+        2,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      [],
+      [],
+      [],
+      [
+        1,
+        2,
+        3,
+        9,
+        4,
+        5,
+        7,
+        8
+      ],
+      [
+        1,
+        2,
+        3,
+        9,
+        0,
+        4,
+        5,
+        7,
+        8
+      ],
+      [],
+      [
+        1,
+        2,
+        3,
+        9,
+        4,
+        5,
+        7,
+        8
+      ],
+      [
+        1,
+        2,
+        3,
+        9,
+        4,
+        5,
+        7,
+        8
+      ],
+      [
+        1,
+        2,
+        3,
+        9,
+        4,
+        5,
+        7,
+        8
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V01.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 0.2,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V02.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 0.2,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V03.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 0.2,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V04.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V05.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 0.2,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V06.prefab",
+        "function": 13,
+        "Shard": 2
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V07.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V08.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V09.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V10.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_V11.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1E-06,
+        "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/DataCenter_corridor_wall_servers_600x400/DataCenter_corridor_wall_servers_600x400_bulk_V01.prefab",
+        "function": 0,
+        "Shard": 2
+      }
+    ],
+    "AssetBundleName": 3,
+    "Group": 9,
+    "FunctionPotential": 3.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Tech/M_DataCenter_corridor_wall_600x400",
+    "BoundingVolume": 0.0
+  },
+  "name": "DataCenter_corridor_wall_servers_600x400",
+  "internalEnabled": true,
+  "persistentID": 33
+}

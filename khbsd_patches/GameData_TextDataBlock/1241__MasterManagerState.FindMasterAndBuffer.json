@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "FindMasterAndBuffer",
+  "Description": "Network lingo. The different Master connection states used in the migration process. MasterManagerState.Migrating_X_Y text.",
+  "CharacterMetaData": 3,
+  "French": {
+    "Translation": "TrouverHôteEtTampon",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trova master e buffer",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "MasterUndBufferFinden",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Buscar maestro y búfer",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поиск организатора и буфера",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "EncontrarMestreEMemória",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "ZnajdźPołączenieGłówneiBufor",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マスターとバッファーを発見",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마스터및버퍼찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找主機與緩衝區",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "寻找主机和缓冲",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.FindMasterAndBuffer",
+  "internalEnabled": true,
+  "persistentID": 1241
+}

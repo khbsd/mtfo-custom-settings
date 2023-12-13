@@ -1,0 +1,53 @@
+{
+  "publicName": "Glow Stick Orange",
+  "LocalizedName": 842921741,
+  "terminalItemShortName": "",
+  "terminalItemLongName": "",
+  "addSerialNumberToName": true,
+  "registerInTerminalSystem": true,
+  "DimensionWarpType": 0,
+  "Shard": 3,
+  "inventorySlot": 5,
+  "FPSSettings": 24,
+  "crosshair": 0,
+  "HUDIcon": "",
+  "ShowCrosshairWhenAiming": true,
+  "GUIShowAmmoClip": false,
+  "GUIShowAmmoPack": true,
+  "GUIShowAmmoTotalRel": true,
+  "GUIShowAmmoInfinite": false,
+  "canMoveQuick": true,
+  "BlockToolAmmoRefill": false,
+  "ClassAmmoCostFactor": 1.0,
+  "ConsumableAmmoMin": 12,
+  "ConsumableAmmoMax": 12,
+  "audioEventEquip": "foley_equip_generic",
+  "FirstPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/General/ThrowableFirstPerson.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/Glowstick/Consumable_GlowStick_Halloween.prefab"
+  ],
+  "ThirdPersonPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Glowstick/Consumable_GlowStick_third_Halloween.prefab"
+  ],
+  "PickupPrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Glowstick/Consumable_GlowStick_Pickup_Halloween.prefab"
+  ],
+  "InstancePrefabs": [
+    "Assets/AssetPrefabs/Items/Consumables/Glowstick/Consumable_GlowStick_Instance_Halloween.prefab",
+    "Assets/AssetPrefabs/Items/Consumables/Glowstick/Consumable_GlowStick_lit_Halloween.prefab"
+  ],
+  "EquipTransitionTime": 1.0,
+  "AimTransitionTime": 0.5,
+  "FPSArmsAnim": "",
+  "ThirdPersonFullbodyMovementSet": 0,
+  "LeftHandGripAlign": "LeftHand",
+  "LeftHandGripAnim": "GlowStick",
+  "RightHandGripAlign": "RightHand",
+  "RightHandGripAnim": "GlowStick",
+  "SightLookAlign": "",
+  "MuzzleAlign": "",
+  "BackpackAlign": "",
+  "name": "CONSUMABLE_GlowStick_Halloween",
+  "internalEnabled": true,
+  "persistentID": 167
+}

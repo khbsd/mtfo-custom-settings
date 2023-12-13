@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lots of monsters here!",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Cet endroit grouille de monstres\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Un sacco di mostri qui!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Jede Menge Monster hier!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Aquí hay un montón de monstruos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сколько же тут монстров!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bastante monstros aqui!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mrowie potworów, tutaj!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バケモノが大量にいる！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 괴물이 많다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有很多怪物！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "这有很多怪物！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.LotsOfMonstersHere",
+  "internalEnabled": true,
+  "persistentID": 1218
+}

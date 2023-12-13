@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nHigh damage\nShort range",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nDégâts élevés\nCourte portée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nDanni elevati\nGittata breve",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nHoher Schaden\nKurze Reichweite",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nMucho daño\nCorto alcance",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nБольшой урон\nМалая дальность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nAlto dano\nCurto alcance",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W pełni automatyczna\nDuże obrażenia\nKrótki zasięg",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\n高ダメージ\n近距離",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n높은 대미지\n단거리",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n高傷害\n短程",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n高伤害\n近程",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Shotgun.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 758
+}

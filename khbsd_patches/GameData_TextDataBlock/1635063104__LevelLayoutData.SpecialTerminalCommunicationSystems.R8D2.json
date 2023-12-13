@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Monitor audio in Drainage Central Chamber",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Écoutez ce qui se passe dans la chambre d'évacuation centrale.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Monitorare audio in camera centrale di drenaggio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Überwachen Sie den Ton in der zentralen Entwässerungskammer.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Monitorear el sonido en la sala central de drenaje",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Контроль звука в центральной дренажной камере",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Monitorar áudio na Câmara Central de Drenagem",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Monitoruj dźwięk w centralnej komorze drenażowej",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "排水中央室で音声をモニターしろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "배수 중앙 챔버 오디오 모니터링",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "監聽中央排水室的音訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "监听中央排水室的音频",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.SpecialTerminalCommunicationSystems.R8D2",
+  "internalEnabled": true,
+  "persistentID": 1635063104
+}

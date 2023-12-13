@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Keypad Enter",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrée (pavé numérique)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Invio tastierino num.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ziffernblock-Eingabetaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entrar (teclado numérico)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Enter (цифровая клавиатура)",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Keypad Enter",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Klawisz Enter",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "キーパッドエンター",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "키패드 Enter",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "數字鍵盤Enter",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "小键盘Enter键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.KeypadEnter",
+  "internalEnabled": true,
+  "persistentID": 235
+}

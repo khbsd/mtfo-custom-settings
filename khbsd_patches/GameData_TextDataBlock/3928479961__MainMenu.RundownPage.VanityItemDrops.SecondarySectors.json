@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "SECONDARY SECTORS:",
+  "Description": "The sectors which have a secondary objective level.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "SECTEURS SECONDAIRES\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "SETTORI SECONDARI:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SEKUNDÄRSEKTOREN:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SECTORES SECUNDARIOS:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВТОРОСТЕПЕННЫЕ СЕКТОРЫ:",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SETORES SECUNDÁRIOS:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "SEKTORY POBOCZNE:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "副セクター：",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보조 섹터:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "次級分區：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "次要分区：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.VanityItemDrops.SecondarySectors",
+  "internalEnabled": true,
+  "persistentID": 3928479961
+}

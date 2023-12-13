@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//: open external connection :W/",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "//: ouvrir une connexion externe :W/",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//: apri connessione esterna :W/",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//: Externe Verbindung öffnen :W/",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//: abrir conexión externa :W/",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//: открыть внешнее подключение :W/",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//: conexão externa aberta :W/",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//: otwórz połączenie zewnętrzne :W/",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//: 外部接続を開く :W/",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//: 외부 연결 개방 :W/",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//：打開外部連線：W/",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//：打开外部连接：W/",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Open_external_connection",
+  "internalEnabled": true,
+  "persistentID": 2023033400
+}

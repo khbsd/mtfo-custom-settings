@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<color=red>Error type 512.11</color>\\n<color=red>Audio buffer size exceeded</color>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<color=red>Type d'erreur 512.11</color>\\n<color=red>Taille du tampon du fichier audio dépassée.</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<color=red>Tipo di errore 512.11</color>\\n<color=red>Superate dimensioni del buffer audio</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<color=red>Fehlertyp 512.11</color>\\n<color=red>Größe des Audiopuffers überschritten.</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<color=red>Tipo de error 512.11</color>\\n<color=red>Tamaño del búfer de audio superado</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<color=red>Ошибка: тип 512.11</color>\\n<color=red>Аудиобуфер переполнен.</color>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<color=red>Erro tipo 512.11</color>\\n<color=red>Tamanho de arquivamento de áudio excedido</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<color=red>Typ błędu 512.11</color>\\n<color=red>Przekroczono rozmiar bufora dźwięku</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=red>エラータイプ512.11</color>\\n<color=red>オーディオバッファーサイズ超過。</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=red>오류 유형 512.11</color>\\n<color=red>오디오 버퍼 크기 초과</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=red>錯誤類型512.11</color>\\n<color=red>音訊緩衝大小超出限制</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=red>错误类型512.11</color>\\n<color=red>音频缓存大小超出限制</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.Error_Audio_buffer_size_exceeded",
+  "internalEnabled": true,
+  "persistentID": 389013728
+}

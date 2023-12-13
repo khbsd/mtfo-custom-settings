@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Use information in the environment to find <color=orange>ZONE 20</color> ",
+  "Description": "Don't localize ZONE 20.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Utilisez les informations alentour pour trouver la <color=orange>ZONE\u00A020</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Utilizzare le informazioni ambientali per trovare la <color=orange>ZONE 20</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nutzen Sie Informationen in der Umgebung, um <color=orange>ZONE 20</color> zu finden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Usa información del entorno para encontrar la <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Осмотрите обстановку и найдите <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use as informações no ambiente para encontrar a <color=orange>ZONE 20</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Skorzystaj z informacji środowiskowych, aby znaleźć <color=orange>strefę 20 [ZONE_20]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "周囲の情報を手掛かりに <color=orange>ZONE 20</color>を見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "주변의 정보를 이용하여 <color=orange>ZONE 20</color> 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "使用環境中的資訊尋找<color=orange>ZONE 20</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "利用环境中的信息找到<color=orange>ZONE 20</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.GoToZoneHelp",
+  "internalEnabled": true,
+  "persistentID": 1051
+}

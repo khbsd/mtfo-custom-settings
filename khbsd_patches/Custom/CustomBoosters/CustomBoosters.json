@@ -1,0 +1,263 @@
+{
+  "UseCustomData": false,
+  "CustomBoosters": [
+    {
+      "PublicName": "Yummy infection in my tummy",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "InfectionResistance",
+          "PublicShortName": "YUM-TUM",
+          "PublicName": "Eat the hell",
+          "Description": "Subject will eat more infecto bits.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "Health",
+          "Value": 1.99
+        },
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "R_Egg_C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is engorged.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "body heat heals",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "RegenerationSpeed",
+          "PublicShortName": "Reg-S",
+          "PublicName": "Regen. speed",
+          "Description": "Subject will regenerate health faster.",
+          "DescriptionNegative": "Subject will regenerate health slower.",
+          "EffectCategory": "Health",
+          "Value": 1.6
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Enemy Proximity",
+          "Description": "Be within 7m of a human."
+        }
+      ]
+    },
+    {
+      "PublicName": "ooo i love loads",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "GlueEfficiency",
+          "PublicShortName": "Cum-pee",
+          "PublicName": "ooo i love big loads",
+          "Description": "Subject will cum more Cum-foam loads from their Cum-foam ammo.",
+          "DescriptionNegative": "Subject will render less Cum-foam blobs from their Cum-foam ammo.",
+          "EffectCategory": "Tool",
+          "Value": 2
+        },
+        {
+          "Effect": "GlueStrength",
+          "PublicShortName": "Cum-see",
+          "PublicName": "ooo i love strong loads",
+          "Description": "Subject will cum more durable Cum-foam loads from their Cum-foam ammo.",
+          "DescriptionNegative": "Subject will render less Cum-foam blobs from their Cum-foam ammo.",
+          "EffectCategory": "Tool",
+          "Value": 2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "Trip-o Mine-o",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "TripMineDamage",
+          "PublicShortName": "Trp-D",
+          "PublicName": "tripe'd",
+          "Description": "Trip mine placed by Subject will deal more damage.",
+          "DescriptionNegative": "Trip mine placed by Subject will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.5
+        },
+        {
+          "Effect": "BioscanSpeed",
+          "PublicShortName": "Bio-S",
+          "PublicName": "Bioscan speed",
+          "Description": "Subject will make bioscans process speed faster.",
+          "DescriptionNegative": "Subject will make bioscans process speed slower.",
+          "EffectCategory": "ProcessingSpeed",
+          "Value": 1.18
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "Nun Damage",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "StandardWeaponDamage",
+          "PublicShortName": "StW-D",
+          "PublicName": "Main damage",
+          "Description": "Subject will deal more damage with their main weapnun.",
+          "DescriptionNegative": "Subject will deal less damage with their main weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.2
+        },
+        {
+          "Effect": "SpecialWeaponDamage",
+          "PublicShortName": "SpW-D",
+          "PublicName": "Special damage",
+          "Description": "Subject will deal more damage with their special weapnun.",
+          "DescriptionNegative": "Subject will deal less damage with their special weapon.",
+          "EffectCategory": "Damage",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "Main Damage",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "SentryGunSpeed",
+          "PublicShortName": "SGu-S",
+          "PublicName": "Sentry CPU speen",
+          "Description": "Subject will overcock its sentry nun, giving it increased dicktection, rotation and firing speen.",
+          "DescriptionNegative": "Subject will deploy sentry guns with decreased detection, rotation and firing speed.",
+          "EffectCategory": "Tool",
+          "Value": 1.4
+        },
+        {
+          "Effect": "SentryGunDamage",
+          "PublicShortName": "SGu-D",
+          "PublicName": "Sentry damage",
+          "Description": "Subject\u0027s sentry nun will deal more damage.",
+          "DescriptionNegative": "Subject\u0027s sentry gun will deal less damage.",
+          "EffectCategory": "Tool",
+          "Value": 1.4
+        },
+        {
+          "Effect": "SentryGunShortRangeDamage",
+          "PublicShortName": "SGu-SR",
+          "PublicName": "SR sentry damage",
+          "Description": "Sentry nuns placed by Subject will deal more damage at short mange.",
+          "DescriptionNegative": "Sentry guns placed by Subject will deal less damage at short range.",
+          "EffectCategory": "Tool",
+          "Value": 1.4
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "berserk",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "VAG_BEN",
+          "PublicName": "i take a punch :)",
+          "Description": "Subject will be more resistant to melee damage.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "VAG_BEN",
+          "PublicName": "i take a shoott :)",
+          "Description": "Subject will be more resistant to ranged damage.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "Health",
+          "Value": 1.3
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsWieldingMelee",
+          "PublicShortName": "",
+          "PublicName": "Enemy Proximity",
+          "Description": "Up close and personal- you need to wield a melee weapon to get this bonus."
+        }
+      ]
+    },
+    {
+      "PublicName": "big vagbenis protec",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "MeleeResistance",
+          "PublicShortName": "VAG_BEN",
+          "PublicName": "i take a punch :)",
+          "Description": "Subject will be more resistant to melee damage.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "Health",
+          "Value": 1.39
+        },
+        {
+          "Effect": "ProjectileResistance",
+          "PublicShortName": "VAG_BEN",
+          "PublicName": "i take a shoott :)",
+          "Description": "Subject will be more resistant to ranged damage.",
+          "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
+          "EffectCategory": "Health",
+          "Value": 1.39
+        }
+      ],
+      "Conditions": []
+    },
+    {
+      "PublicName": "packobacko",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Bold",
+      "Effects": [
+        {
+          "Effect": "HealSupport",
+          "PublicShortName": "Med-SeX",
+          "PublicName": "Med efficiency",
+          "Description": "Subject will get more out of MediPacks.",
+          "DescriptionNegative": "Subject will get less out of MediPacks.",
+          "EffectCategory": "Health",
+          "Value": 1.52
+        },
+        {
+          "Effect": "AmmoSupport",
+          "PublicShortName": "Re-dick",
+          "PublicName": "Supply efficiency",
+          "Description": "Subject will get more out of ammo and tool refill packs.",
+          "DescriptionNegative": "Subject will get less out of ammo and tool refill packs.",
+          "EffectCategory": "Damage",
+          "Value": 1.52
+        }
+      ],
+      "Conditions": []
+    }
+
+  ]
+}

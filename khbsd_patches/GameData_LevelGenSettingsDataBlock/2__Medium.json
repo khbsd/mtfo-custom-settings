@@ -1,0 +1,11 @@
+{
+  "PublicName": "",
+  "ZoneMinSize": 20.0,
+  "ZoneMaxSize": 50.0,
+  "StartZoneSize": 25.0,
+  "SegmentZoneCount": 160,
+  "PublicEstimatedAreaCoverage": 50000.0,
+  "name": "Medium",
+  "internalEnabled": true,
+  "persistentID": 2
+}

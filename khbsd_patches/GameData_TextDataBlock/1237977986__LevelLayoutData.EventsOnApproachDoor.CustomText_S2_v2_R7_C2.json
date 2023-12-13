@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Carry <color=orange>Two Power Cells</color> back to the Generator Cluster to terminate Ventilation Sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Rapportez <color=orange>deux piles à combustible</color> à la grappe de générateurs pour interrompre la séquence de ventilation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Riportare <color=orange>due celle di energia</color> al gruppo elettrogeno per terminare la sequenza di ventilazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tragen Sie <color=orange>zwei Energiezellen</color> zurück zum Generatorcluster, um die Belüftungssequenz zu beenden.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva <color=orange>dos células de energía</color> al cluster de generadores para terminar la secuencia de ventilación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите <color=orange>две батареи</color> обратно к кластеру генераторов, чтобы прервать цикл вентиляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Carregue <color=orange>duas Power Cells</color> de volta até o grupo de geradores para terminar a sequência de ventilação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zanieś <color=orange>2 ogniwa zasilające</color> z powrotem do zespołu generatorów, aby przerwać sekwencję wentylacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>パワーセル2つ</color>を発電機群に戻して換気シークエンスを終わらせろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>파워 셀 2개</color>를 발전기 클러스터로 운반해 환기 절차 종료시키기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將<color=orange>兩個電池[CELL]</color>帶回發電機叢集以終止通風序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将<color=orange>两个电池[CELL]</color>带回发电机集群以终止通风序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 5,
+  "ImportVersion": 5,
+  "name": "LevelLayoutData.EventsOnApproachDoor.CustomText_S2_v2_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 1237977986
+}

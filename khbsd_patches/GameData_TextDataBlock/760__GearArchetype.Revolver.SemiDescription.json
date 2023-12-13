@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Semi automatic\nHigh damage\nMedium range\nHeavy recoil",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Semi-automatique\nDégâts élevés\nMoyenne portée\nRecul important",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Semiautomatico\nDanni elevati\nGittata media\nRinculo violento",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Halbautomatisch\nHoher Schaden\nMittlere Reichweite\nStarker Rückstoß",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Semiautomático\nMucho daño\nMedio alcance\nMucho retroceso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полуавтоматическое оружие\nБольшой урон\nСредняя дальность\nСильная отдача",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Semiautomático\nAlto dano\nMédio alcance\nRecuo forte",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samopowtarzalny\nDuże obrażenia\nŚredni dystans\nDuży odrzut",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セミオート\n高ダメージ\n中距離\nリコイル大",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반자동\n높은 대미지\n중거리\n강한 반동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "半自動\n高傷害\n中程\n重後座力",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "半自动\n高伤害\n中程\n后坐力大",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.Revolver.SemiDescription",
+  "internalEnabled": true,
+  "persistentID": 760
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Warning. Unauthorized personel identified in Biocom mainframe.. Emergency Security activated.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alerte. Personnel non autorisé dans l’ordinateur central Biocom. Protocole de sécurité d’urgence activé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attenzione. Personale non autorizzato identificato nel Mainframe Biocom. Sicurezza d'emergenza attivata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warnung. Nicht autorisiertes Personal im Biocom-Hauptrechner identifiziert. Notfallsicherheit aktiviert.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Advertencia: Personal no autorizado detectado en la unidad central de Biocom. Medidas de seguridad de emergencia activadas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Внимание: обнаружен неавторизованный доступ к центральному компьютеру Biocom. Активирован экстренный протокол безопасности.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aviso. Pessoal não autorizado identificado no mainframe Biocom.. Segurança de emergência ativada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Ostrzeżenie. Zidentyfikowano nieupoważniony personel w systemie mainframe BIOCOM. Włączono zabezpieczenia awaryjne.,",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告。バイオコム・メインフレームで権限を持たない人員を確認.. 緊急セキュリティ起動。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고. Biocom 메인프레임에서 허가 받지 않은 개인 식별됨. 긴급 보안 활성화됨.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告，辨識出未經授權人等存取Biocom主機電腦。已啟動緊急安全系統。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告。Biocom主机中发现未经授权人员……紧急安全措施已激活。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenIntel_Securitybreached_R7D2",
+  "internalEnabled": true,
+  "persistentID": 3831942113
+}

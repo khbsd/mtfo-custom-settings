@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Has Flashlight On",
+  "Description": "An abbreviated description of a condition, i.e. the subject must have their \"flashlight turned on\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Torche activée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Torcia accesa",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Taschenlampe ist an",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Linterna encendida",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Включенный фонарик",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está com a lanterna ligada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włączona latarka",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フラッシュライトオン",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "플래시 켜짐",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開啟手電筒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "手电筒开启",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.HasFlashlightOnName",
+  "internalEnabled": true,
+  "persistentID": 681
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Infection level: {0}",
+  "Description": "I.e. \"how infected is the subject.\" A medical evaluation of the prisoner's infection level. \"{0}\" will be replaced by a word that sums up the prisoner's infection status, do not alter these characters.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Niveau d'infection\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Livello infezione: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Infektionsniveau: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Nivel de infección: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ур. инфицирования: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Nível de infecção: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Poziom zakażenia: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "感染レベル: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "감염 수준: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "感染程度：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "感染级别：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.InfectionLevel_X",
+  "internalEnabled": true,
+  "persistentID": 900
+}

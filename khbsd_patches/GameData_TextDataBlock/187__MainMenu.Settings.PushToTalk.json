@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Push To Talk",
+  "Description": "Refers to a setting for the \"voice chat\" functionality. \"Push to talk\" requires the user to push a button to activate their microphone so that they can speak to their teammates.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Activation vocale PTT",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Push To Talk",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Push-to-Talk",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Pulsar para hablar",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Режим рации",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Apertar para falar",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij, aby mówić",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "プッシュ-トゥ-トーク",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "눌러서 말하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "隨按即說",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按下说话",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.PushToTalk",
+  "internalEnabled": true,
+  "persistentID": 187
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lockdown Alarm",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Alarme de verrouillage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Allarme blocco",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verriegelungsalarm",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Alarma de cierre de emergencia",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Оповещение об изоляции",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Alarme do confinamento",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Alarm blokady",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "封鎖警報",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "폐쇄 경보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "封鎖警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "封锁警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R6_A2.Zone3_Terminal_Header",
+  "internalEnabled": true,
+  "persistentID": 612156225
+}

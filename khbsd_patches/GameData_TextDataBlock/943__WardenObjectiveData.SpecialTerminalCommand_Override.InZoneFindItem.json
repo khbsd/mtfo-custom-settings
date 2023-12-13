@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Find [ITEM_SERIAL] somewhere inside [ITEM_ZONE]",
+  "Description": "A short summary of a mission objective. Don't alter the \"[ITEM_ZONE/SERIAL]\" parts, just put them in the gramatically correct positions in the sentence.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Trouvez [ITEM_SERIAL] quelque part à l'intérieur de [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trova [ITEM_SERIAL] da qualche parte in [ITEM_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Finden Sie [ITEM_SERIAL] irgendwo in [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Busca [ITEM_SERIAL] en algún lugar de [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите предмет ([ITEM_SERIAL]) в зоне [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Encontre [ITEM_SERIAL] dentro de [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Znajdź [ITEM_SERIAL] gdzieś wewnątrz [ITEM_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "[ITEM_SERIAL] を [ITEM_ZONE]の中のどこかで見つけろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[ITEM_ZONE] 내부 어딘가에서 [ITEM_SERIAL] 찾기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在[ITEM_ZONE]中尋找[ITEM_SERIAL]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在[ITEM_ZONE]内某处找到[ITEM_SERIAL]。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.InZoneFindItem",
+  "internalEnabled": true,
+  "persistentID": 943
+}

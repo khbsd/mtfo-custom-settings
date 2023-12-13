@@ -1,0 +1,112 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        3,
+        4,
+        5,
+        2
+      ],
+      [
+        0,
+        3,
+        4,
+        5,
+        2
+      ],
+      [],
+      [
+        0,
+        3,
+        4,
+        5,
+        2
+      ],
+      [
+        0,
+        3,
+        4,
+        5,
+        2
+      ],
+      [
+        0,
+        3,
+        4,
+        5,
+        2
+      ],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V01.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 2.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V02.prefab",
+        "function": 0,
+        "Shard": 10
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V03.prefab",
+        "function": 0,
+        "Shard": 11
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V04.prefab",
+        "function": 0,
+        "Shard": 8
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V05.prefab",
+        "function": 0,
+        "Shard": 9
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Gardens_Dirt_Submarker_800x400x400/Gardens_Dirt_Submarker_800x400x400_V06.prefab",
+        "function": 0,
+        "Shard": 10
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 14,
+    "FunctionPotential": 2.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Gardens_Submarker_800x400x400",
+    "BoundingVolume": 128000.0
+  },
+  "name": "Gardens_Dirt_Submarker_800x400x400",
+  "internalEnabled": true,
+  "persistentID": 55
+}

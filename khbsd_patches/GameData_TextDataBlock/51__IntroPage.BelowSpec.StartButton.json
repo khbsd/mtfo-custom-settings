@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "START GAME ANYWAY",
+  "Description": "As in \"start game despite PC specs being below requirements\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉMARRER QUAND MÊME",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "AVVIA COMUNQUE IL GIOCO",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SPIEL TROTZDEM STARTEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "JUGAR DE TODAS FORMAS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАПУСТИТЬ ИГРУ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "COMEÇAR JOGO MESMO ASSIM",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "URUCHOM MIMO TO",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "無視してゲームを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "무시하고 게임 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "仍要開始遊戲",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "仍然开始游戏",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.BelowSpec.StartButton",
+  "internalEnabled": true,
+  "persistentID": 51
+}

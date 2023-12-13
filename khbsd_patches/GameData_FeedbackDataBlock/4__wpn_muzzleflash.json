@@ -1,0 +1,38 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/MuzzleFlash/E_MuzzleFlash_Submachine_S_Sync",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Weapon/Tracer/E_TracerAssultRifle",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "wpn_muzzleflash",
+  "internalEnabled": true,
+  "persistentID": 4
+}

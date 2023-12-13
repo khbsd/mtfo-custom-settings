@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Got some resources here!",
+  "Description": "Resources can be ammo packs, health packs, tool refills and disinfection packs. Consumable items the player can carr.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "J'ai trouvé des ressources\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Ho delle risorse qui!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hier sind ein paar Ressourcen!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Hay recursos!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здесь есть ресурсы!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tenho alguns recursos aqui!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zasoby, tutaj!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ここに物資があるぞ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 자원이 있다!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "這裡有一些資源！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拿到了一些资源！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.ResourcesHere",
+  "internalEnabled": true,
+  "persistentID": 1210
+}

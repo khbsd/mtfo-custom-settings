@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Synchronize",
+  "Description": "A dialog line the player can use to communicate with his/her teammates. ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "On se synchronise",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sincronizziamoci",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Synchronisieren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Sincronización",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действуем одновременно",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vamos ao mesmo tempo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Jednocześnie",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "タイミングを合わせろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "동시에 한다",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "同步",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "一起来",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Dialog.Synchronize",
+  "internalEnabled": true,
+  "persistentID": 1301
+}

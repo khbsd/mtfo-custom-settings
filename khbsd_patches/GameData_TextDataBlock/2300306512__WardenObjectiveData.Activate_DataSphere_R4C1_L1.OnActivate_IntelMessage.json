@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mass of bioreadings approaching, escape through the forward exit.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Masse de biosignatures en approche, échappez-vous par la sortie avant.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Massa di tracce biologiche in avvicinamento, fuggire attraverso l'uscita anteriore.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Eine Masse von Biosignalen nähert sich, flüchten Sie durch Austrittspunkt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se aproxima una masa de bioseñales. Escapa por la salida delantera.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Приближается скопление биосигнатур. Направляйтесь к точке выхода.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Massa de bioleituras se aproximando; fuja pela saída à frente..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Nadchodzi masa biosygnatur, wydostań się przez wysunięte wyjście.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生体反応の集団が接近中。先の出口から脱出しろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대량의 생체 신호 접근 중. 전방 출구를 통해 탈출할 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "大量生物質讀數接近中，經由前方出口逃離。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "大量生物读数正在接近，通过前出口逃离。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_DataSphere_R4C1_L1.OnActivate_IntelMessage",
+  "internalEnabled": true,
+  "persistentID": 2300306512
+}

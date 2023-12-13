@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Is Close To Enemy",
+  "Description": "An abbreviated description of a condition, i.e. the subject must be \"close to an enemy\" for the condition to be met.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Proche d'un ennemi",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Prossimità di nemici",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ist nahe beim Feind",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cerca del enemigo",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вблизи врага",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Está perto do inimigo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W pobliżu przeciwnika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "敵の近く",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "적과 가까움",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "靠近敵人",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "靠近敌人",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Conditions.IsCloseToEnemyName",
+  "internalEnabled": true,
+  "persistentID": 682
+}

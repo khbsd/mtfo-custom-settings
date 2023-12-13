@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "> <b>Effects</b>",
+  "Description": "A headline for a list of effects (positive or negative) granted by the booster(s) (performance enhancing drugs) the player currently has injected. Don't alter the RichText tags or the \">\" at the start of the text string.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "> <b>Effets</b>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "> <b>Effetti</b>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "> <b>Effekte</b>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "> <b>Efectos</b>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "> <b>Эффект</b>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "> <b>Efeitos</b>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "> <b>Efekty</b>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "> <b>効果</b>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "> <b>효과</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "> <b>效果</b>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "> <b>效果</b>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.BoosterInfo.Effects",
+  "internalEnabled": true,
+  "persistentID": 797
+}

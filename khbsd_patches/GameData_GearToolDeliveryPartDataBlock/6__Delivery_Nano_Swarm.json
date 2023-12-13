@@ -1,0 +1,50 @@
+{
+  "ModelDataPerType": {
+    "DirectPlacement": {
+      "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Nano_Swarm_1.prefab",
+      "Children": [
+        "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+      ],
+      "GearCategoryFilter": 0,
+      "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+      "AssetBundle": 100,
+      "BundleShard": 3
+    }
+  },
+  "GeneralDatas": [
+    {
+      "Type": 0,
+      "Data": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Nano_Swarm_1.prefab",
+        "Children": [
+          "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+        ],
+        "GearCategoryFilter": 0,
+        "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+        "AssetBundle": 100,
+        "BundleShard": 3
+      }
+    }
+  ],
+  "Aligns": [
+    {
+      "AlignType": 15,
+      "AlignName": "Delivery_Targeting"
+    },
+    {
+      "AlignType": 16,
+      "AlignName": "Delivery_Screen"
+    },
+    {
+      "AlignType": 14,
+      "AlignName": "Delivery_Payload"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "name": "Delivery_Nano_Swarm",
+  "internalEnabled": true,
+  "persistentID": 6
+}

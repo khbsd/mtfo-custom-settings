@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables the hit indicators. ",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active les indicateurs d'impact.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Attiva gli indicatori di colpo a segno.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert die Trefferanzeige.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa los indicadores de impacto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отображает индикаторы удара.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa os indicadores de acerto.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza wskaźnik trafień.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ヒットマークを有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "명중 표시를 켭니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用命中指標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启用击中标记。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.ShowHitIndicators",
+  "internalEnabled": true,
+  "persistentID": 721939411
+}

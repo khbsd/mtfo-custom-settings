@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "<pos=0>ID</pos><pos=25%>ITEM TYPE</pos><pos=50%>STATUS</pos>",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "<pos=0>ID</pos><pos=25%>TYPE D'OBJET</pos><pos=50%>ÉTAT</pos>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "<pos=0>ID</pos><pos=25%>TIPO OGGETTO</pos><pos=50%>STATO</pos>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "<pos=0>ID</pos><pos=25%>ZIELART</pos><pos=50%>STATUS</pos>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "<pos=0>ID</pos><pos=25%>TIPO DE OBJETO</pos><pos=50%>ESTADO</pos>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "<pos=0>ID</pos><pos=25%>ТИП ПРЕДМЕТА</pos><pos=50%>СТАТУС</pos>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "<pos=0>ID</pos><pos=25%>TIPO DE ITEM</pos><pos=50%>STATUS</pos>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "<pos=0>ID</pos><pos=25%>TYP PRZEDMIOTU</pos><pos=50%>STAN</pos>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<pos=0>ID</pos><pos=25%>アイテムタイプ</pos><pos=50%>状況</pos>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<pos=0>ID</pos><pos=25%>아이템 유형</pos><pos=50%>상태</pos>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<pos=0>ID</pos><pos=25%>物品類型</pos><pos=50%>狀態</pos>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<pos=0>ID</pos><pos=25%>物品类型</pos><pos=50%>状态</pos>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ListCommandOutputHeader",
+  "internalEnabled": true,
+  "persistentID": 175491843
+}

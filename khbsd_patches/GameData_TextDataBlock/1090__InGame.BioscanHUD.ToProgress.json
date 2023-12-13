@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "TO PROGRESS!",
+  "Description": "Ending of a Bioscan HUD message.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "POUR CONTINUER\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "PER PROSEGUIRE!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "ZUM WEITERMACHEN!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "PARA CONTINUAR",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ДЛЯ ПРОХОЖДЕНИЯ!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "PROGREDIR!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "W CELU PRZEJŚCIA DALEJ!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "進め！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[진행까지]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "以取得進展！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "以推进！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.ToProgress",
+  "internalEnabled": true,
+  "persistentID": 1090
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Unlock the Door To <color=orange>Zone 33</color>\n    >Look for a <color=orange>CELL</color> somewhere inside the Zone.\n     Use the <color=orange>PING</color> command at a Terminal to locate it.\n     Insert the <color=orange>Cell</color> into <color=orange>Door Generator</color>",
+  "Description": "Don't localize Zone 33, CELL, PING",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Déverrouillez la porte de la <color=orange>Zone\u00A033</color>\n    >Trouvez une <color=orange>CELL</color> située quelque part dans la zone.\n     Utilisez la commande <color=orange>PING</color> sur un terminal pour la localiser.\n     Insérez la <color=orange>cellule [CELL]</color> dans le <color=orange>générateur de la porte</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sbloccare porta per <color=orange>ZONE 33</color>\n    >Cercare una <color=orange>CELL</color> nella zona.\n     Usare il comando <color=orange>PING</color> al Terminale per trovarla.\n     Inserire la <color=orange>Cell</color> nel <color=orange>Generatore porta</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Entriegeln Sie die Tür zu <color=orange>ZONE 33</color>.\n    >Suchen Sie nach einer <color=orange>CELL</color> irgendwo innerhalb der Zone.\n     Nutzen Sie den Befehl <color=orange>PING</color> an einem Terminal, um sie zu lokalisieren.\n     Fügen Sie die <color=orange>Zelle</color> in den <color=orange>Türgenerator</color> ein.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desbloquea la puerta a la <color=orange>ZONE 33</color>\n    >Busca una <color=orange>célula [CELL]</color> en alguna parte de la zona.\n     Usa el comando <color=orange>PING</color> de una terminal para localizarlo.\n     Inserta la <color=orange>célula [CELL]</color> en el <color=orange>generador de puertas</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Откройте дверь в <color=orange>ZONE 33</color>\n    >Найдите <color=orange>CELL</color> в зоне.\n     Определите ее местоположение с помощью команды <color=orange>PING</color> на терминале.\n     Вставьте <color=orange>CELL</color> в <color=orange>генератор двери</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Destrave a porta para a <color=orange>ZONE 33</color>\n    >Procure uma <color=orange>CELL</color> em algum lugar dentro da zona.\n     Use o comando <color=orange>PING</color> em um terminal para localizá-la.\n     Insira a <color=orange>CELL</color> dentro do <color=orange>gerador da porta</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokuj drzwi do <color=orange>strefy 33 [ZONE 33]</color>\n    >Znajdź <color=orange>ogniwo [CELL]</color> gdzieś wewnątrz strefy.\n     Aby je zlokalizować, użyj polecenia <color=orange>PING</color> w terminalu.\n     Wprowadź <color=orange>ogniwo</color> do <color=orange>generatora drzwi</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>Zone 33</color>へのドアをロック解除\n    >ゾーン内のどこかにある <color=orange>CELL</color> を発見。\n     端末で <color=orange>PING</color> コマンドを使用してその位置を特定。\n      <color=orange>Cell</color> を <color=orange>ドア発電機</color>に挿入",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 33</color> 문 개방\n    >구역 안에서 <color=orange>셀</color>을 찾을 것.\n     터미널에서 <color=orange>PING</color> 명령을 사용해 찾을 것.\n     <color=orange>문 발전기</color>에 <color=orange>셀</color> 삽입",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "解鎖通往<color=orange>ZONE 33</color>\n的門    >在該區內尋找<color=orange>電池[CELL]</color>。\n在終端使用<color=orange>PING</color>指令來定位。\n將<color=orange>電池[CELL]</color>插入<color=orange>門發電機</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "解锁<color=orange>ZONE 33</color>的门\n    >在区域内某处寻找<color=orange>CELL</color>。\n     在终端上使用<color=orange>PING</color>命令确定其位置。\n     将<color=orange>电池[CELL]</color>插入到<color=orange>门发电机</color>中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LookForCellAfterOpeningDoorToZone",
+  "internalEnabled": true,
+  "persistentID": 1159
+}

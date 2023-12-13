@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Put the Hisec crate in the extraction scan in [EXTRACTION_ZONE]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Placez la caisse HISEC sur le scanner d'évacuation dans la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mettere la cassa HISEC nella scansione di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Platzieren Sie die [HISEC]-Kiste im Extraktionsscan in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Coloca la caja de HISEC en el escáner de extracción de la [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поместите контейнер HISEC в сканер извлечения в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Coloque a caixa HISEC no escâner de extração na [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Umieść skrzynię podwyższonego bezpieczeństwa w skanerze punktu ewakuacyjnego [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "HISECクレートを[EXTRACTION_ZONE]の脱出スキャンに入れろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "하이섹 상자를 [EXTRACTION_ZONE]의 탈출 스캔에 놓기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將HISEC箱放入[EXTRACTION_ZONE]的撤離掃描點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将HISEC箱放到[EXTRACTION_ZONE]的撤离扫描中",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.Activate_Hisec_Crate_R5B3_L1.GoToWinCondition_CustomGeo",
+  "internalEnabled": true,
+  "persistentID": 1041491356
+}

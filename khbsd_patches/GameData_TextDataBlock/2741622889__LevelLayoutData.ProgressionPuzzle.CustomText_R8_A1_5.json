@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locate a shuttlebox in <color=orange>ZONE 71</color>.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Localisez la boîte à navette dans la <color=orange>ZONE\u00A071</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Trovare una scatola di trasferimento in <color=orange>ZONE 71</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Lokalisieren Sie eine Transferbox in <color=orange>ZONE 71</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Encuentra una caja de ida y vuelta en la <color=orange>ZONE 71</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Найдите подъемник в <color=orange>ZONE 71</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Localize a caixa de vaivém na <color=orange>ZONE 71</color>.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zlokalizuj skrzynkę transportową w <color=orange>strefie 71 [ZONE_71]</color>.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ZONE 71</color>でシャトルボックスを見つけろ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>ZONE 71</color>에서 셔틀 박스를 찾을 것.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在<color=orange>ZONE 71</color>定位穿梭箱。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在<color=orange>ZONE 71</color>找到一个穿梭箱",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 7,
+  "ImportVersion": 7,
+  "name": "LevelLayoutData.ProgressionPuzzle.CustomText_R8_A1_5",
+  "internalEnabled": true,
+  "persistentID": 2741622889
+}

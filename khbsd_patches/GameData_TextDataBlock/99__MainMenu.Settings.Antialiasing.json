@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Anti-aliasing",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Anticrénelage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Anti-aliasing",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Anti-Aliasing",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Suavizado (anti-aliasing)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сглаживание",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Suavização",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wygładzanie krawędzi",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アンチエイリアス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안티앨리어싱",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "消除鋸齒",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "抗锯齿",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Antialiasing",
+  "internalEnabled": true,
+  "persistentID": 99
+}

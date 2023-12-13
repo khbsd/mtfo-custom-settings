@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Menu Cursor Move Up",
+  "Description": "Control key binding/mapping. This is a way for the user to move the mouse pointer with buttons, if they don't have a mouse.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Curseur du menu (haut)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Spostamento cursore menu in alto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Menü-Cursor nach oben bewegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mover hacia arriba el cursor del menú",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Курсор меню вверх",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mover cursor para cima",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Kursor w górę – menu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "メニューカーソル上",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "메뉴 커서 위쪽으로 이동",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "選單游標向上移動",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "菜单光标上移",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MenuCursorMoveUp",
+  "internalEnabled": true,
+  "persistentID": 138
+}

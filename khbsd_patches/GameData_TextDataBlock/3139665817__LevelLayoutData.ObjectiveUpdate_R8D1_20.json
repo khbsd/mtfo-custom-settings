@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Junction 2/2 unlocked. Access granted to <color=orange>ZONE 425</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Jonction 2/2 déverrouillée. Accès à la <color=orange>ZONE\u00A0425</color> autorisé.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta con chiave doppia 2/2 sbloccata. Accesso autorizzato a <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Knotenpunkt 2/2 entriegelt. Zugang zu <color=orange>ZONE 425</color> gewährt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Llave doble 2/2 desbloqueada. Se ha concedido acceso a la <color=orange>ZONE 425</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подключение 2/2 разблокировано. Доступ в <color=orange>ZONE 425</color> открыт.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Junção 2/2 desbloqueada. Acesso concedido para a <color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Odblokowano węzeł 2/2. Przyznano dostęp do <color=orange>strefy 425 [ZONE_425]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ジャンクション2/2のロック解除。<color=orange>ZONE 425</color>へのアクセス取得",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "정션 2/2 개방. <color=orange>ZONE 425</color> 접근 허가됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "連接2/2解鎖。已授權進入<color=orange>ZONE 425</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "组合2/2已解锁。已授权访问<color=orange>ZONE 425</color>。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_20",
+  "internalEnabled": true,
+  "persistentID": 3139665817
+}

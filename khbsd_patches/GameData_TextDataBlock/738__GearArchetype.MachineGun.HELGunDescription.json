@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hybrid Electrothermal\nLight-gas gun\nOverpenetrating rounds\nMedium range\nShort charge-up\n\n",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Arme électrothermique hybride\nCanon à gaz léger\nBalles ultra-pénétrantes\nMoyenne portée\nTemps de charge court\n\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pistola a gas leggero\nibrida elettrotermica\nColpi perforanti\nGittata media\nCaricamento rapido\n\n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Hybride Elektrothermie\nLeichtgaswaffe\nDurchschlagende Geschosse\nMittlere Reichweite\nKurzes Aufladen\n\n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Híbrido electrotérmico\nGas ligero\nBalas superperforantes\nMedio alcance\nCarga predisparo corta\n\n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Гибридное электротермальное оружие\nГазовая пушка\nВысокая пробивная способность\nСредняя дальность\nБыстрая перезарядка\n\n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Híbrida eletrotermal\nArma de gás leve\nMunição altamente perfurante\nMédio alcance\nCarga pré-disparo curta\n\n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Hybrydowy elektrotermiczny\nBroń na lekki gaz\nPociski nadpenetrujące\nŚredni dystans\nKrótkie ładowanie\n\n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ハイブリッド・エレクトロサーマル・\nライトガスガン\n超貫通弾\n中距離\n短いチャージアップ\n\n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "전열 혼합식\n경량 가스총\n고관통탄\n중거리\n빠른 충전\n\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "混合電熱\n輕氣槍\n超穿彈\n中程\n充能時間短\n\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "复合电热\n轻气枪\n过度穿透子弹\n中程\n短暂蓄力\n\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.HELGunDescription",
+  "internalEnabled": true,
+  "persistentID": 738
+}

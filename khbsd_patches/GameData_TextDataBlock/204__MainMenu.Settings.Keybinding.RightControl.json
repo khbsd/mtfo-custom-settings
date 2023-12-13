@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Control",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "CTRL droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Control destro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechte Strg-Taste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ctrl Der",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая клавиша Ctrl",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Control direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy Ctrl",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右Ctrl",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 Ctrl",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右Ctrl",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右Control键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.RightControl",
+  "internalEnabled": true,
+  "persistentID": 204
+}

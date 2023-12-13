@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "STEROIDS",
+  "Description": "The name of a category of boosters that affect the subject's melee weapon attack power.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "STÉROÏDES",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "STEROIDI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "STEROIDE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESTEROIDES",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "СТЕРОИДЫ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "ESTEROIDES",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "STERYDY",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ステロイド",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "스테로이드",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "類固醇",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "激素",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Templates.MeleeDamage",
+  "internalEnabled": true,
+  "persistentID": 711
+}

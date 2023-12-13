@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Consumable: {0}",
+  "Description": "\"Consumable\" i.e. a type of resource the player has found during the expedition, that can only be utilized during that same expedition.\n{0} is the name of the consumable item the player can pick up. Examples: Ammo Pack, MediPack, Lock Melter.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Consommable\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consumabile: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Verbrauchsgegenstand: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Consumible: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Расходник: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Consumível: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przedmiot jednorazowy: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "消耗品： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소모품: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "消耗品：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "消耗品：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Consumable_X",
+  "internalEnabled": true,
+  "persistentID": 3025634811
+}

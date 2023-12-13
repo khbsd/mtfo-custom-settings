@@ -1,0 +1,31 @@
+{
+  "PublicAlarmName": "Class IV Scan",
+  "TriggerAlarmOnActivate": true,
+  "SurvivalWaveSettings": 0,
+  "SurvivalWavePopulation": 0,
+  "SurvivalWaveAreaDistance": 2,
+  "DisableSurvivalWaveOnComplete": true,
+  "UseRandomPositions": true,
+  "WantedDistanceFromStartPos": 5.0,
+  "WantedDistanceBetweenPuzzleComponents": 15.0,
+  "ChainedPuzzle": [
+    {
+      "PuzzleType": 45
+    },
+    {
+      "PuzzleType": 6
+    },
+    {
+      "PuzzleType": 4
+    },
+    {
+      "PuzzleType": 15
+    }
+  ],
+  "OnlyShowHUDWhenPlayerIsClose": false,
+  "AlarmSoundStart": 3339129407,
+  "AlarmSoundStop": 42633153,
+  "name": "Mixed x4 - Alarm Instant To Mixed No Alarm",
+  "internalEnabled": true,
+  "persistentID": 249
+}

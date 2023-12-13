@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Equipped",
+  "Description": "A text string that indicates that a weapon or tool has been equipped, i.e. the player has chosen this particular weapon/tool.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Équipé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Equipaggiato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ausgerüstet",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Equipada",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Используется",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Equipada",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyposażono",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "装備中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "장비함",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已配備",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "已装备",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Equipped",
+  "internalEnabled": true,
+  "persistentID": 492
+}

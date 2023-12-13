@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Clear the terminal screen",
+  "Description": "",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Efface l'écran du terminal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Cancella la schermata del terminale",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Terminalbildschirm leeren",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Borra la pantalla del terminal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Очищает экран терминала.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Limpe a tela do terminal",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyczyść ekran terminalu",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末の画面をクリア",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 화면 지움",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "清除終端畫面",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "清除终端界面",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.ClsCommandHelp",
+  "internalEnabled": true,
+  "persistentID": 4268703158
+}

@@ -1,0 +1,142 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Shotgun_1.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Front_Shotgun_1",
+    "RightHandGripAnim": "Front_Shotgun_1",
+    "AssetBundle": 20,
+    "BundleShard": 9
+  },
+  "Aligns": [
+    {
+      "AlignType": 0,
+      "AlignName": "Front_M"
+    },
+    {
+      "AlignType": 1,
+      "AlignName": "Front_SE"
+    },
+    {
+      "AlignType": 2,
+      "AlignName": "Front_Mag"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 7,
+      "AlignName": "LeftHand"
+    }
+  ],
+  "FireSequence": [
+    {
+      "TriggerTime": 0.28,
+      "Type": 0,
+      "StringData": "Front_Shotgun_1_fire"
+    },
+    {
+      "TriggerTime": 0.28,
+      "Type": 1,
+      "StringData": "Front_Shotgun_1_pump"
+    },
+    {
+      "TriggerTime": 0.28,
+      "Type": 2,
+      "StringData": "Front_Shotgun_1_pump"
+    },
+    {
+      "TriggerTime": 0.38,
+      "Type": 5,
+      "StringData": "shotgun_reload_cock_back"
+    },
+    {
+      "TriggerTime": 0.4,
+      "Type": 11
+    },
+    {
+      "TriggerTime": 0.58,
+      "Type": 5,
+      "StringData": "shotgun_reload_cock_forward"
+    },
+    {
+      "TriggerTime": 1.08,
+      "Type": 7,
+      "StringData": ""
+    }
+  ],
+  "ReloadSequence": [
+    {
+      "TriggerTime": 0.0,
+      "Type": 0,
+      "StringData": "Front_Shotgun_1_animation_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 1,
+      "StringData": "Front_Shotgun_1_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 2,
+      "StringData": "Front_Shotgun_1_animation_reload"
+    },
+    {
+      "TriggerTime": 0.0,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick"
+    },
+    {
+      "TriggerTime": 0.1,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 0.4,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick_soft"
+    },
+    {
+      "TriggerTime": 0.7,
+      "Type": 5,
+      "StringData": "shotgun_reload_1_shell_in"
+    },
+    {
+      "TriggerTime": 1.0,
+      "Type": 6
+    },
+    {
+      "TriggerTime": 1.1,
+      "Type": 5,
+      "StringData": "generic_reload_foley_quick_soft"
+    },
+    {
+      "TriggerTime": 0.3,
+      "Type": 5,
+      "StringData": "generic_reload_foley_subtle"
+    },
+    {
+      "TriggerTime": 1.53,
+      "Type": 5,
+      "StringData": "generic_reload_grab_heavy_weapon"
+    },
+    {
+      "TriggerTime": 1.68,
+      "Type": 5,
+      "StringData": "shotgun_reload_cock_back"
+    },
+    {
+      "TriggerTime": 1.88,
+      "Type": 5,
+      "StringData": "shotgun_reload_cock_forward"
+    },
+    {
+      "TriggerTime": 2.4,
+      "Type": 7
+    }
+  ],
+  "name": "Front_Shotgun_1",
+  "internalEnabled": true,
+  "persistentID": 22
+}

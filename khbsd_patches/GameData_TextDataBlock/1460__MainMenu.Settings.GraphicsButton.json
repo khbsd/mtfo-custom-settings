@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Graphics",
+  "Description": "A headline for graphics related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Graphismes",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Grafica",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Grafik",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Gráficos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Графика",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Elementos gráficos",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Grafika",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "グラフィック",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그래픽",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "圖形",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "图形",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.GraphicsButton",
+  "internalEnabled": true,
+  "persistentID": 1460
+}

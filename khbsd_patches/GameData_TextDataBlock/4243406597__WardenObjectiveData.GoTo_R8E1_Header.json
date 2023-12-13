@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Take the Data Cubes to <color=orange>KDS Deep</color>",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Transportez les cubes de données [DATA_CUBE] dans les <color=orange>profondeurs du KDS</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Portare i cubi di dati [DATA_CUBE] a <color=orange>Profondità KDS</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie die Datenwürfel [DATA_CUBE] zu <color=orange>KDS</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Lleva los cubos de datos [DATA CUBE] a las <color=orange>profundidades de KDS</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Отнесите кубы данных [DATA_CUBE] к <color=orange>СЗК</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Levar cubos de dados [DATA_CUBE] para o <color=orange>fundo KDS</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zanieś kostki danych do <color=orange>jądra KDS</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "データキューブ[DATA CUBE]を<color=orange>KDS深部</color>に運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>KDS 딥</color>으로 [DATA_CUBE] 데이터 큐브 가져가기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將資料方塊[DATA_CUBE]帶到<color=orange>KDS深處</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将数据立方[DATA_CUBE]带到<color=orange>KDS深处</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.GoTo_R8E1_Header",
+  "internalEnabled": true,
+  "persistentID": 4243406597
+}

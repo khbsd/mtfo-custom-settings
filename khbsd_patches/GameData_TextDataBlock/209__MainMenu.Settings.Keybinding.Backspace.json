@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backspace",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Retour arrière",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Retroceso",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "バックスペース",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Backspace",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Backspace键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.Backspace",
+  "internalEnabled": true,
+  "persistentID": 209
+}

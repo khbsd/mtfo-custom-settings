@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Mouse",
+  "Description": "A headline for mouse related game settings.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Souris",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Mouse",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Maus",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ratón",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Мышь",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mouse",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Mysz",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マウス",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "마우스",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "滑鼠",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "鼠标",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.MouseHeading",
+  "internalEnabled": true,
+  "persistentID": 85
+}

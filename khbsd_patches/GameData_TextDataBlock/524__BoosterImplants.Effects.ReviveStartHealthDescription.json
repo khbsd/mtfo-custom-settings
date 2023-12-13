@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The health your team members start with when you've revived them.",
+  "Description": "Describes the advantage of having a good \"revive start health\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Le niveau de santé de vos coéquipiers après les avoir réanimés.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La salute dei tuoi compagni di squadra una volta rianimati.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Gesundheit, mit der Ihre Teammitglieder nach der Wiederbelebung anfangen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La salud con la que empiezan los compañeros cuando los hayas resucitado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Здоровье напарников после возрождения.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A vida que os seus aliados começam quando você os revive.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zdrowie początkowe członka drużyny, gdy go reanimujesz.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "自分が復活させたチームメンバーの復活完了時の体力。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "소생했을 때 팀원이 갖고 시작하는 체력입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "讓隊友復活後，他們的起始生命值。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "队友被你复活后的初始生命值。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.ReviveStartHealthDescription",
+  "internalEnabled": true,
+  "persistentID": 524
+}

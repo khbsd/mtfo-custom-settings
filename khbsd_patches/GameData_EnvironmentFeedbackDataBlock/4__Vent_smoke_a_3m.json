@@ -1,0 +1,18 @@
+{
+  "audioData": [],
+  "effectData": [
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Environment/E_Env_Smoke_Vent_a_3m",
+      "AttachToRoot": true,
+      "DoNoKill": true
+    }
+  ],
+  "name": "Vent_smoke_a_3m",
+  "internalEnabled": true,
+  "persistentID": 4
+}

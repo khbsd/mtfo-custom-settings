@@ -1,0 +1,146 @@
+{
+  "ComplexType": 0,
+  "PrimareSubComplexUsed": 0,
+  "BundleName": 1,
+  "LevelGenConfig": {
+    "GridSize": 40,
+    "CellDimension": 64.0,
+    "AltitudeOffset": 6.0,
+    "TransitionDirection": 0,
+    "LevelProgression": 0
+  },
+  "GeomorphTiles_1x1": [],
+  "GeomorphTiles_2x1": [],
+  "GeomorphTiles_2x2": [],
+  "RandomizeGeomorphOrder": true,
+  "SmallWeakGates": [],
+  "SmallSecurityGates": [],
+  "SmallApexGates": [],
+  "SmallBulkheadGates": [],
+  "SmallMainPathBulkheadGates": [],
+  "SmallWallCaps": [],
+  "SmallDestroyedCaps": [],
+  "SmallWallAndDestroyedCaps": [],
+  "MediumWeakGates": [],
+  "MediumSecurityGates": [],
+  "MediumApexGates": [],
+  "MediumBulkheadGates": [],
+  "MediumMainPathBulkheadGates": [],
+  "MediumWallCaps": [],
+  "MediumDestroyedCaps": [],
+  "MediumWallAndDestroyedCaps": [],
+  "LargeWeakGates": [],
+  "LargeSecurityGates": [],
+  "LargeApexGates": [],
+  "LargeBulkheadGates": [],
+  "LargeMainPathBulkheadGates": [],
+  "LargeWallCaps": [],
+  "LargeDestroyedCaps": [],
+  "LargeWallAndDestroyedCaps": [],
+  "StraightPlugsNoGates": [],
+  "StraightPlugsWithGates": [],
+  "SingleDropPlugsNoGates": [],
+  "SingleDropPlugsWithGates": [],
+  "DoubleDropPlugsNoGates": [],
+  "DoubleDropPlugsWithGates": [],
+  "PlugCaps": [],
+  "ElevatorShafts_1x1": [],
+  "CustomGeomorphs_Exit_1x1": [],
+  "CustomGeomorphs_Objective_1x1": [
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Boss_Arena.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Static_01.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/PouncerArena/Dimension_Flyer_Arena_01.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Static_02.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Boss_flash.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Mining_Shaft.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R6A2.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/PouncerArena/Dimension_Pouncer_Arena_01.prefab",
+      "SubComplex": 5,
+      "Shard": 0
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Static_01_R7E1.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R7B3.prefab",
+      "SubComplex": 5,
+      "Shard": 0
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Dune_camp_03.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/Refinery/geo_64x64_mining_refinery_X_VS_01_v2.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R8B1_Flash_01.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R8B1_Arena_01.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R8_Cave_01.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/PouncerArena/Dimension_R8A1_Complex_Flash.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Jungle_E2.prefab",
+      "SubComplex": 5,
+      "Shard": 7
+    }
+  ],
+  "CustomGeomorphs_Challenge_1x1": [],
+  "Ladders_4m": [],
+  "Ladders_2m": [],
+  "Ladders_1m": [],
+  "Ladders_05m": [],
+  "Ladders_Bottom": [],
+  "Ladders_Top": [],
+  "name": "Dimension_Desert",
+  "internalEnabled": true,
+  "persistentID": 47
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Zone 166 Access status: <color=orange>Granted</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "État d'accès de la zone\u00A0166\u00A0: <color=orange>autorisé</color>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Stato accesso Zone 166: <color=orange>autorizzato</color>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Zugangsstatus Zone 166: <color=orange>Gewährt</color>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Estado de acceso a Zone 166: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Статус доступа зоны 166: <color=orange>открыт</color>.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Status do acesso à Zone 166: <color=orange>Concedido</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Strefa 166 [ZONE_166] – stan dostępu: <color=orange>przyznany</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone 166のアクセス状況: <color=orange>許可済み</color>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Zone 166 접근 상태: <color=orange>허가됨</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "ZONE 166進入狀態：<color=orange>允許</color>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "ZONE 166权限状态：<color=orange>允许</color>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "WardenIntel.PhaseUnlock.Hendricks_1_R7C3",
+  "internalEnabled": true,
+  "persistentID": 699031766
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "South!",
+  "Description": "As in \"to the south!\" A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Sud\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sud!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Süden!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Al sur!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На юг!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Sul!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Południe!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "南だ！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "남쪽으로!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "南！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "往南！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.South",
+  "internalEnabled": true,
+  "persistentID": 1178
+}

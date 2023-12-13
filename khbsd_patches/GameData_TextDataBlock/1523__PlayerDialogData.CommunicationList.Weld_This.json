@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Weld this.",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Soudez ça.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Saldate questo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Schweißen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Suelda esto.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нужна сварка.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Use esta.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zespawać to.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "これをつないでくれ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "여기 용접해.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "焊接這個。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "焊接这个。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Weld_This",
+  "internalEnabled": true,
+  "persistentID": 1523
+}

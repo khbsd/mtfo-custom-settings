@@ -1,0 +1,88 @@
+{
+  "BundleName": 1,
+  "Assets": [
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/4x4/gate_4x4_security_door.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/4x4/gate_4x4_apex_door.prefab",
+      "Shard": 4
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x4/gate_8x4_security_door.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x4/gate_8x4_apex_door.prefab",
+      "Shard": 5
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x8/gate_8x8_weak_door.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x8/gate_8x8_security_door.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x8/gate_8x8_cap_wall_01.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/4x4/gate_4x4_weak_door.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x4/gate_8x4_weak_door.prefab",
+      "Shard": 6
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/4x4/gate_4x4_bulkhead_door.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x4/gate_8x4_bulkhead_door.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x8/gate_8x8_bulkhead_door.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/4x4/gate_4x4_main_path_bulkhead_door.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Complex/Generic/Gates/8x4/gate_8x4_main_path_bulkhead_door.prefab",
+      "Shard": 0
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/Service_ladder_a_top_01.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_bottom_01.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_05m_01.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_1m_01.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_2m_01.prefab",
+      "Shard": 15
+    },
+    {
+      "AssetPath": "Assets/AssetPrefabs/Prop/prop_generic/ladder/prop_generic_ladder_a_tile_4m_01.prefab",
+      "Shard": 15
+    }
+  ],
+  "name": "Shared Complex Resources",
+  "internalEnabled": true,
+  "persistentID": 1
+}

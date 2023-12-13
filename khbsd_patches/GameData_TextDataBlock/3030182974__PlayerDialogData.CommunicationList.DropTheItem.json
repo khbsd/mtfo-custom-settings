@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Drop the Item",
+  "Description": "In communication list. This is the caption of the button that gives the tells someone to drop the expedition item they are carrying",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Lâcher l'objet",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Lascia l'oggetto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gegenstand ablegen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Suelta el objeto",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Бросьте предмет",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Soltar o item",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Upuść przedmiot",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "アイテムを捨てろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "아이템 버리기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "放下物品",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "丢弃那个物品",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "PlayerDialogData.CommunicationList.DropTheItem",
+  "internalEnabled": true,
+  "persistentID": 3030182974
+}

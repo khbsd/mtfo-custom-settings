@@ -1,0 +1,155 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [
+        8
+      ],
+      [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8
+      ],
+      [],
+      [],
+      [
+        0,
+        1,
+        4,
+        8,
+        2,
+        5,
+        6
+      ],
+      [
+        0,
+        1,
+        4,
+        8
+      ],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8,
+        5
+      ],
+      [],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8,
+        5
+      ],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8,
+        5
+      ],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8,
+        5
+      ],
+      [],
+      [],
+      [
+        0,
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V01.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V02.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V03.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V04.prefab",
+        "function": 0,
+        "Shard": 5
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V05.prefab",
+        "function": 0,
+        "Shard": 1
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V06.prefab",
+        "function": 0,
+        "Shard": 2
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V07.prefab",
+        "function": 0,
+        "Shard": 3
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V08.prefab",
+        "function": 0,
+        "Shard": 4
+      },
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Service/MarkerCompositions/Floodways_alcove_800x200x500/Floodways_alcove_800x200x500_V09.prefab",
+        "function": 0,
+        "Shard": 5
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 13,
+    "FunctionPotential": 4.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Service/M_Floodways_alcove_800x200x500",
+    "BoundingVolume": 80000.0
+  },
+  "name": "Floodways_alcove_800x200x500",
+  "internalEnabled": true,
+  "persistentID": 28
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Right Shift",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Maj droite",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Shift destro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Rechte Umschalttaste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mayús derecha",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Правая клавиша Shift",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Shift direito",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Prawy Shift",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "右Shift",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오른쪽 Shift",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "右Shift",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "右Shift键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.RightShift",
+  "internalEnabled": true,
+  "persistentID": 198
+}

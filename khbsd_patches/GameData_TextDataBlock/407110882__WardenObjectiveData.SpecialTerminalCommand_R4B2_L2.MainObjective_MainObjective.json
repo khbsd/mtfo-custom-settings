@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Try to manipulate the general climate systems on terminal [ITEM_SERIAL]. Use the following backdoor command: [SPECIAL_COMMAND]",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Tentez de manipuler les systèmes climatiques sur le terminal [ITEM_SERIAL]. Utilisez la commande de porte dérobée suivante\u00A0: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Provare a manipolare i sistemi climatici generali sul terminale [ITEM_SERIAL]. Utilizzare il seguente comando backdoor: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchen Sie, die globalen Klimasysteme auf Terminal [ITEM_SERIAL] zu manipulieren. Benutzen Sie den folgenden Hintertür-Befehl: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Intenta manipular los sistemas climáticos en la terminal [ITEM_SERIAL]. Utiliza el siguiente comando de puerta trasera: [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Попробуйте настроить климатическую систему с помощью терминала [ITEM_SERIAL]. Используйте секретную команду [SPECIAL_COMMAND].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Tente manipular os sistemas climáticos gerais no terminal [ITEM_SERIAL]. Use o seguinte comando de backdoor: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wpłyń na ogólne układy klimatyczne w terminalu [ITEM_SERIAL]. Użyj polecenia tylnego wejścia: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "端末[ITEM_SERIAL]で一般気候システムの操作を試みろ。次のバックドアコマンドを使え：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "터미널 [ITEM_SERIAL]의 일반 기후 시스템 조작을 시도할 것. 다음 백도어 명령 사용: [SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "嘗試操控終端[ITEM_SERIAL]的一般氣候系統。使用以下後門指令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "尝试在终端[ITEM_SERIAL]上操控总体气候系统。使用以下后门命令：[SPECIAL_COMMAND]",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R4B2_L2.MainObjective_MainObjective",
+  "internalEnabled": true,
+  "persistentID": 407110882
+}

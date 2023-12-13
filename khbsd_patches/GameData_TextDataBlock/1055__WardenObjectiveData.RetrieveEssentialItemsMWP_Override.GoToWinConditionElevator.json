@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Deliver the package to the extraction point in [EXTRACTION_ZONE]",
+  "Description": "Don't localize [EXTRACTION_ZONE]. It will be replaced programmatically.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Livrez le paquet au point d'évacuation dans la [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consegnare il pacco al punto di estrazione in [EXTRACTION_ZONE]",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Bringen Sie das Paket zum Extraktionspunkt in [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entrega el paquete en el punto de extracción en la\u00A0[EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Доставьте груз к точке выхода в [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entregue o pacote no ponto de extração na [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dostarcz przesyłkę do punktu ewakuacyjnego w [EXTRACTION_ZONE].",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "パッケージを [EXTRACTION_ZONE]の脱出地点へ運べ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "[EXTRACTION_ZONE]의 탈출 지점으로 화물 전달",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將包裹送到[EXTRACTION_ZONE]的撤離點",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将包裹送到[EXTRACTION_ZONE]撤离点",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.RetrieveEssentialItemsMWP_Override.GoToWinConditionElevator",
+  "internalEnabled": true,
+  "persistentID": 1055
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "The render resolution of shadow maps.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Définit la résolution de rendu des projections d'ombre.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "La risoluzione di rendering della mappe delle ombre.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Die Renderauflösung von Schattenkarten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La resolución de la proyección de sombras.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Разрешение рендеринга для теней.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "A resolução de renderização dos mapas de sombras.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozdzielczość renderowania map cieniowania.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "影マップのレンダリング解像度。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "그림자 맵의 렌더링 해상도입니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "陰影映射的渲染解析度。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "阴影地图的渲染分辨率。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.ShadowResolution",
+  "internalEnabled": true,
+  "persistentID": 972495657
+}

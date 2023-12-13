@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "press and hold",
+  "Description": "As in \"press and hold the mouse button to confirm\".",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Appuyez et maintenez",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "premi e tieni premuto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "drücken und halten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "mantén pulsado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Нажмите и удерживайте",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "aperte e segure",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "naciśnij i przytrzymaj",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "長押し",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "길게 누르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按住",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "长按",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.GenericButtons.PressAndHold",
+  "internalEnabled": true,
+  "persistentID": 41
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WAITING FOR PRISONERS",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "EN ATTENTE DES PRISONNIERS",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "IN ATTESA DEI PRIGIONIERI",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARTEN AUF GEFANGENE",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ESPERANDO A LOS PRISIONEROS",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОЖИДАНИЕ ЗАКЛЮЧЕННЫХ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AGUARDANDO PRISIONEIROS",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OCZEKIWANIE NA WIĘŹNIÓW",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "囚人を待っています",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "수감자를 기다리는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "等待囚犯",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待囚犯",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MatchmakingStatus.WaitingForPrisoners",
+  "internalEnabled": true,
+  "persistentID": 250
+}

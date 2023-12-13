@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subtitles",
+  "Description": "A headline for game settings related to the HUD's subtitles.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Sous-titres",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sottotitoli",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Untertitel",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Subtítulos",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Субтитры",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Legenda",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Napisy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "字幕",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "자막",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "字幕",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "字幕",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Subtitles",
+  "internalEnabled": true,
+  "persistentID": 1171
+}

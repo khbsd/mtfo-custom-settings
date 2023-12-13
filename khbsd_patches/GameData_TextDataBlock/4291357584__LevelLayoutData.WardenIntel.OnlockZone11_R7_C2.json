@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to zone [ZONE_11] unlocked by ventilation sequence",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la zone\u00A0[ZONE_11] déverrouillée par la séquence de ventilation.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per Zone [ZONE_11] sbloccata da sequenza di ventilazione",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu [ZONE_11] durch Belüftungssequenz entriegelt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta de la zona [ZONE_11] se ha desbloqueado por una secuencia de ventilación.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в [ZONE_11] разблокирована циклом вентиляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a [ZONE_11] destravada pela sequência de ventilação",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 11 [ZONE_11] odblokowane przez sekwencję wentylacji",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Zone[ZONE_11]へのドアが換気シークエンスでロック解除された",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "환기 절차에 따라 [ZONE_11] 문 개방됨",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往[ZONE_11]的門已由通風序列解鎖",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "[ZONE_11]的门已由通风序列解锁",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "LevelLayoutData.WardenIntel.OnlockZone11_R7_C2",
+  "internalEnabled": true,
+  "persistentID": 4291357584
+}

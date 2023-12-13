@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "On me!",
+  "Description": "As in \"follow me\" or \"come to my position.\" A phrase directed at other members of the team.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Suivez-moi\u00A0!",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Con me!",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Mir nach!",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "¡Sígueme!",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "За мной!",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Vem comigo!",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Za mną!",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ついて来い！",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "따라와!",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "跟著我！",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "跟上！",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.OnMe",
+  "internalEnabled": true,
+  "persistentID": 1176
+}

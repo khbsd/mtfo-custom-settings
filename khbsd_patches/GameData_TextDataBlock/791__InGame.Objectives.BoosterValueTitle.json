@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Booster Progress:",
+  "Description": "Artifacts are traded in for boosters, and the value of artifacts fluctuate - you can't say that X amount of artifacts always grants you 1 booster. So, the \"booster progress\" value is a number that indicates how close you are to being rewarded with a booster. Once you reach a value of 1, you will get one booster.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Progression de booster\u00A0:",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Progresso potenziamento:",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Booster-Fortschritt:",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Progreso del potenciador:",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Прогресс (усилители):",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Progresso do impulso:",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Postępy wzmacniaczy:",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ブースター換算:",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "부스터 진행 상황:",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "強化劑進度：",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "强化剂进度：",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Objectives.BoosterValueTitle",
+  "internalEnabled": true,
+  "persistentID": 791
+}

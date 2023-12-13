@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Locked",
+  "Description": "Categpru name for when the slot is unavailable to all. meant to remain vacant.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Verrouillé",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Bloccato",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Gesperrt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Bloqueado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Закрыто",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Bloqueado/a",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zablokowane",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ロック中",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "잠김",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "鎖定",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "锁定",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Lobby.PlayerBar.Permissions.Forbidden",
+  "internalEnabled": true,
+  "persistentID": 1149
+}

@@ -1,0 +1,48 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Hydrostasis_unit.prefab",
+        "function": 15,
+        "Shard": 19
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 12,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_HSU_100x200x75",
+    "BoundingVolume": 1500.0
+  },
+  "name": "Service_HSU_100x200x75",
+  "internalEnabled": true,
+  "persistentID": 86
+}

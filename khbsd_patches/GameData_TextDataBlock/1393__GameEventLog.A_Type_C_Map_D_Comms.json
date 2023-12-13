@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "{0} to Type, {1} for Map, {2} for Coms",
+  "Description": "This is a helper text for the in-game chat. \"{0}\" represents the designated key for starting to type chat messages.  \n\"{1}\" represents the designated key for showing the in game map,  \"{2}\" represents the designated key for showing a Communications menu. \n\nComs is short for Communications",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "{0} pour écrire, {1} pour ouvrir la carte, {2} pour communiquer",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "{0} per digitare, {1} per mappa, {2} per comunicare",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} zum Tippen, {1} für die Karte, {2} für die Kommandoliste",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "{0} para escribir, {1} para mapa, {2} para comunicarse",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "{0}, чтобы написать; {1}\u00A0— карта; {2}\u00A0— команды",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "{0} para digitar, {1} para o mapa, {2} para as frases",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Naciśnij {0}, aby pisać; Mapa {1}; Komunikaty {2}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} でタイプ、 {1} でマップ、 {2} で定型文",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}: 입력, {1}: 맵, {2}: 통신",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "{0}打字，{1}顯示地圖，{2}顯示通訊",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "{0} - 打字，{1} - 地图，{2} - 通讯",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "GameEventLog.A_Type_C_Map_D_Comms",
+  "internalEnabled": true,
+  "persistentID": 1393
+}

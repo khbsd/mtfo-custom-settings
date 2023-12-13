@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fully automatic\nCharge up firemode\nMedium range\nHigh rate of fire",
+  "Description": "A short description of the characteristics of a weapon and its ammunition.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Automatique\nTemps de charge élevé\nMoyenne portée\nCadence de tir élevée",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Completamente automatico\nModalità di fuoco con caricamento\nGittata media\nElevata cadenza di tiro",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Vollautomatisch\nAuflade-Feuermodus\nMittlere Reichweite\nHohe Feuerrate",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Totalmente automática\nCarga predisparo\nMedio alcance\nCadencia de tiro alta",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Полностью автоматическое оружие\nТребуется зажать спусковой крючок\nСредняя дальность\nВысокая скорострельность",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Totalmente automática\nCarga pré-disparo\nMédio alcance\nAlta cadência de tiros",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Samoczynny\nTryb ognia z ładowaniem\nŚredni dystans\nDuża szybkostrzelność",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フルオート\nチャージアップによる発射\n中距離\n高速連射",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완전 자동\n충전 발사 모드\n중거리\n빠른 발사 속도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "全自動\n充能射擊模式\n中程\n高射速",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "全自动\n蓄力开火模式\n中程\n高射速",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "GearArchetype.MachineGun.AutoDescription",
+  "internalEnabled": true,
+  "persistentID": 744
+}

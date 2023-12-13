@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Continued engagement with biomass deemed futile. Operation cancelled.",
+  "Description": "I.e. \"you survived the expedition.\" A text string that appears in the result screen (when you have failed or succeeded at an expedition.) This is the equivalent of the phrase \"mission clear\" or \"mission successful\" in GTFO.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Poursuite de l'engagement avec la biomasse jugée futile. Opération annulée.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Impegno continuo con la biomassa giudicato inutile. Operazione annullata.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Weiterer Kampf gegen Biomasse wird als zwecklos eingestuft. Operation abgebrochen.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La activación continuada con la biomasa ha resultado inútil. Operación cancelada.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дальнейшее взаимодействие с биосигнатурой признано бесполезным. Операция отменена.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Engajamento continuado com biomassa considerado fútil. Operação cancelada.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Dalsze zwalczanie biomasy ocenione jako bezskuteczne. Operacja anulowana.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "生体反応との交戦継続は無益と判断。作戦は中止。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "바이오매스와의 지속적인 교전은 무의미한 것으로 간주. 작전 취소.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "與生物質持續交戰視為無用。行動已取消。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续与生物质交战被视为徒劳。行动已取消。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.Header_ResourcesExpendedSubHeader",
+  "internalEnabled": true,
+  "persistentID": 3829406411
+}

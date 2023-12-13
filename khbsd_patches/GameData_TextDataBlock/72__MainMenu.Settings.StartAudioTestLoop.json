@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Start Audio Test Loop",
+  "Description": "Player can start an audio loop to audition (\"test\") their audio settings (i.e. the individual levels of the \"SFX\", \"music\" and \"voice\" categories of sounds.)",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Démarrer le test de boucle audio",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Avvia loop per test audio",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Audiotest",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Iniciar prueba de bucle de sonido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Начать проверку звука",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Iniciar loop de teste de áudio",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Rozpocznij test dźwięku",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "オーディオテストループを開始",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "오디오 테스트 시작",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "開始音訊測試循環",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "开始音频测试循环",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.StartAudioTestLoop",
+  "internalEnabled": true,
+  "persistentID": 72
+}

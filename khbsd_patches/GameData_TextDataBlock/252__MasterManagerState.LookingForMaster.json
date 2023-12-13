@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Looking for Master",
+  "Description": "Network lingo. Master is the player who is hosting the game. The other players are clients.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "En recherche d'hôte",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In cerca dell'host",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nach Host suchen",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Buscando maestro",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поиск организатора",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Procurando o anfitrião",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wyszukiwanie hosta",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "マスターを探しています",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "호스트 찾는 중",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "尋找主機",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在寻找厅主",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MasterManagerState.LookingForMaster",
+  "internalEnabled": true,
+  "persistentID": 252
+}

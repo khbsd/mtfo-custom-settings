@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Backup security key fragment: {0}",
+  "Description": "A text log containging a security key fragment {0}",
+  "CharacterMetaData": 5,
+  "French": {
+    "Translation": "Fragment de la clé de sécurité de secours\u00A0: {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Frammento chiave sicurezza backup: {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Fragment des Backup-Sicherheitsschlüssels: {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Fragmento de clave de seguridad de respaldo: {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Фрагмент резервного ключа безопасности: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Fragmento de chave de segurança de reserva: {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Część klucza zapasowego: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "予備セキュリティキーフラグメント: {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "백업 보안 키 조각: {0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "備份安全鑰片段：{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "备份安全密钥碎片：{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.BackupSecurityKeyFragment_X",
+  "internalEnabled": true,
+  "persistentID": 2260297836
+}

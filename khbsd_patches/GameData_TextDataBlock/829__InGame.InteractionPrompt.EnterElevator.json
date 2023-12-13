@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enter Elevator",
+  "Description": "I.e. \"step into the elevator.\" When the player stands close to an elevator, this text string appears on screen to indicate what action can be performed by pressing the appropriate keyboard key/button.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Entrer dans la cage de largage",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Usa ascensore",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aufzug betreten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Entrar en ascensor",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Войти в подъемник",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Entrar no elevador",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wejdź do windy",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "エレベーターに入る",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "드롭 케이지 타기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "進入電梯",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "进入笼梯",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.EnterElevator",
+  "internalEnabled": true,
+  "persistentID": 829
+}

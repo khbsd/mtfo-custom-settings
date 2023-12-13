@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "WARNING: Biosignatures detected leaving <color=orange> [sys_purge] </color>zone, Caution Is adviced..",
+  "Description": "Don't localize [sys_purge]. A text that appears on screen to warn the players that an automated system has detected a \"biosignature\" (meaning an unknown creature/monster) on the loose.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "AVERTISSEMENT\u00A0: biosignatures détectées en provenance de la zone <color=orange>[sys_purge]</color>. Soyez prudent.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "ATTENZIONE: tracce biologiche in uscita dalla zona <color=orange>[sys_purge]</color>. Si consiglia cautela.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "WARNUNG: Biosignaturen beim Verlassen der <color=orange>[sys_purge]</color>-Zone entdeckt. Es wird zur Vorsicht geraten.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "ADVERTENCIA: Bioseñales detectadas al salir de la zona <color=orange>[sys_purge]</color>. Cuidado.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ВНИМАНИЕ! Биосигнатуры покинули зону <color=orange>[sys_purge]</color>. Действуйте осторожно.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "AVISO: Bioassinaturas detectadas deixando a zona <color=orange> [sys_purge] </color>; Aconselha-se cautela..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OSTRZEŻENIE: Wykryto biosygnatury opuszczające strefę <color=orange> [sys_purge] </color>, należy zachować ostrożność..",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "警告： <color=orange> [sys_purge] </color>ゾーン退出中に生体反応を検出。注意せよ..",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "경고: 탐지된 생체 신호가 <color=orange> [sys_purge] </color>구역에서 이탈 중. 주의 요망..",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "警告：偵測到生物標識離開<color=orange>[sys_purge]</color>區域，建議小心……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "警告：检测到生物特征离开<color=orange>[sys_purge]</color>区，请保持谨慎。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveSpecial.Command_WaveWarning_Apex",
+  "internalEnabled": true,
+  "persistentID": 1121
+}

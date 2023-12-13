@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": ">[Alarm siren]\n>..They are coming!\n>[gunfire, unintelligible]\n<size=200%><color=red>>We need to move up!</color></size>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": ">[Sirène d’alarme]\n>... Ils arrivent !\n>[coup de feu, inintelligible]\n<size=200%><color=red>>Il faut qu’on dégage d’ici !</color></size>",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": ">[Sirena d'allarme]\n>Stanno arrivando!\n>[spari, incomprensibile]\n<size=200%><color=red>>Dobbiamo salire!</color></size>",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": ">[Alarmsirene]\n>… Sie kommen!\n>[Schüsse, unverständlich]\n<size=200%><color=red>>Wir müssen vorankommen!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": ">[alarma]\n>... ¡Ya vienen!\n>[disparos, ininteligible]\n<size=200%><color=red>>¡Hay que moverse!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": ">[сигнал тревоги]\n>... Они идут!\n>[выстрелы, неразборчиво]\n<size=200%><color=red>>Двигаемся поживее!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": ">[Sirene de alarme]\n>..Eles estão vindo!\n>[tiroteio, incompreensível]\n<size=200%><color=red>>Vamos nos apressar!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": ">[Syrena alarmowa]\n>...Nadchodzą!\n>[strzały, niezrozumiałe]\n<size=200%><color=red>>Musimy się ruszać!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": ">[非常サイレン]\n>..やつらが来る！\n>[銃声、内容が聞き取れない声]\n<size=200%><color=red>>前進するんだ！</color></size>",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": ">[경보 사이렌]\n>..놈들이 온다!\n>[총격, 이해할 수 없음]\n<size=200%><color=red>>올라가야 돼!</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": ">[警鈴聲]\n>…他們來了！\n>[槍聲、無法辨識]\n<size=200%><color=red>>…必須往上移動！</color></size>",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": ">[警报声]\n>..它们要来了！\n>[炮火声、模糊音]\n<size=200%><color=red>>我们得上去！</color></size>",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown001_C1_RoleplayWardenIntel",
+  "internalEnabled": true,
+  "persistentID": 2946458790
+}

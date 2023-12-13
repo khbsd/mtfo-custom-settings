@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Enables an effect that blurs bright pixels in an attempt to simulate light overwhelming the camera.",
+  "Description": "Extra information about the setting.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Active un effet qui estompe les pixels brillants afin de simuler un effet de submersion lumineuse sur la caméra.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Consente un effetto che sfoca i pixel luminosi nel tentativo di simulare la luce che avvolge la telecamera.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Aktiviert einen Effekt, der helle Pixel verwischt, um zu simulieren, dass das Licht die Kamera überstrahlt.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Activa un efecto que difumina los píxeles brillantes para tratar de simular el exceso de luz en la cámara.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Размывает яркие пиксели и создает эффект засвечивания на камере.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Ativa um efeito que desfoca pixels brilhantes para tentar simular a luz sobrecarregando a câmera.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Włącza efekt, który rozmywa jasne piksele, próbując symulować światło padające na kamerę.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "カメラに降り注ぐ光をシミュレーションするために、明るいピクセルをぼかす効果を有効化する。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "밝은 픽셀을 흐리게 처리하는 효과를 활성화해, 카메라를 압도하는 듯한 광원 효과를 줍니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "啟用模糊明亮像素效果，以嘗試模擬鏡頭過亮。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "启用模糊明亮像素的效果，以模拟光线充满镜头的场景。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Tooltip.Bloom",
+  "internalEnabled": true,
+  "persistentID": 1005014400
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Muted",
+  "Description": "\"Muted\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient has been \"muted\", which makes it slightly less effective.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Atténué",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Blando",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Stumm",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Silenciado",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Слабый",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Mudo",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Stłumiony",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "抑制",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "완화",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緩和",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "低效",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Categories.Muted",
+  "internalEnabled": true,
+  "persistentID": 470
+}

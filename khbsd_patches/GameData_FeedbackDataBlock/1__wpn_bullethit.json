@@ -1,0 +1,735 @@
+{
+  "audioData": [
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 0,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 8,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitEnemyLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 8,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitEnemySync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 16,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitEnemyWeakspotLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 16,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitEnemyWeakspotSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitConcreteLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitConcreteSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMetalLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 2,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMetalSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitGlassLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 4,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitGlassSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitRubberLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 32,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitRubberSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitSheetMetalLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 256,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitSheetMetalSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitWoodLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 1024,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitWoodSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMudLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 64,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMudSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitDirtLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 128,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitDirtSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMetalLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 512,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitMetalSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 2048,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitPlayerSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 2048,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitPlayerLocal"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 2,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitSandSync"
+    },
+    {
+      "Enabled": true,
+      "NetMode": 1,
+      "Material": 8192,
+      "Delay": 0.0,
+      "AudioEvent": "BulletHitSandLocal"
+    }
+  ],
+  "effectData": [
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalConcrete",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_ConcreteBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Concrete_Smoke_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.4,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.3,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Smoke_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSpark_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalMetal",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalGlow",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_MetalBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/BulletGlow_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 0.3,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Vertical_Smoke_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 0.3,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSpark_BigFiller",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Ricochet",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Metal_Fire_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalSheetMetal",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.2,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/BulletGlow_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.1,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalGlow",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Metal_Fire_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_004",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Vertical_Smoke_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 256,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/MetalSparkFlash_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1024,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalWood",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1024,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_WoodBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1024,
+      "Chance": 0.4,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Wood_debri_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 1024,
+      "Chance": 0.6,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Wood_debri_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 64,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalDirt",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 64,
+      "Chance": 0.4,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Dirt_debri_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 64,
+      "Chance": 0.3,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Dirt_debri_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 64,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Dirt_debri_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 64,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_DirtBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 4,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_GlassBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 32,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_PlasticBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 32,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Vertical_Smoke_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 32,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Metal_Fire_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/MockupBlue",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 2097176,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/hitFlower01",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Decals/DecalConcrete",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/E_ConcreteBaseImpact",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 0.4,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_002",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 0.3,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Debri/E_Concrete_debri_003",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": false,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 0.5,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Impacts/RandomEnvironments/Concrete_Smoke_001",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": -1,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/DebugDecal",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 0,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "Effects/Mockup/DebugDecal",
+      "AttachToRoot": true,
+      "DoNoKill": false
+    },
+    {
+      "Enabled": true,
+      "NetMode": 0,
+      "Material": 24,
+      "Chance": 1.0,
+      "Delay": 0.0,
+      "EffectPrefab": "PS_Blood_BulletHit",
+      "AttachToRoot": false,
+      "DoNoKill": false
+    }
+  ],
+  "name": "wpn_bullethit",
+  "internalEnabled": true,
+  "persistentID": 1
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Egress path from Sec_D:842m acquired. Access locked pending grid shutdown. High prisoner mortality rate expected. Additional resources on standby.  ",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Voie de sortie sécurisée dans le Sec_D : 842 m. L’accès a été verrouillé jusqu’à extinction du système d’alimentation. Un important taux de mortalité est attendu chez les prisonniers. Ressources supplémentaires en attente.  ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Percorso di uscita da Sec_D:842m acquisito. Accesso bloccato in attesa di spegnimento della rete. Previsto alto tasso di mortalità dei prigionieri. Risorse aggiuntive in standby.  ",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Austrittspunkt aus Sec_D:842m erfasst. Zugang bis zur Abschaltung des Netzes gesperrt. Hohe Sterblichkeitsrate der Gefangenen erwartet. Zusätzliche Ressourcen in Bereitschaft.  ",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Se ha obtenido la ruta de salida de Sec_D:842m. Acceso bloqueado hasta el apagado de la red. Se prevé una alta tasa de mortalidad entre los prisioneros. Recursos adicionales en espera.  ",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Обнаружен путь эвакуации из Sec_D:842m. Доступ заблокирован до отключения электросети. Предполагается высокая смертность заключенных. Дополнительные ресурсы ожидаются.  ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Caminho de saída de Sec_D:842m adquirido. Acesso bloqueado dependendo de desligamento da rede. Alta taxa de mortalidade de prisioneiros esperada. Recursos adicionais em espera.  ",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Uzyskano drogę ewakuacji z Sec_D:842m. Dostęp zablokowany w oczekiwaniu na wyłączenie sieci. Spodziewany wysoki wskaźnik śmiertelności więźniów. Dodatkowe zasoby w gotowości.  ",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Sec_D:842mからのイーグレスパスを取得。アクセスロック中につき、電力系統シャットダウン保留中。囚人の高死亡率が予想される。追加リソーススタンバイ。  ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Sec_D:842m 퇴로 필요. 접근 불가. 전력망 정지 보류 중. 수감자 사망률 높을 것으로 예상. 추가 자원 대기 중.  ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "已取得Sec_D:842m的離開路徑。目前無法存取，需等待電力網關閉。預料囚犯將傷亡慘重。已準備好額外資源。  ",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "获得Sec_D:842m撤出路线。电网关闭前权限锁定。预计囚犯死亡率高。附加资源待命。  ",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 3,
+  "ImportVersion": 3,
+  "name": "Rundown001_D1_ExpeditionDescription",
+  "internalEnabled": true,
+  "persistentID": 2713538021
+}

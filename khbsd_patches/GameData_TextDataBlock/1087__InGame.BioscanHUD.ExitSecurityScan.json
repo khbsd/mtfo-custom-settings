@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "EXIT SECURITY SCAN",
+  "Description": "Prompting the player to leave the Bioscan.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "TERMINER L'ANALYSE DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "USCIRE DA SCANSIONE SICUREZZA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSSCAN BEENDEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "SAL DEL ANÁLISIS DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ЗАВЕРШИТЬ ПРОВЕРКУ БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "SAIR DO ESCANEAMENTO DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "OPUŚĆ SKANOWANIE",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "セキュリティスキャンを終了",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "보안 스캔 종료",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "退出安全掃描",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "退出安全扫描",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.BioscanHUD.ExitSecurityScan",
+  "internalEnabled": true,
+  "persistentID": 1087
+}

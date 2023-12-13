@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Lockdown of  <color=orange>Local</color> Quadrant\nEstimated time left until completion: \n",
+  "Description": "",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Confinement du quadrant <color=orange>local</color>.\nExécution prévue dans\u00A0:\n",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Blocco quadrante <color=orange>locale</color>\nTempo stimato al completamento: \n",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Abriegelung des <color=orange>lokalen</color> Quadranten\nVoraussichtliche Zeit bis zur Fertigstellung: \n",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia del cuadrante <color=orange>local</color>\nTiempo estimado hasta completarse: \n",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Осуществляется изоляция <color=orange>локального</color> сектора\nОставшееся время до завершения: \n",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento do quadrante <color=orange>local</color> \nTempo restante estimado até a conclusão: \n",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Blokada  <color=orange>lokalnego</color> kwadrantu\nSzacowany pozostały czas do zakończenia: \n",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "<color=orange>ローカル</color>隔離封鎖\n完了までの予定残り時間： \n",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>내부</color> 사분면 폐쇄\n완료까지 남은 예상 시간: \n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "<color=orange>本地</color>象限封鎖\n預計距離完成還有：\n",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "<color=orange>本地</color>象限封锁\n预计距离完成还剩：\n",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Survival.SurvivalTimerTitle_R7_C3",
+  "internalEnabled": true,
+  "persistentID": 1032124735
+}

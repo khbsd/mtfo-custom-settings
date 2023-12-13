@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Pick up {0}",
+  "Description": "I.e. \"pick up this item.\" A text that appears on screen when the player has the ability to pick up a (rather heavy) objective related item from the ground. \"{0}\" will be replaced by the name of the object, don't alter that part.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Ramasser {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Raccogli {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "{0} aufheben",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Recoger {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Поднять {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Pegar {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Podnieś: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0}を拾う",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0} 줍기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "拿起{0}",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "拾取{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.PickUp_X",
+  "internalEnabled": true,
+  "persistentID": 869
+}

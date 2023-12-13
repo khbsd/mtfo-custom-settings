@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "First-Person Inertia Amount",
+  "Description": "A setting that controls the amount of movement inertia that is transferred to first person items. This include walk, run and jump animations. Lowering this setting may help in reducing motion sickness.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Inertie de mouvement (vue subjective)",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Quantità d'inerzia in prima persona",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Trägheit der Egoperspektive",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cantidad de inercia (primera persona)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Эффект изображения от первого лица",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Inércia em primeira pessoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Natężenie bezwładności w widoku z 1 os.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "移動時の武器の振れ幅",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "1인칭 관성 강도",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "第一人稱慣性量",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "第一人称惯量",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.FPSInertiaAmount",
+  "internalEnabled": true,
+  "persistentID": 961
+}

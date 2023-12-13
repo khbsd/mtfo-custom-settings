@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "UNKNOWN REWARD",
+  "Description": "Referring to a vanity item reward that is unknown ",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "RÉCOMPENSE INCONNUE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "RICOMPENSA SCONOSCIUTA",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "UNBEKANNTE BELOHNUNG",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "RECOMPENSA DESCONOCIDA",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "НЕИЗВЕСТНАЯ НАГРАДА",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "RECOMPENSA DESCONHECIDA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "NIEZNANA NAGRODA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不明な報酬",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알 수 없는 보상",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未知獎勵",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未知奖励",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.RundownPage.VanityItemsUI.UnknownReward",
+  "internalEnabled": true,
+  "persistentID": 2385712309
+}

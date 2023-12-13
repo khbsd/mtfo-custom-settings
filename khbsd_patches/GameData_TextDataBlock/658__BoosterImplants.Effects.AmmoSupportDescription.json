@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Subject will get more out of ammo and tool refill packs.",
+  "Description": "Describes the advantage of having a good \"supply efficiency\" value.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Les packs de munition et de recharge d'outils utilisés par le sujet sont plus efficaces.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Il soggetto otterrà più munizioni e scorte di ricarica per strumenti.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Versuchsperson nutzt Munitions- und Werkzeug-Nachfüllpakete besser.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "El sujeto le sacará más partido a la munición y a los paquetes de reposición de herramientas.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "В наборах содержится больше припасов для оружия и устройств.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "O indivíduo recebe mais dos pacotes de recarga de munição e ferramentas.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorca uzyska więcej z amunicji i pakietów uzupełniających narzędzia.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "対象が弾薬とツールのリフィルパックから補給できる量が増える。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "대상이 탄약과 도구 보충 팩에서 더 많은 것을 얻습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "實驗對象將從彈藥和工具補充包獲益較多。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "使用者从弹药和工具补充包中获得的补给量提高。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "BoosterImplants.Effects.AmmoSupportDescription",
+  "internalEnabled": true,
+  "persistentID": 658
+}

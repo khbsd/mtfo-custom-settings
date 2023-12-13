@@ -1,0 +1,25 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Short_Shotgun_2.prefab",
+    "Children": [],
+    "GearCategoryFilter": 0,
+    "LeftHandGripAnim": "Short_Shotgun_2_Player_Idle",
+    "RightHandGripAnim": "Short_Shotgun_2_Player_Idle",
+    "AssetBundle": 30,
+    "BundleShard": 4
+  },
+  "Aligns": [
+    {
+      "AlignType": 5,
+      "AlignName": "Receiver_Flash"
+    },
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Short_Shotgun_2",
+  "internalEnabled": true,
+  "persistentID": 22
+}

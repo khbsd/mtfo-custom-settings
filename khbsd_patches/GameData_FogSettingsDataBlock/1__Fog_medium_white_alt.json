@@ -1,0 +1,34 @@
+{
+  "Enabled": true,
+  "FogColor": {
+    "a": 0.0,
+    "r": 0.9117647,
+    "g": 0.967139959,
+    "b": 1.0
+  },
+  "FogDensity": 0.02,
+  "FogAmbience": 0.0,
+  "DensityNoiseDirection": {
+    "x": 1.48,
+    "y": 0.0,
+    "z": 0.0,
+    "normalized": {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 1.0,
+      "sqrMagnitude": 1.0
+    },
+    "magnitude": 1.48,
+    "sqrMagnitude": 2.19040012
+  },
+  "DensityNoiseSpeed": 0.009,
+  "DensityNoiseScale": 0.06,
+  "DensityHeightAltitude": -0.91,
+  "DensityHeightRange": 1.01,
+  "DensityHeightMaxBoost": 0.09,
+  "Infection": 0.0,
+  "name": "Fog_medium_white_alt",
+  "internalEnabled": true,
+  "persistentID": 1
+}

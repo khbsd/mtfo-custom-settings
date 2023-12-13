@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Hold '{0}'",
+  "Description": "A text string that instructs the player to hold down a specific keyboard key or mouse/gamepad button. The \"{0}\" is replaced by the name of the key/button, do not alter that part of the text string.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Maintenez {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Tieni premuto '{0}'",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "„{0}“ Gedrückt halten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Mantén pulsado «{0}»",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Удерживайте '{0}'",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Segure '{0}'",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przytrzymaj „{0}”",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "'{0}'を長押し",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "'{0}' 길게 누르기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "按住「{0}」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "按住'{0}'",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.InteractionPrompt.Hold_X",
+  "internalEnabled": true,
+  "persistentID": 827
+}

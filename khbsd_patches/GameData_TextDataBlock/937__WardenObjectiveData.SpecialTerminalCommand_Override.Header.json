@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Emergency lockdown in effect.",
+  "Description": "A text string shown in the HUD that informs the player that the part of the underground complex where the player current is, is in \"mergency lockdown\". This means that the door the player needs to go through in order to proceed, is locked until the lockdown is lifted.",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Verrouillage d'urgence en cours.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Isolamento d'emergenza attivo.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Notverriegelung in Kraft.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Cierre de emergencia activo.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Действует режим изоляции.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Confinamento de emergência ativo.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wdrożono blokadę awaryjną.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "緊急封鎖中。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "비상 폐쇄 발동.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "緊急封鎖生效中。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "紧急封锁中。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_Override.Header",
+  "internalEnabled": true,
+  "persistentID": 937
+}

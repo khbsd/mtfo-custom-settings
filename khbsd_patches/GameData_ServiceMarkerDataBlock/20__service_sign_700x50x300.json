@@ -1,0 +1,51 @@
+{
+  "CommonData": {
+    "FunctionComponentLinks": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "Compositions": [
+      {
+        "weight": 1.0,
+        "prefab": "Assets/AssetPrefabs/Complex/Generic/Signs/sign_7x3_service_textonly.prefab",
+        "function": 9,
+        "Shard": 0
+      },
+      {
+        "weight": 1.0,
+        "function": 0,
+        "Shard": 0
+      }
+    ],
+    "AssetBundleName": 4,
+    "Group": 12,
+    "FunctionPotential": 1.0,
+    "RotationSnap": 0,
+    "RotationNoise": 0.0,
+    "EditorMesh": "Markerproducers/Mining/M_mining_sign_700x50x300",
+    "BoundingVolume": 10500.0
+  },
+  "name": "service_sign_700x50x300",
+  "internalEnabled": true,
+  "persistentID": 20
+}

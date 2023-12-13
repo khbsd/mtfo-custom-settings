@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Execute writing sequence between linked terminals",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Exécutez la séquence d'écriture entre les terminaux connectés",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Eseguire sequenza di scrittura tra terminali collegati",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Führen Sie eine Schreibsequenz zwischen verbundenen Terminals aus.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Ejecuta la secuencia escrita entre terminales vinculados.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Запустите цикл записи между связанными терминалами.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Executar sequência de gravação entre os terminais vinculados",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Wykonaj sekwencję zapisu między połączonymi terminalami",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リンクされた端末間で書き込みシーケンスを実行しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "연동된 터미널 사이에서 작성 절차 실시",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "在連結的終端之間執行撰寫序列",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "在链接的终端之间执行书写序列",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Warden.Objective.TimedTerminal_Verify_Header_R8C1",
+  "internalEnabled": true,
+  "persistentID": 2824941438
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Waiting for verification process host response..",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Réponse de l’hôte de vérification du processus en attente...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "In attesa di risposta dall'host del processo di verifica.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Warte auf Antwort des Verifizierungsprozess-Hosts …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Esperando respuesta del host del proceso de verificación...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Ожидание ответа хоста верификации...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Aguardando resposta do host do processo de verificação..",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Oczekiwanie na odpowiedź hosta procedury weryfikacji…",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ホスト応答の認証処理を待機中...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "승인 처리 호스트 응답 대기 중...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "正在等待驗證過程主機回應……",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "正在等待验证过程主机响应……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.Terminal.TimedTerminalSequenceVerify_Waiting",
+  "internalEnabled": true,
+  "persistentID": 2960936823
+}

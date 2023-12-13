@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Door to ZONE 40 unlocked. Proceed with main objective.",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Porte vers la ZONE\u00A040 déverrouillée. Continuez vers l'objectif principal.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Porta per ZONE 40 sbloccata. Procedere con l'obiettivo principale.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Tür zu ZONE 40 entriegelt. Fahren Sie mit dem Primärziel fort.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "La puerta a la ZONE 40 está desbloqueada. Continuar con el objetivo principal.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Дверь в ZONE 40 разблокирована. Продолжите выполнение главной цели.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Porta para a ZONE 40 destrancada. Prossiga com o objetivo principal.",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Drzwi do strefy 40 [ZONE_40] odblokowane. Kontynuuj realizację celu głównego.",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "ZONE 40へのドアのロック解除。主目標を遂行せよ。",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "ZONE 40 문이 개방됐습니다. 주요 목표로 이동하세요.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "通往ZONE 40的門已解鎖。繼續執行主要目標。",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "通往ZONE 40的门已解锁。继续执行主要目标。",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 6,
+  "ImportVersion": 6,
+  "name": "LevelLayoutData.ObjectiveUpdate_R8D1_07",
+  "internalEnabled": true,
+  "persistentID": 3229705099
+}

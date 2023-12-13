@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "unknown",
+  "Description": "A summary of the player's medical status. I.e. \"Medical status: unknown.\"",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "inconnu",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Sconosciuto",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "unbekannt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Desconocido",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "нет данных",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "desconhecido",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "nieznany",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "不明",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "알 수 없음",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "未知",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "未知",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ExpeditionSuccessPage.MentalStatusUnknown",
+  "internalEnabled": true,
+  "persistentID": 912
+}

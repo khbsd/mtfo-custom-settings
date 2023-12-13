@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Page Down",
+  "Description": "A keyboard key.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Page bas",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Pag Giù",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Seite nach unten",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Av Pág",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "Page Down",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "Page Down键",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "MainMenu.Settings.Keybinding.PageDown",
+  "internalEnabled": true,
+  "persistentID": 225
+}

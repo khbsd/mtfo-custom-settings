@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Proceed to collect the DNA sample from <color=orange>[ITEM_SERIAL]</color>",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Récupérez l'échantillon d'ADN sur <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Procedere con raccolta del campione di DNA da <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sammeln Sie die DNA-Probe von <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Avanza para recoger la muestra de ADN del objeto <color=orange>[ITEM_SERIAL]</color>.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Извлеките образец ДНК из предмета (<color=orange>[ITEM_SERIAL]</color>).",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Prossiga para coletar a amostra de DNA de <color=orange>[ITEM_SERIAL]</color>",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Zbierz próbkę DNA z <color=orange>[ITEM_SERIAL]</color>",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "先へ進んで <color=orange>[ITEM_SERIAL]</color> からDNAサンプルを回収しろ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "<color=orange>[ITEM_SERIAL]</color>에서 DNA 샘플을 확보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "繼續收集<color=orange>[ITEM_SERIAL]</color>的DNA樣本",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "继续从<color=orange>[ITEM_SERIAL]</color>收集DNA样本",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Interact_R7B3",
+  "internalEnabled": true,
+  "persistentID": 1302567361
+}

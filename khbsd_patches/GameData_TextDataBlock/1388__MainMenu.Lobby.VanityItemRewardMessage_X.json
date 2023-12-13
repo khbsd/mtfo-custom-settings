@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "You have been rewarded with a {0} called '{1}'",
+  "Description": "A text that informs the player that the last expedition/mission rewarded them with an item of typ {0} and is called {1}",
+  "CharacterMetaData": 2,
+  "French": {
+    "Translation": "Vous avez reçu l'objet {0} nommé\u00A0{1}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Hai ricevuto un oggetto {0} chiamato \"{1}\"",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Sie wurden mit „{1}“ vom Typ {0} belohnt",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Has recibido:\u00A0{0} (llamado «{1}»)",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Вы получаете награду типа {0}: «{1}»",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Você recebeu uma recompensa: {0} \"{1}\"",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Otrzymujesz przedmiot: {0} „{1}”",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "{0} （{1}）を入手した",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "\"{1}\" {0} 아이템을 보상으로 받았습니다.",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "你獲得了一件{0}：「{1}」",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "你已获得一件{0}“{1}”",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.Lobby.VanityItemRewardMessage_X",
+  "internalEnabled": true,
+  "persistentID": 1388
+}

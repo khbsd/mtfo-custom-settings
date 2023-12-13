@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Say to {0}",
+  "Description": "The header of the Communication List. {0} is either the name of another player or the word 'All'.",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Parler à {0}",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Parla a {0}",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "An {0}",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Hablar a {0}",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Сказать: {0}",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Dizer para {0}",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Powiedz do: {0}",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "発言先： {0}",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "{0}에게 말하기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "對{0}說",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "对话{0}",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "InGame.CommunicationList.Header.Say_to_X",
+  "internalEnabled": true,
+  "persistentID": 1269
+}

@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "DISABLE SECURITY BREACH",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "DÉSACTIVEZ LA FAILLE DE SÉCURITÉ",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "DISABLE SECURITY BREACH",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "SICHERHEITSLÜCKE BESEITIGEN",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "DESACTIVA LA BRECHA DE SEGURIDAD",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "ОТКЛЮЧИТЕ СИГНАЛ О НАРУШЕНИИ БЕЗОПАСНОСТИ",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "DESATIVAR A VIOLAÇÃO DE SEGURANÇA",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "WYŁĄCZ NARUSZENIE BEZPIECZEŃSTWA",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "DISABLE SECURITY BREACH",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "DISABLE SECURITY BREACH",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "關閉安全入侵警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "关闭安全侵入警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "WardenObjectiveData.Empty.R8B2_L1.Zone6.SubObjective_Header",
+  "internalEnabled": true,
+  "persistentID": 4107044315
+}

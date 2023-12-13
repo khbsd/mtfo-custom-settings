@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "I'll take...",
+  "Description": "Short title of a dialog option the player can choose to speak.",
+  "CharacterMetaData": 4,
+  "French": {
+    "Translation": "Je vais prendre...",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Io prendo...",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Ich nehme …",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Me ocupo...",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "На мне...",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Deixa comigo...",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Biorę...",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "任せろ...",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "내가 맡지...",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "我來對付…",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "我来处理……",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "PlayerDialogData.CommunicationList.Ill_Take",
+  "internalEnabled": true,
+  "persistentID": 1481
+}

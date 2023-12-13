@@ -1,0 +1,26 @@
+{
+  "General": {
+    "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Receivers/Receiver_Revolver_1_GripAlign.prefab",
+    "GearCategoryFilter": 0,
+    "AssetBundle": 30,
+    "BundleShard": 4
+  },
+  "Aligns": [
+    {
+      "AlignType": 6,
+      "AlignName": "Receiver_Sight"
+    },
+    {
+      "AlignType": 5,
+      "AlignName": "Front_Flash"
+    },
+    {
+      "AlignType": 4,
+      "AlignName": "Receiver_Sight"
+    }
+  ],
+  "FireSequence": [],
+  "name": "Receiver_Revolver_1",
+  "internalEnabled": true,
+  "persistentID": 16
+}

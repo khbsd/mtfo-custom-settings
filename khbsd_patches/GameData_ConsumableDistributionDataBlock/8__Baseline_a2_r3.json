@@ -1,0 +1,29 @@
+{
+  "SpawnsPerZone": 4,
+  "ChanceToSpawnInResourceContainer": 0.7,
+  "SpawnData": [
+    {
+      "ItemID": 30,
+      "Weight": 3.0
+    },
+    {
+      "ItemID": 114,
+      "Weight": 10.0
+    },
+    {
+      "ItemID": 115,
+      "Weight": 4.0
+    },
+    {
+      "ItemID": 116,
+      "Weight": 6.0
+    },
+    {
+      "ItemID": 139,
+      "Weight": 4.0
+    }
+  ],
+  "name": "Baseline_a2_r3",
+  "internalEnabled": true,
+  "persistentID": 8
+}

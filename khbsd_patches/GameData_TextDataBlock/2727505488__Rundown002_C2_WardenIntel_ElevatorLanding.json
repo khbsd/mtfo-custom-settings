@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "//:ERR _A#26: SECURITY SYSTEM MALFUNCTION - ILLEGAL INSTRUCTION AT 548ca92f1d79e2dc - ALARM",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "//\u00A0:ERR _A#26\u00A0: DYSFONCTIONNEMENT DU SYSTÈME DE SÉCURITÉ - INSTRUCTION ERRONNÉE À 548ca92f1d79e2dc - ALERTE",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "//:ERR _A#26: ANOMALIA SISTEMA DI SICUREZZA - ISTRUZIONI ILLEGALI A 548ca92f1d79e2dc - ALLARME",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "//:FEH _A#26: FEHLFUNKTION DES SICHERHEITSSYSTEMS – UNGÜLTIGER BEFEHL BEI 548ca92f1d79e2dc – ALARM",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "//:ERR _A#26: FALLO EN EL SISTEMA DE SEGURIDAD. INSTRUCCIÓN ILEGAL EN 548ca92f1d79e2dc. ALARMA.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "//:ОШИ _А№26: ОШИБКА СИСТЕМЫ БЕЗОПАСНОСТИ. НЕДОПУСТИМАЯ КОМАНДА 548ca92f1d79e2dc. ТРЕВОГА.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "//:ERR _A#26: FALHA NO SISTEMA DE SEGURANÇA — INSTRUÇÃO ILEGAL EM 548ca92f1d79e2dc — ALARME",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "//:BŁĄ _A#26: USTERKA SYSTEMU ZABEZPIECZEŃ – NIEDOZWOLONE POLECENIE PRZY 548ca92f1d79e2dc – ALARM",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "//:エラ _A#26: セキュリティシステム異常 - 548ca92f1d79e2dcで不正な命令 - 警報",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "//:ERR _A#26: 보안 시스템 고장 - 548ca92f1d79e2dc에 이상 지침 - 경보",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "//:ERR _A#26：安全系統故障 - 不正確的指令548ca92f1d79e2dc - 警報",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "//:ERR _A#26: 安全系统故障 - 548ca92f1d79e2dc非法指示 - 警报",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "Rundown002_C2_WardenIntel_ElevatorLanding",
+  "internalEnabled": true,
+  "persistentID": 2727505488
+}

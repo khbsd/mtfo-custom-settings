@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Route electrical power from the reactor to quadrant 038H",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Acheminez le courant électrique du réacteur vers le quadrant 038H.",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Instradare l'energia elettrica dal reattore al quadrante 038H",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Leiten Sie Strom vom Reaktor zum Quadranten 038H.",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Dirige la energía eléctrica del reactor al cuadrante 038H.",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Подайте электропитание от реактора в сектор 038H.",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Roteie a energia elétrica do reator até o quadrante 038H",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Przekieruj zasilanie z reaktora do kwadrantu 038H",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "リアクターの電力を四分円038Hに通せ",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "반응로에서 사분면 038H로 전력 전송",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "將反應器的電力導引至038H象限",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "将电力从反应堆输送至象限038H",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "WardenObjectiveData.SpecialTerminalCommand_R4D1_L2.SpecialTerminalCommandDesc",
+  "internalEnabled": true,
+  "persistentID": 2071630298
+}

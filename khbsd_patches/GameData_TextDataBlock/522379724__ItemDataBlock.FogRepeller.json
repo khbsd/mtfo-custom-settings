@@ -1,0 +1,56 @@
+{
+  "SkipLocalization": false,
+  "MachineTranslation": false,
+  "English": "Fog Repeller",
+  "Description": "",
+  "CharacterMetaData": 1,
+  "French": {
+    "Translation": "Répulsif à brouillard",
+    "ShouldTranslate": false
+  },
+  "Italian": {
+    "Translation": "Anti-nebbia",
+    "ShouldTranslate": false
+  },
+  "German": {
+    "Translation": "Nebelzerstreuer",
+    "ShouldTranslate": false
+  },
+  "Spanish": {
+    "Translation": "Repelente de niebla",
+    "ShouldTranslate": false
+  },
+  "Russian": {
+    "Translation": "Антидым",
+    "ShouldTranslate": false
+  },
+  "Portuguese_Brazil": {
+    "Translation": "Repulsor de névoa",
+    "ShouldTranslate": false
+  },
+  "Polish": {
+    "Translation": "Środek przeciwmgielny",
+    "ShouldTranslate": false
+  },
+  "Japanese": {
+    "Translation": "フォグリペラー",
+    "ShouldTranslate": false
+  },
+  "Korean": {
+    "Translation": "안개 제거기",
+    "ShouldTranslate": false
+  },
+  "Chinese_Traditional": {
+    "Translation": "驅霧器",
+    "ShouldTranslate": false
+  },
+  "Chinese_Simplified": {
+    "Translation": "驱雾器",
+    "ShouldTranslate": false
+  },
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "ItemDataBlock.FogRepeller",
+  "internalEnabled": true,
+  "persistentID": 522379724
+}
