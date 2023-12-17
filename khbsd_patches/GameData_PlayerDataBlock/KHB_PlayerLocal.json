@@ -463,8 +463,8 @@
     "resetRestingTimerOutOfCombat": false
   },
   "StaminaRunCost": {
-    "baseStaminaCostInCombat": 0.01666,
-    "baseStaminaCostOutOfCombat": 0.00666,
+    "baseStaminaCostInCombat": 0,
+    "baseStaminaCostOutOfCombat": 0,
     "resetRestingTimerInCombat": true,
     "resetRestingTimerOutOfCombat": true
   },
