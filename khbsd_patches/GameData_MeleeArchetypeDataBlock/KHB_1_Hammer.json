@@ -21,7 +21,7 @@
   "EvaluateHoldBeforeAttack": false,
   "PlayImpactEffect": true,
   "AllowRunningWhenCharging": true,
-  "PlayerRunSpeedMultiWhileCharging": 1.0,
+  "PlayerRunSpeedMultiWhileCharging": 0.8,
   "MeleeAnimationSet": 1,
   "MeleeSFXSet": 1,
   "ChargedAttackStaminaCost": {
