@@ -257,7 +257,53 @@
         }
       ],
       "Conditions": []
+    },
+    {
+      "PublicName": "whammogunnoblammo",
+      "Description": "",
+      "MainEffectType": "Damage",
+      "ImplantCategory": "Aggressive",
+      "Effects": [
+        {
+          "Effect": "InitialAmmoStandard",
+          "PublicShortName": "RAm-I",
+          "PublicName": "Main ammo",
+          "Description": "Subject will start off with more ammo for their main weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their main weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.55
+        },
+        {
+          "Effect": "InitialAmmoSpecial",
+          "PublicShortName": "SAm-I",
+          "PublicName": "Special ammo",
+          "Description": "Subject will start off with more ammo for their special weapon.",
+          "DescriptionNegative": "Subject will start off with less ammo for their special weapon.",
+          "EffectCategory": "InitialState",
+          "Value": 1.55
+        },
+        {
+          "Effect": "InitialAmmoTool",
+          "PublicShortName": "TAm-I",
+          "PublicName": "Tool ammo",
+          "Description": "Subject will start off with more ammo for their tool.",
+          "DescriptionNegative": "Subject will start off with less ammo for their tool.",
+          "EffectCategory": "InitialState",
+          "Value": 1.55
+        },
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "R_Egg_C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is engorged.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": []
     }
+    
 
   ]
 }
