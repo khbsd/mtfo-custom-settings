@@ -1,6 +1,6 @@
 {
-  "PublicName": 753,
-  "Description": 754,
+  "PublicName": "Shitgun Semi v2",
+  "Description": "big ole pile o piss",
   "FireMode": 0,
   "RecoilDataID": 6,
   "DamageBoosterEffect": 58,
@@ -19,9 +19,9 @@
   },
   "StaggerDamageMulti": 1.0,
   "PrecisionDamageMulti": 1.0,
-  "DefaultClipSize": 8,
+  "DefaultClipSize": 10,
   "DefaultReloadTime": 3.0,
-  "CostOfBullet": 11.0,
+  "CostOfBullet": 3.67,
   "ShotDelay": 0.6,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {

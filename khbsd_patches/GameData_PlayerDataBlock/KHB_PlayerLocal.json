@@ -1,14 +1,14 @@
 {
-  "health": 50,
+  "health": 40,
   "healthRegenStartDelayAfterDamage": 5.0,
   "healthRegenRelMax": 0.5,
   "healthRegenDelay": 1.0,
   "healthRegenPerSecond": 0.2,
   "friendlyFireMulti": 0,
-  "fallDamageMinHeight": 4.0,
+  "fallDamageMinHeight": 6.0,
   "fallDamageMaxHeight": 20.0,
-  "fallDamageMin": 0,
-  "fallDamageMax": 0,
+  "fallDamageMin": 1,
+  "fallDamageMax": 8,
   "nanoswarmShieldDamageMultiplierCurve": {
     "keys": [
       {
