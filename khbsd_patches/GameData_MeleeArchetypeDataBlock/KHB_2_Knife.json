@@ -1,7 +1,7 @@
 {
   "PublicName": "Knife",
   "NoiseLevel": 0,
-  "ChargedAttackDamage": 8.5,
+  "ChargedAttackDamage": 8,
   "LightAttackDamage": 4,
   "LightStaggerMulti": 1.0,
   "ChargedStaggerMulti": 1.05,
@@ -10,7 +10,7 @@
   "LightEnvironmentMulti": 1.0,
   "ChargedEnvironmentMulti": 1.5,
   "LightBackstabberMulti": 1.75,
-  "ChargedBackstabberMulti": 2.5,
+  "ChargedBackstabberMulti": 2,
   "LightSleeperMulti": 1.3,
   "ChargedSleeperMulti": 2,
   "SkipLimbDestruction": false,
