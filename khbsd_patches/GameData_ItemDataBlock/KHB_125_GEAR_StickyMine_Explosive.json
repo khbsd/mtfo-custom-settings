@@ -18,7 +18,7 @@
   "GUIShowAmmoInfinite": false,
   "canMoveQuick": true,
   "BlockToolAmmoRefill": false,
-  "ClassAmmoCostFactor": 16.67,
+  "ClassAmmoCostFactor": 8.35,
   "ConsumableAmmoMin": 0,
   "ConsumableAmmoMax": 0,
   "audioEventEquip": "MedFreezeEquip",
