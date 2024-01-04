@@ -15,15 +15,6 @@
           "DescriptionNegative": "Subject will find hacking puzzles harder to complete.",
           "EffectCategory": "Health",
           "Value": 1.99
-        },
-        {
-          "Effect": "RegenerationCap",
-          "PublicShortName": "R_Egg_C",
-          "PublicName": "Regen. cap",
-          "Description": "Subject\u0027s health regeneration cap is engorged.",
-          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
-          "EffectCategory": "InitialState",
-          "Value": 1.2
         }
       ],
       "Conditions": []
