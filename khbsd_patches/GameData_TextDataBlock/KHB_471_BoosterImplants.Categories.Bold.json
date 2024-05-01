@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "Loading...",
-  "Description": "",
+  "English": "Spole",
+  "Description": "\"Bold\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient is described as \"bold\", indicating that it's rather potent/powerful.",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "Chargement...",
+    "Translation": "Puissant",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "Caricamento...",
+    "Translation": "Intenso",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "Wird geladen\u00A0...",
+    "Translation": "Ausgeprägt",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "Cargando...",
+    "Translation": "Potente",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "Загрузка...",
+    "Translation": "Мощный",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "Carregando...",
+    "Translation": "Audaz",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "Ładowanie...",
+    "Translation": "Mocny",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "ロード中...",
+    "Translation": "強化",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "불러오는 중...",
+    "Translation": "증폭",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "載入中……",
+    "Translation": "加重",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "加载中……",
+    "Translation": "高效",
     "ShouldTranslate": false
   },
   "ExportVersion": 1,
   "ImportVersion": 1,
-  "name": "IntroPage.Loading",
+  "name": "BoosterImplants.Categories.Bold",
   "internalEnabled": true,
-  "persistentID": 43
+  "persistentID": 471
 }

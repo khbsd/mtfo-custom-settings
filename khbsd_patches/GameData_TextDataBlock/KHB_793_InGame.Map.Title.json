@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "Aggressive",
-  "Description": "\"Aggressive\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient is \"aggressive\", which makes it very potent/powerful and potentially dangerous to ingest.",
+  "English": "SPLAP",
+  "Description": "A headline for a map of the structure the player is currently exploring.",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "Agressif",
+    "Translation": "CARTE",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "Aggressivo",
+    "Translation": "MAPPA",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "Aggressiv",
+    "Translation": "KARTE",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "Agresivo",
+    "Translation": "MAPA",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "Агрессивный",
+    "Translation": "КАРТА",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "Agressivo",
+    "Translation": "MAPA",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "Agresywny",
+    "Translation": "MAPA",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "激烈",
+    "Translation": "マップ",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "공격적",
+    "Translation": "맵",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "侵略性",
+    "Translation": "地圖",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "特效",
+    "Translation": "地图",
     "ShouldTranslate": false
   },
   "ExportVersion": 1,
   "ImportVersion": 1,
-  "name": "BoosterImplants.Categories.Aggressive",
+  "name": "InGame.Map.Title",
   "internalEnabled": true,
-  "persistentID": 472
+  "persistentID": 793
 }

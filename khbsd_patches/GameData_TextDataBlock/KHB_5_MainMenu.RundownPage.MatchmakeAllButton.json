@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "START GAME",
-  "Description": "",
+  "English": "SnatchSnake",
+  "Description": "We have removed the [ALPHA] part from MATCHMAKE [ALPHA], so please make sure all localizations are still correct.",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "COMMENCER LA PARTIE",
+    "Translation": "RECHERCHE DE MATCH",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "AVVIA GIOCO",
+    "Translation": "ABBINA",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "SPIEL STARTEN",
+    "Translation": "SPIELERSUCHE",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "INICIAR JUEGO",
+    "Translation": "EMPAREJAR",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "НАЧАТЬ",
+    "Translation": "ПОДБОР КОМАНДЫ",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "INICIAR JOGO",
+    "Translation": "BUSCA-PARTIDA",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "ROZPOCZNIJ GRĘ",
+    "Translation": "WYSZUKAJ GRĘ",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "ゲームを開始",
+    "Translation": "マッチメイク",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "게임 시작",
+    "Translation": "매치메이크",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "開始遊戲",
+    "Translation": "配對",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "开始游戏",
+    "Translation": "匹配",
     "ShouldTranslate": false
   },
-  "ExportVersion": 1,
-  "ImportVersion": 1,
-  "name": "IntroPage.StartGameButton",
+  "ExportVersion": 2,
+  "ImportVersion": 2,
+  "name": "MainMenu.RundownPage.MatchmakeAllButton",
   "internalEnabled": true,
-  "persistentID": 55
+  "persistentID": 5
 }

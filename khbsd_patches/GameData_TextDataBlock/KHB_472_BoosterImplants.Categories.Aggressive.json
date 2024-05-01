@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "Muted",
-  "Description": "\"Muted\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient has been \"muted\", which makes it slightly less effective.",
+  "English": "big mad poopy diaper",
+  "Description": "\"Aggressive\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient is \"aggressive\", which makes it very potent/powerful and potentially dangerous to ingest.",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "Atténué",
+    "Translation": "Agressif",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "Blando",
+    "Translation": "Aggressivo",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "Stumm",
+    "Translation": "Aggressiv",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "Silenciado",
+    "Translation": "Agresivo",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "Слабый",
+    "Translation": "Агрессивный",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "Mudo",
+    "Translation": "Agressivo",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "Stłumiony",
+    "Translation": "Agresywny",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "抑制",
+    "Translation": "激烈",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "완화",
+    "Translation": "공격적",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "緩和",
+    "Translation": "侵略性",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "低效",
+    "Translation": "特效",
     "ShouldTranslate": false
   },
   "ExportVersion": 1,
   "ImportVersion": 1,
-  "name": "BoosterImplants.Categories.Muted",
+  "name": "BoosterImplants.Categories.Aggressive",
   "internalEnabled": true,
-  "persistentID": 470
+  "persistentID": 472
 }

@@ -6,11 +6,11 @@
     "enemyObjMinScale": 0.25,
     "maxObjs": 20,
     "maxCourseNodeDistance": 3,
-    "scanDelay": 1.5,
+    "scanDelay": 0.375,
     "pulseDuration": 0.5,
     "posDelay": 0.85,
     "tagDuration": 1,
-    "rechargeDuration": 8.5,
+    "rechargeDuration": 2.125,
     "ItemID": 28,
     "name": "Default",
     "internalEnabled": false

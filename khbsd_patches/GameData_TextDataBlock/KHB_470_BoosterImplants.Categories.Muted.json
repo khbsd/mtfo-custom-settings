@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "MAP",
-  "Description": "A headline for a map of the structure the player is currently exploring.",
+  "English": "mpreg",
+  "Description": "\"Muted\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient has been \"muted\", which makes it slightly less effective.",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "CARTE",
+    "Translation": "Atténué",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "MAPPA",
+    "Translation": "Blando",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "KARTE",
+    "Translation": "Stumm",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "MAPA",
+    "Translation": "Silenciado",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "КАРТА",
+    "Translation": "Слабый",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "MAPA",
+    "Translation": "Mudo",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "MAPA",
+    "Translation": "Stłumiony",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "マップ",
+    "Translation": "抑制",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "맵",
+    "Translation": "완화",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "地圖",
+    "Translation": "緩和",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "地图",
+    "Translation": "低效",
     "ShouldTranslate": false
   },
   "ExportVersion": 1,
   "ImportVersion": 1,
-  "name": "InGame.Map.Title",
+  "name": "BoosterImplants.Categories.Muted",
   "internalEnabled": true,
-  "persistentID": 793
+  "persistentID": 470
 }

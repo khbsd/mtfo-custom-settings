@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "MATCHMAKE",
-  "Description": "We have removed the [ALPHA] part from MATCHMAKE [ALPHA], so please make sure all localizations are still correct.",
+  "English": "Sploading...",
+  "Description": "",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "RECHERCHE DE MATCH",
+    "Translation": "Chargement...",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "ABBINA",
+    "Translation": "Caricamento...",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "SPIELERSUCHE",
+    "Translation": "Wird geladen\u00A0...",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "EMPAREJAR",
+    "Translation": "Cargando...",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "ПОДБОР КОМАНДЫ",
+    "Translation": "Загрузка...",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "BUSCA-PARTIDA",
+    "Translation": "Carregando...",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "WYSZUKAJ GRĘ",
+    "Translation": "Ładowanie...",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "マッチメイク",
+    "Translation": "ロード中...",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "매치메이크",
+    "Translation": "불러오는 중...",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "配對",
+    "Translation": "載入中……",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "匹配",
+    "Translation": "加载中……",
     "ShouldTranslate": false
   },
-  "ExportVersion": 2,
-  "ImportVersion": 2,
-  "name": "MainMenu.RundownPage.MatchmakeAllButton",
+  "ExportVersion": 1,
+  "ImportVersion": 1,
+  "name": "IntroPage.Loading",
   "internalEnabled": true,
-  "persistentID": 5
+  "persistentID": 43
 }

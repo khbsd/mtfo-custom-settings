@@ -1,56 +1,56 @@
 {
   "SkipLocalization": false,
   "MachineTranslation": false,
-  "English": "Bold",
-  "Description": "\"Bold\" in this instance is a description of the effect of a chemical compound/medical drug. Its active ingredient is described as \"bold\", indicating that it's rather potent/powerful.",
+  "English": "SQUART GAME",
+  "Description": "",
   "CharacterMetaData": 1,
   "French": {
-    "Translation": "Puissant",
+    "Translation": "COMMENCER LA PARTIE",
     "ShouldTranslate": false
   },
   "Italian": {
-    "Translation": "Intenso",
+    "Translation": "AVVIA GIOCO",
     "ShouldTranslate": false
   },
   "German": {
-    "Translation": "Ausgeprägt",
+    "Translation": "SPIEL STARTEN",
     "ShouldTranslate": false
   },
   "Spanish": {
-    "Translation": "Potente",
+    "Translation": "INICIAR JUEGO",
     "ShouldTranslate": false
   },
   "Russian": {
-    "Translation": "Мощный",
+    "Translation": "НАЧАТЬ",
     "ShouldTranslate": false
   },
   "Portuguese_Brazil": {
-    "Translation": "Audaz",
+    "Translation": "INICIAR JOGO",
     "ShouldTranslate": false
   },
   "Polish": {
-    "Translation": "Mocny",
+    "Translation": "ROZPOCZNIJ GRĘ",
     "ShouldTranslate": false
   },
   "Japanese": {
-    "Translation": "強化",
+    "Translation": "ゲームを開始",
     "ShouldTranslate": false
   },
   "Korean": {
-    "Translation": "증폭",
+    "Translation": "게임 시작",
     "ShouldTranslate": false
   },
   "Chinese_Traditional": {
-    "Translation": "加重",
+    "Translation": "開始遊戲",
     "ShouldTranslate": false
   },
   "Chinese_Simplified": {
-    "Translation": "高效",
+    "Translation": "开始游戏",
     "ShouldTranslate": false
   },
   "ExportVersion": 1,
   "ImportVersion": 1,
-  "name": "BoosterImplants.Categories.Bold",
+  "name": "IntroPage.StartGameButton",
   "internalEnabled": true,
-  "persistentID": 471
+  "persistentID": 55
 }
