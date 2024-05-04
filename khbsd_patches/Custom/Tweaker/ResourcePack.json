@@ -2,10 +2,10 @@
   "ObjectiveResourceModifiers": [
     {
       "DataBlockId": 34,
-      "ammoStandardMulti": 1.5,
-      "ammoSpecialMulti": 1.5,
-      "ammoClassMulti": 1.5,
-      "healthAmountMulti": 1.5,
+      "ammoStandardMulti": 2,
+      "ammoSpecialMulti": 2,
+      "ammoClassMulti": 2,
+      "healthAmountMulti": 2,
       "name": "Default",
       "internalEnabled": false
     }
