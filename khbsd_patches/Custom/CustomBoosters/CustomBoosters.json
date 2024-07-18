@@ -45,6 +45,31 @@
       ]
     },
     {
+      "PublicName": "body heat heals kaya",
+      "Description": "",
+      "MainEffectType": "Health",
+      "ImplantCategory": "Muted",
+      "Effects": [
+        {
+          "Effect": "RegenerationCap",
+          "PublicShortName": "S_Egg_C",
+          "PublicName": "Regen. cap",
+          "Description": "Subject\u0027s health regeneration cap is engorged.",
+          "DescriptionNegative": "Subject\u0027s health regeneration cap is lowered.",
+          "EffectCategory": "InitialState",
+          "Value": 1.2
+        }
+      ],
+      "Conditions": [
+        {
+          "Condition": "IsNextToTeammate",
+          "PublicShortName": "",
+          "PublicName": "Human Proximity",
+          "Description": "Be within 7m of a human."
+        }
+      ]
+    },
+    {
       "PublicName": "ooo i love loads",
       "Description": "",
       "MainEffectType": "Health",

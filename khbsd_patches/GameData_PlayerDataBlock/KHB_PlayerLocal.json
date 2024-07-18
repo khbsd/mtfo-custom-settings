@@ -1,9 +1,9 @@
 {
-  "health": 40,
+  "health": 60,
   "healthRegenStartDelayAfterDamage": 5.0,
   "healthRegenRelMax": 0.5,
   "healthRegenDelay": 1.0,
-  "healthRegenPerSecond": 0.2,
+  "healthRegenPerSecond": 0.3,
   "friendlyFireMulti": 0,
   "fallDamageMinHeight": 6.0,
   "fallDamageMaxHeight": 20.0,
