@@ -2,7 +2,7 @@
   "PublicName": 2193357087,
   "Description": 709337157,
   "FireMode": 0,
-  "RecoilDataID": 47,
+  "RecoilDataID": 12,
   "DamageBoosterEffect": 50,
   "Damage": 27.1,
   "DamageFalloff": {
@@ -19,9 +19,9 @@
   },
   "StaggerDamageMulti": 1.0,
   "PrecisionDamageMulti": 0.8,
-  "DefaultClipSize": 12,
+  "DefaultClipSize": 16,
   "DefaultReloadTime": 2.2,
-  "CostOfBullet": 4.5,
+  "CostOfBullet": 2.25,
   "ShotDelay": 0.225,
   "ShellCasingSize": 1.5,
   "ShellCasingSpeedRange": {
