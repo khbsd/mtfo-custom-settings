@@ -1,13 +1,13 @@
 {
-  "PublicName": 2193357087,
+  "PublicName": "High Calorie Pisstol",
   "Description": 709337157,
   "FireMode": 0,
-  "RecoilDataID": 19,
+  "RecoilDataID": 51,
   "DamageBoosterEffect": 50,
-  "Damage": 23,
+  "Damage": 26.3,
   "DamageFalloff": {
     "x": 8.0,
-    "y": 65.0,
+    "y": 75.0,
     "normalized": {
       "x": 0.122155204,
       "y": 0.992511034,
@@ -18,11 +18,11 @@
     "sqrMagnitude": 4289.0
   },
   "StaggerDamageMulti": 1.0,
-  "PrecisionDamageMulti": 0.8,
-  "DefaultClipSize": 16,
+  "PrecisionDamageMulti": 0.78,
+  "DefaultClipSize": 12,
   "DefaultReloadTime": 2.2,
-  "CostOfBullet": 2.25,
-  "ShotDelay": 0.225,
+  "CostOfBullet": 1.125,
+  "ShotDelay": 0.375,
   "ShellCasingSize": 1.5,
   "ShellCasingSpeedRange": {
     "x": 3.0,

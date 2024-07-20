@@ -4,7 +4,7 @@
   "FireMode": 0,
   "RecoilDataID": 12,
   "DamageBoosterEffect": 64,
-  "Damage": 6.2,
+  "Damage": 6.1,
   "DamageFalloff": {
     "x": 23.0,
     "y": 85.0,
@@ -20,7 +20,7 @@
   "StaggerDamageMulti": 1.75,
   "PrecisionDamageMulti": 0.95,
   "DefaultClipSize": 45,
-  "DefaultReloadTime": 1.9,
+  "DefaultReloadTime": 2,
   "CostOfBullet": 0.9,
   "ShotDelay": 0.16,
   "ShellCasingSize": 1.0,
