@@ -1,29 +1,29 @@
 {
-  "PublicName": 721,
-  "Description": 722,
+  "PublicName": 2193357087,
+  "Description": 709337157,
   "FireMode": 0,
-  "RecoilDataID": 12,
-  "DamageBoosterEffect": 64,
-  "Damage": 5.08,
+  "RecoilDataID": 47,
+  "DamageBoosterEffect": 50,
+  "Damage": 27.1,
   "DamageFalloff": {
-    "x": 22.0,
-    "y": 80.0,
+    "x": 8.0,
+    "y": 65.0,
     "normalized": {
-      "x": 0.265156478,
-      "y": 0.964205444,
+      "x": 0.122155204,
+      "y": 0.992511034,
       "magnitude": 1.0,
-      "sqrMagnitude": 1.00000012
+      "sqrMagnitude": 1.0
     },
-    "magnitude": 82.96987,
-    "sqrMagnitude": 6884.0
+    "magnitude": 65.4904556,
+    "sqrMagnitude": 4289.0
   },
-  "StaggerDamageMulti": 1.75,
-  "PrecisionDamageMulti": 0.8667,
-  "DefaultClipSize": 14,
-  "DefaultReloadTime": 1.9,
-  "CostOfBullet": 3.8,
-  "ShotDelay": 0.16,
-  "ShellCasingSize": 1.0,
+  "StaggerDamageMulti": 1.0,
+  "PrecisionDamageMulti": 0.8,
+  "DefaultClipSize": 12,
+  "DefaultReloadTime": 2.2,
+  "CostOfBullet": 4.5,
+  "ShotDelay": 0.225,
+  "ShellCasingSize": 1.5,
   "ShellCasingSpeedRange": {
     "x": 3.0,
     "y": 5.0,
@@ -50,24 +50,24 @@
   },
   "PiercingBullets": false,
   "PiercingDamageCountLimit": 5,
-  "HipFireSpread": 1.0,
+  "HipFireSpread": 2.0,
   "AimSpread": 0.0,
-  "EquipTransitionTime": 0.45,
+  "EquipTransitionTime": 0.3,
   "EquipSequence": [
     {
       "TriggerTime": 0.0,
       "Type": 0,
-      "StringData": "Front_Rifle_equip_weaponmovement"
+      "StringData": "Front_Pistol_1_equip_weaponmovement"
     },
     {
       "TriggerTime": 2.0,
       "Type": 7
     }
   ],
-  "AimTransitionTime": 0.3,
+  "AimTransitionTime": 0.25,
   "AimSequence": [],
-  "BurstDelay": 0.0,
-  "BurstShotCount": 0,
+  "BurstDelay": 0.02,
+  "BurstShotCount": 3,
   "ShotgunBulletCount": 0,
   "ShotgunConeSize": 0,
   "ShotgunBulletSpread": 0,
@@ -91,7 +91,7 @@
   "Sentry_StaggerDamageTagMulti": 1.0,
   "Sentry_CostOfBulletTagMulti": 1.0,
   "Sentry_ShotDelayTagMulti": 1.0,
-  "name": "GEAR_Rifle_Semi",
+  "name": "GEAR_HighCal_Pistol",
   "internalEnabled": true,
-  "persistentID": 1
+  "persistentID": 80
 }
