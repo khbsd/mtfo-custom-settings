@@ -19,10 +19,10 @@
   },
   "StaggerDamageMulti": 1.0,
   "PrecisionDamageMulti": 0.78,
-  "DefaultClipSize": 12,
-  "DefaultReloadTime": 2.2,
-  "CostOfBullet": 1.125,
-  "ShotDelay": 0.375,
+  "DefaultClipSize": 16,
+  "DefaultReloadTime": 1.8,
+  "CostOfBullet": 0.5625,
+  "ShotDelay": 0.365,
   "ShellCasingSize": 1.5,
   "ShellCasingSpeedRange": {
     "x": 3.0,
@@ -48,11 +48,11 @@
     "magnitude": 5.83095169,
     "sqrMagnitude": 34.0
   },
-  "PiercingBullets": false,
-  "PiercingDamageCountLimit": 5,
-  "HipFireSpread": 2.0,
+  "PiercingBullets": true,
+  "PiercingDamageCountLimit": 2,
+  "HipFireSpread": 4.0,
   "AimSpread": 0.0,
-  "EquipTransitionTime": 0.3,
+  "EquipTransitionTime": 0.1,
   "EquipSequence": [
     {
       "TriggerTime": 0.0,
