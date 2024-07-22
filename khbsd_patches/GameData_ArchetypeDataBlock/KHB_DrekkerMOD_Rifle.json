@@ -4,7 +4,7 @@
   "FireMode": 0,
   "RecoilDataID": 12,
   "DamageBoosterEffect": 64,
-  "Damage": 6.1,
+  "Damage": 5.5,
   "DamageFalloff": {
     "x": 23.0,
     "y": 85.0,
@@ -18,10 +18,10 @@
     "sqrMagnitude": 6884.0
   },
   "StaggerDamageMulti": 1.75,
-  "PrecisionDamageMulti": 0.95,
+  "PrecisionDamageMulti": 1.0,
   "DefaultClipSize": 45,
   "DefaultReloadTime": 2,
-  "CostOfBullet": 0.9,
+  "CostOfBullet": 0.75,
   "ShotDelay": 0.16,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {
@@ -50,7 +50,7 @@
   },
   "PiercingBullets": true,
   "PiercingDamageCountLimit": 3,
-  "HipFireSpread": 1.0,
+  "HipFireSpread": 1.2,
   "AimSpread": 0.0,
   "EquipTransitionTime": 0.45,
   "EquipSequence": [
