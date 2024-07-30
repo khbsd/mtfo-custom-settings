@@ -4,7 +4,7 @@
   "FireMode": 2,
   "RecoilDataID": 34,
   "DamageBoosterEffect": 62,
-  "Damage": 3.51,
+  "Damage": 3.6,
   "DamageFalloff": {
     "x": 15.0,
     "y": 80.0,
@@ -50,7 +50,7 @@
   },
   "PiercingBullets": false,
   "PiercingDamageCountLimit": 5,
-  "HipFireSpread": 3.0,
+  "HipFireSpread": 2.5,
   "AimSpread": 0.0,
   "EquipTransitionTime": 0.6,
   "EquipSequence": [

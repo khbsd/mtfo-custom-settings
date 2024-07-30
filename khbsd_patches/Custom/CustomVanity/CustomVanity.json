@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Blank Helmet",
+    "VanityItemType": 0,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/BlankPart.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Blank Legs",
+    "VanityItemType": 2,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/BlankPart.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Blank Backpack",
+    "VanityItemType": 3,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/BlankPart.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Striker Wave",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/StrikerBody.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Striker Hibernate",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/StrikerBodyHibernate.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Shooter Wave",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/ShooterBody.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Shooter Hibernate",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/ShooterBodyHibernate.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Charger",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/ChargerBody.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Hybrid",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/HybridBody.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Tank",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomGear/TankBody.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Hallowed Striker",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/CustomZaero/HallowedStriker.prefab",
+    "InternalEnabled": true
+  },
+  {
+    "Name": "Kaya",
+    "VanityItemType": 1,
+    "Icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+    "VanityPrefab": "Assets/kaya/Prefabs/DevilWoman.prefab",
+    "InternalEnabled": true
+  }
+]
