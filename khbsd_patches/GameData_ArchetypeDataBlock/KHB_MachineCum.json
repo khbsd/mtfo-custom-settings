@@ -1,10 +1,10 @@
 {
   "PublicName": "MachineCum",
   "Description": 744,
-  "FireMode": 2,
+  "FireMode": 1.9,
   "RecoilDataID": 52,
   "DamageBoosterEffect": 62,
-  "Damage": 2.6,
+  "Damage": 2.2,
   "DamageFalloff": {
     "x": 15.0,
     "y": 80.0,
@@ -21,8 +21,8 @@
   "PrecisionDamageMulti": 0.85,
   "DefaultClipSize": 160,
   "DefaultReloadTime": 4.5,
-  "CostOfBullet": 0.4,
-  "ShotDelay": 0.030,
+  "CostOfBullet": 0.2,
+  "ShotDelay": 0.025,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {
     "x": 3.0,
