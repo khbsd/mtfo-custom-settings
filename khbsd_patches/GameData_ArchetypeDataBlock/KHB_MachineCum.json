@@ -19,9 +19,9 @@
   },
   "StaggerDamageMulti": 1.45,
   "PrecisionDamageMulti": 0.85,
-  "DefaultClipSize": 120,
-  "DefaultReloadTime": 4.0,
-  "CostOfBullet": 0.3,
+  "DefaultClipSize": 160,
+  "DefaultReloadTime": 4.5,
+  "CostOfBullet": 0.4,
   "ShotDelay": 0.030,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {
