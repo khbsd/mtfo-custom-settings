@@ -2,9 +2,9 @@
   "PublicName": "DeemerTriple Boist",
   "Description": 746,
   "FireMode": 1,
-  "RecoilDataID": 52,
+  "RecoilDataID": 53,
   "DamageBoosterEffect": 52,
-  "Damage": 2.9,
+  "Damage": 2.5,
   "DamageFalloff": {
     "x": 50.0,
     "y": 100.0,
@@ -18,10 +18,10 @@
     "sqrMagnitude": 12500.0
   },
   "StaggerDamageMulti": 1.05,
-  "PrecisionDamageMulti": 0.88,
-  "DefaultClipSize": 96,
-  "DefaultReloadTime": 1.8,
-  "CostOfBullet": 2,
+  "PrecisionDamageMulti": 0.89,
+  "DefaultClipSize": 72,
+  "DefaultReloadTime": 1.9,
+  "CostOfBullet": 0.6,
   "ShotDelay": 0.0425,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {
